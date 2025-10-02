@@ -3555,6 +3555,11 @@
             "firmware": "S721BXXU7CYI5/S721BOXM7CYI5/S721BXXU7CYI5",
             "md5": "844f51d083a688f1b26f4fda1e899426",
             "found_at": "2025-10-02T00:33:42.503882+00:00"
+          },
+          {
+            "firmware": "S721BXXS8CYJ1/S721BOXM8CYJ1/S721BXXS8CYJ1",
+            "md5": "ddc33d02978195ca8af93dde58bfaeec",
+            "found_at": "2025-10-02T12:36:26.241269+00:00"
           }
         ]
       }

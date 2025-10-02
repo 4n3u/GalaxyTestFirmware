@@ -77,10 +77,10 @@
         </div>
 
         <div class="row mb-3">
-            <div class="col-md-6">
+            <div class="col-6">
                 <input type="text" id="filter-model" class="form-control form-control-sm" placeholder="Filter by Model...">
             </div>
-            <div class="col-md-6">
+            <div class="col-6">
                 <input type="text" id="filter-csc" class="form-control form-control-sm" placeholder="Filter by CSC...">
             </div>
         </div>
@@ -200,7 +200,7 @@
                     <td data-label="CSC">${fw.csc}</td>
                     <td data-label="Latest Official">${fw.latest_official}</td>
                     <td data-label="Test Firmware">${fw.test_firmware}</td>
-                    <td data-label="Found At (UTC)">${fw.found_at.substring(0, 16).replace('T', ' ')}</td>
+                    <td data-label="Found At">${fw.found_at.substring(0, 16).replace('T', ' ')}</td>
                 </tr>`).join('');
 
             const tableContainer = document.getElementById('table-container');

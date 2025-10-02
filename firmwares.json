@@ -12236,6 +12236,11 @@
             "firmware": "G736BXXUAGYJ1/G736BOXMAGYJ1/G736BXXUAGYJ1",
             "md5": "106c05aeef4ca4ba19e17c8c8ef76901",
             "found_at": "2025-10-02T00:33:45.403875+00:00"
+          },
+          {
+            "firmware": "G736BXXUAGYJ2/G736BOXMAGYJ2/G736BXXUAGYJ2",
+            "md5": "fdf8af185e3a9a3545fab100a8d42bd2",
+            "found_at": "2025-10-02T14:23:16.637330+00:00"
           }
         ]
       }

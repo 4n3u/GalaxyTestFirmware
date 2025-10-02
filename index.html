@@ -128,8 +128,12 @@
                 document.getElementById('filter-model').addEventListener('input', filterAndRender);
                 document.getElementById('filter-csc').addEventListener('input', filterAndRender);
 
-                const generationTime = new Date().toISOString().slice(0, 19).replace('T', ' ') + ' UTC';
-                lastUpdatedSpan.innerHTML = `Last updated<br>${generationTime}`;
+                const lastModifiedHeader = response.headers.get('Last-Modified');
+                if (lastModifiedHeader) {
+                    const lastModifiedDate = new Date(lastModifiedHeader);
+                    const displayTime = lastModifiedDate.toISOString().slice(0, 16).replace('T', ' ') + ' UTC';
+                    lastUpdatedSpan.innerHTML = `Last updated<br>${displayTime}`;
+                }
 
             } catch (error) {
                 tableContainer.innerHTML = `<div class="alert alert-danger" role="alert">Failed to load firmware data. Please check if firmwares.json is available and valid.</div>`;

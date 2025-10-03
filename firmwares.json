@@ -15261,6 +15261,11 @@
             "firmware": "G990U1UEUJIYIB/G990U1OYMJIYIB/G990U1UEUJIYIB",
             "md5": "6a89cd30297b4f73dafe15a4ec145b01",
             "found_at": "2025-10-02T00:33:58.883269+00:00"
+          },
+          {
+            "firmware": "G990U1UEUJIYJ2/G990U1OYMJIYJ2/G990U1UEUJIYJ2",
+            "md5": "4e1ddc8da40d32a59d38c8cc1445d393",
+            "found_at": "2025-10-03T12:49:19.268401+00:00"
           }
         ]
       }

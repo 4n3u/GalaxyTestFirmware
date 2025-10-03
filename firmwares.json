@@ -6901,6 +6901,11 @@
             "firmware": "S711BXXUAFYI6/S711BOXMAFYI6/S711BXXUAFYI6",
             "md5": "eaca81686c383bd64abd77a37b5e8714",
             "found_at": "2025-10-02T00:33:43.456270+00:00"
+          },
+          {
+            "firmware": "S711BXXSBFYJ1/S711BOXMBFYJ1/S711BXXSBFYJ1",
+            "md5": "87406975a46c6a86a766cff7f6e0212e",
+            "found_at": "2025-10-03T10:23:03.560724+00:00"
           }
         ]
       }

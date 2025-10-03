@@ -425,6 +425,11 @@
             "firmware": "A165FXXU4CYJ2/A165FOXM4CYJ2/A165FXXU4CYJ2",
             "md5": "6e25530517d4c4504ca01fb2e5cb5359",
             "found_at": "2025-10-02T08:25:08.421551+00:00"
+          },
+          {
+            "firmware": "A165FXXS5BYJ1/A165FOXM5BYJ1/A165FXXS5BYJ1",
+            "md5": "973f53d824daf5c3a92aa304f73d3d32",
+            "found_at": "2025-10-03T08:25:00.268609+00:00"
           }
         ]
       }

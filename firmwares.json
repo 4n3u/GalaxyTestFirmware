@@ -12125,6 +12125,11 @@
             "firmware": "G736U1UEUAGYI7/G736U1OYMAGYI7/G736U1UEUAGYI7",
             "md5": "cf6450445a5293193bfe44f7eff4fbea",
             "found_at": "2025-10-02T00:33:51.945093+00:00"
+          },
+          {
+            "firmware": "G736U1UESAFYJ1/G736U1OYMAFYJ1/G736U1UESAFYJ1",
+            "md5": "43fb762ebcd6d1d05036a3d02d0dc718",
+            "found_at": "2025-10-06T10:25:22.939026+00:00"
           }
         ]
       }

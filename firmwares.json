@@ -9012,6 +9012,11 @@
             "firmware": "F946U1UEU6FYI8/F946U1OYM6FYI8/F946U1UEU6FYI8",
             "md5": "44a2dbd47e10911f1f4de1322f1508b7",
             "found_at": "2025-10-02T00:33:59.041326+00:00"
+          },
+          {
+            "firmware": "F946U1UES6FYJ1/F946U1OYM6FYJ1/F946U1UES6FYJ1",
+            "md5": "a61020377a1b0ff8c0115c424b92c7d4",
+            "found_at": "2025-10-07T12:45:03.293275+00:00"
           }
         ]
       }
@@ -9349,6 +9354,11 @@
             "firmware": "F731U1UEU6FYI8/F731U1OYM6FYI8/F731U1UEU6FYI8",
             "md5": "2de4da1aa01a762c6735ef70202ed7d1",
             "found_at": "2025-10-02T00:33:43.398318+00:00"
+          },
+          {
+            "firmware": "F731U1UES6FYJ1/F731U1OYM6FYJ1/F731U1UES6FYJ1",
+            "md5": "f545fa639fd3c866bc2e1f0e4c8d18fd",
+            "found_at": "2025-10-07T12:45:44.519012+00:00"
           }
         ]
       }
@@ -12130,6 +12140,11 @@
             "firmware": "G736U1UESAFYJ1/G736U1OYMAFYJ1/G736U1UESAFYJ1",
             "md5": "43fb762ebcd6d1d05036a3d02d0dc718",
             "found_at": "2025-10-06T10:25:22.939026+00:00"
+          },
+          {
+            "firmware": "G736U1UEUAGYJ7/G736U1OYMAGYJ7/G736U1UEUAGYJ7",
+            "md5": "fcb18f81408eabb2e5dd70819602a5ba",
+            "found_at": "2025-10-07T12:42:48.895748+00:00"
           }
         ]
       }

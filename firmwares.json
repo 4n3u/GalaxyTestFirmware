@@ -3341,6 +3341,11 @@
             "firmware": "S721NKSU6CYI6/S721NOKR6CYI6/S721NKSU6CYI3",
             "md5": "5ec7be5d025bc65a4920947e57d76a61",
             "found_at": "2025-10-02T00:33:26.626475+00:00"
+          },
+          {
+            "firmware": "S721NKSS7CYJ1/S721NOKR7CYJ1/S721NKSS7CYJ1",
+            "md5": "9ce07bfbaa3fed9fb70f3b359033d37f",
+            "found_at": "2025-10-09T10:27:04.947107+00:00"
           }
         ]
       }
@@ -5090,6 +5095,11 @@
             "firmware": "C5560ZCU4CYIA/C5560CHC4CYIA/C5560ZCU4CYIA",
             "md5": "6e873bbcbbd45888ae6a163a5ef18e38",
             "found_at": "2025-10-02T00:33:25.157526+00:00"
+          },
+          {
+            "firmware": "C5560ZCU4CYJ1/C5560CHC4CYJ1/C5560ZCU4CYJ1",
+            "md5": "caf145d468fd8a8bcd23502fa21fdd53",
+            "found_at": "2025-10-09T10:23:53.360347+00:00"
           }
         ]
       }

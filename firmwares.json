@@ -9533,6 +9533,11 @@
             "firmware": "A146U1UESEEYG2/A146U1OYMEEYG2/A146U1UESEEYG2",
             "md5": "160ed0a454c851d8343a4b61050bb5da",
             "found_at": "2025-10-02T00:33:51.703210+00:00"
+          },
+          {
+            "firmware": "A146U1UESFEYJ2/A146U1OYMFEYJ2/A146U1UESFEYJ2",
+            "md5": "a4220bb2cd654c45e8ab74caf7d9af88",
+            "found_at": "2025-10-09T08:30:48.159273+00:00"
           }
         ]
       }

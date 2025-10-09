@@ -9711,6 +9711,11 @@
             "firmware": "A546U1UEUFEYI6/A546U1OYMFEYI6/A546U1UEUFEYI6",
             "md5": "1e7ffffc5f89da608f212e37a14a75c2",
             "found_at": "2025-10-02T00:33:44.044379+00:00"
+          },
+          {
+            "firmware": "A546U1UEUFEYJ1/A546U1OYMFEYJ1/A546U1UEUFEYJ1",
+            "md5": "254f5689008e40a3f50de62a9be64d45",
+            "found_at": "2025-10-09T18:31:25.367766+00:00"
           }
         ]
       }

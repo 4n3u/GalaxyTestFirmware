@@ -5190,6 +5190,11 @@
             "firmware": "C5560ZCU4CYJ1/C5560CHC4CYJ1/C5560ZCU4CYJ1",
             "md5": "caf145d468fd8a8bcd23502fa21fdd53",
             "found_at": "2025-10-09T10:23:53.360347+00:00"
+          },
+          {
+            "firmware": "C5560ZCU4CYJ2/C5560CHC4CYJ2/C5560ZCU4CYJ2",
+            "md5": "44c7d8f337be4bf331feac9e0ebd04e0",
+            "found_at": "2025-10-11T08:21:53.024322+00:00"
           }
         ]
       }
@@ -15462,6 +15467,11 @@
             "firmware": "G9900ZCUGIYI8/G9900CHCGIYI8/G9900ZCUGIYI7",
             "md5": "d92c93457ed7418e1cc30c8a8d139d4c",
             "found_at": "2025-10-02T00:34:05.655327+00:00"
+          },
+          {
+            "firmware": "G9900ZCUGIYJ1/G9900CHCGIYJ1/G9900ZCUGIYJ1",
+            "md5": "ed7cf5c97d0f7dd2880ee378d129494b",
+            "found_at": "2025-10-11T08:27:39.269302+00:00"
           }
         ]
       },
@@ -15492,6 +15502,11 @@
             "firmware": "G9900ZHUGIYI8/G9900OZSGIYI8/G9900ZHUGIYI8",
             "md5": "7ea17d8f56260d971e7feb4587eefbc5",
             "found_at": "2025-10-02T00:34:07.090538+00:00"
+          },
+          {
+            "firmware": "G9900ZHUGIYJ1/G9900OZSGIYJ1/G9900ZHUGIYJ1",
+            "md5": "ebc1a0a720dcf68b20e83bfdc66c381d",
+            "found_at": "2025-10-11T08:27:41.300730+00:00"
           }
         ]
       }

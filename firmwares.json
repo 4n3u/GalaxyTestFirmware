@@ -364,6 +364,11 @@
             "firmware": "A165NKSU3CYIA/A165NOKR3CYIA/A165NKSU3CYIA",
             "md5": "a8b7fb75e0983ece8d240f166c228d98",
             "found_at": "2025-10-02T00:33:39.379470+00:00"
+          },
+          {
+            "firmware": "A165NKSU3CYJ6/A165NOKR3CYJ6/A165NKSU3CYJ6",
+            "md5": "844b63e8e8f21f9cc2244febe19d8e97",
+            "found_at": "2025-10-11T02:53:45.519665+00:00"
           }
         ]
       }
@@ -440,6 +445,11 @@
             "firmware": "A165FXXU5CYJ4/A165FOXM5CYJ4/A165FXXU5CYJ4",
             "md5": "41b6076c973b01729d2c28f3946f78c0",
             "found_at": "2025-10-04T06:26:31.708905+00:00"
+          },
+          {
+            "firmware": "A165FXXU5CYJ6/A165FOXM5CYJ6/A165FXXU5CYJ6",
+            "md5": "81b07546f5e4b9f8ffb7b923161ed665",
+            "found_at": "2025-10-11T02:53:54.277412+00:00"
           }
         ]
       }

@@ -3425,6 +3425,11 @@
             "firmware": "F958NKSU2CYI9/F958NOKR2CYI9/F958NKSU2CYHC",
             "md5": "9d8b5b4a24e537137bd0049be3922cb2",
             "found_at": "2025-10-13T06:32:16.286201+00:00"
+          },
+          {
+            "firmware": "F958NKSS2CYJ1/F958NOKR2CYJ1/F958NKSU2CYHC",
+            "md5": "ac5004d04004449bd36e32260f7c8352",
+            "found_at": "2025-10-13T10:26:34.337201+00:00"
           }
         ]
       }
@@ -13964,6 +13969,16 @@
             "firmware": "A536NKSSCFYH1/A536NOKRCFYH1/A536NKOSCFYH1",
             "md5": "3817ff2ca3bf095093b66c87a891c369",
             "found_at": "2025-10-02T00:34:09.960392+00:00"
+          },
+          {
+            "firmware": "A536NKSSCGYI3/A536NOKRCGYI3/A536NKOUCGYI2",
+            "md5": "162df0a338d219d4c7314f975ebfc2c8",
+            "found_at": "2025-10-13T10:34:41.588461+00:00"
+          },
+          {
+            "firmware": "A536NKSUCGYI2/A536NOKRCGYI2/A536NKOUCGYI2",
+            "md5": "43cf4cedd4235b39aa160a7ba7308070",
+            "found_at": "2025-10-13T10:34:42.400651+00:00"
           }
         ]
       }

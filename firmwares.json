@@ -511,6 +511,11 @@
             "firmware": "A5660ZHS6AYGE/A5660OZS6AYGE/A5660ZCS6AYGE",
             "md5": "48411f4cea437983fe83e78bbaf11ced",
             "found_at": "2025-10-02T00:33:38.405396+00:00"
+          },
+          {
+            "firmware": "A5660ZHU6BYIC/A5660OZS6BYIC/A5660ZCU6BYIC",
+            "md5": "114229d4225d6623b385b458a3b18ded",
+            "found_at": "2025-10-13T08:29:07.768722+00:00"
           }
         ]
       }
@@ -5104,6 +5109,11 @@
             "firmware": "F956NKSU2CYI7/F956NOKR2CYI7/F956NKSU2CYHC",
             "md5": "1856a6acc4276651f744f2c81e1edb8e",
             "found_at": "2025-10-02T00:33:29.646267+00:00"
+          },
+          {
+            "firmware": "F956NKSS2CYJ1/F956NOKR2CYJ1/F956NKSU2CYHC",
+            "md5": "ead06ea666850a0b6b9d015909286927",
+            "found_at": "2025-10-13T08:28:31.859248+00:00"
           }
         ]
       }
@@ -5306,6 +5316,11 @@
             "firmware": "G556BXXUBDYIA/G556BOXMBDYIA/G556BXXUBDYIA",
             "md5": "cc102ed808eef1d3702d5d7b965ef44c",
             "found_at": "2025-10-02T00:33:28.335184+00:00"
+          },
+          {
+            "firmware": "G556BXXSBDYJ1/G556BOXMBDYJ1/G556BXXSBDYJ1",
+            "md5": "93ae9288eb35067a378314f3cb47d5f8",
+            "found_at": "2025-10-13T08:29:17.626102+00:00"
           }
         ]
       }
@@ -12227,6 +12242,21 @@
             "firmware": "A336NKSSBFYH1/A336NOKRBFYH1/A336NKOSBFYH1",
             "md5": "1f90d0ae18c6a391b3699824bc9d5396",
             "found_at": "2025-10-02T00:33:47.121066+00:00"
+          },
+          {
+            "firmware": "A336NKSSBGYI4/A336NOKRBGYI4/A336NKOUBGYI2",
+            "md5": "8bf0cba54acf5066d04610d19778a762",
+            "found_at": "2025-10-13T08:33:22.517820+00:00"
+          },
+          {
+            "firmware": "A336NKSUBGYI2/A336NOKRBGYI2/A336NKOUBGYI2",
+            "md5": "d0aa15e380f4c3ae125df27120cc71ad",
+            "found_at": "2025-10-13T08:33:23.449086+00:00"
+          },
+          {
+            "firmware": "A336NKSUBGYI3/A336NOKRBGYI3/A336NKOUBGYI2",
+            "md5": "1388ad531cddce2e1e8643c11774a4b7",
+            "found_at": "2025-10-13T08:33:23.449168+00:00"
           }
         ]
       }
@@ -15541,6 +15571,11 @@
             "firmware": "G990U1UEUJIYJ2/G990U1OYMJIYJ2/G990U1UEUJIYJ2",
             "md5": "4e1ddc8da40d32a59d38c8cc1445d393",
             "found_at": "2025-10-03T12:49:19.268401+00:00"
+          },
+          {
+            "firmware": "G990U1UEUJIYJ4/G990U1OYMJIYJ4/G990U1UEUJIYJ4",
+            "md5": "15f7a54ecec5eda3447fd805582195d7",
+            "found_at": "2025-10-13T08:36:43.018009+00:00"
           }
         ]
       }

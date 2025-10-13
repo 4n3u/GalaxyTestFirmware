@@ -9530,6 +9530,11 @@
             "firmware": "A245NKSU7EYJ2/A245NOKR7EYJ2/A245NKSU7EYJ2",
             "md5": "3542cec7731f54cbb144f3976353c0b4",
             "found_at": "2025-10-10T03:04:52.079030+00:00"
+          },
+          {
+            "firmware": "A245NKSU7EYJ3/A245NOKR7EYJ3/A245NKSU7EYJ2",
+            "md5": "e6fedb259dbf70a0e3b16b5f7ac56c57",
+            "found_at": "2025-10-13T04:26:56.187021+00:00"
           }
         ]
       }

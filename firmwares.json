@@ -1014,6 +1014,11 @@
             "firmware": "S9310ZCU5BYI3/S9310CHC5BYI3/S9310ZCU5BYI3",
             "md5": "6c6cc4c4a17d193de782e776601b5f27",
             "found_at": "2025-10-02T00:33:25.079540+00:00"
+          },
+          {
+            "firmware": "S9310ZCS6BYJ1/S9310CHC6BYJ1/S9310ZCS6BYJ1",
+            "md5": "9084578b9fd2f2f76b11520b178c342f",
+            "found_at": "2025-10-14T03:00:46.883289+00:00"
           }
         ]
       },
@@ -1664,6 +1669,11 @@
             "firmware": "S9360ZCU5BYI3/S9360CHC5BYI3/S9360ZCU5BYI3",
             "md5": "c0966656176424b41e64a3846772cd13",
             "found_at": "2025-10-02T00:33:27.386903+00:00"
+          },
+          {
+            "firmware": "S9360ZCS6BYJ1/S9360CHC6BYJ1/S9360ZCS6BYJ1",
+            "md5": "da816b9fb3ef61b19cbcebc551a4ec7d",
+            "found_at": "2025-10-14T03:01:14.239899+00:00"
           }
         ]
       },
@@ -2485,6 +2495,11 @@
             "firmware": "S9380ZCU5BYI3/S9380CHC5BYI3/S9380ZCU5BYI3",
             "md5": "77d98b1876d6b4e6c31e328743a80cff",
             "found_at": "2025-10-02T00:33:33.125855+00:00"
+          },
+          {
+            "firmware": "S9380ZCS6BYJ1/S9380CHC6BYJ1/S9380ZCS6BYJ1",
+            "md5": "7caa8e7beaec205d1489d14b23c94491",
+            "found_at": "2025-10-14T03:01:53.352196+00:00"
           }
         ]
       },

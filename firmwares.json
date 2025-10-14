@@ -8849,6 +8849,11 @@
             "firmware": "F731NKSU5FYI8/F731NOKR5FYI8/F731NKSU5FYI2",
             "md5": "eb1ccd0a7d0afee3a8d973aa751f1130",
             "found_at": "2025-10-02T00:33:45.680351+00:00"
+          },
+          {
+            "firmware": "F731NKSS5FYJ1/F731NOKR5FYJ1/F731NKSU5FYI2",
+            "md5": "764f13adab569357e27adfe8d2f3bc6c",
+            "found_at": "2025-10-14T06:32:13.452474+00:00"
           }
         ]
       }
@@ -9051,6 +9056,11 @@
             "firmware": "F946NKSU5FYI8/F946NOKR5FYI8/F946NKSU5FYI2",
             "md5": "b730eaa534416594528fb0200e37935e",
             "found_at": "2025-10-02T00:33:55.940115+00:00"
+          },
+          {
+            "firmware": "F946NKSS5FYJ1/F946NOKR5FYJ1/F946NKSU5FYI2",
+            "md5": "827a4a7c0fd8acf66ce95d1880cb6c92",
+            "found_at": "2025-10-14T06:32:26.976703+00:00"
           }
         ]
       }

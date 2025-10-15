@@ -13205,6 +13205,11 @@
             "firmware": "F936U1UEU8IYIF/F936U1OYM8IYIF/F936U1UEU8IYIF",
             "md5": "b24da98f41aa2f92cbf22b9a9c2d7049",
             "found_at": "2025-10-02T00:34:00.436104+00:00"
+          },
+          {
+            "firmware": "F936U1UEU8IYJ1/F936U1OYM8IYJ1/F936U1UEU8IYJ1",
+            "md5": "16be9fbdecfbf007c11a4ab3fe187193",
+            "found_at": "2025-10-15T18:31:38.392270+00:00"
           }
         ]
       }
@@ -13864,6 +13869,11 @@
             "firmware": "F721U1UEU8IYIF/F721U1OYM8IYIF/F721U1UEU8IYIF",
             "md5": "8ae2046f2511543ced0128cc2c6ca448",
             "found_at": "2025-10-02T04:26:45.306287+00:00"
+          },
+          {
+            "firmware": "F721U1UEU8IYJ1/F721U1OYM8IYJ1/F721U1UEU8IYJ1",
+            "md5": "ee558629e36f67815076221841fbb3c7",
+            "found_at": "2025-10-15T18:32:11.214551+00:00"
           }
         ]
       }

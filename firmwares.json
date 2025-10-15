@@ -3567,6 +3567,11 @@
             "firmware": "S7210ZHU7CYI6/S7210OZS7CYI6/S7210ZHU7CYI7",
             "md5": "2a9e582a88089515e9534f26a628f15f",
             "found_at": "2025-10-13T06:32:28.734711+00:00"
+          },
+          {
+            "firmware": "S7210ZHS8CYJ2/S7210OZS8CYJ2/S7210ZHS8CYJ2",
+            "md5": "e16c074b61ff3657fd8c36c7ce31ebba",
+            "found_at": "2025-10-15T12:43:44.058242+00:00"
           }
         ]
       }
@@ -5320,6 +5325,11 @@
             "firmware": "C5560ZCU4CYJ2/C5560CHC4CYJ2/C5560ZCU4CYJ2",
             "md5": "44c7d8f337be4bf331feac9e0ebd04e0",
             "found_at": "2025-10-11T08:21:53.024322+00:00"
+          },
+          {
+            "firmware": "C5560ZCU4CYJ3/C5560CHC4CYJ3/C5560ZCU4CYJ3",
+            "md5": "60c8bd1fcb21778fa2f0d930d3b1d751",
+            "found_at": "2025-10-15T12:41:46.355492+00:00"
           }
         ]
       }

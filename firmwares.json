@@ -15489,6 +15489,11 @@
             "firmware": "S908U1UEU8GYIF/S908U1OYM8GYIF/S908U1UEU8GYIF",
             "md5": "a815e7404f75d4c7c48eb97eff75f076",
             "found_at": "2025-10-02T00:34:00.536317+00:00"
+          },
+          {
+            "firmware": "S908U1UEU8GYJ1/S908U1OYM8GYJ1/S908U1UEU8GYJ1",
+            "md5": "fc1b206128ea1bc732eeb9b296d5582f",
+            "found_at": "2025-10-15T22:21:09.179069+00:00"
           }
         ]
       }
@@ -15680,6 +15685,11 @@
             "firmware": "S901U1UEU8GYIF/S901U1OYM8GYIF/S901U1UEU8GYIF",
             "md5": "8d9d224ab0a1c83968fa69935ee1bbc4",
             "found_at": "2025-10-02T00:34:06.256165+00:00"
+          },
+          {
+            "firmware": "S901U1UEU8GYJ1/S901U1OYM8GYJ1/S901U1UEU8GYJ1",
+            "md5": "fc1562fb61fb330699bcf4cb96a7d6eb",
+            "found_at": "2025-10-15T22:21:15.651942+00:00"
           }
         ]
       }

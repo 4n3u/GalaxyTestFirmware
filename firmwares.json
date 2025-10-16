@@ -12385,6 +12385,11 @@
             "firmware": "W9023ZCU8IYIF/W9023CHC8IYIF/W9023ZCU8IYIF",
             "md5": "26d0050c70de6d082568bea35f160249",
             "found_at": "2025-10-02T00:33:51.203183+00:00"
+          },
+          {
+            "firmware": "W9023ZCU8IYJ1/W9023CHC8IYJ1/W9023ZCU8IYJ1",
+            "md5": "fb8ae86e5e2fd3899ef774b5fe6e406e",
+            "found_at": "2025-10-16T14:26:17.804230+00:00"
           }
         ]
       }
@@ -12957,6 +12962,11 @@
             "firmware": "F9360ZCU8IYIF/F9360CHC8IYIF/F9360ZCU8IYIF",
             "md5": "c8a765eb68b2a41b804a18942a2fd3cf",
             "found_at": "2025-10-02T00:33:45.625345+00:00"
+          },
+          {
+            "firmware": "F9360ZCU8IYJ1/F9360CHC8IYJ1/F9360ZCU8IYJ1",
+            "md5": "c73111ab5e406b20db4832402dfdaa36",
+            "found_at": "2025-10-16T14:25:27.712648+00:00"
           }
         ]
       }
@@ -14462,6 +14472,11 @@
             "firmware": "S9010ZCU9GYIF/S9010CHC9GYIF/S9010ZCU9GYIF",
             "md5": "641209f95a4f2dccbd49bb1beeb4db61",
             "found_at": "2025-10-02T00:34:08.522973+00:00"
+          },
+          {
+            "firmware": "S9010ZCU9GYJ1/S9010CHC9GYJ1/S9010ZCU9GYJ1",
+            "md5": "0c3b0dc236373777a6ea38ced90f03ae",
+            "found_at": "2025-10-16T14:27:58.325052+00:00"
           }
         ]
       },
@@ -14814,6 +14829,11 @@
             "firmware": "S9080ZCU9GYIF/S9080CHC9GYIF/S9080ZCU9GYIF",
             "md5": "6af7c486a074493cd6d4f9a56dc248b3",
             "found_at": "2025-10-02T00:34:02.061986+00:00"
+          },
+          {
+            "firmware": "S9080ZCU9GYJ1/S9080CHC9GYJ1/S9080ZCU9GYJ1",
+            "md5": "4cfa63626fd87279a2e218dcefc85723",
+            "found_at": "2025-10-16T14:28:24.865551+00:00"
           }
         ]
       },

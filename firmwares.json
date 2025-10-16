@@ -4263,6 +4263,11 @@
             "firmware": "F741NKSS2CYJ1/F741NOKR2CYJ1/F741NKSU2CYHC",
             "md5": "06470574179b3876769508b683ad0337",
             "found_at": "2025-10-13T06:30:06.308998+00:00"
+          },
+          {
+            "firmware": "F741NKSS2CYJ3/F741NOKR2CYJ3/F741NKSU2CYHC",
+            "md5": "05269a985b8f2d0bce0ef90bd4c69c72",
+            "found_at": "2025-10-16T03:02:59.009295+00:00"
           }
         ]
       }

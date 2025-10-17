@@ -516,6 +516,11 @@
             "firmware": "A5660ZCU6BYIC/A5660CHC6BYIC/A5660ZCU6BYIC",
             "md5": "8c0b84c60013574f0d73641612336a47",
             "found_at": "2025-10-02T00:33:37.326111+00:00"
+          },
+          {
+            "firmware": "A5660ZCS6BYJ4/A5660CHC6BYJ4/A5660ZCS6BYJ4",
+            "md5": "a27bccb0bf71431b76ae3c751eebe81d",
+            "found_at": "2025-10-17T12:40:12.557924+00:00"
           }
         ]
       },
@@ -5971,6 +5976,11 @@
             "firmware": "A5560ZCUACYI9/A5560CHCACYI9/A5560ZCUACYI8",
             "md5": "ee627f4de8b0d1150b652955a1803486",
             "found_at": "2025-10-02T00:33:38.758251+00:00"
+          },
+          {
+            "firmware": "A5560ZCSBCYJ1/A5560CHCBCYJ1/A5560ZCSBCYJ1",
+            "md5": "96402e8e9f7a1ed3928d6d86c06bbb93",
+            "found_at": "2025-10-17T12:41:15.492559+00:00"
           }
         ]
       },
@@ -13221,6 +13231,11 @@
             "firmware": "G736BXXSAFYJ3/G736BOXMAFYJ3/G736BXXSAFYJ3",
             "md5": "a02630fa731e1f6ff3a398edf3adc314",
             "found_at": "2025-10-13T06:32:58.001599+00:00"
+          },
+          {
+            "firmware": "G736BXXUAGYJ6/G736BOXMAGYJ6/G736BXXUAGYJ6",
+            "md5": "9de5e17e95824e561e6ab345595009f8",
+            "found_at": "2025-10-17T12:42:41.034529+00:00"
           }
         ]
       }
@@ -14715,6 +14730,11 @@
             "firmware": "A5360ZCUHGYI9/A5360CHCHGYI9/A5360ZCUHGYI9",
             "md5": "4210aa69575c9e1073ac4f606605366c",
             "found_at": "2025-10-02T00:33:59.433053+00:00"
+          },
+          {
+            "firmware": "A5360ZCSHGYJ3/A5360CHCHGYJ3/A5360ZCSHGYJ3",
+            "md5": "990e5b4ecaa87070ae5cc45fc403cfdb",
+            "found_at": "2025-10-17T12:47:38.520952+00:00"
           }
         ]
       },

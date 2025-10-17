@@ -1346,6 +1346,11 @@
             "firmware": "S931U1UEU6CYJB/S931U1OYM6CYJB/S931U1UEU6CYJB",
             "md5": "50c0f751e81755aa258301c7dce19169",
             "found_at": "2025-10-16T20:21:03.712593+00:00"
+          },
+          {
+            "firmware": "S931U1UEU6CYJC/S931U1OYM6CYJC/S931U1UEU6CYJC",
+            "md5": "8a808b3fb09081edcdf7034e0d1c149e",
+            "found_at": "2025-10-17T08:26:06.130826+00:00"
           }
         ]
       }
@@ -1487,6 +1492,11 @@
             "firmware": "S931USQU6CYJB/S931UOYN6CYJB/S931USQU6CYJB",
             "md5": "ac109e650915e07c9a737e9244aaf570",
             "found_at": "2025-10-16T20:21:09.348774+00:00"
+          },
+          {
+            "firmware": "S931USQU6CYJC/S931UOYN6CYJC/S931USQU6CYJC",
+            "md5": "51265411d3e82d6e45282ec1a44ae5c2",
+            "found_at": "2025-10-17T08:26:11.787922+00:00"
           }
         ]
       }
@@ -2051,6 +2061,11 @@
             "firmware": "S936U1UEU6CYJB/S936U1OYM6CYJB/S936U1UEU6CYJB",
             "md5": "5d0bfd63507f0d8260a56822d3baaaa0",
             "found_at": "2025-10-16T22:15:05.228554+00:00"
+          },
+          {
+            "firmware": "S936U1UEU6CYJC/S936U1OYM6CYJC/S936U1UEU6CYJC",
+            "md5": "8cab26cbf6f21d2b3fc84aee1680841a",
+            "found_at": "2025-10-17T08:26:38.188960+00:00"
           }
         ]
       }
@@ -2202,6 +2217,11 @@
             "firmware": "S936USQU6CYJB/S936UOYN6CYJB/S936USQU6CYJB",
             "md5": "910672983f533bfef3296389f9360622",
             "found_at": "2025-10-17T01:23:16.785888+00:00"
+          },
+          {
+            "firmware": "S936USQU6CYJC/S936UOYN6CYJC/S936USQU6CYJC",
+            "md5": "ae7a7fbb396d7073b841be04d9afb2d3",
+            "found_at": "2025-10-17T08:26:43.903803+00:00"
           }
         ]
       }
@@ -2927,6 +2947,11 @@
             "firmware": "S938U1UEU6CYJB/S938U1OYM6CYJB/S938U1UEU6CYJB",
             "md5": "e137b0ccb264cf0586e51ddab87ee804",
             "found_at": "2025-10-16T22:15:44.703280+00:00"
+          },
+          {
+            "firmware": "S938U1UEU6CYJC/S938U1OYM6CYJC/S938U1UEU6CYJC",
+            "md5": "9d6abdccead08e944fed65fd897f9e72",
+            "found_at": "2025-10-17T08:27:29.830858+00:00"
           }
         ]
       }
@@ -3681,6 +3706,16 @@
             "firmware": "S721NKSS7CYJ2/S721NOKR7CYJ2/S721NKSS7CYJ1",
             "md5": "686a8a9f3346589d7a7384d739f084a7",
             "found_at": "2025-10-16T01:24:37.291547+00:00"
+          },
+          {
+            "firmware": "S721NKSS6BYG1/S721NOKR6BYG1/S721NKSS6BYG1",
+            "md5": "2e001f5cb234879e6fe55debb0935d19",
+            "found_at": "2025-10-17T08:28:04.427572+00:00"
+          },
+          {
+            "firmware": "S721NKSS6BYG2/S721NOKR6BYG2/S721NKSS6BYG2",
+            "md5": "eb67d3285f87ed29de0c9cad6af50022",
+            "found_at": "2025-10-17T08:28:04.427642+00:00"
           }
         ]
       }
@@ -6387,6 +6422,16 @@
             "firmware": "S921NKSSACYJ2/S921NOKRACYJ2/S921NKSSACYJ1",
             "md5": "e593d6baa83f60258fed4dd9aa6aa4ce",
             "found_at": "2025-10-15T16:22:32.513820+00:00"
+          },
+          {
+            "firmware": "S921NKSS9BYG6/S921NOKR9BYG6/S921NKSS9BYG6",
+            "md5": "ad79b6839e3fe1e5123d245d2abb3ea9",
+            "found_at": "2025-10-17T08:27:18.509612+00:00"
+          },
+          {
+            "firmware": "S921NKSS9BYG8/S921NOKR9BYG8/S921NKSS9BYG8",
+            "md5": "75810e039a1aef87b6dc5aa6a2ba64d0",
+            "found_at": "2025-10-17T08:27:18.509718+00:00"
           }
         ]
       }
@@ -6886,6 +6931,16 @@
             "firmware": "S926NKSSACYJ2/S926NOKRACYJ2/S926NKSSACYJ1",
             "md5": "e2431d9a6ddb889810e0694c80a92fc3",
             "found_at": "2025-10-15T16:23:07.694618+00:00"
+          },
+          {
+            "firmware": "S926NKSS9BYG6/S926NOKR9BYG6/S926NKSS9BYG6",
+            "md5": "a476d44c6426d9be6cabc5e31724e339",
+            "found_at": "2025-10-17T08:27:48.654087+00:00"
+          },
+          {
+            "firmware": "S926NKSS9BYG8/S926NOKR9BYG8/S926NKSS9BYG8",
+            "md5": "348363433d02a2d59d7b745a1acbc8e8",
+            "found_at": "2025-10-17T08:27:48.654212+00:00"
           }
         ]
       }
@@ -7899,6 +7954,151 @@
             "firmware": "S928NKSS4CYJ2/S928NOKR4CYJ2/S928NKSU4CYI3",
             "md5": "4cbbcddc83bf402126da405caf4ac35f",
             "found_at": "2025-10-15T16:24:04.326791+00:00"
+          },
+          {
+            "firmware": "S928NKSS4BYDF/S928NOKR4BYDF/S928NKSS4BYDF",
+            "md5": "98050cffd272884572e45aa9ac2167a9",
+            "found_at": "2025-10-17T08:28:41.418192+00:00"
+          },
+          {
+            "firmware": "S928NKSS4BYE9/S928NOKR4BYE9/S928NKSS4BYE9",
+            "md5": "32c11d90954b28bd444cef16a91077fe",
+            "found_at": "2025-10-17T08:28:41.419956+00:00"
+          },
+          {
+            "firmware": "S928NKSS4BYF1/S928NOKR4BYF1/S928NKSS4BYF1",
+            "md5": "0a34f440c8cf981f4deffb67cfddac5a",
+            "found_at": "2025-10-17T08:28:41.421635+00:00"
+          },
+          {
+            "firmware": "S928NKSS4BYG6/S928NOKR4BYG6/S928NKSS4BYG6",
+            "md5": "f9ec1817248ae2084cbefeee81c82e28",
+            "found_at": "2025-10-17T08:28:41.423981+00:00"
+          },
+          {
+            "firmware": "S928NKSS4BYG8/S928NOKR4BYG8/S928NKSS4BYG8",
+            "md5": "3f156ce8441f47ab2065b78f9ce66f0d",
+            "found_at": "2025-10-17T08:28:41.424127+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYA2/S928NOKR4BYA2/S928NKSU4BYA2",
+            "md5": "2752f4729fcbf28897050d8136bdc477",
+            "found_at": "2025-10-17T08:28:43.114050+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYA4/S928NOKR4BYA4/S928NKSU4BYA4",
+            "md5": "05066a7b5c5ac2026904ed8b6057913c",
+            "found_at": "2025-10-17T08:28:43.114174+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYA6/S928NOKR4BYA6/S928NKSU4BYA6",
+            "md5": "fbcda394bd834d06225a0708000d01be",
+            "found_at": "2025-10-17T08:28:43.114314+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYB2/S928NOKR4BYB2/S928NKSU4BYB2",
+            "md5": "c87cd287abf159f04586f0bd7bf924d6",
+            "found_at": "2025-10-17T08:28:43.116060+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYB4/S928NOKR4ZYB4/S928NKSU4BYB4",
+            "md5": "de8eecea91159681c564b28cedb3cd51",
+            "found_at": "2025-10-17T08:28:43.116303+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYB6/S928NOKR4ZYB6/S928NKSU4BYB6",
+            "md5": "056dea7a0e64a6380686890a731b74d7",
+            "found_at": "2025-10-17T08:28:43.116406+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYB8/S928NOKR4ZYB8/S928NKSU4BYB8",
+            "md5": "406002810619618c8988719c311bfffc",
+            "found_at": "2025-10-17T08:28:43.116582+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYBA/S928NOKR4ZYBA/S928NKSU4BYBA",
+            "md5": "d89da2c10451755d5dc87da09c6c1889",
+            "found_at": "2025-10-17T08:28:43.116713+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYBB/S928NOKR4ZYBB/S928NKSU4BYBB",
+            "md5": "6c7c92bf64a341c18541a71156394039",
+            "found_at": "2025-10-17T08:28:43.116764+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYBC/S928NOKR4BYBC/S928NKSU4BYBC",
+            "md5": "ff0454e2f578b07bfb80b81ebd153854",
+            "found_at": "2025-10-17T08:28:43.116875+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYBF/S928NOKR4ZYBF/S928NKSU4BYBF",
+            "md5": "f986efd0ec5e664897970f0e206a4a42",
+            "found_at": "2025-10-17T08:28:43.117041+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYBG/S928NOKR4BYBG/S928NKSU4BYBG",
+            "md5": "17142b73ba36cb9c40148bc5352124e8",
+            "found_at": "2025-10-17T08:28:43.117102+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYC2/S928NOKR4BYC2/S928NKSU4BYC2",
+            "md5": "63c60f0f67d210b5c4184187b2b36e69",
+            "found_at": "2025-10-17T08:28:43.118371+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYC4/S928NOKR4BYC4/S928NKSU4BYC4",
+            "md5": "1776e2fb0dda575d628bb6b106bbb8a8",
+            "found_at": "2025-10-17T08:28:43.118459+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYC4/S928NOKR4ZYC4/S928NKSU4BYC4",
+            "md5": "3fac45747391aa0f17e92cb9ea219e66",
+            "found_at": "2025-10-17T08:28:43.118491+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYC6/S928NOKR4ZYC6/S928NKSU4BYC6",
+            "md5": "d3eefa8951f895469525f2a156f50d84",
+            "found_at": "2025-10-17T08:28:43.118591+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYC8/S928NOKR4BYC8/S928NKSU4BYC8",
+            "md5": "05fcb5805a0087063663ae7edcd32325",
+            "found_at": "2025-10-17T08:28:43.118735+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYCA/S928NOKR4BYCA/S928NKSU4BYCA",
+            "md5": "178eeae32e027b9b73d3bf62931794a2",
+            "found_at": "2025-10-17T08:28:43.118856+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYCC/S928NOKR4BYCC/S928NKSU4BYCC",
+            "md5": "72f3c194ee881aa015287a3711e16a1a",
+            "found_at": "2025-10-17T08:28:43.118967+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYCC/S928NOKR4ZYCC/S928NKSU4BYCC",
+            "md5": "201815d1b73d7c3dc167f2a11808fb96",
+            "found_at": "2025-10-17T08:28:43.118998+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYCE/S928NOKR4BYCE/S928NKSU4BYCE",
+            "md5": "c8472fe8060a1c26244a33a05aef96c8",
+            "found_at": "2025-10-17T08:28:43.119079+00:00"
+          },
+          {
+            "firmware": "S928NKSU4ZYCE/S928NOKR4ZYCE/S928NKSU4BYCE",
+            "md5": "818f8a6968ed9a0cfa7a7bb4e575a911",
+            "found_at": "2025-10-17T08:28:43.119109+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYCG/S928NOKR4BYCG/S928NKSU4BYCG",
+            "md5": "d4ec9a795338572f65eb17e68b798dfd",
+            "found_at": "2025-10-17T08:28:43.119239+00:00"
+          },
+          {
+            "firmware": "S928NKSU4BYD9/S928NOKR4BYD9/S928NKSU4BYD9",
+            "md5": "e504d9be89963c65c3d9962bfec9ed7e",
+            "found_at": "2025-10-17T08:28:43.120618+00:00"
           }
         ]
       }

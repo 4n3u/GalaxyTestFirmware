@@ -2182,6 +2182,11 @@
             "firmware": "S936USQS6BYIF/S936UOYN6BYIF/S936USQS6BYIF",
             "md5": "9df1718ad13019af192abe1a15855055",
             "found_at": "2025-10-16T12:42:06.905584+00:00"
+          },
+          {
+            "firmware": "S936USQU6CYJB/S936UOYN6CYJB/S936USQU6CYJB",
+            "md5": "910672983f533bfef3296389f9360622",
+            "found_at": "2025-10-17T01:23:16.785888+00:00"
           }
         ]
       }

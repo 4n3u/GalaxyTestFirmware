@@ -6236,6 +6236,11 @@
             "firmware": "S921BXXU9CYI5/S921BOXM9CYI5/S921BXXU9CYI5",
             "md5": "e3129989c37ec97de3a310b483159682",
             "found_at": "2025-10-02T00:33:41.310401+00:00"
+          },
+          {
+            "firmware": "S921BXXSACYJ3/S921BOXMACYJ3/S921BXXSACYJ1",
+            "md5": "d09b26f11a48383dfbf22ce8c32a4ef5",
+            "found_at": "2025-10-17T03:02:45.684978+00:00"
           }
         ]
       }

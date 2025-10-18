@@ -5843,6 +5843,11 @@
             "firmware": "S908U1UEU8GYIF/S908U1OYM8GYIF/S908U1UEU8GYIF",
             "md5": "a815e7404f75d4c7c48eb97eff75f076",
             "found_at": "2025-10-18T03:30:20.731553+00:00"
+          },
+          {
+            "firmware": "S908U1UEU8GYJ1/S908U1OYM8GYJ1/S908U1UEU8GYJ1",
+            "md5": "fc1b206128ea1bc732eeb9b296d5582f",
+            "found_at": "2025-10-18T06:42:45.878209+00:00"
           }
         ]
       }

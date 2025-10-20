@@ -808,6 +808,11 @@
             "firmware": "A165FXXU5CYJ9/A165FOXM5CYJ9/A165FXXU5CYJ9",
             "md5": "d0875e1f38aa51cd3b55f64c1cf420a6",
             "found_at": "2025-10-18T03:20:25.079883+00:00"
+          },
+          {
+            "firmware": "A165FXXU5CYJA/A165FOXM5CYJA/A165FXXU5CYJA",
+            "md5": "31282f26cdea6dcae663b2135626cb14",
+            "found_at": "2025-10-20T14:19:47.513158+00:00"
           }
         ]
       }

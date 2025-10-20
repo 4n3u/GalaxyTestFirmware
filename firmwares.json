@@ -13043,6 +13043,11 @@
             "firmware": "X216RXXS4AYI1/X216ROXM4AYI1/X216RXXS4AYI1",
             "md5": "444dfbc539538e73cc7bb0e0231534fd",
             "found_at": "2025-10-18T03:33:03.141782+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYJA/X216ROXM4BYJA/X216RXXU4BYJA",
+            "md5": "3458756baf8509be839ae31320a5ae69",
+            "found_at": "2025-10-20T16:39:28.573311+00:00"
           }
         ]
       }

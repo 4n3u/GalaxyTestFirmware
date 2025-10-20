@@ -2846,6 +2846,11 @@
             "firmware": "A5460ZCUFEYI4/A5460CHCFEYI4/A5460ZCUFEYI4",
             "md5": "b5726ccd9cb4c7be66a6b31cc40beb73",
             "found_at": "2025-10-18T03:21:18.699644+00:00"
+          },
+          {
+            "firmware": "A5460ZCSGEYJ5/A5460CHCGEYJ5/A5460ZCSGEYJ5",
+            "md5": "4c7b002fdf0736ddb8046b5f8235500c",
+            "found_at": "2025-10-20T04:26:37.750609+00:00"
           }
         ]
       }

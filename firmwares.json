@@ -440,6 +440,11 @@
             "firmware": "A146PXXUDEYJ1/A146POXMDEYJ1/A146PXXUDEYJ1",
             "md5": "af748841ccc16997972ffefbd6f75cc4",
             "found_at": "2025-10-18T03:19:43.728088+00:00"
+          },
+          {
+            "firmware": "A146PXXUEEYJ4/A146POXMEEYJ4/A146PXXUEEYJ3",
+            "md5": "ec6041add2185778299ac79eb38a2ee4",
+            "found_at": "2025-10-21T12:40:24.848472+00:00"
           }
         ]
       }
@@ -13900,6 +13905,51 @@
             "firmware": "X115XXU5DYH2/X115OXM5DYH2/X115XXU5DYH2",
             "md5": "a999cdf35f74e10b2b9889e69a8826d3",
             "found_at": "2025-10-18T03:36:54.155219+00:00"
+          },
+          {
+            "firmware": "X115XXS6CYI1/X115OXM6CYI1/X115XXS6CYI1",
+            "md5": "e464f0a39d407eba625c9487da8c2365",
+            "found_at": "2025-10-21T13:06:24.086293+00:00"
+          },
+          {
+            "firmware": "X115XXS6CYI2/X115OXM6CYI2/X115XXS6CYI2",
+            "md5": "7ba0a860a61c869e2b1d43f6e6f44d83",
+            "found_at": "2025-10-21T13:06:24.086373+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYI5/X115OXM6DYI5/X115XXU6DYI5",
+            "md5": "06e850080e13b3903dcff269d144517c",
+            "found_at": "2025-10-21T13:06:24.391254+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYI6/X115OXM6DYI6/X115XXU6DYI6",
+            "md5": "a780adf225a39baf86069ed7c374738c",
+            "found_at": "2025-10-21T13:06:24.391346+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYJ1/X115OXM6DYJ1/X115XXU6DYJ1",
+            "md5": "e3702014af097efc3559f8e9aa75d4e0",
+            "found_at": "2025-10-21T13:06:24.394252+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYJ2/X115OXM6DYJ2/X115XXU6DYJ2",
+            "md5": "7afb7b6edd0d1af299b4a8e5b8aea37e",
+            "found_at": "2025-10-21T13:06:24.394298+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYJ3/X115OXM6DYJ3/X115XXU6DYJ3",
+            "md5": "76129deb04cafd3fc1c386a92a1675bd",
+            "found_at": "2025-10-21T13:06:24.394328+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYJ5/X115OXM6DYJ5/X115XXU6DYJ5",
+            "md5": "859e3f83411bbf3ef000bc8622afc09a",
+            "found_at": "2025-10-21T13:06:24.394394+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYJ6/X115OXM6DYJ6/X115XXU6DYJ6",
+            "md5": "120f11232205d05eb939bf9164d8f902",
+            "found_at": "2025-10-21T13:06:24.394437+00:00"
           }
         ]
       }

@@ -14024,6 +14024,11 @@
             "firmware": "X218USQS8DYF4/X218UOYN8DYF4/X218USQS8DYF4",
             "md5": "2e20970cbe24436b377c4d5ed38d88d3",
             "found_at": "2025-10-18T03:33:07.618919+00:00"
+          },
+          {
+            "firmware": "X218USQS8DYF1/X218UOYN8DYF1/X218USQS8DYF1",
+            "md5": "9d8b2e701599cd535442640bc8c07235",
+            "found_at": "2025-10-21T20:32:38.023635+00:00"
           }
         ]
       }

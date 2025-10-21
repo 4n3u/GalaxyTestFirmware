@@ -404,6 +404,11 @@
             "firmware": "A145RXXUADYGC/A145ROXMADYGC/A145RXXUADYE2",
             "md5": "469f7da44010b0aff53ee4968af08351",
             "found_at": "2025-10-18T04:20:38.479938+00:00"
+          },
+          {
+            "firmware": "A145RXXUBDYJ2/A145ROXMBDYJ2/A145RXXUBDYJ1",
+            "md5": "cd85fee7a4e72c51677cead189ecbc8e",
+            "found_at": "2025-10-21T04:22:02.196482+00:00"
           }
         ]
       }

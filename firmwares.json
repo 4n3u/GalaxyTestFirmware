@@ -11265,6 +11265,11 @@
             "firmware": "S731BXXU1AYGG/S731BOXM1AYGG/S731BXXU1AYGH",
             "md5": "f119c585817e74bfb9d35e9bdf1066d6",
             "found_at": "2025-10-18T04:30:03.052352+00:00"
+          },
+          {
+            "firmware": "S731BXXU2AYJ3/S731BOXM2AYJ3/S731BXXU2AYJ3",
+            "md5": "9889c01210d5015d9969789b5719ed9c",
+            "found_at": "2025-10-21T03:16:05.224573+00:00"
           }
         ]
       }
@@ -11437,6 +11442,11 @@
             "firmware": "S731USQU1AYIB/S731UOYN1AYIB/S731USQU1AYIB",
             "md5": "5973ad37a4621993fa9255931e863c09",
             "found_at": "2025-10-18T03:29:13.564621+00:00"
+          },
+          {
+            "firmware": "S731USQU2AYJ3/S731UOYN2AYJ3/S731USQU2AYJ3",
+            "md5": "5faafbc7ddb3e5fcd9b42e1b915e1c16",
+            "found_at": "2025-10-21T03:16:10.803882+00:00"
           }
         ]
       }

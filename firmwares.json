@@ -2932,6 +2932,11 @@
             "firmware": "A546BXXUFEYI4/A546BOXMFEYI4/A546BXXUFEYI4",
             "md5": "a5e6d6619e1be4281824503a7e67fd7e",
             "found_at": "2025-10-18T03:21:23.583786+00:00"
+          },
+          {
+            "firmware": "A546BXXSGEYJ7/A546BOXMGEYJ7/A546BXXSGEYJ5",
+            "md5": "4f8416cf81891c8fac140b4ea5e5698d",
+            "found_at": "2025-10-22T03:12:10.608005+00:00"
           }
         ]
       }
@@ -4365,6 +4370,11 @@
             "firmware": "G781NKSSCGYG3/G781NOKRCGYG3/G781NKSSCGYG2",
             "md5": "0189680eed0aedf77bb2d58fdd75ded5",
             "found_at": "2025-10-18T03:32:14.021347+00:00"
+          },
+          {
+            "firmware": "G781NKSSDGYJ1/G781NOKRDGYJ1/G781NKSSDGYJ1",
+            "md5": "c1770c3c1cae1e5f64d6d4133136d416",
+            "found_at": "2025-10-22T03:22:26.786680+00:00"
           }
         ]
       }
@@ -17728,6 +17738,11 @@
             "firmware": "G556BXXUBDYIA/G556BOXMBDYIA/G556BXXUBDYIA",
             "md5": "cc102ed808eef1d3702d5d7b965ef44c",
             "found_at": "2025-10-18T03:36:31.479592+00:00"
+          },
+          {
+            "firmware": "G556BXXSBDYJ3/G556BOXMBDYJ3/G556BXXSBDYJ3",
+            "md5": "a1c30ba39c377143d4e5b6a95a037c56",
+            "found_at": "2025-10-22T03:27:01.085619+00:00"
           }
         ]
       }

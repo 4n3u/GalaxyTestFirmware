@@ -1079,6 +1079,11 @@
             "firmware": "A166USQU3CYIC/A166UOYN3CYIC/A166USQU3CYIC",
             "md5": "35c81297ce93c34405f579a44b2d192f",
             "found_at": "2025-10-18T03:20:41.513796+00:00"
+          },
+          {
+            "firmware": "A166USQS3CYJ1/A166UOYN3CYJ1/A166USQS3CYJ1",
+            "md5": "893e8e14b7068b6c186afaf21d7b6b3b",
+            "found_at": "2025-10-23T12:45:10.034227553+00:00"
           }
         ]
       }
@@ -2864,6 +2869,11 @@
             "firmware": "A5460ZCSGEYJ5/A5460CHCGEYJ5/A5460ZCSGEYJ5",
             "md5": "4c7b002fdf0736ddb8046b5f8235500c",
             "found_at": "2025-10-20T04:26:37.750609+00:00"
+          },
+          {
+            "firmware": "A5460ZCSFEYJ9/A5460CHCFEYJ9/A5460ZCSFEYJ9",
+            "md5": "710bc58191c1ea393b83519ada3eed3f",
+            "found_at": "2025-10-23T12:51:40.360206211+00:00"
           }
         ]
       }
@@ -9383,7 +9393,7 @@
     "name": "Galaxy M33 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M336BXXSDFYG2/M336BOXMDFYG2/M336BXXSDFYG2",
+        "latest_official": "M336BXXUDGYI6/M336BOXMDGYI6/M336BXXUDGYI6",
         "test_firmwares": [
           {
             "firmware": "M336BXXSDFYG2/M336BOXMDFYG2/M336BXXSDFYG2",
@@ -9409,6 +9419,26 @@
             "firmware": "M336BXXUDGYH5/M336BOXMDGYH5/M336BXXUDGYH5",
             "md5": "40946e39ac9b9b6e630271bcc39b5498",
             "found_at": "2025-10-18T03:32:31.132888+00:00"
+          },
+          {
+            "firmware": "M336BXXUDGYI1/M336BOXMDGYI1/M336BXXUDGYI1",
+            "md5": "2bc20b6dd852cad6c4d67901d6574d27",
+            "found_at": "2025-10-23T12:42:45.384128195+00:00"
+          },
+          {
+            "firmware": "M336BXXUDGYI4/M336BOXMDGYI4/M336BXXUDGYI4",
+            "md5": "248711d9093b618c96082842248f140b",
+            "found_at": "2025-10-23T12:42:45.389396625+00:00"
+          },
+          {
+            "firmware": "M336BXXUDGYI5/M336BOXMDGYI5/M336BXXUDGYI5",
+            "md5": "be28ef76ba808030e62bebb127d1aa51",
+            "found_at": "2025-10-23T12:42:45.390309657+00:00"
+          },
+          {
+            "firmware": "M336BXXUDGYI6/M336BOXMDGYI6/M336BXXUDGYI6",
+            "md5": "6a631d25d01402f1e6612c5a3219c6c4",
+            "found_at": "2025-10-23T12:42:45.390849268+00:00"
           }
         ]
       },
@@ -9733,7 +9763,7 @@
     "name": "Galaxy Watch4 Classic",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "R8950ZCU1IYH1/R8950CHC1IYH1/R8950ZCU1IYH1",
+        "latest_official": "R8950ZCU1IYI1/R8950CHC1IYI1/R8950ZCU1IYI1",
         "test_firmwares": [
           {
             "firmware": "R8950ZCU1IYB3/R8950CHC1IYB3/R8950ZCU1IYB3",
@@ -9844,6 +9874,16 @@
             "firmware": "R8950ZCU1JYI6/R8950CHC1JYI6/R8950ZCU1JYI6",
             "md5": "e26fe5df586912684f36f541fd676e7c",
             "found_at": "2025-10-18T03:37:05.881386+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYJ1/R8950CHC1JYJ1/R8950ZCU1JYJ1",
+            "md5": "18bdff8ef699d64f7ce931746f77765f",
+            "found_at": "2025-10-23T12:49:24.795715500+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYJ4/R8950CHC1JYJ4/R8950ZCU1JYJ4",
+            "md5": "5437d257f2b89d99c8d0957221684918",
+            "found_at": "2025-10-23T12:49:24.800000020+00:00"
           }
         ]
       }

@@ -3074,6 +3074,11 @@
             "firmware": "A556BXXUACYI9/A556BOXMACYI9/A556BXXUACYI8",
             "md5": "dc7813cb4c311addef9c694d1ab7898f",
             "found_at": "2025-10-18T03:21:42.954429+00:00"
+          },
+          {
+            "firmware": "A556BXXSACYJ2/A556BOXMACYJ2/A556BXXSACYJ2",
+            "md5": "fe4217fb5f9bd191b9ee987ac5e18883",
+            "found_at": "2025-10-23T06:41:35.970285737+00:00"
           }
         ]
       }
@@ -8989,6 +8994,11 @@
             "firmware": "G990BXXUGIYJ1/G990BOXMGIYJ1/G990BXXUGIYJ1",
             "md5": "3868dfc22a9a57f9ccf7159f3134bc99",
             "found_at": "2025-10-18T03:28:53.334577+00:00"
+          },
+          {
+            "firmware": "G990BXXSGIYJ2/G990BOXMGIYJ2/G990BXXUGIYJ1",
+            "md5": "d531735a7c0ea0e9c821c348a547d7f3",
+            "found_at": "2025-10-23T06:35:04.879396636+00:00"
           }
         ]
       }

@@ -783,7 +783,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A156U1UES7CYF1/A156U1OYM7CYF1/A156U1UES7CYF1",
+        "latest_official": "A156U1UEU7DYIB/A156U1OYM7DYIB/A156U1UEU7DYIB",
         "test_firmwares": [
           {
             "firmware": "A156U1UES7CYF1/A156U1OYM7CYF1/A156U1UES7CYF1",
@@ -799,6 +799,61 @@
             "firmware": "A156U1UEU7DYG7/A156U1OYM7DYG7/A156U1UEU7DYG7",
             "md5": "cbba71043b4ecf3baf8b76ab834f5545",
             "found_at": "2025-10-18T03:20:16.578924+00:00"
+          },
+          {
+            "firmware": "A156U1UES7DYJ1/A156U1OYM7DYJ1/A156U1UES7DYJ1",
+            "md5": "542572cdae4029d6b6665fc26591e4ee",
+            "found_at": "2025-10-23T20:23:39.224260146+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYH1/A156U1OYM7DYH1/A156U1UEU7DYH1",
+            "md5": "99a46b5cb1221a4d49633c343e97c00f",
+            "found_at": "2025-10-23T20:23:39.925202504+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYH3/A156U1OYM7DYH3/A156U1UEU7DYH3",
+            "md5": "81834e49e7480c044718c6323ebf443f",
+            "found_at": "2025-10-23T20:23:39.926045652+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYH6/A156U1OYM7DYH6/A156U1UEU7DYH6",
+            "md5": "13b8818cfeb3d693952d90098c28ee28",
+            "found_at": "2025-10-23T20:23:39.927310237+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYI1/A156U1OYM7DYI1/A156U1UEU7DYI1",
+            "md5": "af8b5a6e03feddc6198cf698d11c0d97",
+            "found_at": "2025-10-23T20:23:39.940988565+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYI2/A156U1OYM7DYI2/A156U1UEU7DYI2",
+            "md5": "e746e350961c57af4724852a678445e1",
+            "found_at": "2025-10-23T20:23:39.941396866+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYI4/A156U1OYM7DYI4/A156U1UEU7DYI4",
+            "md5": "2948d9fb65d44a895c3e0321f03dd2ed",
+            "found_at": "2025-10-23T20:23:39.942212777+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYI6/A156U1OYM7DYI6/A156U1UEU7DYI6",
+            "md5": "50f30673c0fd772594a744ff541ca092",
+            "found_at": "2025-10-23T20:23:39.943008926+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYI7/A156U1OYM7DYI7/A156U1UEU7DYI7",
+            "md5": "ef4796db7f4017b5036b2cb1c38112eb",
+            "found_at": "2025-10-23T20:23:39.943419933+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYIA/A156U1OYM7DYIA/A156U1UEU7DYIA",
+            "md5": "e3c3470d50aa1101c5fba7f07cc26403",
+            "found_at": "2025-10-23T20:23:39.944654173+00:00"
+          },
+          {
+            "firmware": "A156U1UEU7DYIB/A156U1OYM7DYIB/A156U1UEU7DYIB",
+            "md5": "4aecc0638f45fea26110b50d4e93eadf",
+            "found_at": "2025-10-23T20:23:39.945069886+00:00"
           }
         ]
       }
@@ -16819,6 +16874,11 @@
             "firmware": "S931NKSU6CYJC/S931NOKR6CYJC/S931NKSU6CYJB",
             "md5": "9699fa67ebdc14d012658e3d23b81425",
             "found_at": "2025-10-18T03:33:15.162682+00:00"
+          },
+          {
+            "firmware": "S931NKSU6CYJH/S931NOKR6CYJH/S931NKSU6CYJH",
+            "md5": "f09f7e29a9da9f2843c9f44f79d068b0",
+            "found_at": "2025-10-23T20:29:28.020969300+00:00"
           }
         ]
       }
@@ -22259,6 +22319,11 @@
             "firmware": "X826BXXS4CYJ3/X826BOXM4CYJ3/X826BXXS4CYJ3",
             "md5": "2aa91e9606dbfe680e5a83805e1a362d",
             "found_at": "2025-10-22T18:38:48.741089544+00:00"
+          },
+          {
+            "firmware": "X826BXXU4CYJ4/X826BOXM4CYJ4/X826BXXU4CYJ4",
+            "md5": "71126524d08a3326067420c4172acc16",
+            "found_at": "2025-10-23T20:23:55.110246391+00:00"
           }
         ]
       }

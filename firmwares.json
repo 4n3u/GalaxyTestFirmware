@@ -474,6 +474,11 @@
             "firmware": "A146U1UEUGEYJ5/A146U1OYMGEYJ5/A146U1UEUGEYJ5",
             "md5": "4c6da32986bb50728046ecf5b47eb922",
             "found_at": "2025-10-24T16:27:02.564987671+00:00"
+          },
+          {
+            "firmware": "A146U1UEUGEYJ6/A146U1OYMGEYJ6/A146U1UEUGEYJ6",
+            "md5": "89cd55a7a1d81d2c4e4b83311249abf8",
+            "found_at": "2025-10-24T18:29:21.632502098+00:00"
           }
         ]
       }
@@ -11354,6 +11359,11 @@
             "firmware": "S731U1UEU2AYJ3/S731U1OYM2AYJ3/S731U1UEU2AYJ3",
             "md5": "4661e0726f8f26d98902fd7ebd6bcacb",
             "found_at": "2025-10-22T16:01:12.768200096+00:00"
+          },
+          {
+            "firmware": "S731U1UES2AYJ4/S731U1OYM2AYJ4/S731U1UES2AYJ4",
+            "md5": "2739310fce1996d0abfb84c3c2946470",
+            "found_at": "2025-10-24T18:34:20.093839327+00:00"
           }
         ]
       }

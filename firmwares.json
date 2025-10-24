@@ -419,6 +419,11 @@
             "firmware": "A146PXXUEEYJ4/A146POXMEEYJ4/A146PXXUEEYJ3",
             "md5": "ec6041add2185778299ac79eb38a2ee4",
             "found_at": "2025-10-21T12:40:24.848472+00:00"
+          },
+          {
+            "firmware": "A146PXXUEEYJ6/A146POXMEEYJ6/A146PXXUEEYJ5",
+            "md5": "f362b56928691f88593ca26b954e27b9",
+            "found_at": "2025-10-24T06:30:35.788136906+00:00"
           }
         ]
       },
@@ -19854,6 +19859,11 @@
             "firmware": "X216RXXU4BYJA/X216ROXM4BYJA/X216RXXU4BYJA",
             "md5": "3458756baf8509be839ae31320a5ae69",
             "found_at": "2025-10-20T16:39:28.573311+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYJB/X216ROXM4BYJB/X216RXXU4BYJB",
+            "md5": "cccca823fcfaaea8bd743bcf03e11d30",
+            "found_at": "2025-10-24T06:30:03.583494916+00:00"
           }
         ]
       }

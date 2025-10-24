@@ -17174,6 +17174,11 @@
             "firmware": "S931U1UEU6CYJC/S931U1OYM6CYJC/S931U1UEU6CYJC",
             "md5": "8a808b3fb09081edcdf7034e0d1c149e",
             "found_at": "2025-10-18T03:28:46.163030+00:00"
+          },
+          {
+            "firmware": "S931U1UEU6CYJH/S931U1OYM6CYJH/S931U1UEU6CYJH",
+            "md5": "9f363dfdcb79a1cefa17a49c87867522",
+            "found_at": "2025-10-24T04:33:13.859338036+00:00"
           }
         ]
       }
@@ -17909,6 +17914,11 @@
             "firmware": "S936U1UEU6CYJC/S936U1OYM6CYJC/S936U1UEU6CYJC",
             "md5": "8cab26cbf6f21d2b3fc84aee1680841a",
             "found_at": "2025-10-18T03:30:00.724514+00:00"
+          },
+          {
+            "firmware": "S936U1UEU6CYJH/S936U1OYM6CYJH/S936U1UEU6CYJH",
+            "md5": "b5a47aa71a2601e4cd90db70eded981a",
+            "found_at": "2025-10-24T04:34:33.289973904+00:00"
           }
         ]
       }
@@ -18439,6 +18449,11 @@
             "firmware": "S937U1UEU3CYJB/S937U1OYM3CYJB/S937U1UEU3CYJB",
             "md5": "aecc3e3b18ac62719bd8056d3e0a4de0",
             "found_at": "2025-10-18T03:29:03.264556+00:00"
+          },
+          {
+            "firmware": "S937U1UEU3CYJH/S937U1OYM3CYJH/S937U1UEU3CYJH",
+            "md5": "ca08b819b2a966ca68c0eebd4e0e4255",
+            "found_at": "2025-10-24T04:33:34.324538328+00:00"
           }
         ]
       }
@@ -20274,6 +20289,11 @@
             "firmware": "X406BXXU1BYI7/X406BOXM1BYI7/X406BXXU1BYI8",
             "md5": "eea700393d65f45f256d43fe4086746c",
             "found_at": "2025-10-22T16:35:03.376249200+00:00"
+          },
+          {
+            "firmware": "X406BXXS2BYJ4/X406BOXM2BYJ4/X406BXXS2BYJ4",
+            "md5": "7fc8bcf0422a65cbe27ce84a4175339b",
+            "found_at": "2025-10-24T04:26:08.482454710+00:00"
           }
         ]
       }

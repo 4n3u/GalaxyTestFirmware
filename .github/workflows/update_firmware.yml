@@ -31,7 +31,7 @@ jobs:
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'feat: Update firmwares.json'
+          commit_message: 'Update firmwares.json'
           file_pattern: 'firmwares.json'
           commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
 

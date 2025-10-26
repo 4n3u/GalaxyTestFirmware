@@ -2,7 +2,6 @@ name: Update Firmware & Deploy Pages
 
 on:
   schedule:
-    # Runs every 2 hours
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
@@ -24,9 +23,6 @@ jobs:
       - name: Copy results to repository
         run: cp /home/user/actions-runner/firmwares.json ./firmwares.json
 
-      - name: Show git status
-        run: git status
-
       - name: Configure git
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -37,6 +33,7 @@ jobs:
         with:
           commit_message: 'feat: Update firmwares.json'
           file_pattern: 'firmwares.json'
+          commit_author: 'github-actions[bot] <github-actions[bot]@users.noreply.github.com>'
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

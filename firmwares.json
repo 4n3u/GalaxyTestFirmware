@@ -5749,6 +5749,11 @@
             "firmware": "F766BXXU5AYJ5/F766BOXM5AYJ5/F766BXXU5AYJ5",
             "md5": "ccdb642893c5ec758f75dab763ec6b1e",
             "found_at": "2025-10-18T03:34:49.671751+00:00"
+          },
+          {
+            "firmware": "F766BXXU6AYJ7/F766BOXM6AYJ7/F766BXXU6AYJ7",
+            "md5": "34f611bb59282d66302c0b5f730ea2c3",
+            "found_at": "2025-10-27T04:39:35.349751762+00:00"
           }
         ]
       }
@@ -8104,6 +8109,11 @@
             "firmware": "F966BXXU5AYJ5/F966BOXM5AYJ5/F966BXXU5AYJ5",
             "md5": "9dd99d712d3127c0fbae236d030cd935",
             "found_at": "2025-10-18T03:36:42.815972+00:00"
+          },
+          {
+            "firmware": "F966BXXU6AYJ7/F966BOXM6AYJ7/F966BXXU6AYJ7",
+            "md5": "8d92808c8ddc5e475800609c0d7a3356",
+            "found_at": "2025-10-27T04:41:13.234175248+00:00"
           }
         ]
       }

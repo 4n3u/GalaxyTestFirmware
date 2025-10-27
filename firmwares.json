@@ -19999,6 +19999,11 @@
             "firmware": "X115XXU6DYJ8/X115OXM6DYJ8/X115XXU6DYJ8",
             "md5": "8d973a0f6c41342745f639fc9321063a",
             "found_at": "2025-10-25T03:03:34.028983073+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYJ9/X115OXM6DYJ9/X115XXU6DYJ9",
+            "md5": "3a677fb47ccc5528da5fcb15768aa4f3",
+            "found_at": "2025-10-27T16:27:07.957813070+00:00"
           }
         ]
       }
@@ -20069,6 +20074,11 @@
             "firmware": "X216RXXU4BYJB/X216ROXM4BYJB/X216RXXU4BYJB",
             "md5": "cccca823fcfaaea8bd743bcf03e11d30",
             "found_at": "2025-10-24T06:30:03.583494916+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYJC/X216ROXM4BYJC/X216RXXU4BYJC",
+            "md5": "aadd7fa3d641090cab5d9963099b0bd3",
+            "found_at": "2025-10-27T16:27:30.537119379+00:00"
           }
         ]
       }

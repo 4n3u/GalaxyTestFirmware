@@ -9588,7 +9588,7 @@
         ]
       },
       "TGY": {
-        "latest_official": "M336BZHSDFYG2/M336BOZSDFYG2/M336BZHSDFYG2",
+        "latest_official": "M336BZHUDGYI6/M336BOZSDGYI6/M336BZHUDGYI6",
         "test_firmwares": [
           {
             "firmware": "M336BZHSDFYG2/M336BOZSDFYG2/M336BZHSDFYG2",
@@ -9619,6 +9619,41 @@
             "firmware": "M336BZHUDGYH5/M336BOZSDGYH5/M336BZHUDGYH5",
             "md5": "b25f99eb9d51e9dcb9df808871cd4dfb",
             "found_at": "2025-10-18T03:32:29.529080+00:00"
+          },
+          {
+            "firmware": "M336BZHSDGYJ1/M336BOZSDGYJ1/M336BZHUDGYI6",
+            "md5": "836c16412ac1e438e11ae11cdf3855d6",
+            "found_at": "2025-10-27T08:29:00.217060382+00:00"
+          },
+          {
+            "firmware": "M336BZHUDGYI1/M336BOZSDGYI1/M336BZHUDGYI1",
+            "md5": "860f0a7f53e1a4ff28a8b7fee26d6f04",
+            "found_at": "2025-10-27T08:29:00.939732100+00:00"
+          },
+          {
+            "firmware": "M336BZHUDGYI2/M336BOZSDGYI2/M336BZHUDGYI2",
+            "md5": "2d7238d3987a53114731bcdba950eb1f",
+            "found_at": "2025-10-27T08:29:00.940140111+00:00"
+          },
+          {
+            "firmware": "M336BZHUDGYI3/M336BOZSDGYI3/M336BZHUDGYI3",
+            "md5": "8c70333cade4f05235349b5d2f34a63f",
+            "found_at": "2025-10-27T08:29:00.940532337+00:00"
+          },
+          {
+            "firmware": "M336BZHUDGYI4/M336BOZSDGYI4/M336BZHUDGYI4",
+            "md5": "5759fb191331d11d1f2e238553d62898",
+            "found_at": "2025-10-27T08:29:00.940934939+00:00"
+          },
+          {
+            "firmware": "M336BZHUDGYI5/M336BOZSDGYI5/M336BZHUDGYI5",
+            "md5": "2986e3c4adfa514e01994bb2e0a2deb4",
+            "found_at": "2025-10-27T08:29:00.941333900+00:00"
+          },
+          {
+            "firmware": "M336BZHUDGYI6/M336BOZSDGYI6/M336BZHUDGYI6",
+            "md5": "e34b505a9db34a457bd48934a391cff4",
+            "found_at": "2025-10-27T08:29:00.941733121+00:00"
           }
         ]
       }
@@ -10029,6 +10064,11 @@
             "firmware": "R8950ZCU1JYJ4/R8950CHC1JYJ4/R8950ZCU1JYJ4",
             "md5": "5437d257f2b89d99c8d0957221684918",
             "found_at": "2025-10-23T12:49:24.800000020+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYJ5/R8950CHC1JYJ5/R8950ZCU1JYJ5",
+            "md5": "39626b2747aab61b417b5e898789773e",
+            "found_at": "2025-10-27T08:34:15.459129630+00:00"
           }
         ]
       }
@@ -20469,6 +20509,11 @@
             "firmware": "X406BXXS2BYJ4/X406BOXM2BYJ4/X406BXXS2BYJ4",
             "md5": "7fc8bcf0422a65cbe27ce84a4175339b",
             "found_at": "2025-10-24T04:26:08.482454710+00:00"
+          },
+          {
+            "firmware": "X406BXXS2BYJ5/X406BOXM2BYJ5/X406BXXS2BYJ5",
+            "md5": "43d56af928040328d14f124374a0212c",
+            "found_at": "2025-10-27T08:30:38.118786667+00:00"
           }
         ]
       }

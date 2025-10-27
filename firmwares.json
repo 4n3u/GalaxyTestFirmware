@@ -8453,7 +8453,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G736U1UESAFYI2/G736U1OYMAFYI2/G736U1UESAFYI2",
+        "latest_official": "G736U1UESAFYJ1/G736U1OYMAFYJ1/G736U1UESAFYJ1",
         "test_firmwares": [
           {
             "firmware": "G736U1UESAFYF2/G736U1OYMAFYF2/G736U1UESAFYF2",
@@ -8579,6 +8579,11 @@
             "firmware": "G736U1UEUAGYJ8/G736U1OYMAGYJ8/G736U1UEUAGYJ8",
             "md5": "4a1ed210a0a307332325eea319299fe1",
             "found_at": "2025-10-22T16:01:28.908122996+00:00"
+          },
+          {
+            "firmware": "G736U1UEUAGYJA/G736U1OYMAGYJA/G736U1UEUAGYJA",
+            "md5": "8bbf0caf4e894beaa3530ff459e5f3da",
+            "found_at": "2025-10-27T12:54:09.996634866+00:00"
           }
         ]
       }

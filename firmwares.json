@@ -5569,6 +5569,11 @@
             "firmware": "F761BXXU5AYJ5/F761BOXM5AYJ5/F761BXXU5AYJ5",
             "md5": "3b958b6a90a3b41b9a3e19381825293c",
             "found_at": "2025-10-18T03:27:17.193658+00:00"
+          },
+          {
+            "firmware": "F761BXXU6AYJ7/F761BOXM6AYJ7/F761BXXU6AYJ7",
+            "md5": "8bb550333ae1c49b0f8fec69ca312625",
+            "found_at": "2025-10-27T03:24:10.090793733+00:00"
           }
         ]
       }

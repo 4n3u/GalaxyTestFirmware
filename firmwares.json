@@ -5524,6 +5524,11 @@
             "firmware": "F7610ZCU5AYJ5/F7610CHC5AYJ5/F7610ZCU5AYJ1",
             "md5": "e1b6e36207be2735fad478c0007062bf",
             "found_at": "2025-10-18T03:27:12.635544+00:00"
+          },
+          {
+            "firmware": "F7610ZCU6AYJ7/F7610CHC6AYJ7/F7610ZCU6AYJ7",
+            "md5": "893d8fe7bb1f4a6ad29f60cbd6795bda",
+            "found_at": "2025-10-27T06:44:04.783331388+00:00"
           }
         ]
       }
@@ -5583,7 +5588,7 @@
     "name": "Galaxy Flip7 FE",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F761NKSS4AYI2/F761NOKR4AYI2/F761NKSU4AYHJ",
+        "latest_official": "F761NKSS5AYJ3/F761NOKR5AYJ3/F761NKSS5AYI5",
         "test_firmwares": [
           {
             "firmware": "F761NKSS5AYI5/F761NOKR5AYI5/F761NKSS5AYI5",
@@ -5614,6 +5619,11 @@
             "firmware": "F761NKSS4AYI2/F761NOKR4AYI2/F761NKSU4AYHJ",
             "md5": "8613551e658e8904f1e3315e55cb5665",
             "found_at": "2025-10-18T04:28:16.231372+00:00"
+          },
+          {
+            "firmware": "F761NKSU6AYJ7/F761NOKR6AYJ7/F761NKSU6AYJ7",
+            "md5": "3670a2c4eac7859ef42dcc46d5b98464",
+            "found_at": "2025-10-27T06:44:11.070520981+00:00"
           }
         ]
       }
@@ -5659,6 +5669,11 @@
             "firmware": "F761U1UEU5AYJ5/F761U1OYM5AYJ5/F761U1UEU5AYJ5",
             "md5": "47dd76541a983a47ab7574ed3782dd15",
             "found_at": "2025-10-18T03:27:23.288547+00:00"
+          },
+          {
+            "firmware": "F761U1UEU6AYJ7/F761U1OYM6AYJ7/F761U1UEU6AYJ7",
+            "md5": "1b96fce1188122417baf4947beb06412",
+            "found_at": "2025-10-27T06:44:15.811514443+00:00"
           }
         ]
       }

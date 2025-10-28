@@ -9463,7 +9463,7 @@
     "name": "Galaxy M15 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M156BXXS7BYH1/M156BOXM7BYH1/M156BXXS7BYH1",
+        "latest_official": "M156BXXU7CYJ5/M156BOXM7CYJ5/M156BXXU7CYJ5",
         "test_firmwares": [
           {
             "firmware": "M156BXXS7BYH1/M156BOXM7BYH1/M156BXXS7BYH1",
@@ -9514,6 +9514,26 @@
             "firmware": "M156BXXU7CYIA/M156BOXM7CYIA/M156BXXU7CYIA",
             "md5": "3ddad0c616d4ecc963a14faa36dd5996",
             "found_at": "2025-10-18T03:31:33.764071+00:00"
+          },
+          {
+            "firmware": "M156BXXS7CYJ1/M156BOXM7CYJ1/M156BXXS7CYJ1",
+            "md5": "d25615c2ba36745a845d511eb8e781fe",
+            "found_at": "2025-10-28T14:21:53.688410362+00:00"
+          },
+          {
+            "firmware": "M156BXXS7CYJ2/M156BOXM7CYJ2/M156BXXS7CYJ2",
+            "md5": "1866172bd442e797316b3d8eacd91208",
+            "found_at": "2025-10-28T14:21:53.689115217+00:00"
+          },
+          {
+            "firmware": "M156BXXS7CYJ4/M156BOXM7CYJ4/M156BXXS7CYJ4",
+            "md5": "f58756e748b4d704ff01a56ae519a3a2",
+            "found_at": "2025-10-28T14:21:53.690092738+00:00"
+          },
+          {
+            "firmware": "M156BXXU7CYJ5/M156BOXM7CYJ5/M156BXXU7CYJ5",
+            "md5": "9f54a62a5ded2047f103894c6cfa81af",
+            "found_at": "2025-10-28T14:21:56.655536808+00:00"
           }
         ]
       }

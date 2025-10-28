@@ -1309,6 +1309,11 @@
             "firmware": "A176BXXU2BYID/A176BOXM2BYID/A176BXXU2BYID",
             "md5": "7036033c2a8d9474e29fd53868a7a290",
             "found_at": "2025-10-18T03:21:02.383415+00:00"
+          },
+          {
+            "firmware": "A176BXXS3BYJ1/A176BOXM3BYJ1/A176BXXS3BYJ1",
+            "md5": "76737a1a4cd12b529825fa47dbe333bb",
+            "found_at": "2025-10-28T03:11:32.546029380+00:00"
           }
         ]
       }

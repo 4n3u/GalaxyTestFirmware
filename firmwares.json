@@ -5483,7 +5483,7 @@
     "name": "Galaxy Flip7 FE",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7610ZCU4AYI3/F7610CHC4AYI3/F7610ZCU4AYHJ",
+        "latest_official": "F7610ZCS5AYJ4/F7610CHC5AYJ4/F7610ZCS5AYI5",
         "test_firmwares": [
           {
             "firmware": "F7610ZCS5AYI5/F7610CHC5AYI5/F7610ZCS5AYI5",
@@ -5539,6 +5539,11 @@
             "firmware": "F7610ZCU6AYJ7/F7610CHC6AYJ7/F7610ZCU6AYJ7",
             "md5": "893d8fe7bb1f4a6ad29f60cbd6795bda",
             "found_at": "2025-10-27T06:44:04.783331388+00:00"
+          },
+          {
+            "firmware": "F7610ZCU6AYJ9/F7610CHC6AYJ9/F7610ZCU6AYJ7",
+            "md5": "af4cfcd362b0eff1ef5e95a59452b9ba",
+            "found_at": "2025-10-29T14:25:41.459045871+00:00"
           }
         ]
       }
@@ -8628,7 +8633,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G766BXXS3AYI1/G766BOXM3AYI1/G766BXXS3AYI1",
+        "latest_official": "G766BXXS3BYJ1/G766BOXM3BYJ1/G766BXXS3BYJ1",
         "test_firmwares": [
           {
             "firmware": "G766BXXS3AYI1/G766BOXM3AYI1/G766BXXS3AYI1",
@@ -8669,6 +8674,11 @@
             "firmware": "G766BXXU3BYI8/G766BOXM3BYI8/G766BXXU3BYI8",
             "md5": "c44df9759a1303de8bb94ec3abc92a9b",
             "found_at": "2025-10-18T03:36:34.167716+00:00"
+          },
+          {
+            "firmware": "G766BXXS4BYJ2/G766BOXM4BYJ2/G766BXXS4BYJ2",
+            "md5": "532ffd048029d58c4f34882feb3c762b",
+            "found_at": "2025-10-29T14:34:29.833397485+00:00"
           }
         ]
       }

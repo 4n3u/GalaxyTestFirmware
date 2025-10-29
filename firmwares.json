@@ -5548,7 +5548,7 @@
     "name": "Galaxy Flip7 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F761BXXU4AYI1/F761BOXM4AYI1/F761BXXU4AYI1",
+        "latest_official": "F761BXXS5AYJ3/F761BOXM5AYJ3/F761BXXS5AYJ3",
         "test_firmwares": [
           {
             "firmware": "F761BXXS5AYI5/F761BOXM5AYI5/F761BXXS5AYI5",
@@ -5589,6 +5589,11 @@
             "firmware": "F761BXXU6AYJ7/F761BOXM6AYJ7/F761BXXU6AYJ7",
             "md5": "8bb550333ae1c49b0f8fec69ca312625",
             "found_at": "2025-10-27T03:24:10.090793733+00:00"
+          },
+          {
+            "firmware": "F761BXXU6AYJ9/F761BOXM6AYJ9/F761BXXU6AYJ9",
+            "md5": "ceb4ed673582f0496fa2fff299dc9d0d",
+            "found_at": "2025-10-29T08:42:16.592451908+00:00"
           }
         ]
       }
@@ -5738,7 +5743,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F766BXXU4AYI1/F766BOXM4AYI1/F766BXXU4AYI1",
+        "latest_official": "F766BXXS5AYJ3/F766BOXM5AYJ3/F766BXXS5AYJ3",
         "test_firmwares": [
           {
             "firmware": "F766BXXS5AYI5/F766BOXM5AYI5/F766BXXS5AYI5",
@@ -5779,6 +5784,11 @@
             "firmware": "F766BXXU6AYJ7/F766BOXM6AYJ7/F766BXXU6AYJ7",
             "md5": "34f611bb59282d66302c0b5f730ea2c3",
             "found_at": "2025-10-27T04:39:35.349751762+00:00"
+          },
+          {
+            "firmware": "F766BXXU6AYJ9/F766BOXM6AYJ9/F766BXXU6AYJ9",
+            "md5": "dcba1088c18ff47335a9c84e65853e3d",
+            "found_at": "2025-10-29T08:32:34.879121634+00:00"
           }
         ]
       }
@@ -8098,7 +8108,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F966BXXU4AYI1/F966BOXM4AYI1/F966BXXU4AYI1",
+        "latest_official": "F966BXXS5AYJ3/F966BOXM5AYJ3/F966BXXS5AYJ3",
         "test_firmwares": [
           {
             "firmware": "F966BXXS5AYI5/F966BOXM5AYI5/F966BXXS5AYI5",
@@ -8139,6 +8149,11 @@
             "firmware": "F966BXXU6AYJ7/F966BOXM6AYJ7/F966BXXU6AYJ7",
             "md5": "8d92808c8ddc5e475800609c0d7a3356",
             "found_at": "2025-10-27T04:41:13.234175248+00:00"
+          },
+          {
+            "firmware": "F966BXXU6AYJ9/F966BOXM6AYJ9/F966BXXU6AYJ9",
+            "md5": "d4afb79aa28c963d0b376a32c3847066",
+            "found_at": "2025-10-29T08:35:00.804774440+00:00"
           }
         ]
       }

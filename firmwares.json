@@ -213,7 +213,7 @@
     "name": "Galaxy A13 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A136U1UESEDYG2/A136U1OYMEDYG2/A136U1UESEDYG2",
+        "latest_official": "A136U1UESFDYJ1/A136U1OYMFDYJ1/A136U1UESFDYJ1",
         "test_firmwares": [
           {
             "firmware": "A136U1UESEDYG1/A136U1OYMEDYG1/A136U1UESEDYG1",
@@ -224,6 +224,11 @@
             "firmware": "A136U1UESEDYG2/A136U1OYMEDYG2/A136U1UESEDYG2",
             "md5": "0a503485f46c46b29ed71809aefe031a",
             "found_at": "2025-10-18T03:23:40.308755+00:00"
+          },
+          {
+            "firmware": "A136U1UESFDYJ1/A136U1OYMFDYJ1/A136U1UESFDYJ1",
+            "md5": "9f73b9e53a9db6986a5c10e2f21493eb",
+            "found_at": "2025-10-29T16:28:52.762116514+00:00"
           }
         ]
       }

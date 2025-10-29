@@ -5639,6 +5639,11 @@
             "firmware": "F761NKSU6AYJ7/F761NOKR6AYJ7/F761NKSU6AYJ7",
             "md5": "3670a2c4eac7859ef42dcc46d5b98464",
             "found_at": "2025-10-27T06:44:11.070520981+00:00"
+          },
+          {
+            "firmware": "F761NKSU6AYJ9/F761NOKR6AYJ9/F761NKSU6AYJ7",
+            "md5": "88ba9c6cca7c8df9a898197c73e2a9a3",
+            "found_at": "2025-10-29T10:26:33.931779007+00:00"
           }
         ]
       }
@@ -5648,7 +5653,7 @@
     "name": "Galaxy Flip7 FE",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F761U1UEU4AYI1/F761U1OYM4AYI1/F761U1UEU4AYI1",
+        "latest_official": "F761U1UES5AYJ3/F761U1OYM5AYJ3/F761U1UES5AYJ3",
         "test_firmwares": [
           {
             "firmware": "F761U1UES5AYI5/F761U1OYM5AYI5/F761U1UES5AYI5",
@@ -5689,6 +5694,11 @@
             "firmware": "F761U1UEU6AYJ7/F761U1OYM6AYJ7/F761U1UEU6AYJ7",
             "md5": "1b96fce1188122417baf4947beb06412",
             "found_at": "2025-10-27T06:44:15.811514443+00:00"
+          },
+          {
+            "firmware": "F761U1UEU6AYJ9/F761U1OYM6AYJ9/F761U1UEU6AYJ9",
+            "md5": "c83462257a4d390f9dc8850519d8259f",
+            "found_at": "2025-10-29T10:26:41.977585002+00:00"
           }
         ]
       }
@@ -9758,7 +9768,7 @@
     "name": "Galaxy M35 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M356BXXS5BYG1/M356BOXM5BYG1/M356BXXS5BYG1",
+        "latest_official": "M356BXXS5CYJ2/M356BOXM5CYJ2/M356BXXU5CYI8",
         "test_firmwares": [
           {
             "firmware": "M356BXXS5BYG1/M356BOXM5BYG1/M356BXXS5BYG1",
@@ -9789,6 +9799,31 @@
             "firmware": "M356BXXU5CYH5/M356BOXM5CYH5/M356BXXU5CYH5",
             "md5": "c691716b88d293bc8547ace7c246ba5b",
             "found_at": "2025-10-18T03:32:43.850320+00:00"
+          },
+          {
+            "firmware": "M356BXXS5CYJ1/M356BOXM5CYJ1/M356BXXS5CYJ1",
+            "md5": "d2c94742e5311140665ecd613da65661",
+            "found_at": "2025-10-29T10:23:46.584496532+00:00"
+          },
+          {
+            "firmware": "M356BXXS5CYJ2/M356BOXM5CYJ2/M356BXXU5CYI8",
+            "md5": "c004cb9bb80d6725a9579772a4513191",
+            "found_at": "2025-10-29T10:23:46.585037455+00:00"
+          },
+          {
+            "firmware": "M356BXXU5CYI2/M356BOXM5CYI2/M356BXXU5CYI2",
+            "md5": "51ba7e9eb1f26b50ea1a4f61805f5c84",
+            "found_at": "2025-10-29T10:23:48.503422245+00:00"
+          },
+          {
+            "firmware": "M356BXXU5CYI6/M356BOXM5CYI6/M356BXXU5CYI6",
+            "md5": "7989e1e1e18f08cf0ecd5d03f52fc311",
+            "found_at": "2025-10-29T10:23:48.505178756+00:00"
+          },
+          {
+            "firmware": "M356BXXU5CYI8/M356BOXM5CYI8/M356BXXU5CYI8",
+            "md5": "c72c5b5482ab83f38ca0a29fb2ed2979",
+            "found_at": "2025-10-29T10:23:48.506194907+00:00"
           }
         ]
       }

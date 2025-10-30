@@ -1443,12 +1443,17 @@
     "name": "Galaxy A23 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A236U1UESBEYG2/A236U1OYMBEYG2/A236U1UESBEYG2",
+        "latest_official": "A236U1UESCEYJ2/A236U1OYMCEYJ2/A236U1UESCEYJ2",
         "test_firmwares": [
           {
             "firmware": "A236U1UESBEYG2/A236U1OYMBEYG2/A236U1UESBEYG2",
             "md5": "cd907a24abc260ec4845178ee58cb150",
             "found_at": "2025-10-18T03:22:26.300895+00:00"
+          },
+          {
+            "firmware": "A236U1UESCEYJ2/A236U1OYMCEYJ2/A236U1UESCEYJ2",
+            "md5": "d52bfb51d0d73a01943fbbcc6aa2c0d5",
+            "found_at": "2025-10-30T14:26:20.126892984+00:00"
           }
         ]
       }

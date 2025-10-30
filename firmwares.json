@@ -8803,12 +8803,17 @@
     "name": "Galaxy S20 FE 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "G7810ZCSFHYC1/G7810CHCFHYC1/G7810ZCSFHYC1",
+        "latest_official": "G7810ZCSHHYJ1/G7810CHCHHYJ1/G7810ZCSHHYJ1",
         "test_firmwares": [
           {
             "firmware": "G7810ZCSFHYC1/G7810CHCFHYC1/G7810ZCSFHYC1",
             "md5": "89852d08d4065bf5607bb74906300c96",
             "found_at": "2025-10-18T03:32:06.997825+00:00"
+          },
+          {
+            "firmware": "G7810ZCSHHYJ1/G7810CHCHHYJ1/G7810ZCSHHYJ1",
+            "md5": "7b3605267c79b869f168a5c335f396fe",
+            "found_at": "2025-10-30T08:31:51.043102565+00:00"
           }
         ]
       }

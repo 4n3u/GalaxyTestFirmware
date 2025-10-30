@@ -569,6 +569,11 @@
             "firmware": "A155FXXU7DYJ8/A155FOXM7DYJ8/A155FXXU7DYJ8",
             "md5": "2c774775afc7f5b3b014fdf906991125",
             "found_at": "2025-10-23T10:24:30.261482406+00:00"
+          },
+          {
+            "firmware": "A155FXXU7DYJ9/A155FOXM7DYJ9/A155FXXU7DYJ9",
+            "md5": "2d623e61a4da0831ac8ebe055eb69a72",
+            "found_at": "2025-10-30T03:14:46.891589297+00:00"
           }
         ]
       }
@@ -11368,7 +11373,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S731USQU1AYIB/S731UOYN1AYIB/S731USQU1AYIB",
+        "latest_official": "S731USQS2AYIF/S731UOYN2AYIF/S731USQS2AYIF",
         "test_firmwares": [
           {
             "firmware": "S731USQS2AYID/S731UOYN2AYID/S731USQS2AYID",
@@ -11444,6 +11449,11 @@
             "firmware": "S731USQU2AYJ3/S731UOYN2AYJ3/S731USQU2AYJ3",
             "md5": "5faafbc7ddb3e5fcd9b42e1b915e1c16",
             "found_at": "2025-10-21T03:16:10.803882+00:00"
+          },
+          {
+            "firmware": "S731USQU3AYJ5/S731UOYN3AYJ5/S731USQU3AYJ5",
+            "md5": "8abdfaea3345f32ac6ff482c3453c552",
+            "found_at": "2025-10-30T03:24:32.864800475+00:00"
           }
         ]
       }
@@ -20094,6 +20104,11 @@
             "firmware": "X115XXU6DYJ9/X115OXM6DYJ9/X115XXU6DYJ9",
             "md5": "3a677fb47ccc5528da5fcb15768aa4f3",
             "found_at": "2025-10-27T16:27:07.957813070+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYJA/X115OXM6DYJA/X115XXU6DYJA",
+            "md5": "1e6203aceac0e128ae9c0aa807e9617a",
+            "found_at": "2025-10-30T03:21:52.226790701+00:00"
           }
         ]
       }

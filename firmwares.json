@@ -3988,7 +3988,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F721NKSS6HYGB/F721NOKR6HYGB/F721NKSU6HYD2",
+        "latest_official": "F721NKSU6IYJ1/F721NOKR6IYJ1/F721NKSU6IYI2",
         "test_firmwares": [
           {
             "firmware": "F721NKSU6HYBG/F721NOKR6HYBG/F721NKSU6HYBG",
@@ -4109,6 +4109,46 @@
             "firmware": "F721NKSS6HYGB/F721NOKR6HYGB/F721NKSU6HYD2",
             "md5": "ac9b250e7edfef2f71c64aa370ca504d",
             "found_at": "2025-10-18T04:34:55.064342+00:00"
+          },
+          {
+            "firmware": "F721NKSU6IYI2/F721NOKR6IYI2/F721NKSU6IYI2",
+            "md5": "5ba31575e5fd62a05ffeadb2cd724adc",
+            "found_at": "2025-10-30T12:44:36.560499240+00:00"
+          },
+          {
+            "firmware": "F721NKSU6IYI6/F721NOKR6IYI6/F721NKSU6IYI2",
+            "md5": "d4447f5daf4fa00dc12b0576ecd66294",
+            "found_at": "2025-10-30T12:44:36.563964268+00:00"
+          },
+          {
+            "firmware": "F721NKSU6IYIA/F721NOKR6IYIA/F721NKSU6IYI2",
+            "md5": "15c13a97ed56538d4f01c9e9a92d0632",
+            "found_at": "2025-10-30T12:44:36.566253992+00:00"
+          },
+          {
+            "firmware": "F721NKSU6IYIB/F721NOKR6IYIB/F721NKSU6IYI2",
+            "md5": "00f9fee242d0689371d2d42ed3cd4e9d",
+            "found_at": "2025-10-30T12:44:36.566784748+00:00"
+          },
+          {
+            "firmware": "F721NKSU6IYIC/F721NOKR6IYIC/F721NKSU6IYI2",
+            "md5": "31901fb42553a0bf5d1cc4e6cf28741d",
+            "found_at": "2025-10-30T12:44:36.567313015+00:00"
+          },
+          {
+            "firmware": "F721NKSU6IYIE/F721NOKR6IYIE/F721NKSU6IYI2",
+            "md5": "b96cb94c168021d76dc45a84d6f20c4c",
+            "found_at": "2025-10-30T12:44:36.568273413+00:00"
+          },
+          {
+            "firmware": "F721NKSU6IYIF/F721NOKR6IYIF/F721NKSU6IYI2",
+            "md5": "957824d652a8c941de14d6d9a0d92b0b",
+            "found_at": "2025-10-30T12:44:36.568740883+00:00"
+          },
+          {
+            "firmware": "F721NKSU6IYJ1/F721NOKR6IYJ1/F721NKSU6IYI2",
+            "md5": "612bf6ef9be36254cc246d81426e75cc",
+            "found_at": "2025-10-30T12:44:36.592463515+00:00"
           }
         ]
       }
@@ -6348,7 +6388,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F936NKSS6HYGB/F936NOKR6HYGB/F936NKSU6HYD2",
+        "latest_official": "F936NKSU6IYJ1/F936NOKR6IYJ1/F936NKSU6IYI2",
         "test_firmwares": [
           {
             "firmware": "F936NKSU6HYBG/F936NOKR6HYBG/F936NKSU6HYBG",
@@ -6469,6 +6509,46 @@
             "firmware": "F936NKSS6HYGB/F936NOKR6HYGB/F936NKSU6HYD2",
             "md5": "37f7574a4048d820a2c999d7035a5dc2",
             "found_at": "2025-10-18T04:36:48.396938+00:00"
+          },
+          {
+            "firmware": "F936NKSU6IYI2/F936NOKR6IYI2/F936NKSU6IYI2",
+            "md5": "e7182622abcc3a2e0a696aefcc81820e",
+            "found_at": "2025-10-30T12:47:32.231713847+00:00"
+          },
+          {
+            "firmware": "F936NKSU6IYI6/F936NOKR6IYI6/F936NKSU6IYI2",
+            "md5": "d98281b3088131e2d5cecfdbc2d70fa5",
+            "found_at": "2025-10-30T12:47:32.233648145+00:00"
+          },
+          {
+            "firmware": "F936NKSU6IYIA/F936NOKR6IYIA/F936NKSU6IYI2",
+            "md5": "b87f464f772e1027462cd5c11a285845",
+            "found_at": "2025-10-30T12:47:32.239307541+00:00"
+          },
+          {
+            "firmware": "F936NKSU6IYIB/F936NOKR6IYIB/F936NKSU6IYI2",
+            "md5": "60d0a79e9e2f99f70d5ee6042f4f9ef1",
+            "found_at": "2025-10-30T12:47:32.240989727+00:00"
+          },
+          {
+            "firmware": "F936NKSU6IYIC/F936NOKR6IYIC/F936NKSU6IYI2",
+            "md5": "22fefd9fe87f893b3006d8f333408c9f",
+            "found_at": "2025-10-30T12:47:32.242833860+00:00"
+          },
+          {
+            "firmware": "F936NKSU6IYIE/F936NOKR6IYIE/F936NKSU6IYI2",
+            "md5": "242ec9743d4ca4267a26b999ea140d43",
+            "found_at": "2025-10-30T12:47:32.246372207+00:00"
+          },
+          {
+            "firmware": "F936NKSU6IYIF/F936NOKR6IYIF/F936NKSU6IYI2",
+            "md5": "910a0c111ae7a49cb3cfdd2a467808fc",
+            "found_at": "2025-10-30T12:47:32.247353228+00:00"
+          },
+          {
+            "firmware": "F936NKSU6IYJ1/F936NOKR6IYJ1/F936NKSU6IYI2",
+            "md5": "db7c9f736eb4bab202ded01dacf8c863",
+            "found_at": "2025-10-30T12:47:32.273829506+00:00"
           }
         ]
       }
@@ -9908,7 +9988,7 @@
     "name": "Galaxy M55 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M556EXXS4BYH2/M556EOXM4BYH2/M556EXXS4BYH2",
+        "latest_official": "M556EXXU4CYJ4/M556EOXM4CYJ4/M556EXXU4CYJ4",
         "test_firmwares": [
           {
             "firmware": "M556EXXS4BYH2/M556EOXM4BYH2/M556EXXS4BYH2",
@@ -10049,6 +10129,26 @@
             "firmware": "M556EXXU4CYIA/M556EOXM4CYIA/M556EXXU4CYIA",
             "md5": "d216abbe6685591758085a4bdb50de57",
             "found_at": "2025-10-18T03:28:42.235254+00:00"
+          },
+          {
+            "firmware": "M556EXXU4CYJ1/M556EOXM4CYJ1/M556EXXU4CYJ1",
+            "md5": "8f3de793b13643225ee4b7a347ce7a73",
+            "found_at": "2025-10-30T12:43:07.165268393+00:00"
+          },
+          {
+            "firmware": "M556EXXU4CYJ2/M556EOXM4CYJ2/M556EXXU4CYJ2",
+            "md5": "f8c4d3aa13938bd3929ff71284a5f490",
+            "found_at": "2025-10-30T12:43:07.165738644+00:00"
+          },
+          {
+            "firmware": "M556EXXU4CYJ3/M556EOXM4CYJ3/M556EXXU4CYJ3",
+            "md5": "653c321c2f8ba025abb9048059c041d2",
+            "found_at": "2025-10-30T12:43:07.167633292+00:00"
+          },
+          {
+            "firmware": "M556EXXU4CYJ4/M556EOXM4CYJ4/M556EXXU4CYJ4",
+            "md5": "06282279b20ad4e91c478028ff921964",
+            "found_at": "2025-10-30T12:43:07.168104511+00:00"
           }
         ]
       }
@@ -20414,6 +20514,11 @@
             "firmware": "X216BXXU9EYJC/X216BOXM9EYJC/X216BXXU9EYJC",
             "md5": "fe24697723f47960647d991ad70fe7c3",
             "found_at": "2025-10-30T10:23:38.564356211+00:00"
+          },
+          {
+            "firmware": "X216BXXU9EYJ2/X216BOXM9EYJ2/X216BXXU9EYJ6",
+            "md5": "012df35cc9e2a26f96d7fbc1c4dc7acf",
+            "found_at": "2025-10-30T12:42:54.715091472+00:00"
           }
         ]
       }

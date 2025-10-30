@@ -19704,6 +19704,11 @@
             "firmware": "S938USQU6CYJH/S938UOYN6CYJH/S938USQU6CYJH",
             "md5": "903625620bf7f1c75dfeab4a2cf5675c",
             "found_at": "2025-10-23T14:33:16.005743868+00:00"
+          },
+          {
+            "firmware": "S938USQU6CYJO/S938UOYN6CYJO/S938USQU6CYJO",
+            "md5": "a04810badc17c2f0af8cce730f5e1475",
+            "found_at": "2025-10-30T22:24:52.539373642+00:00"
           }
         ]
       }

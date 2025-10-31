@@ -8278,7 +8278,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F966NKSS4AYI2/F966NOKR4AYI2/F966NKSU4AYHJ",
+        "latest_official": "F966NKSS5AYJ3/F966NOKR5AYJ3/F966NKSS5AYI5",
         "test_firmwares": [
           {
             "firmware": "F966NKSS5AYI5/F966NOKR5AYI5/F966NKSS5AYI5",
@@ -8304,6 +8304,11 @@
             "firmware": "F966NKSS4AYI2/F966NOKR4AYI2/F966NKSU4AYHJ",
             "md5": "ab6782f8a8cef6284ec9ccc613b3cfc4",
             "found_at": "2025-10-18T04:37:43.725810+00:00"
+          },
+          {
+            "firmware": "F966NKSS6AYJ5/F966NOKR6AYJ5/F966NKSS6AYJ5",
+            "md5": "f27f9f2a9b9b4ad2ae023170364602af",
+            "found_at": "2025-10-31T08:39:54.134046928+00:00"
           }
         ]
       }
@@ -8354,6 +8359,11 @@
             "firmware": "F966USQU5BYJO/F966UOYN5BYJO/F966USQU5BYJO",
             "md5": "f414a028d053290b7f8993f47fa9929a",
             "found_at": "2025-10-30T04:37:55.579072246+00:00"
+          },
+          {
+            "firmware": "F966USQS6AYK1/F966UOYN6AYK1/F966USQS6AYK1",
+            "md5": "03caa9e7c1b5b4816f4f4b59737f4205",
+            "found_at": "2025-10-31T08:38:58.738389933+00:00"
           }
         ]
       }
@@ -8393,7 +8403,7 @@
     "name": "Galaxy XCover7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G556BXXUBDYIA/G556BOXMBDYIA/G556BXXUBDYIA",
+        "latest_official": "G556BXXSBDYJ4/G556BOXMBDYJ4/G556BXXSBDYJ4",
         "test_firmwares": [
           {
             "firmware": "G556BXXSBDYJ1/G556BOXMBDYJ1/G556BXXSBDYJ1",
@@ -8449,6 +8459,11 @@
             "firmware": "G556BXXSBDYJ4/G556BOXMBDYJ4/G556BXXSBDYJ4",
             "md5": "101d92a0cb2ee598c88bcfd5debb6e11",
             "found_at": "2025-10-22T16:01:33.163453615+00:00"
+          },
+          {
+            "firmware": "G556BXXSBDYJ5/G556BOXMBDYJ5/G556BXXSBDYJ5",
+            "md5": "860208ed7d02631da7d15433bc522628",
+            "found_at": "2025-10-31T08:39:14.487929097+00:00"
           }
         ]
       }
@@ -10533,7 +10548,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S711USQS6DYI2/S711UOYN6DYI2/S711USQS6DYI2",
+        "latest_official": "S711USQU6EYIF/S711UOYN6EYIF/S711USQU6EYIF",
         "test_firmwares": [
           {
             "firmware": "S711USQS6DYE1/S711UOYN6DYE1/S711USQS6DYE1",
@@ -10739,6 +10754,11 @@
             "firmware": "S711USQU6EYIF/S711UOYN6EYIF/S711USQU6EYIF",
             "md5": "8e536bc2e57822c1c9164567272dd826",
             "found_at": "2025-10-18T03:31:08.547231+00:00"
+          },
+          {
+            "firmware": "S711USQS6EYJ1/S711UOYN6EYJ1/S711USQS6EYJ1",
+            "md5": "9d8a86f64526a85bad184ee270cccb15",
+            "found_at": "2025-10-31T08:34:05.297957147+00:00"
           }
         ]
       }
@@ -20584,6 +20604,16 @@
             "firmware": "X216CZCS9DYJ5/X216CCHC9DYJ5/X216CZCS9DYJ5",
             "md5": "e170d3c13478e64e52d8d0a0e24980d4",
             "found_at": "2025-10-30T10:23:42.963756265+00:00"
+          },
+          {
+            "firmware": "X216CZCU9EYJB/X216CCHC9EYJB/X216CZCU9EYJB",
+            "md5": "118bf92dd4077d4df4ea5e8d3e9661cf",
+            "found_at": "2025-10-31T08:34:05.015801487+00:00"
+          },
+          {
+            "firmware": "X216CZCU9EYJC/X216CCHC9EYJC/X216CZCU9EYJC",
+            "md5": "897013f88abec87828dc51a9beaf8f4a",
+            "found_at": "2025-10-31T08:34:05.016306589+00:00"
           }
         ]
       }

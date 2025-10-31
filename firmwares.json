@@ -24073,7 +24073,7 @@
     "name": "Galaxy Tab S11 Ultra 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X936BXXU2AYI4/X936BOXM2AYI4/X936BXXU2AYI4",
+        "latest_official": "X936BXXU2AYJ1/X936BOXM2AYJ1/X936BXXU2AYJ1",
         "test_firmwares": [
           {
             "firmware": "X936BXXU2AYI2/X936BOXM2AYI2/X936BXXU2AYI2",
@@ -24094,6 +24094,11 @@
             "firmware": "X936BXXU2AYJ1/X936BOXM2AYJ1/X936BXXU2AYJ1",
             "md5": "42dde6be499e0cebf866e4d3c4308dc3",
             "found_at": "2025-10-18T03:34:33.440263+00:00"
+          },
+          {
+            "firmware": "X936BXXS3AYJ3/X936BOXM3AYJ3/X936BXXS3AYJ3",
+            "md5": "1279974fc6a7229ec98be4e3daf29377",
+            "found_at": "2025-10-31T01:38:45.124579025+00:00"
           }
         ]
       }

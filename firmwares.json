@@ -17624,6 +17624,11 @@
             "firmware": "S931USQS6BYIF/S931UOYN6BYIF/S931USQS6BYIF",
             "md5": "cd2f48965fe12a8c4930cb630675fc1d",
             "found_at": "2025-10-23T14:32:08.073042158+00:00"
+          },
+          {
+            "firmware": "S931USQU6CYJH/S931UOYN6CYJH/S931USQU6CYJH",
+            "md5": "6dd8c0fa5fc0997c4d9368cb9aa8c5d9",
+            "found_at": "2025-10-31T04:28:59.714529094+00:00"
           }
         ]
       }
@@ -24104,6 +24109,11 @@
             "firmware": "X936BXXS3AYJ3/X936BOXM3AYJ3/X936BXXS3AYJ3",
             "md5": "1279974fc6a7229ec98be4e3daf29377",
             "found_at": "2025-10-31T01:38:45.124579025+00:00"
+          },
+          {
+            "firmware": "X936BXXU3AYJ5/X936BOXM3AYJ5/X936BXXU3AYJ5",
+            "md5": "c7f96b485d5d3f4c374048dd32a603ba",
+            "found_at": "2025-10-31T04:28:13.153254881+00:00"
           }
         ]
       }

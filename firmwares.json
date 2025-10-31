@@ -17859,6 +17859,11 @@
             "firmware": "S931U1UEU6CYJO/S931U1OYM6CYJO/S931U1UEU6CYJO",
             "md5": "fed66872ff8bbd5b094f9fd632aaf0a3",
             "found_at": "2025-10-30T04:35:52.384080026+00:00"
+          },
+          {
+            "firmware": "S931U1UES7BYJ4/S931U1OYM7BYJ4/S931U1UES7BYJ4",
+            "md5": "901826eaa4f5ef720c9a1078decfc3e8",
+            "found_at": "2025-10-31T18:35:42.767142549+00:00"
           }
         ]
       }
@@ -18629,6 +18634,11 @@
             "firmware": "S936U1UEU6CYJO/S936U1OYM6CYJO/S936U1UEU6CYJO",
             "md5": "306bdaa4bbcf921c20bc48bc67627bbd",
             "found_at": "2025-10-30T04:37:51.938865551+00:00"
+          },
+          {
+            "firmware": "S936U1UES7BYJ4/S936U1OYM7BYJ4/S936U1UES7BYJ4",
+            "md5": "69b09af08d7331292ee1a5ec52bb7c5e",
+            "found_at": "2025-10-31T18:37:20.172933465+00:00"
           }
         ]
       }
@@ -19194,6 +19204,11 @@
             "firmware": "S937U1UEU3CYJO/S937U1OYM3CYJO/S937U1UEU3CYJO",
             "md5": "ae944c39446eed48c3c12ec2705c694d",
             "found_at": "2025-10-30T06:39:31.249355186+00:00"
+          },
+          {
+            "firmware": "S937U1UES4BYJ4/S937U1OYM4BYJ4/S937U1UES4BYJ4",
+            "md5": "e8829b0bd616700e33e5e08548c998e8",
+            "found_at": "2025-10-31T18:36:10.018930265+00:00"
           }
         ]
       }

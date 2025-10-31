@@ -11323,7 +11323,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S731BXXU1AYIB/S731BOXM1AYIB/S731BXXU1AYIB",
+        "latest_official": "S731BXXS2AYID/S731BOXM2AYID/S731BXXS2AYID",
         "test_firmwares": [
           {
             "firmware": "S731BXXS2AYID/S731BOXM2AYID/S731BXXS2AYID",
@@ -11394,6 +11394,11 @@
             "firmware": "S731BXXU2AYJ3/S731BOXM2AYJ3/S731BXXU2AYJ3",
             "md5": "9889c01210d5015d9969789b5719ed9c",
             "found_at": "2025-10-21T03:16:05.224573+00:00"
+          },
+          {
+            "firmware": "S731BXXU3AYJ5/S731BOXM3AYJ5/S731BXXU3AYJ5",
+            "md5": "c6ef0ee355a1ce2748bd0751e0688ea9",
+            "found_at": "2025-10-31T03:18:21.988365935+00:00"
           }
         ]
       }

@@ -10808,7 +10808,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S711U1UES6DYI2/S711U1OYM6DYI2/S711U1UES6DYI2",
+        "latest_official": "S711U1UEU6EYIF/S711U1OYM6EYIF/S711U1UEU6EYIF",
         "test_firmwares": [
           {
             "firmware": "S711U1UES6DYE1/S711U1OYM6DYE1/S711U1UES6DYE1",
@@ -11014,6 +11014,11 @@
             "firmware": "S711U1UEU6EYIF/S711U1OYM6EYIF/S711U1UEU6EYIF",
             "md5": "97e32566eaaf4fafa135a8d58cf6451d",
             "found_at": "2025-10-18T03:31:11.259235+00:00"
+          },
+          {
+            "firmware": "S711U1UES6EYJ1/S711U1OYM6EYJ1/S711U1UES6EYJ1",
+            "md5": "d5b4ad21c3442093adb009c9ce0aebe2",
+            "found_at": "2025-10-31T16:32:34.307688751+00:00"
           }
         ]
       }
@@ -18464,6 +18469,11 @@
             "firmware": "S936USQU6CYJO/S936UOYN6CYJO/S936USQU6CYJO",
             "md5": "25a498ad3dda0753c1c5df4df5ba12a6",
             "found_at": "2025-10-30T18:40:28.516945276+00:00"
+          },
+          {
+            "firmware": "S936USQS7BYJ4/S936UOYN7BYJ4/S936USQS7BYJ4",
+            "md5": "5a7eb1fb5632580d85e377d1124deb0c",
+            "found_at": "2025-10-31T16:33:56.405579372+00:00"
           }
         ]
       }
@@ -19069,6 +19079,11 @@
             "firmware": "S937USQS4BYJ3/S937UOYN4BYJ3/S937USQS4BYJ3",
             "md5": "8df4860d2e8e7c14aa8920614452d1e8",
             "found_at": "2025-10-31T12:51:26.652642251+00:00"
+          },
+          {
+            "firmware": "S937USQS4BYJ4/S937UOYN4BYJ4/S937USQS4BYJ4",
+            "md5": "0acf314f71fa392e5c71bdf51de7309b",
+            "found_at": "2025-10-31T16:32:43.381272026+00:00"
           }
         ]
       }
@@ -19799,6 +19814,11 @@
             "firmware": "S938USQS7BYJ3/S938UOYN7BYJ3/S938USQS7BYJ3",
             "md5": "0fdd95ccb8c2109cf4ec0e22c1f7ef88",
             "found_at": "2025-10-31T10:32:11.229435741+00:00"
+          },
+          {
+            "firmware": "S938USQS7BYJ4/S938UOYN7BYJ4/S938USQS7BYJ4",
+            "md5": "819bdb66c3e558b393a9619baa8454c3",
+            "found_at": "2025-10-31T16:33:29.258980137+00:00"
           }
         ]
       }
@@ -19954,6 +19974,11 @@
             "firmware": "S938U1UEU6CYJO/S938U1OYM6CYJO/S938U1UEU6CYJO",
             "md5": "d860d12188422b1e7c11e21e22735c23",
             "found_at": "2025-10-30T04:37:21.025230220+00:00"
+          },
+          {
+            "firmware": "S938U1UES7BYJ4/S938U1OYM7BYJ4/S938U1UES7BYJ4",
+            "md5": "ae5ee63a7b52cb0bf543e9d8b57b58f0",
+            "found_at": "2025-10-31T16:33:32.870727759+00:00"
           }
         ]
       }

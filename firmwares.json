@@ -3063,7 +3063,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A546BXXUFEYI4/A546BOXMFEYI4/A546BXXUFEYI4",
+        "latest_official": "A546BXXSFEYJ9/A546BOXMFEYJ9/A546BXXSFEYJ9",
         "test_firmwares": [
           {
             "firmware": "A546BXXSGEYJ1/A546BOXMGEYJ1/A546BXXSGEYJ1",
@@ -3129,6 +3129,11 @@
             "firmware": "A546BXXSFEYJ9/A546BOXMFEYJ9/A546BXXSFEYJ9",
             "md5": "755dd7cee4fe76fa68915e6f70d6183c",
             "found_at": "2025-10-22T16:38:03.656702918+00:00"
+          },
+          {
+            "firmware": "A546BXXSGEYK1/A546BOXMGEYK1/A546BXXSGEYK1",
+            "md5": "e6c629ef5b7f4469bdeef098a8310b44",
+            "found_at": "2025-11-03T10:36:03.228973410+00:00"
           }
         ]
       }

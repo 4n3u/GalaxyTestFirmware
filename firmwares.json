@@ -3433,7 +3433,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A566U1UEU3BYIB/A566U1OYM3BYIB/A566U1UEU3BYIB",
+        "latest_official": "A566U1UES3BYJ2/A566U1OYM3BYJ2/A566U1UES3BYJ2",
         "test_firmwares": [
           {
             "firmware": "A566U1UES3BYJ1/A566U1OYM3BYJ1/A566U1UES3BYJ1",
@@ -3489,6 +3489,11 @@
             "firmware": "A566U1UEU3BYIB/A566U1OYM3BYIB/A566U1UEU3BYIB",
             "md5": "4bab294c853aa9e2c23402674ee6c796",
             "found_at": "2025-10-18T03:21:54.662141+00:00"
+          },
+          {
+            "firmware": "A566U1UES4BYK1/A566U1OYM4BYK1/A566U1UES4BYK1",
+            "md5": "aeae813b1edfe021818469c79e355211",
+            "found_at": "2025-11-03T12:52:47.999608453+00:00"
           }
         ]
       }
@@ -8578,7 +8583,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G736BXXSAFYI2/G736BOXMAFYI2/G736BXXSAFYI2",
+        "latest_official": "G736BXXUAGYJ6/G736BOXMAGYJ6/G736BXXUAGYJ6",
         "test_firmwares": [
           {
             "firmware": "G736BXXSAFYF1/G736BOXMAFYF1/G736BXXSAFYF1",
@@ -8709,6 +8714,11 @@
             "firmware": "G736BXXUAGYJ6/G736BOXMAGYJ6/G736BXXUAGYJ6",
             "md5": "9de5e17e95824e561e6ab345595009f8",
             "found_at": "2025-10-18T03:36:21.505638+00:00"
+          },
+          {
+            "firmware": "G736BXXSAGYK1/G736BOXMAGYK1/G736BXXSAGYK1",
+            "md5": "6b3946471fc94322f62babc180a5e121",
+            "found_at": "2025-11-03T12:43:12.344169416+00:00"
           }
         ]
       }
@@ -10078,7 +10088,7 @@
     "name": "Galaxy M53 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M536BXXSBFYG2/M536BOXMBFYG2/M536BXXSBFYG2",
+        "latest_official": "M536BXXUBGYJ4/M536BOXMBGYJ4/M536BXXUBGYJ4",
         "test_firmwares": [
           {
             "firmware": "M536BXXSBFYG1/M536BOXMBFYG1/M536BXXSBFYG1",
@@ -10114,6 +10124,36 @@
             "firmware": "M536BXXUBGYH5/M536BOXMBGYH5/M536BXXUBGYH5",
             "md5": "91326106b2680cc706173cfcae1e7db2",
             "found_at": "2025-10-18T03:33:01.074490+00:00"
+          },
+          {
+            "firmware": "M536BXXSBGYJ2/M536BOXMBGYJ2/M536BXXSBGYJ2",
+            "md5": "4dead3694a825e9941ea4206bbae9a20",
+            "found_at": "2025-11-03T12:43:35.259418119+00:00"
+          },
+          {
+            "firmware": "M536BXXUBGYI1/M536BOXMBGYI1/M536BXXUBGYI1",
+            "md5": "447a1192b493211115d969bccfd9bc04",
+            "found_at": "2025-11-03T12:43:37.670662230+00:00"
+          },
+          {
+            "firmware": "M536BXXUBGYI3/M536BOXMBGYI3/M536BXXUBGYI3",
+            "md5": "a7bc82f4f4c5acc7f80bc460d563f8e4",
+            "found_at": "2025-11-03T12:43:37.671615541+00:00"
+          },
+          {
+            "firmware": "M536BXXUBGYI5/M536BOXMBGYI5/M536BXXUBGYI5",
+            "md5": "8f9553cad0a6c2cbe56d7185040b5017",
+            "found_at": "2025-11-03T12:43:37.672542330+00:00"
+          },
+          {
+            "firmware": "M536BXXUBGYI7/M536BOXMBGYI7/M536BXXUBGYI7",
+            "md5": "a53a9296e7250f8ea3171e20cb7f7ebe",
+            "found_at": "2025-11-03T12:43:37.673575086+00:00"
+          },
+          {
+            "firmware": "M536BXXUBGYJ4/M536BOXMBGYJ4/M536BXXUBGYJ4",
+            "md5": "e7e3c8ffade9b4eee9791a1c576fca65",
+            "found_at": "2025-11-03T12:43:37.689946601+00:00"
           }
         ]
       }

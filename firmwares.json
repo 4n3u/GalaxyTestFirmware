@@ -17393,7 +17393,7 @@
     "name": "Galaxy S25",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S931NKSS5BYI9/S931NOKR5BYI9/S931NKSU5BYI3",
+        "latest_official": "S931NKSS6BYJ2/S931NOKR6BYJ2/S931NKSS6BYIF",
         "test_firmwares": [
           {
             "firmware": "S931NKSS5BYI9/S931NOKR5BYI9/S931NKSU5BYI3",
@@ -17559,6 +17559,11 @@
             "firmware": "S931NKSU6CYJO/S931NOKR6CYJO/S931NKSU6CYJO",
             "md5": "33794a093212e0722a3b654f124a4bf5",
             "found_at": "2025-10-30T04:35:42.465078082+00:00"
+          },
+          {
+            "firmware": "S931NKSS7BYK2/S931NOKR7BYK2/S931NKSS7BYK2",
+            "md5": "499e26857f8ae377179f78aa8842ebac",
+            "found_at": "2025-11-03T06:43:39.572664384+00:00"
           }
         ]
       }
@@ -18143,7 +18148,7 @@
     "name": "Galaxy S25+",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S936NKSS5BYI9/S936NOKR5BYI9/S936NKSU5BYI3",
+        "latest_official": "S936NKSS6BYJ2/S936NOKR6BYJ2/S936NKSS6BYIF",
         "test_firmwares": [
           {
             "firmware": "S936NKSS5BYI9/S936NOKR5BYI9/S936NKSU5BYI3",
@@ -18314,6 +18319,11 @@
             "firmware": "S936NKSU6CYJO/S936NOKR6CYJO/S936NKSU6CYJO",
             "md5": "4be88679afc68edff29a991508ea0bd3",
             "found_at": "2025-10-30T06:40:46.587896289+00:00"
+          },
+          {
+            "firmware": "S936NKSS7BYK2/S936NOKR7BYK2/S936NKSS7BYK2",
+            "md5": "0d5d39d2b9c2360363764aef8d88fa1d",
+            "found_at": "2025-11-03T06:45:30.108384096+00:00"
           }
         ]
       }

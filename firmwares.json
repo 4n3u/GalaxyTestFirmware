@@ -5128,7 +5128,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F741NKSS2CYI8/F741NOKR2CYI8/F741NKSU2CYHC",
+        "latest_official": "F741NKSS2CYJ3/F741NOKR2CYJ3/F741NKSU2CYHC",
         "test_firmwares": [
           {
             "firmware": "F741NKSU2CYD5/F741NOKR2CYD5/F741NKSU2CYD5",
@@ -5299,6 +5299,11 @@
             "firmware": "F741NKSS2CYJ3/F741NOKR2CYJ3/F741NKSU2CYHC",
             "md5": "05269a985b8f2d0bce0ef90bd4c69c72",
             "found_at": "2025-10-18T04:35:30.345768+00:00"
+          },
+          {
+            "firmware": "F741NKSS2CYK1/F741NOKR2CYK1/F741NKSU2CYHC",
+            "md5": "ed342b9b20e622962b730568ae8ab2f5",
+            "found_at": "2025-11-04T08:39:37.803994698+00:00"
           }
         ]
       }
@@ -11344,6 +11349,11 @@
             "firmware": "S721NKSS7CYJ3/S721NOKR7CYJ3/S721NKSS7CYJ1",
             "md5": "eead1dd91737ded591ba568601007f89",
             "found_at": "2025-10-24T10:33:01.446008486+00:00"
+          },
+          {
+            "firmware": "S721NKSS8CYK1/S721NOKR8CYK1/S721NKSS8CYK1",
+            "md5": "f9e9da98d12a2e3a95c0f78b3d40a7f9",
+            "found_at": "2025-11-04T08:32:15.475322793+00:00"
           }
         ]
       }

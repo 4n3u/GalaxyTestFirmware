@@ -5538,7 +5538,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F741U1UEU2CYI6/F741U1OYM2CYI6/F741U1UEU2CYI6",
+        "latest_official": "F741U1UES2CYJ1/F741U1OYM2CYJ1/F741U1UES2CYJ1",
         "test_firmwares": [
           {
             "firmware": "F741U1UES2CYIB/F741U1OYM2CYIB/F741U1UES2CYIB",
@@ -5639,6 +5639,11 @@
             "firmware": "F741U1UEU2CYI6/F741U1OYM2CYI6/F741U1UEU2CYI6",
             "md5": "41143fa1de964a31e563bbdb594f8ccc",
             "found_at": "2025-10-18T03:34:40.804315+00:00"
+          },
+          {
+            "firmware": "F741U1UES2CYK1/F741U1OYM2CYK1/F741U1UES2CYK1",
+            "md5": "0fe61af4952f414058ac95bd9b0f139b",
+            "found_at": "2025-11-04T14:36:32.349326336+00:00"
           }
         ]
       }
@@ -6073,7 +6078,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F766U1UEU4AYI1/F766U1OYM4AYI1/F766U1UEU4AYI1",
+        "latest_official": "F766U1UES5AYJ3/F766U1OYM5AYJ3/F766U1UES5AYJ3",
         "test_firmwares": [
           {
             "firmware": "F766U1UES5AYI5/F766U1OYM5AYI5/F766U1UES5AYI5",
@@ -6094,6 +6099,11 @@
             "firmware": "F766U1UEU4AYI1/F766U1OYM4AYI1/F766U1UEU4AYI1",
             "md5": "74a62c789a42794fed7e44c282280036",
             "found_at": "2025-10-18T03:35:03.850634+00:00"
+          },
+          {
+            "firmware": "F766U1UES6AYK1/F766U1OYM6AYK1/F766U1UES6AYK1",
+            "md5": "165b4e7dff1ea81b82f8e3026b1790fd",
+            "found_at": "2025-11-04T14:37:08.352168735+00:00"
           }
         ]
       }
@@ -8013,7 +8023,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F956U1UEU2CYI7/F956U1OYM2CYI7/F956U1UEU2CYI7",
+        "latest_official": "F956U1UES2CYJ1/F956U1OYM2CYJ1/F956U1UES2CYJ1",
         "test_firmwares": [
           {
             "firmware": "F956U1UES2CYIB/F956U1OYM2CYIB/F956U1UES2CYIB",
@@ -8124,6 +8134,11 @@
             "firmware": "F956U1UEU2CYI7/F956U1OYM2CYI7/F956U1UEU2CYI7",
             "md5": "b81d349c55c32642b7e23402c6e6465d",
             "found_at": "2025-10-18T03:36:33.790121+00:00"
+          },
+          {
+            "firmware": "F956U1UES2CYK1/F956U1OYM2CYK1/F956U1UES2CYK1",
+            "md5": "285ca3205b7069666040643fed5d705c",
+            "found_at": "2025-11-04T14:37:00.214794299+00:00"
           }
         ]
       }

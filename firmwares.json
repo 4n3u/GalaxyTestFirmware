@@ -18039,6 +18039,11 @@
             "firmware": "S931USQU6CYJH/S931UOYN6CYJH/S931USQU6CYJH",
             "md5": "6dd8c0fa5fc0997c4d9368cb9aa8c5d9",
             "found_at": "2025-10-31T04:28:59.714529094+00:00"
+          },
+          {
+            "firmware": "S931USQS7BYJ4/S931UOYN7BYJ4/S931USQS7BYJ4",
+            "md5": "2a99c036d447c58e2e52400f541f2722",
+            "found_at": "2025-11-04T20:34:50.675159752+00:00"
           }
         ]
       }

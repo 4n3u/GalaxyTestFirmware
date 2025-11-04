@@ -3258,7 +3258,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A556BXXUACYI9/A556BOXMACYI9/A556BXXUACYI8",
+        "latest_official": "A556BXXSACYJ2/A556BOXMACYJ2/A556BXXSACYJ2",
         "test_firmwares": [
           {
             "firmware": "A556BXXSBCYJ1/A556BOXMBCYJ1/A556BXXSBCYJ1",
@@ -3324,6 +3324,11 @@
             "firmware": "A556BXXSACYJ2/A556BOXMACYJ2/A556BXXSACYJ2",
             "md5": "fe4217fb5f9bd191b9ee987ac5e18883",
             "found_at": "2025-10-23T06:41:35.970285737+00:00"
+          },
+          {
+            "firmware": "A556BXXSBCYK1/A556BOXMBCYK1/A556BXXSBCYK1",
+            "md5": "9d44ba6156509725d85c98d4e9f0893f",
+            "found_at": "2025-11-04T12:58:46.316693700+00:00"
           }
         ]
       }
@@ -5313,7 +5318,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F741USQU2CYI6/F741UOYN2CYI6/F741USQU2CYI6",
+        "latest_official": "F741USQS2CYJ1/F741UOYN2CYJ1/F741USQS2CYJ1",
         "test_firmwares": [
           {
             "firmware": "F741USQS2CYIB/F741UOYN2CYIB/F741USQS2CYIB",
@@ -5519,6 +5524,11 @@
             "firmware": "F741USQS2CYJ5/F741UOYN2CYJ5/F741USQS2CYJ5",
             "md5": "f065c11bcc2da6c5996248779dc12373",
             "found_at": "2025-10-22T16:00:05.714144035+00:00"
+          },
+          {
+            "firmware": "F741USQS2CYK1/F741UOYN2CYK1/F741USQS2CYK1",
+            "md5": "331664ff78c8966c367afbe1b1590f7b",
+            "found_at": "2025-11-04T12:48:34.840646744+00:00"
           }
         ]
       }
@@ -6008,7 +6018,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F766USQU4AYI1/F766UOYN4AYI1/F766USQU4AYI1",
+        "latest_official": "F766USQS5AYJ3/F766UOYN5AYJ3/F766USQS5AYJ3",
         "test_firmwares": [
           {
             "firmware": "F766USQS4AYI2/F766UOYN4AYI2/F766USQS4AYI2",
@@ -6049,6 +6059,11 @@
             "firmware": "F766USQS5AYJ7/F766UOYN5AYJ7/F766USQS5AYJ7",
             "md5": "0dac0c65dce87e870319b8594d06b4d6",
             "found_at": "2025-10-22T16:00:27.848792111+00:00"
+          },
+          {
+            "firmware": "F766USQS6AYK1/F766UOYN6AYK1/F766USQS6AYK1",
+            "md5": "6d1f08201615821eef5a1efcff74708a",
+            "found_at": "2025-11-04T12:49:13.254870238+00:00"
           }
         ]
       }
@@ -7768,7 +7783,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F956USQU2CYI7/F956UOYN2CYI7/F956USQU2CYI7",
+        "latest_official": "F956USQS2CYJ1/F956UOYN2CYJ1/F956USQS2CYJ1",
         "test_firmwares": [
           {
             "firmware": "F956USQS2CYIA/F956UOYN2CYIA/F956USQS2CYIA",
@@ -7984,6 +7999,11 @@
             "firmware": "F956USQU2CYI7/F956UOYN2CYI7/F956USQU2CYI7",
             "md5": "c574d486afd2ca243da2bc14da2651a1",
             "found_at": "2025-10-18T03:36:31.559813+00:00"
+          },
+          {
+            "firmware": "F956USQS2CYK1/F956UOYN2CYK1/F956USQS2CYK1",
+            "md5": "7717c9c1985d02cd6e4f98a66d58f249",
+            "found_at": "2025-11-04T12:51:31.345004046+00:00"
           }
         ]
       }
@@ -9008,7 +9028,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G766U1UES3AYI1/G766U1OYM3AYI1/G766U1UES3AYI1",
+        "latest_official": "G766U1UEU3BYJ2/G766U1OYM3BYJ2/G766U1UEU3BYJ2",
         "test_firmwares": [
           {
             "firmware": "G766U1UES3AYI1/G766U1OYM3AYI1/G766U1UES3AYI1",
@@ -9039,6 +9059,11 @@
             "firmware": "G766U1UEU3BYJ2/G766U1OYM3BYJ2/G766U1UEU3BYJ2",
             "md5": "800b473809a26840d11c7d871df0642b",
             "found_at": "2025-10-18T03:36:40.783456+00:00"
+          },
+          {
+            "firmware": "G766U1UES4BYJ5/G766U1OYM4BYJ5/G766U1UES4BYJ5",
+            "md5": "28fbeacf961adc6fde1e74383f6bc4bf",
+            "found_at": "2025-11-04T12:45:55.307301285+00:00"
           }
         ]
       }
@@ -10499,6 +10524,11 @@
             "firmware": "R8950ZCU1JYJ6/R8950CHC1JYJ6/R8950ZCU1JYJ6",
             "md5": "33841f31b5401a540178512cbd79e504",
             "found_at": "2025-10-31T06:37:26.131135102+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYJ7/R8950CHC1JYJ7/R8950ZCU1JYJ7",
+            "md5": "b69fbc567923b4269e2c5f585de15181",
+            "found_at": "2025-11-04T12:53:32.923671988+00:00"
           }
         ]
       }
@@ -11814,6 +11844,11 @@
             "firmware": "S731USQU3AYJ5/S731UOYN3AYJ5/S731USQU3AYJ5",
             "md5": "8abdfaea3345f32ac6ff482c3453c552",
             "found_at": "2025-10-30T03:24:32.864800475+00:00"
+          },
+          {
+            "firmware": "S731USQU3AYJ7/S731UOYN3AYJ7/S731USQU3AYJ7",
+            "md5": "03e38cef066f195671e6e2e5b04ceac1",
+            "found_at": "2025-11-04T12:54:45.020763149+00:00"
           }
         ]
       }
@@ -21019,6 +21054,16 @@
             "firmware": "X218USQS9DYJ6/X218UOYN9DYJ6/X218USQS9DYJ6",
             "md5": "8a782fff099b2fca99933b6c22f1fa59",
             "found_at": "2025-10-30T06:31:58.792142776+00:00"
+          },
+          {
+            "firmware": "X218USQU9EYJD/X218UOYN9EYJD/X218USQU9EYJD",
+            "md5": "f468934c6ba121fb77be9893f780743a",
+            "found_at": "2025-11-04T12:46:01.656107012+00:00"
+          },
+          {
+            "firmware": "X218USQU9EYK3/X218UOYN9EYK3/X218USQU9EYK3",
+            "md5": "a0cea2f6cb4bd46706bc3d2c261df4e0",
+            "found_at": "2025-11-04T12:46:01.677415945+00:00"
           }
         ]
       }

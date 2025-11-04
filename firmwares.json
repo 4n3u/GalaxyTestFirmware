@@ -5804,6 +5804,11 @@
             "firmware": "F761NKSU6AYJ9/F761NOKR6AYJ9/F761NKSU6AYJ7",
             "md5": "88ba9c6cca7c8df9a898197c73e2a9a3",
             "found_at": "2025-10-29T10:26:33.931779007+00:00"
+          },
+          {
+            "firmware": "F761NKSU6AYK3/F761NOKR6AYK3/F761NKSU6AYJ7",
+            "md5": "e72e7c8acb484ea447b4d96122e77f40",
+            "found_at": "2025-11-04T10:38:30.300139686+00:00"
           }
         ]
       }
@@ -7568,7 +7573,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F956NKSS2CYI8/F956NOKR2CYI8/F956NKSU2CYHC",
+        "latest_official": "F956NKSS2CYJ3/F956NOKR2CYJ3/F956NKSU2CYHC",
         "test_firmwares": [
           {
             "firmware": "F956NKSU2CYD5/F956NOKR2CYD5/F956NKSU2CYD5",
@@ -7749,6 +7754,11 @@
             "firmware": "F956NKSS2CYJ3/F956NOKR2CYJ3/F956NKSU2CYHC",
             "md5": "28ff72e523157280cbe74677763190ad",
             "found_at": "2025-10-18T04:37:24.427339+00:00"
+          },
+          {
+            "firmware": "F956NKSS2CYK1/F956NOKR2CYK1/F956NKSU2CYHC",
+            "md5": "37d8c18187a0a5af7fad4635e503489c",
+            "found_at": "2025-11-04T10:30:41.868589942+00:00"
           }
         ]
       }
@@ -8103,7 +8113,7 @@
     "name": "Galaxy Z Fold Special Edition",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F958NKSU2CYI9/F958NOKR2CYI9/F958NKSU2CYHC",
+        "latest_official": "F958NKSS2CYJ3/F958NOKR2CYJ3/F958NKSU2CYHC",
         "test_firmwares": [
           {
             "firmware": "F958NKSU2CYD5/F958NOKR2CYD5/F958NKSU2CYD5",
@@ -8279,6 +8289,11 @@
             "firmware": "F958NKSS2CYJ3/F958NOKR2CYJ3/F958NKSU2CYHC",
             "md5": "317d38fe739912676b0c133932c8530a",
             "found_at": "2025-10-18T04:36:05.472016+00:00"
+          },
+          {
+            "firmware": "F958NKSS2CYK1/F958NOKR2CYK1/F958NKSU2CYHC",
+            "md5": "130f029aac7be3e2855acf500ea63898",
+            "found_at": "2025-11-04T10:29:12.359473244+00:00"
           }
         ]
       }
@@ -20924,6 +20939,16 @@
             "firmware": "X216CZCU9EYJC/X216CCHC9EYJC/X216CZCU9EYJC",
             "md5": "897013f88abec87828dc51a9beaf8f4a",
             "found_at": "2025-10-31T08:34:05.016306589+00:00"
+          },
+          {
+            "firmware": "X216CZCU9EYJD/X216CCHC9EYJD/X216CZCU9EYJD",
+            "md5": "db7baf924ddb4bf57668987ace1f87ad",
+            "found_at": "2025-11-04T10:26:07.049285395+00:00"
+          },
+          {
+            "firmware": "X216CZCU9EYK3/X216CCHC9EYK3/X216CZCU9EYK3",
+            "md5": "bfeb81c0ea23afa44cb1c5ffa2e5b1cc",
+            "found_at": "2025-11-04T10:26:07.065596156+00:00"
           }
         ]
       }

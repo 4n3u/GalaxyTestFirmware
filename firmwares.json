@@ -12193,7 +12193,7 @@
     "name": "Galaxy S22",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S901BXXUIGYI7/S901BOXMIGYI7/S901BXXUIGYI7",
+        "latest_official": "S901BXXUJGYJ3/S901BOXMJGYJ3/S901BXXUJGYJ3",
         "test_firmwares": [
           {
             "firmware": "S901BXXSJGYJ1/S901BOXMJGYJ1/S901BXXSJGYJ1",
@@ -12219,6 +12219,11 @@
             "firmware": "S901BXXUJGYJ3/S901BOXMJGYJ3/S901BXXUJGYJ3",
             "md5": "30ab46ad20a30bae0c9213300b98a86e",
             "found_at": "2025-10-18T03:30:08.581623+00:00"
+          },
+          {
+            "firmware": "S901BXXSKGYK1/S901BOXMKGYK1/S901BXXSKGYK1",
+            "md5": "5bcbb8ecdb9606f935237d97121ff6e7",
+            "found_at": "2025-11-05T04:31:22.342047317+00:00"
           }
         ]
       }
@@ -12768,7 +12773,7 @@
     "name": "Galaxy S22+",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S906BXXUIGYI7/S906BOXMIGYI7/S906BXXUIGYI7",
+        "latest_official": "S906BXXUJGYJ3/S906BOXMJGYJ3/S906BXXUJGYJ3",
         "test_firmwares": [
           {
             "firmware": "S906BXXSJGYJ1/S906BOXMJGYJ1/S906BXXSJGYJ1",
@@ -12794,6 +12799,11 @@
             "firmware": "S906BXXUJGYJ3/S906BOXMJGYJ3/S906BXXUJGYJ3",
             "md5": "54f552bdb5ad2674ed902fd1403de517",
             "found_at": "2025-10-18T03:30:45.174687+00:00"
+          },
+          {
+            "firmware": "S906BXXSKGYK1/S906BOXMKGYK1/S906BXXSKGYK1",
+            "md5": "9379b6fe6160d5412e41f58d3d63fdb2",
+            "found_at": "2025-11-05T04:32:20.699493462+00:00"
           }
         ]
       }
@@ -13343,7 +13353,7 @@
     "name": "Galaxy S22 Ultra",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S908BXXSIFYI3/S908BOXMIFYI3/S908BXXSIFYI3",
+        "latest_official": "S908BXXUJGYJ3/S908BOXMJGYJ3/S908BXXUJGYJ3",
         "test_firmwares": [
           {
             "firmware": "S908BXXSIFYI1/S908BOXMIFYI1/S908BXXSIFYI1",
@@ -13379,6 +13389,11 @@
             "firmware": "S908BXXUJGYJ3/S908BOXMJGYJ3/S908BXXUJGYJ3",
             "md5": "3744fc813ed2763747a570cc58e8c8de",
             "found_at": "2025-10-18T03:30:26.605915+00:00"
+          },
+          {
+            "firmware": "S908BXXSKGYK1/S908BOXMKGYK1/S908BXXSKGYK1",
+            "md5": "d482e159aa6019b427b4f57781c658f7",
+            "found_at": "2025-11-05T04:31:51.142974643+00:00"
           }
         ]
       }

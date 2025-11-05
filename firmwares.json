@@ -21094,6 +21094,11 @@
             "firmware": "X216BXXU9EYK3/X216BOXM9EYK3/X216BXXU9EYK1",
             "md5": "6406704624b5f014b5233aa4fe5bd312",
             "found_at": "2025-11-04T03:12:56.434566826+00:00"
+          },
+          {
+            "firmware": "X216BXXU9EYK4/X216BOXM9EYK4/X216BXXU9EYK4",
+            "md5": "4a009e66dedef7ff668b293171aeec40",
+            "found_at": "2025-11-05T14:29:41.532411705+00:00"
           }
         ]
       }

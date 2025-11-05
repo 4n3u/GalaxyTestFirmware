@@ -1943,7 +1943,7 @@
     "name": "Galaxy A33 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A336BXXSEFYH2/A336BOXMEFYH2/A336BXXSEFYH2",
+        "latest_official": "A336BXXSEGYJ3/A336BOXMEGYJ3/A336BXXSEGYJ3",
         "test_firmwares": [
           {
             "firmware": "A336BXXSEFYG8/A336BOXMEFYG8/A336BXXSEFYG8",
@@ -1994,6 +1994,11 @@
             "firmware": "A336BXXSEGYJ3/A336BOXMEGYJ3/A336BXXSEGYJ3",
             "md5": "f4b28a967a268537ba77b1d869aee502",
             "found_at": "2025-10-22T15:56:16.312458924+00:00"
+          },
+          {
+            "firmware": "A336BXXSFGYK1/A336BOXMFGYK1/A336BXXSFGYK1",
+            "md5": "48c64b91e1e6a6c123ab9f14bdb19e8b",
+            "found_at": "2025-11-05T10:29:02.487047936+00:00"
           }
         ]
       }
@@ -2898,7 +2903,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A536BXXSHFYI1/A536BOXMHFYI1/A536BXXSHFYI1",
+        "latest_official": "A536BXXSHGYJ3/A536BOXMHGYJ3/A536BXXSHGYJ3",
         "test_firmwares": [
           {
             "firmware": "A536BXXSHFYG8/A536BOXMHFYG8/A536BXXSHFYG8",
@@ -2974,6 +2979,11 @@
             "firmware": "A536BXXUHGYI9/A536BOXMHGYI9/A536BXXUHGYI9",
             "md5": "48e1e5cd226236eb4a1740d516128b54",
             "found_at": "2025-10-18T03:21:01.313922+00:00"
+          },
+          {
+            "firmware": "A536BXXSIGYK1/A536BOXMIGYK1/A536BXXSIGYK1",
+            "md5": "fc7dc8a02ddd1496175a2ab3da097c61",
+            "found_at": "2025-11-05T10:29:47.179656036+00:00"
           }
         ]
       }

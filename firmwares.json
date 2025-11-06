@@ -17954,6 +17954,11 @@
             "firmware": "S931NKSS7BYK2/S931NOKR7BYK2/S931NKSS7BYK2",
             "md5": "499e26857f8ae377179f78aa8842ebac",
             "found_at": "2025-11-03T06:43:39.572664384+00:00"
+          },
+          {
+            "firmware": "S931NKSU7CYK7/S931NOKR7CYK7/S931NKSU7CYK7",
+            "md5": "6124677e21be5024e2c7b87401b409a9",
+            "found_at": "2025-11-06T08:40:30.793662627+00:00"
           }
         ]
       }

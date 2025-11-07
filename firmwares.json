@@ -9114,6 +9114,11 @@
             "firmware": "G736U1UEUAGYK1/G736U1OYMAGYK1/G736U1UEUAGYK1",
             "md5": "a32d88eddb2ab1b3b16a3ec5a9ca1d73",
             "found_at": "2025-11-04T16:35:12.420196775+00:00"
+          },
+          {
+            "firmware": "G736U1UEUAGYK2/G736U1OYMAGYK2/G736U1UEUAGYK2",
+            "md5": "989e735487942fa0fbe7843aa2aac20e",
+            "found_at": "2025-11-07T22:19:48.540607158+00:00"
           }
         ]
       }

@@ -13709,6 +13709,11 @@
             "firmware": "S908NKSU7GYJ1/S908NOKR7GYJ1/S908NKSU7GYI7",
             "md5": "70244c199a59739a98ce4a678f31c8ce",
             "found_at": "2025-10-30T10:29:42.031349129+00:00"
+          },
+          {
+            "firmware": "S908NKSS7GYK1/S908NOKR7GYK1/S908NKSU7GYI7",
+            "md5": "7a197263beb87f58294e25dbcf83ff96",
+            "found_at": "2025-11-07T03:19:19.952569196+00:00"
           }
         ]
       }
@@ -18249,6 +18254,11 @@
             "firmware": "S931USQS7BYJ4/S931UOYN7BYJ4/S931USQS7BYJ4",
             "md5": "2a99c036d447c58e2e52400f541f2722",
             "found_at": "2025-11-04T20:34:50.675159752+00:00"
+          },
+          {
+            "firmware": "S931USQU6CYJO/S931UOYN6CYJO/S931USQU6CYJO",
+            "md5": "d9f317174c206a1bb4069a97279ddf5e",
+            "found_at": "2025-11-07T03:23:32.302763739+00:00"
           }
         ]
       }
@@ -19669,6 +19679,11 @@
             "firmware": "S937USQS4BYJ4/S937UOYN4BYJ4/S937USQS4BYJ4",
             "md5": "0acf314f71fa392e5c71bdf51de7309b",
             "found_at": "2025-10-31T16:32:43.381272026+00:00"
+          },
+          {
+            "firmware": "S937USQU3CYJO/S937UOYN3CYJO/S937USQU3CYJO",
+            "md5": "134928d5019be3cab928ff2a4b801c24",
+            "found_at": "2025-11-07T03:24:00.352216992+00:00"
           }
         ]
       }

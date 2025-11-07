@@ -1329,6 +1329,11 @@
             "firmware": "A1760ZHU2BYID/A1760OZS2BYID/A1760ZHU2BYID",
             "md5": "f21ff5cc11b1fcb44ded96d20cbbf0a8",
             "found_at": "2025-10-18T03:20:58.629784+00:00"
+          },
+          {
+            "firmware": "A1760ZHS3BYJ1/A1760OZS3BYJ1/A1760ZHS3BYJ1",
+            "md5": "214a11535b08359f6ac0447330a7c9ef",
+            "found_at": "2025-11-07T04:26:38.911663022+00:00"
           }
         ]
       }
@@ -12524,6 +12529,11 @@
             "firmware": "S901NKSU7GYJ1/S901NOKR7GYJ1/S901NKSU7GYI7",
             "md5": "d952e7e0e5077d99f73804b898d6c00a",
             "found_at": "2025-10-30T10:29:15.388673768+00:00"
+          },
+          {
+            "firmware": "S901NKSS7GYK1/S901NOKR7GYK1/S901NKSU7GYI7",
+            "md5": "0eaa1f2629ccdde380606382db15e9d5",
+            "found_at": "2025-11-07T04:29:31.227010166+00:00"
           }
         ]
       }
@@ -13109,6 +13119,11 @@
             "firmware": "S906NKSU7GYJ1/S906NOKR7GYJ1/S906NKSU7GYI7",
             "md5": "9e32cec62e64f3a892cd9f827ccf91a3",
             "found_at": "2025-10-30T10:30:09.480109638+00:00"
+          },
+          {
+            "firmware": "S906NKSS7GYK1/S906NOKR7GYK1/S906NKSU7GYI7",
+            "md5": "b9ff4de2e0e8d06f20ab211543627497",
+            "found_at": "2025-11-07T04:30:29.431046623+00:00"
           }
         ]
       }

@@ -8524,6 +8524,11 @@
             "firmware": "F9660ZCS6AYK6/F9660CHC6AYK6/F9660ZCS6AYK1",
             "md5": "7e0f08ca75cd6eed8048d91f666a6bfa",
             "found_at": "2025-11-06T14:35:42.659232453+00:00"
+          },
+          {
+            "firmware": "F9660ZCS6AYK9/F9660CHC6AYK9/F9660ZCS6AYK1",
+            "md5": "3f59dfd36a5a342d98df23f8dee078ad",
+            "found_at": "2025-11-10T03:33:29.950287285+00:00"
           }
         ]
       }

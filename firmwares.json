@@ -16774,6 +16774,11 @@
             "firmware": "S926BXXSBCYK1/S926BOXMBCYK1/S926BXXSBCYK1",
             "md5": "d7f58d5226ad70a6837bc7af1ecb092a",
             "found_at": "2025-11-05T03:22:49.007878212+00:00"
+          },
+          {
+            "firmware": "S926BXXSBCYK2/S926BOXMBCYK2/S926BXXSBCYK2",
+            "md5": "1c9a843130a07ced8948ece298168851",
+            "found_at": "2025-11-10T04:39:05.882588828+00:00"
           }
         ]
       }
@@ -23493,7 +23498,7 @@
     "name": "Galaxy Tab S11 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X736CZCU2AYI4/X736CCHC2AYI4/X736CZCU2AYI4",
+        "latest_official": "X736CZCU2AYJ1/X736CCHC2AYJ1/X736CZCU2AYJ1",
         "test_firmwares": [
           {
             "firmware": "X736CZCU2AYI2/X736CCHC2AYI2/X736CZCU2AYI2",
@@ -23509,6 +23514,11 @@
             "firmware": "X736CZCU2AYJ1/X736CCHC2AYJ1/X736CZCU2AYJ1",
             "md5": "21e12748b3dfdc02c1faadf8c22d0b5e",
             "found_at": "2025-10-18T03:34:24.176822+00:00"
+          },
+          {
+            "firmware": "X736CZCS3AYJ3/X736CCHC3AYJ3/X736CZCS3AYJ3",
+            "md5": "a74378e1d2568bbd2caad9a617193625",
+            "found_at": "2025-11-10T04:32:05.096415572+00:00"
           }
         ]
       }
@@ -25278,7 +25288,7 @@
     "name": "Galaxy Tab S11 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X936CZCU2AYI4/X936CCHC2AYI4/X936CZCU2AYI4",
+        "latest_official": "X936CZCU2AYJ1/X936CCHC2AYJ1/X936CZCU2AYJ1",
         "test_firmwares": [
           {
             "firmware": "X936CZCU2AYI2/X936CCHC2AYI2/X936CZCU2AYI2",
@@ -25294,6 +25304,11 @@
             "firmware": "X936CZCU2AYJ1/X936CCHC2AYJ1/X936CZCU2AYJ1",
             "md5": "3878d29052b977747380da494123c9e3",
             "found_at": "2025-10-18T03:34:34.011744+00:00"
+          },
+          {
+            "firmware": "X936CZCS3AYJ3/X936CCHC3AYJ3/X936CZCS3AYJ3",
+            "md5": "ce7b95bed31ff7a71fec767da1e672d6",
+            "found_at": "2025-11-10T04:32:21.478710732+00:00"
           }
         ]
       }

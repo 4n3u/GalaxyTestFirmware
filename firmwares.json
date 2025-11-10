@@ -9359,6 +9359,11 @@
             "firmware": "G766USQS4BYK1/G766UOYN4BYK1/G766USQS4BYK1",
             "md5": "3f8d802b7f1d8d14aec9e627d74fbb05",
             "found_at": "2025-11-06T14:31:40.121311710+00:00"
+          },
+          {
+            "firmware": "G766USQS4BYK3/G766UOYN4BYK3/G766USQS4BYK3",
+            "md5": "4943f0cc17bf7796b093e7c1b1b25890",
+            "found_at": "2025-11-10T16:36:29.023981022+00:00"
           }
         ]
       }

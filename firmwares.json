@@ -733,7 +733,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A156USQU7DYIB/A156UOYN7DYIB/A156USQU7DYIB",
+        "latest_official": "A156USQS7DYJ1/A156UOYN7DYJ1/A156USQS7DYJ1",
         "test_firmwares": [
           {
             "firmware": "A156USQU7DYF2/A156UOYN7DYF2/A156USQU7DYF2",
@@ -814,6 +814,11 @@
             "firmware": "A156USQS7DYJ1/A156UOYN7DYJ1/A156USQS7DYJ1",
             "md5": "5bdb44a8e435b094ef88948a839a7853",
             "found_at": "2025-10-23T10:24:46.965046436+00:00"
+          },
+          {
+            "firmware": "A156USQS8DYK1/A156UOYN8DYK1/A156USQS8DYK1",
+            "md5": "6d60bc70f8a587821cc42e5ed744d585",
+            "found_at": "2025-11-11T16:29:31.744833938+00:00"
           }
         ]
       }

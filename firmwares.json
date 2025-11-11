@@ -22209,6 +22209,11 @@
             "firmware": "X356BXXS4BYK1/X356BOXM4BYK1/X356BXXS4BYK1",
             "md5": "8b0ae67992a2992ee45ae0f177727c17",
             "found_at": "2025-11-10T12:44:43.414107805+00:00"
+          },
+          {
+            "firmware": "X356BXXS4BYK2/X356BOXM4BYK2/X356BXXS4BYK2",
+            "md5": "3a7a3649e36289d9ac0aef72af5d91c7",
+            "found_at": "2025-11-11T08:29:40.262223689+00:00"
           }
         ]
       }

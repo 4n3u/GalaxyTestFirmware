@@ -9414,6 +9414,11 @@
             "firmware": "G766U1UES4BYK1/G766U1OYM4BYK1/G766U1UES4BYK1",
             "md5": "3a5911a7830522c3725db491e0bc6044",
             "found_at": "2025-11-06T14:31:46.475846681+00:00"
+          },
+          {
+            "firmware": "G766U1UES4BYK3/G766U1OYM4BYK3/G766U1UES4BYK3",
+            "md5": "bdb42cae841e4dcc1ab66b94ca2520aa",
+            "found_at": "2025-11-11T14:37:47.905130580+00:00"
           }
         ]
       }
@@ -21879,6 +21884,11 @@
             "firmware": "X216CZCU9EYK7/X216CCHC9EYK7/X216CZCU9EYK7",
             "md5": "b82f7cfaf80c157b7a5acdd9c257b72a",
             "found_at": "2025-11-07T16:24:11.147644168+00:00"
+          },
+          {
+            "firmware": "X216CZCU9EYK8/X216CCHC9EYK8/X216CZCU9EYK8",
+            "md5": "7c16be8939a5419e9b0a6ffc9e29b2d7",
+            "found_at": "2025-11-11T14:30:52.049899128+00:00"
           }
         ]
       }

@@ -8744,6 +8744,11 @@
             "firmware": "F966BXXU6AYK9/F966BOXM6AYK9/F966BXXU6AYK9",
             "md5": "d55559aa69a9f9001a392e5120a99e4b",
             "found_at": "2025-11-07T14:37:53.292086378+00:00"
+          },
+          {
+            "firmware": "F966BXXU6BYKB/F966BOXM6BYKB/F966BXXU6BYKB",
+            "md5": "3ffc17b031b89d5e234fe2ec4558d3e1",
+            "found_at": "2025-11-12T13:00:32.691625264+00:00"
           }
         ]
       }

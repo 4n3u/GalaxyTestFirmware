@@ -18194,6 +18194,11 @@
             "firmware": "S9310ZCS7BYK1/S9310CHC7BYK1/S9310ZCS7BYK1",
             "md5": "0aee9209884315c610bed65eefe954d9",
             "found_at": "2025-11-10T14:36:52.872508525+00:00"
+          },
+          {
+            "firmware": "S9310ZCU7CYKB/S9310CHC7CYKB/S9310ZCU7CYKB",
+            "md5": "b04f104dfc3f7e707d3af68c562c9a34",
+            "found_at": "2025-11-12T06:43:57.049319620+00:00"
           }
         ]
       }
@@ -18999,6 +19004,11 @@
             "firmware": "S9360ZCS7BYK1/S9360CHC7BYK1/S9360ZCS7BYK1",
             "md5": "b678c88e16246d0f2e733e48e401930f",
             "found_at": "2025-11-10T14:33:12.297520977+00:00"
+          },
+          {
+            "firmware": "S9360ZCU7CYKB/S9360CHC7CYKB/S9360ZCU7CYKB",
+            "md5": "ca255b8f1cc5d1b9a4b8faf258a61733",
+            "found_at": "2025-11-12T06:44:42.253747087+00:00"
           }
         ]
       }
@@ -19809,6 +19819,11 @@
             "firmware": "S9370ZCS4BYK1/S9370CHC4BYK1/S9370ZCS4BYK1",
             "md5": "b97a149e3dfecffe8c859944be03dd22",
             "found_at": "2025-11-10T14:31:34.514924830+00:00"
+          },
+          {
+            "firmware": "S9370ZCU4CYKB/S9370CHC4CYKB/S9370ZCU4CYKB",
+            "md5": "b365a915f0689e41558962ee3ec40bf8",
+            "found_at": "2025-11-12T06:43:27.753152866+00:00"
           }
         ]
       }
@@ -20429,6 +20444,11 @@
             "firmware": "S9380ZCS7BYK1/S9380CHC7BYK1/S9380ZCS7BYK1",
             "md5": "20e438d27b6b6812eb6babc4cb58b9e9",
             "found_at": "2025-11-10T14:32:34.025070991+00:00"
+          },
+          {
+            "firmware": "S9380ZCU7CYKB/S9380CHC7CYKB/S9380ZCU7CYKB",
+            "md5": "62a99036658697918b952096dd0e3f2f",
+            "found_at": "2025-11-12T06:44:12.970977680+00:00"
           }
         ]
       }
@@ -21999,6 +22019,11 @@
             "firmware": "X218USQU9EYK6/X218UOYN9EYK6/X218USQU9EYK6",
             "md5": "47ce820862f3308b7b76b30ad8cdba56",
             "found_at": "2025-11-07T10:24:08.488381837+00:00"
+          },
+          {
+            "firmware": "X218USQU9EYK8/X218UOYN9EYK8/X218USQU9EYK8",
+            "md5": "ed1bafaaf45cd0a343f26c62c976e330",
+            "found_at": "2025-11-12T06:40:02.362278909+00:00"
           }
         ]
       }

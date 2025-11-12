@@ -9034,6 +9034,11 @@
             "firmware": "G556BXXSCDYK2/G556BOXMCDYK2/G556BXXSCDYK2",
             "md5": "1f523d48714f1de573a837f24230e877",
             "found_at": "2025-11-10T14:22:53.365455051+00:00"
+          },
+          {
+            "firmware": "G556BXXSCDYK3/G556BOXMCDYK3/G556BXXSCDYK3",
+            "md5": "96148bee98973f1980d1ab377d4dd645",
+            "found_at": "2025-11-12T16:28:57.883346249+00:00"
           }
         ]
       }
@@ -18694,6 +18699,11 @@
             "firmware": "S931NKSU7CYKB/S931NOKR7CYKB/S931NKSU7CYKB",
             "md5": "9279c182ca7602537d601b3100640382",
             "found_at": "2025-11-12T04:37:09.670304996+00:00"
+          },
+          {
+            "firmware": "S931NKSU7CYKD/S931NOKR7CYKD/S931NKSU7CYKB",
+            "md5": "615ad336b32253aaec6df2c3e42a75a8",
+            "found_at": "2025-11-12T16:38:55.179289252+00:00"
           }
         ]
       }
@@ -19504,6 +19514,11 @@
             "firmware": "S936NKSU7CYKB/S936NOKR7CYKB/S936NKSU7CYKB",
             "md5": "eb831f498f7feb1b5a7f7e26ece598d9",
             "found_at": "2025-11-12T08:46:32.939973616+00:00"
+          },
+          {
+            "firmware": "S936NKSU7CYKD/S936NOKR7CYKD/S936NKSU7CYKB",
+            "md5": "2099a3c116193e90f4bfc191380dcb1e",
+            "found_at": "2025-11-12T16:36:41.371868924+00:00"
           }
         ]
       }
@@ -20944,6 +20959,11 @@
             "firmware": "S938NKSU7CYKB/S938NOKR7CYKB/S938NKSU7CYKB",
             "md5": "cd806df0096d7918a58d48098e108cda",
             "found_at": "2025-11-12T03:27:45.433425635+00:00"
+          },
+          {
+            "firmware": "S938NKSU7CYKD/S938NOKR7CYKD/S938NKSU7CYKB",
+            "md5": "10f0ee684c6863bb69065f76268e546b",
+            "found_at": "2025-11-12T16:36:12.403305085+00:00"
           }
         ]
       }

@@ -949,6 +949,11 @@
             "firmware": "A165FXXU5CYJC/A165FOXM5CYJC/A165FXXU5CYJC",
             "md5": "12b6fba0c43dac9a6f1f09e93ea5210a",
             "found_at": "2025-10-31T10:25:02.719923139+00:00"
+          },
+          {
+            "firmware": "A165FXXU5CYK1/A165FOXM5CYK1/A165FXXU5CYK1",
+            "md5": "dd1048a22cbab8525cb08d12dcc20529",
+            "found_at": "2025-11-12T14:25:03.261980543+00:00"
           }
         ]
       }
@@ -3243,7 +3248,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5560ZCUACYI9/A5560CHCACYI9/A5560ZCUACYI8",
+        "latest_official": "A5560ZCSACYJ2/A5560CHCACYJ2/A5560ZCSACYJ2",
         "test_firmwares": [
           {
             "firmware": "A5560ZCSBCYJ1/A5560CHCBCYJ1/A5560ZCSBCYJ1",
@@ -3294,6 +3299,11 @@
             "firmware": "A5560ZCSACYJ2/A5560CHCACYJ2/A5560ZCSACYJ2",
             "md5": "8b29794ff6aeda66a7bb97d022f694ac",
             "found_at": "2025-10-23T16:34:51.306002275+00:00"
+          },
+          {
+            "firmware": "A5560ZCSBCYK2/A5560CHCBCYK2/A5560ZCSBCYK2",
+            "md5": "7291dd2f8b72efe4cca041b899132d9f",
+            "found_at": "2025-11-12T14:34:47.544023424+00:00"
           }
         ]
       }
@@ -4513,7 +4523,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7310ZCU7FYI8/F7310CHC7FYI8/F7310ZCU7FYI8",
+        "latest_official": "F7310ZCS7FYJ3/F7310CHC7FYJ3/F7310ZCS7FYJ3",
         "test_firmwares": [
           {
             "firmware": "F7310ZCS7FYJ1/F7310CHC7FYJ1/F7310ZCS7FYJ1",
@@ -4589,6 +4599,11 @@
             "firmware": "F7310ZCS7FYJ3/F7310CHC7FYJ3/F7310ZCS7FYJ3",
             "md5": "1ceb3378c6c801c6dc5fa3bc58c840f6",
             "found_at": "2025-10-23T04:34:18.568944962+00:00"
+          },
+          {
+            "firmware": "F7310ZCS7FYK2/F7310CHC7FYK2/F7310ZCS7FYK2",
+            "md5": "4a4e066759216c24a1f765fc641824da",
+            "found_at": "2025-11-12T14:35:01.049014140+00:00"
           }
         ]
       }
@@ -4903,7 +4918,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7410ZCU2CYI6/F7410CHC2CYI6/F7410ZCU2CYI6",
+        "latest_official": "F7410ZCS2CYJ1/F7410CHC2CYJ1/F7410ZCS2CYJ1",
         "test_firmwares": [
           {
             "firmware": "F7410ZCS2CYIB/F7410CHC2CYIB/F7410ZCS2CYIB",
@@ -4989,6 +5004,11 @@
             "firmware": "F7410ZCU2CYI6/F7410CHC2CYI6/F7410ZCU2CYI6",
             "md5": "14e6dc67a7f6a4e628acdcd8fb67cfd2",
             "found_at": "2025-10-18T03:34:26.234820+00:00"
+          },
+          {
+            "firmware": "F7410ZCS2CYK2/F7410CHC2CYK2/F7410ZCS2CYK2",
+            "md5": "066fb67ea0556468c8f3d97601b1ce09",
+            "found_at": "2025-11-12T14:35:31.007115275+00:00"
           }
         ]
       }
@@ -6099,6 +6119,11 @@
             "firmware": "F7660ZCS6AYK9/F7660CHC6AYK9/F7660ZCS6AYK9",
             "md5": "e2363e060b77c69e99e0b1cd001d541f",
             "found_at": "2025-11-10T08:43:59.985875281+00:00"
+          },
+          {
+            "firmware": "F7660ZCU6BYKB/F7660CHC6BYKB/F7660ZCU6BYKB",
+            "md5": "d35e457f5c86d4e4be7ffb8d5a14a04e",
+            "found_at": "2025-11-12T14:36:08.151153292+00:00"
           }
         ]
       }
@@ -7528,7 +7553,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9560ZCU2CYI7/F9560CHC2CYI7/F9560ZCU2CYI7",
+        "latest_official": "F9560ZCS2CYJ1/F9560CHC2CYJ1/F9560ZCS2CYJ1",
         "test_firmwares": [
           {
             "firmware": "F9560ZCS2CYIB/F9560CHC2CYIB/F9560ZCS2CYIB",
@@ -7619,6 +7644,11 @@
             "firmware": "F9560ZCU2CYI7/F9560CHC2CYI7/F9560ZCU2CYI7",
             "md5": "de61dc8511b83db6f4f209abad8562d6",
             "found_at": "2025-10-18T03:36:19.811320+00:00"
+          },
+          {
+            "firmware": "F9560ZCS2CYK2/F9560CHC2CYK2/F9560ZCS2CYK2",
+            "md5": "647d732cbd4cd1e2f45dab14f345af85",
+            "found_at": "2025-11-12T14:36:13.950053077+00:00"
           }
         ]
       }
@@ -14449,6 +14479,11 @@
             "firmware": "S9110ZCS6EYJ5/S9110CHC6EYJ5/S9110ZCS6EYJ5",
             "md5": "4dcbe51d7af95aa4ec27e12ef36db3bf",
             "found_at": "2025-10-30T06:38:18.307014182+00:00"
+          },
+          {
+            "firmware": "S9110ZCS6EYK3/S9110CHC6EYK3/S9110ZCS6EYK3",
+            "md5": "495afe502957257ef0d840f4bf3c52bb",
+            "found_at": "2025-11-12T14:30:38.080881700+00:00"
           }
         ]
       }
@@ -15134,6 +15169,11 @@
             "firmware": "S9160ZCS6EYJ5/S9160CHC6EYJ5/S9160ZCS6EYJ5",
             "md5": "f0d77ec57f18fe3cfb6bb07fed3c636f",
             "found_at": "2025-10-30T06:39:50.237757660+00:00"
+          },
+          {
+            "firmware": "S9160ZCS6EYK3/S9160CHC6EYK3/S9160ZCS6EYK3",
+            "md5": "5a15edccd61833d386296fd8f639681e",
+            "found_at": "2025-11-12T14:32:07.566423451+00:00"
           }
         ]
       }
@@ -15819,6 +15859,11 @@
             "firmware": "S9180ZCS6EYJ5/S9180CHC6EYJ5/S9180ZCS6EYJ5",
             "md5": "cc3a412259b9cc78d480304bcd686f1c",
             "found_at": "2025-10-30T06:39:17.737303832+00:00"
+          },
+          {
+            "firmware": "S9180ZCS6EYK3/S9180CHC6EYK3/S9180ZCS6EYK3",
+            "md5": "2a2344be70743acc0356a70f5b0247cc",
+            "found_at": "2025-11-12T14:31:36.721208864+00:00"
           }
         ]
       }
@@ -16378,7 +16423,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9210ZCU4CYI6/S9210CHC4CYI6/S9210ZCU4CYI6",
+        "latest_official": "S9210ZCS4CYJ7/S9210CHC4CYJ7/S9210ZCS4CYJ7",
         "test_firmwares": [
           {
             "firmware": "S9210ZCU4CYG1/S9210CHC4CYG1/S9210ZCU4CYG1",
@@ -16449,6 +16494,11 @@
             "firmware": "S9210ZCS4CYJ7/S9210CHC4CYJ7/S9210ZCS4CYJ7",
             "md5": "4305e73fb3517f614c64a84ae559f7e3",
             "found_at": "2025-10-22T18:37:32.677036232+00:00"
+          },
+          {
+            "firmware": "S9210ZCS4CYK2/S9210CHC4CYK2/S9210ZCS4CYK2",
+            "md5": "45dd7d7c4d39e086a003bbfc74f0d679",
+            "found_at": "2025-11-12T14:32:36.894447669+00:00"
           }
         ]
       }
@@ -16903,7 +16953,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9260ZCU4CYI6/S9260CHC4CYI6/S9260ZCU4CYI6",
+        "latest_official": "S9260ZCS4CYJ7/S9260CHC4CYJ7/S9260ZCS4CYJ7",
         "test_firmwares": [
           {
             "firmware": "S9260ZCU4CYG1/S9260CHC4CYG1/S9260ZCU4CYG1",
@@ -16974,6 +17024,11 @@
             "firmware": "S9260ZCS4CYJ7/S9260CHC4CYJ7/S9260ZCS4CYJ7",
             "md5": "e48ae9710e10bb31240402ae840a44bb",
             "found_at": "2025-10-22T18:38:40.492642503+00:00"
+          },
+          {
+            "firmware": "S9260ZCS4CYK2/S9260CHC4CYK2/S9260ZCS4CYK2",
+            "md5": "d4405b6fc22ce5839fdd814b4b915fee",
+            "found_at": "2025-11-12T14:34:19.885773771+00:00"
           }
         ]
       }
@@ -17423,7 +17478,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9280ZCU4CYI7/S9280CHC4CYI7/S9280ZCU4CYI7",
+        "latest_official": "S9280ZCS4CYJ7/S9280CHC4CYJ7/S9280ZCS4CYJ7",
         "test_firmwares": [
           {
             "firmware": "S9280ZCU4CYG1/S9280CHC4CYG1/S9280ZCU4CYG1",
@@ -17499,6 +17554,11 @@
             "firmware": "S9280ZCS4CYJ7/S9280CHC4CYJ7/S9280ZCS4CYJ7",
             "md5": "fc5d9ba135ad9948a0962c9b1fe85179",
             "found_at": "2025-10-22T18:38:16.973101390+00:00"
+          },
+          {
+            "firmware": "S9280ZCS4CYK2/S9280CHC4CYK2/S9280ZCS4CYK2",
+            "md5": "c234f5132010fef77226cf4d5f84ebf8",
+            "found_at": "2025-11-12T14:33:43.916529465+00:00"
           }
         ]
       }
@@ -21658,7 +21718,7 @@
     "name": "心系天下 三星 W25",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W9025ZCU2CYI9/W9025CHC2CYI9/W9025ZCU2CYI9",
+        "latest_official": "W9025ZCS2CYJ1/W9025CHC2CYJ1/W9025ZCS2CYJ1",
         "test_firmwares": [
           {
             "firmware": "W9025ZCS2CYIB/W9025CHC2CYIB/W9025ZCS2CYIB",
@@ -21754,6 +21814,11 @@
             "firmware": "W9025ZCU2CYI9/W9025CHC2CYI9/W9025ZCU2CYI9",
             "md5": "6a2d64454fbccfb33d38ab968b62f86d",
             "found_at": "2025-10-18T03:37:41.678692+00:00"
+          },
+          {
+            "firmware": "W9025ZCS2CYK2/W9025CHC2CYK2/W9025ZCS2CYK2",
+            "md5": "35850f7212617b985266af9e9d470d8e",
+            "found_at": "2025-11-12T14:37:32.227824976+00:00"
           }
         ]
       }

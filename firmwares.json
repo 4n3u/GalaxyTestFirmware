@@ -3398,7 +3398,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5660ZCU6BYIC/A5660CHC6BYIC/A5660ZCU6BYIC",
+        "latest_official": "A5660ZCS6BYJ4/A5660CHC6BYJ4/A5660ZCS6BYJ4",
         "test_firmwares": [
           {
             "firmware": "A5660ZCS6BYJ4/A5660CHC6BYJ4/A5660ZCS6BYJ4",
@@ -3439,6 +3439,11 @@
             "firmware": "A5660ZCU6BYIC/A5660CHC6BYIC/A5660ZCU6BYIC",
             "md5": "8c0b84c60013574f0d73641612336a47",
             "found_at": "2025-10-18T03:21:46.100045+00:00"
+          },
+          {
+            "firmware": "A5660ZCS7BYK3/A5660CHC7BYK3/A5660ZCS7BYK3",
+            "md5": "4db48aa05b5a057d452b9797b9a0e709",
+            "found_at": "2025-11-13T03:26:30.885085393+00:00"
           }
         ]
       }
@@ -11738,7 +11743,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "S7210ZHU7CYI6/S7210OZS7CYI6/S7210ZHU7CYI7",
+        "latest_official": "S7210ZHS7CYJ8/S7210OZS7CYJ8/S7210ZHS7CYJ8",
         "test_firmwares": [
           {
             "firmware": "S7210ZHS8CYJ2/S7210OZS8CYJ2/S7210ZHS8CYJ2",
@@ -11789,6 +11794,11 @@
             "firmware": "S7210ZHS7CYJ8/S7210OZS7CYJ8/S7210ZHS7CYJ8",
             "md5": "755bb96b95302d416dfda244370c7893",
             "found_at": "2025-10-23T14:30:48.581569958+00:00"
+          },
+          {
+            "firmware": "S7210ZHS8CYK3/S7210OZS8CYK3/S7210ZHS8CYK3",
+            "md5": "3478d354d011ff1648526c690be1f9f8",
+            "found_at": "2025-11-13T03:26:13.288129633+00:00"
           }
         ]
       }

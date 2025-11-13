@@ -6359,6 +6359,11 @@
             "firmware": "F766USQS6AYKA/F766UOYN6AYKA/F766USQS6AYKA",
             "md5": "e72e679a281bc2b52209722fa36fe840",
             "found_at": "2025-11-13T04:36:27.197605571+00:00"
+          },
+          {
+            "firmware": "F766USQS6AYKC/F766UOYN6AYKC/F766USQS6AYKC",
+            "md5": "63d162defaef93de1c4840c7fe9c8e87",
+            "found_at": "2025-11-13T12:58:43.523623259+00:00"
           }
         ]
       }
@@ -16719,6 +16724,11 @@
             "firmware": "S921BXXSBCYK2/S921BOXMBCYK2/S921BXXSBCYK2",
             "md5": "455a906e6cf50a6b3c7ef339b7128352",
             "found_at": "2025-11-10T06:42:29.091291978+00:00"
+          },
+          {
+            "firmware": "S921BXXSBCYK4/S921BOXMBCYK4/S921BXXSBCYK4",
+            "md5": "422d7646a92d2c727d8bc7392c866426",
+            "found_at": "2025-11-13T12:54:27.619487717+00:00"
           }
         ]
       }

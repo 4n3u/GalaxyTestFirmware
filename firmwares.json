@@ -8349,6 +8349,11 @@
             "firmware": "F956USQS2CYK2/F956UOYN2CYK2/F956USQS2CYK2",
             "md5": "3df02777ca6fff95328ed3d5cc44d064",
             "found_at": "2025-11-10T08:45:03.224128790+00:00"
+          },
+          {
+            "firmware": "F956USQS2CYK3/F956UOYN2CYK3/F956USQS2CYK3",
+            "md5": "a8b87d3986861175ea60f66676a5e995",
+            "found_at": "2025-11-13T08:39:31.060899787+00:00"
           }
         ]
       }
@@ -10508,7 +10513,7 @@
         ]
       },
       "TGY": {
-        "latest_official": "M336BZHUDGYI6/M336BOZSDGYI6/M336BZHUDGYI6",
+        "latest_official": "M336BZHSDGYJ1/M336BOZSDGYJ1/M336BZHUDGYI6",
         "test_firmwares": [
           {
             "firmware": "M336BZHSDFYG2/M336BOZSDFYG2/M336BZHSDFYG2",
@@ -10574,6 +10579,11 @@
             "firmware": "M336BZHUDGYI6/M336BOZSDGYI6/M336BZHUDGYI6",
             "md5": "e34b505a9db34a457bd48934a391cff4",
             "found_at": "2025-10-27T08:29:00.941733121+00:00"
+          },
+          {
+            "firmware": "M336BZHSEGYK2/M336BOZSEGYK2/M336BZHSEGYK2",
+            "md5": "761fe458db847a2a8ba185533853820b",
+            "found_at": "2025-11-13T08:28:21.334482793+00:00"
           }
         ]
       }

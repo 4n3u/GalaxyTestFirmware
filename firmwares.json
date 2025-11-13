@@ -10128,7 +10128,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G990U1UESJHYI6/G990U1OYMJHYI6/G990U1UESJHYI6",
+        "latest_official": "G990U1UEUJIYJ4/G990U1OYMJIYJ4/G990U1UEUJIYJ4",
         "test_firmwares": [
           {
             "firmware": "G990U1UESJHYI6/G990U1OYMJHYI6/G990U1UESJHYI6",
@@ -10159,6 +10159,11 @@
             "firmware": "G990U1UEUJIYJ4/G990U1OYMJIYJ4/G990U1UEUJIYJ4",
             "md5": "15f7a54ecec5eda3447fd805582195d7",
             "found_at": "2025-10-18T03:28:59.635286+00:00"
+          },
+          {
+            "firmware": "G990U1UESKIYK2/G990U1OYMKIYK2/G990U1UESKIYK2",
+            "md5": "f5b26e2821710c933ba8a7c7b97fc307",
+            "found_at": "2025-11-13T06:30:10.979690655+00:00"
           }
         ]
       }
@@ -10168,7 +10173,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G990U3UESHHYI6/G990U3OYMHHYI6/G990U3UESHHYI6",
+        "latest_official": "G990U3UEUHIYJ4/G990U3OYMHIYJ4/G990U3UEUHIYJ4",
         "test_firmwares": [
           {
             "firmware": "G990U3UESHHYI6/G990U3OYMHHYI6/G990U3UESHHYI6",
@@ -10199,6 +10204,11 @@
             "firmware": "G990U3UEUHIYJ4/G990U3OYMHIYJ4/G990U3UEUHIYJ4",
             "md5": "d446f27397955247a3d356d1586d3321",
             "found_at": "2025-10-18T03:29:04.105652+00:00"
+          },
+          {
+            "firmware": "G990U3UESIIYK2/G990U3OYMIIYK2/G990U3UESIIYK2",
+            "md5": "86a376dc4e2b65d4b09be04f259f3a2d",
+            "found_at": "2025-11-13T06:30:17.548818726+00:00"
           }
         ]
       }

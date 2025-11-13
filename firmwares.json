@@ -1353,7 +1353,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A176BXXU2BYID/A176BOXM2BYID/A176BXXU2BYID",
+        "latest_official": "A176BXXS3BYJ1/A176BOXM3BYJ1/A176BXXS3BYJ1",
         "test_firmwares": [
           {
             "firmware": "A176BXXU2BYI1/A176BOXM2BYI1/A176BXXU2BYI1",
@@ -1414,6 +1414,11 @@
             "firmware": "A176BXXS3BYJ1/A176BOXM3BYJ1/A176BXXS3BYJ1",
             "md5": "76737a1a4cd12b529825fa47dbe333bb",
             "found_at": "2025-10-28T03:11:32.546029380+00:00"
+          },
+          {
+            "firmware": "A176BXXU3BYK3/A176BOXM3BYK3/A176BXXU3BYK3",
+            "md5": "9645e76abafb57145ae9a7d9cc3c98cf",
+            "found_at": "2025-11-13T10:28:01.833965890+00:00"
           }
         ]
       }
@@ -12764,6 +12769,11 @@
             "firmware": "S9010ZCU9GYJ1/S9010CHC9GYJ1/S9010ZCU9GYJ1",
             "md5": "0c3b0dc236373777a6ea38ced90f03ae",
             "found_at": "2025-11-03T08:35:21.300995226+00:00"
+          },
+          {
+            "firmware": "S9010ZCS9GYK3/S9010CHC9GYK3/S9010ZCS9GYK3",
+            "md5": "bc3c7948b05dfdfccc61f1f09562691e",
+            "found_at": "2025-11-13T10:30:44.997384699+00:00"
           }
         ]
       }
@@ -13374,6 +13384,11 @@
             "firmware": "S9060ZCU9GYJ1/S9060CHC9GYJ1/S9060ZCU9GYJ1",
             "md5": "13f15216df3d1fc9c42d93cfd3b3393b",
             "found_at": "2025-11-03T08:36:17.781343366+00:00"
+          },
+          {
+            "firmware": "S9060ZCS9GYK3/S9060CHC9GYK3/S9060ZCS9GYK3",
+            "md5": "719b5616607e423fc488de0a0ca969c8",
+            "found_at": "2025-11-13T10:31:42.462387917+00:00"
           }
         ]
       }
@@ -13984,6 +13999,11 @@
             "firmware": "S9080ZCU9GYJ1/S9080CHC9GYJ1/S9080ZCU9GYJ1",
             "md5": "4cfa63626fd87279a2e218dcefc85723",
             "found_at": "2025-11-03T08:35:49.493021853+00:00"
+          },
+          {
+            "firmware": "S9080ZCS9GYK3/S9080CHC9GYK3/S9080ZCS9GYK3",
+            "md5": "62bc67844a2579ef960eb45edf62dfae",
+            "found_at": "2025-11-13T10:31:14.023954087+00:00"
           }
         ]
       }

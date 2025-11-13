@@ -3063,7 +3063,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5460ZCUFEYI4/A5460CHCFEYI4/A5460ZCUFEYI4",
+        "latest_official": "A5460ZCSFEYJ9/A5460CHCFEYJ9/A5460ZCSFEYJ9",
         "test_firmwares": [
           {
             "firmware": "A5460ZCUFEYH2/A5460CHCFEYH2/A5460ZCUFEYH2",
@@ -3104,6 +3104,11 @@
             "firmware": "A5460ZCSFEYJ9/A5460CHCFEYJ9/A5460ZCSFEYJ9",
             "md5": "710bc58191c1ea393b83519ada3eed3f",
             "found_at": "2025-10-23T12:51:40.360206211+00:00"
+          },
+          {
+            "firmware": "A5460ZCSGEYK3/A5460CHCGEYK3/A5460ZCSGEYK3",
+            "md5": "6728042861a1570d4861246cf216c7ad",
+            "found_at": "2025-11-13T14:32:20.434635172+00:00"
           }
         ]
       }
@@ -22159,6 +22164,11 @@
             "firmware": "X216BXXU9EYK8/X216BOXM9EYK8/X216BXXU9EYK8",
             "md5": "b60d7b9d504a5c6319c9bf23b9e09238",
             "found_at": "2025-11-11T12:44:34.046094084+00:00"
+          },
+          {
+            "firmware": "X216BXXU9EYKB/X216BOXM9EYKB/X216BXXU9EYKB",
+            "md5": "99e771a09ec6b37dfbdbb26fe75e76cd",
+            "found_at": "2025-11-13T14:29:52.053349499+00:00"
           }
         ]
       }
@@ -22568,7 +22578,7 @@
     "name": "Galaxy Tab Active5 Pro 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X358UUES3AYI2/X358UOYM3AYI2/X358UUES3AYI2",
+        "latest_official": "X358UUEU3BYJ4/X358UOYM3BYJ4/X358UUEU3BYJ4",
         "test_firmwares": [
           {
             "firmware": "X358UUES3AYI1/X358UOYM3AYI1/X358UUES3AYI1",
@@ -22624,6 +22634,11 @@
             "firmware": "X358UUEU3BYJ4/X358UOYM3BYJ4/X358UUEU3BYJ4",
             "md5": "ad8dc4487a2bc7316aed81b9cfc4e165",
             "found_at": "2025-10-25T08:24:46.457192822+00:00"
+          },
+          {
+            "firmware": "X358UUES4BYK2/X358UOYM4BYK2/X358UUES4BYK2",
+            "md5": "77a7dbe0e6420227fed30568583a0410",
+            "found_at": "2025-11-13T14:30:49.838242503+00:00"
           }
         ]
       }

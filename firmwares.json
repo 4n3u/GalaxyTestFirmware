@@ -8369,6 +8369,11 @@
             "firmware": "F956USQS2CYK3/F956UOYN2CYK3/F956USQS2CYK3",
             "md5": "a8b87d3986861175ea60f66676a5e995",
             "found_at": "2025-11-13T08:39:31.060899787+00:00"
+          },
+          {
+            "firmware": "F956USQS2CYK4/F956UOYN2CYK4/F956USQS2CYK4",
+            "md5": "76adefe514804692c345752a6be6bb07",
+            "found_at": "2025-11-14T06:50:02.742700479+00:00"
           }
         ]
       }
@@ -9953,7 +9958,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "G9900ZCSGHYI3/G9900CHCGHYI3/G9900ZCSGHYI3",
+        "latest_official": "G9900ZCUGIYJ2/G9900CHCGIYJ2/G9900ZCUGIYJ2",
         "test_firmwares": [
           {
             "firmware": "G9900ZCSGHYI3/G9900CHCGHYI3/G9900ZCSGHYI3",
@@ -9989,11 +9994,16 @@
             "firmware": "G9900ZCUGIYJ2/G9900CHCGIYJ2/G9900ZCUGIYJ2",
             "md5": "45f514a9ec598c5d944b80ae80b279e9",
             "found_at": "2025-10-23T18:27:40.795940915+00:00"
+          },
+          {
+            "firmware": "G9900ZCSHIYK2/G9900CHCHIYK2/G9900ZCSHIYK2",
+            "md5": "f5451c4763b7d5b618a5a57b34180d86",
+            "found_at": "2025-11-14T06:40:30.220866572+00:00"
           }
         ]
       },
       "TGY": {
-        "latest_official": "G9900ZHSGHYI3/G9900OZSGHYI3/G9900ZHSGHYI3",
+        "latest_official": "G9900ZHUGIYJ2/G9900OZSGIYJ2/G9900ZHUGIYJ2",
         "test_firmwares": [
           {
             "firmware": "G9900ZHSGHYI3/G9900OZSGHYI3/G9900ZHSGHYI3",
@@ -10029,6 +10039,11 @@
             "firmware": "G9900ZHUGIYJ2/G9900OZSGIYJ2/G9900ZHUGIYJ2",
             "md5": "0a7911f610526435830e3e55e0436071",
             "found_at": "2025-10-23T18:27:38.769759191+00:00"
+          },
+          {
+            "firmware": "G9900ZHSHIYK2/G9900OZSHIYK2/G9900ZHSHIYK2",
+            "md5": "f3959a776c405ce7a273501899bcfbc3",
+            "found_at": "2025-11-14T06:40:34.234231154+00:00"
           }
         ]
       }
@@ -16734,6 +16749,11 @@
             "firmware": "S921BXXSBCYK4/S921BOXMBCYK4/S921BXXSBCYK4",
             "md5": "422d7646a92d2c727d8bc7392c866426",
             "found_at": "2025-11-13T12:54:27.619487717+00:00"
+          },
+          {
+            "firmware": "S921BXXSBCYK5/S921BOXMBCYK5/S921BXXSBCYK5",
+            "md5": "b804878b3a8c5ded996877b277f0c523",
+            "found_at": "2025-11-14T06:46:10.848610090+00:00"
           }
         ]
       }
@@ -21289,6 +21309,11 @@
             "firmware": "S938USQS7BYJ5/S938UOYN7BYJ5/S938USQS7BYJ5",
             "md5": "f03a629d4879b08d594687925aee97e7",
             "found_at": "2025-11-07T16:38:38.026408191+00:00"
+          },
+          {
+            "firmware": "S938USQS7BYJ6/S938UOYN7BYJ6/S938USQS7BYJ6",
+            "md5": "56d021652d83e9d1bbe4dfca42c02bc8",
+            "found_at": "2025-11-14T06:50:01.016907224+00:00"
           }
         ]
       }

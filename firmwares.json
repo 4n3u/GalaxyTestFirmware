@@ -22249,6 +22249,11 @@
             "firmware": "X216CZCU9EYK8/X216CCHC9EYK8/X216CZCU9EYK8",
             "md5": "7c16be8939a5419e9b0a6ffc9e29b2d7",
             "found_at": "2025-11-11T14:30:52.049899128+00:00"
+          },
+          {
+            "firmware": "X216CZCU9EYKB/X216CCHC9EYKB/X216CZCU9EYKB",
+            "md5": "18bf79c2d7e30896f49fd694c4df482e",
+            "found_at": "2025-11-14T12:43:18.408639506+00:00"
           }
         ]
       }
@@ -22344,6 +22349,11 @@
             "firmware": "X218USQU9EYK8/X218UOYN9EYK8/X218USQU9EYK8",
             "md5": "ed1bafaaf45cd0a343f26c62c976e330",
             "found_at": "2025-11-12T06:40:02.362278909+00:00"
+          },
+          {
+            "firmware": "X218USQU9EYKB/X218UOYN9EYKB/X218USQU9EYKB",
+            "md5": "615d9703dba0258f26ffc4bd52edd9d9",
+            "found_at": "2025-11-14T12:43:35.788968333+00:00"
           }
         ]
       }

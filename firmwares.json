@@ -22028,7 +22028,7 @@
     "name": "Galaxy Tab A9",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X115XXS6CYI2/X115OXM6CYI2/X115XXS6CYI2",
+        "latest_official": "X115XXU6DYK3/X115OXM6DYK3/X115XXU6DYK3",
         "test_firmwares": [
           {
             "firmware": "X115XXS5CYG1/X115OXM5CYG1/X115XXS5CYG1",
@@ -22109,6 +22109,16 @@
             "firmware": "X115XXU6DYJB/X115OXM6DYJB/X115XXU6DYJB",
             "md5": "10939fd83ab49c7fe19f26c9a14cad6a",
             "found_at": "2025-10-30T18:29:57.345947539+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYK1/X115OXM6DYK1/X115XXU6DYK1",
+            "md5": "e9bb24f84cb0f8f43992c57c1252b020",
+            "found_at": "2025-11-17T14:23:47.255476327+00:00"
+          },
+          {
+            "firmware": "X115XXU6DYK3/X115OXM6DYK3/X115XXU6DYK3",
+            "md5": "2db816e0c64aa964e1795e60c3299172",
+            "found_at": "2025-11-17T14:23:47.256500205+00:00"
           }
         ]
       }

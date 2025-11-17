@@ -88,7 +88,7 @@
     "name": "Galaxy A05s",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A057GXXS8DYH1/A057GOXM8DYH1/A057GXXS8DYH1",
+        "latest_official": "A057GXXS9DYJ1/A057GOXM9DYJ1/A057GXXS9DYJ1",
         "test_firmwares": [
           {
             "firmware": "A057GXXS8DYG1/A057GOXM8DYG1/A057GXXS8DYG1",
@@ -99,6 +99,11 @@
             "firmware": "A057GXXS8DYH1/A057GOXM8DYH1/A057GXXS8DYH1",
             "md5": "164fb6683d9f23ccf8cd90b7f48e7fa6",
             "found_at": "2025-10-18T03:21:31.930150+00:00"
+          },
+          {
+            "firmware": "A057GXXS9DYJ1/A057GOXM9DYJ1/A057GXXS9DYJ1",
+            "md5": "bf39b3d198d048032051371b5da100c7",
+            "found_at": "2025-11-17T04:27:54.313070100+00:00"
           }
         ]
       }

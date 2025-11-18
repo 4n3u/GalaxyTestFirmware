@@ -2883,7 +2883,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5360ZCUHGYI9/A5360CHCHGYI9/A5360ZCUHGYI9",
+        "latest_official": "A5360ZCSHGYJ3/A5360CHCHGYJ3/A5360ZCSHGYJ3",
         "test_firmwares": [
           {
             "firmware": "A5360ZCSHFYH1/A5360CHCHFYH1/A5360ZCSHFYH1",
@@ -2934,6 +2934,11 @@
             "firmware": "A5360ZCSHGYJ3/A5360CHCHGYJ3/A5360ZCSHGYJ3",
             "md5": "990e5b4ecaa87070ae5cc45fc403cfdb",
             "found_at": "2025-10-23T10:32:34.491130119+00:00"
+          },
+          {
+            "firmware": "A5360ZCSIGYK3/A5360CHCIGYK3/A5360ZCSIGYK3",
+            "md5": "0406aac47082eb3397d3ef198c66ac32",
+            "found_at": "2025-11-18T03:28:14.535938294+00:00"
           }
         ]
       }

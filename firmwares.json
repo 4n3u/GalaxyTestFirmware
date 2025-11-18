@@ -18678,7 +18678,7 @@
     "name": "Galaxy S25",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S931NKSS6BYJ2/S931NOKR6BYJ2/S931NKSS6BYIF",
+        "latest_official": "S931NKSS7BYK5/S931NOKR7BYK5/S931NKSS7BYK2",
         "test_firmwares": [
           {
             "firmware": "S931NKSS5BYI9/S931NOKR5BYI9/S931NKSU5BYI3",
@@ -18869,6 +18869,11 @@
             "firmware": "S931NKSU7CYKD/S931NOKR7CYKD/S931NKSU7CYKB",
             "md5": "615ad336b32253aaec6df2c3e42a75a8",
             "found_at": "2025-11-12T16:38:55.179289252+00:00"
+          },
+          {
+            "firmware": "S931NKSU7CYKI/S931NOKR7CYKI/S931NKSU7CYKI",
+            "md5": "ac5c545e4b323b606ab3c518c6729aea",
+            "found_at": "2025-11-18T08:44:56.820585910+00:00"
           }
         ]
       }

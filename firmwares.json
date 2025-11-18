@@ -6119,6 +6119,11 @@
             "firmware": "F761U1UEU6AYK9/F761U1OYM6AYK9/F761U1UEU6AYK9",
             "md5": "46d2d49f2954fdb2f18d20c6d1b83fea",
             "found_at": "2025-11-07T14:26:44.307444282+00:00"
+          },
+          {
+            "firmware": "F761U1UEU6BYKI/F761U1OYM6BYKI/F761U1UEU6BYKI",
+            "md5": "14672fb942fbb26e598a89ae485d7619",
+            "found_at": "2025-11-18T16:32:15.815189018+00:00"
           }
         ]
       }
@@ -6269,6 +6274,11 @@
             "firmware": "F766BXXU6BYKD/F766BOXM6BYKD/F766BXXU6BYKD",
             "md5": "9190d86ee262ea7d12f30a5aa0e5450f",
             "found_at": "2025-11-12T18:41:36.558560140+00:00"
+          },
+          {
+            "firmware": "F766BXXU6BYKI/F766BOXM6BYKI/F766BXXU6BYKI",
+            "md5": "9dd4741602f8e62810ba21e77a54cb05",
+            "found_at": "2025-11-18T16:42:24.157462232+00:00"
           }
         ]
       }
@@ -6419,6 +6429,11 @@
             "firmware": "F766USQU6BYKI/F766UOYN6BYKI/F766USQU6BYKI",
             "md5": "b57195d49b7ff0586ca9e118fa0d3484",
             "found_at": "2025-11-18T12:56:16.372552883+00:00"
+          },
+          {
+            "firmware": "F766USQS6AYKE/F766UOYN6AYKE/F766USQS6AYKE",
+            "md5": "d8f07d3392b46346acd91faf410f5158",
+            "found_at": "2025-11-18T16:42:33.469825493+00:00"
           }
         ]
       }
@@ -6469,6 +6484,11 @@
             "firmware": "F766U1UEU6BYKD/F766U1OYM6BYKD/F766U1UEU6BYKD",
             "md5": "db67042f0e85622cb240e3c93fa2d816",
             "found_at": "2025-11-12T18:41:55.693719341+00:00"
+          },
+          {
+            "firmware": "F766U1UEU6BYKI/F766U1OYM6BYKI/F766U1UEU6BYKI",
+            "md5": "a419d7a739d83c8d1134ca7250de3db2",
+            "found_at": "2025-11-18T16:42:42.873159048+00:00"
           }
         ]
       }
@@ -8819,6 +8839,11 @@
             "firmware": "F9660ZCU6BYKB/F9660CHC6BYKB/F9660ZCU6BYKB",
             "md5": "e377f559545ab79d140a4649e0897c5b",
             "found_at": "2025-11-12T10:39:10.746701012+00:00"
+          },
+          {
+            "firmware": "F9660ZCU6BYKI/F9660CHC6BYKI/F9660ZCU6BYKI",
+            "md5": "6b1518f39c772317bb57c446c1044c2a",
+            "found_at": "2025-11-18T16:42:54.495019928+00:00"
           }
         ]
       }
@@ -21429,6 +21454,11 @@
             "firmware": "S938USQS7BYJ6/S938UOYN7BYJ6/S938USQS7BYJ6",
             "md5": "56d021652d83e9d1bbe4dfca42c02bc8",
             "found_at": "2025-11-14T06:50:01.016907224+00:00"
+          },
+          {
+            "firmware": "S938USQS7BYJ7/S938UOYN7BYJ7/S938USQS7BYJ7",
+            "md5": "9bfc8e68534fb205887282f1a0a3f31f",
+            "found_at": "2025-11-18T16:35:40.432085507+00:00"
           }
         ]
       }

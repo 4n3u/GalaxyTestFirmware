@@ -5964,6 +5964,11 @@
             "firmware": "F761BXXU6BYKD/F761BOXM6BYKD/F761BXXU6BYKD",
             "md5": "e8a16e996a6ee42124010fbe9bc2c746",
             "found_at": "2025-11-12T18:32:48.330696790+00:00"
+          },
+          {
+            "firmware": "F761BXXU6BYKI/F761BOXM6BYKI/F761BXXU6BYKI",
+            "md5": "0c51adf8fad644d83048d7e8720bb43a",
+            "found_at": "2025-11-18T12:59:23.216710266+00:00"
           }
         ]
       }
@@ -6394,6 +6399,11 @@
             "firmware": "F766USQS6AYKC/F766UOYN6AYKC/F766USQS6AYKC",
             "md5": "63d162defaef93de1c4840c7fe9c8e87",
             "found_at": "2025-11-13T12:58:43.523623259+00:00"
+          },
+          {
+            "firmware": "F766USQU6BYKI/F766UOYN6BYKI/F766USQU6BYKI",
+            "md5": "b57195d49b7ff0586ca9e118fa0d3484",
+            "found_at": "2025-11-18T12:56:16.372552883+00:00"
           }
         ]
       }
@@ -9014,6 +9024,11 @@
             "firmware": "F966USQU6BYKD/F966UOYN6BYKD/F966USQU6BYKD",
             "md5": "da9f9424b678f5b22abe8c2d6e44cf94",
             "found_at": "2025-11-12T18:42:23.675782836+00:00"
+          },
+          {
+            "firmware": "F966USQU6BYKI/F966UOYN6BYKI/F966USQU6BYKI",
+            "md5": "71717088c84bf2e5a39263f180704bf1",
+            "found_at": "2025-11-18T12:58:58.688811181+00:00"
           }
         ]
       }
@@ -18494,6 +18509,11 @@
             "firmware": "S9310ZCU7CYKD/S9310CHC7CYKD/S9310ZCU7CYKB",
             "md5": "5f74d371cd5ea1d7ea6a3c6b47a50d73",
             "found_at": "2025-11-12T18:41:01.065041575+00:00"
+          },
+          {
+            "firmware": "S9310ZCU7CYKI/S9310CHC7CYKI/S9310ZCU7CYKI",
+            "md5": "5ab122634f25c4a57890f2229b66edb2",
+            "found_at": "2025-11-18T12:49:30.605258050+00:00"
           }
         ]
       }
@@ -19319,6 +19339,11 @@
             "firmware": "S9360ZCU7CYKD/S9360CHC7CYKD/S9360ZCU7CYKB",
             "md5": "ce4fc2d2b4156509df6e3d4ab7dbaa1a",
             "found_at": "2025-11-12T18:42:51.611915694+00:00"
+          },
+          {
+            "firmware": "S9360ZCU7CYKI/S9360CHC7CYKI/S9360ZCU7CYKI",
+            "md5": "adebdef785d9b6539f77e41dda690c1c",
+            "found_at": "2025-11-18T12:51:43.100752341+00:00"
           }
         ]
       }

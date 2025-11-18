@@ -5879,6 +5879,11 @@
             "firmware": "F7610ZCU6BYKB/F7610CHC6BYKB/F7610ZCU6BYKB",
             "md5": "e587c8fe347a437765b59caccb521b81",
             "found_at": "2025-11-12T08:45:18.507129982+00:00"
+          },
+          {
+            "firmware": "F7610ZCU6BYKI/F7610CHC6BYKI/F7610ZCU6BYKI",
+            "md5": "e4f6319c9fe682841f6fe6e9dbef0c81",
+            "found_at": "2025-11-18T10:28:17.373973474+00:00"
           }
         ]
       }
@@ -19498,7 +19503,7 @@
     "name": "Galaxy S25+",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S936NKSS6BYJ2/S936NOKR6BYJ2/S936NKSS6BYIF",
+        "latest_official": "S936NKSS7BYK5/S936NOKR7BYK5/S936NKSS7BYK2",
         "test_firmwares": [
           {
             "firmware": "S936NKSS5BYI9/S936NOKR5BYI9/S936NKSU5BYI3",
@@ -19694,6 +19699,11 @@
             "firmware": "S936NKSU7CYKD/S936NOKR7CYKD/S936NKSU7CYKB",
             "md5": "2099a3c116193e90f4bfc191380dcb1e",
             "found_at": "2025-11-12T16:36:41.371868924+00:00"
+          },
+          {
+            "firmware": "S936NKSU7CYKI/S936NOKR7CYKI/S936NKSU7CYKI",
+            "md5": "d45ce249701de9d74c9128abf2ab0015",
+            "found_at": "2025-11-18T10:39:15.440618073+00:00"
           }
         ]
       }
@@ -20283,7 +20293,7 @@
     "name": "Galaxy S25 Edge",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S937NKSS3BYJ2/S937NOKR3BYJ2/S937NKSS3BYIF",
+        "latest_official": "S937NKSS4BYK5/S937NOKR4BYK5/S937NKSS4BYK2",
         "test_firmwares": [
           {
             "firmware": "S937NKSS2BYI9/S937NOKR2BYI9/S937NKSU2BYI3",
@@ -20419,6 +20429,11 @@
             "firmware": "S937NKSU4CYKB/S937NOKR4CYKB/S937NKSU4CYKB",
             "md5": "ae69b0dca9f3da4d45421a6b3da02cbc",
             "found_at": "2025-11-12T04:37:38.227061658+00:00"
+          },
+          {
+            "firmware": "S937NKSU4CYKI/S937NOKR4CYKI/S937NKSU4CYKI",
+            "md5": "3927bd1518c2210d1ac0c8da63be807d",
+            "found_at": "2025-11-18T10:37:54.629664537+00:00"
           }
         ]
       }
@@ -20958,7 +20973,7 @@
     "name": "Galaxy S25 Ultra",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S938NKSS6BYJ2/S938NOKR6BYJ2/S938NKSS6BYIF",
+        "latest_official": "S938NKSS7BYK5/S938NOKR7BYK5/S938NKSS7BYK2",
         "test_firmwares": [
           {
             "firmware": "S938NKSS5BYI9/S938NOKR5BYI9/S938NKSU5BYI3",
@@ -21149,6 +21164,11 @@
             "firmware": "S938NKSU7CYKD/S938NOKR7CYKD/S938NKSU7CYKB",
             "md5": "10f0ee684c6863bb69065f76268e546b",
             "found_at": "2025-11-12T16:36:12.403305085+00:00"
+          },
+          {
+            "firmware": "S938NKSU7CYKI/S938NOKR7CYKI/S938NKSU7CYKI",
+            "md5": "5c98c7c3baaeabe220bc2940c6afd48b",
+            "found_at": "2025-11-18T10:38:43.759641679+00:00"
           }
         ]
       }

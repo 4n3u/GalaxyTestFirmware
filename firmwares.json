@@ -8444,6 +8444,11 @@
             "firmware": "F956USQS2CYK4/F956UOYN2CYK4/F956USQS2CYK4",
             "md5": "76adefe514804692c345752a6be6bb07",
             "found_at": "2025-11-14T06:50:02.742700479+00:00"
+          },
+          {
+            "firmware": "F956USQS2CYK5/F956UOYN2CYK5/F956USQS2CYK5",
+            "md5": "ea94b6dac752bf253e35d18c4a8c699d",
+            "found_at": "2025-11-19T01:45:56.469339973+00:00"
           }
         ]
       }

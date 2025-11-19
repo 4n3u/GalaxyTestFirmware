@@ -19809,6 +19809,11 @@
             "firmware": "S936NKSU7CYKI/S936NOKR7CYKI/S936NKSU7CYKI",
             "md5": "d45ce249701de9d74c9128abf2ab0015",
             "found_at": "2025-11-18T10:39:15.440618073+00:00"
+          },
+          {
+            "firmware": "S936NKSU7CYKJ/S936NOKR7CYKJ/S936NKSU7CYKI",
+            "md5": "56f874e98bcd0d0a3b93d8a610daf517",
+            "found_at": "2025-11-19T14:34:23.988380079+00:00"
           }
         ]
       }
@@ -21284,6 +21289,11 @@
             "firmware": "S938NKSU7CYKI/S938NOKR7CYKI/S938NKSU7CYKI",
             "md5": "5c98c7c3baaeabe220bc2940c6afd48b",
             "found_at": "2025-11-18T10:38:43.759641679+00:00"
+          },
+          {
+            "firmware": "S938NKSU7CYKJ/S938NOKR7CYKJ/S938NKSU7CYKI",
+            "md5": "1b9fc0fbf492c87b3fad436ab7ae34e7",
+            "found_at": "2025-11-19T14:33:43.406058256+00:00"
           }
         ]
       }

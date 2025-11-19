@@ -10553,12 +10553,17 @@
     "name": "Galaxy M23 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M236BXXSBEYH1/M236BOXMBEYH1/M236BXXSBEYH1",
+        "latest_official": "M236BXXSCEYJ1/M236BOXMCEYJ1/M236BXXSCEYJ1",
         "test_firmwares": [
           {
             "firmware": "M236BXXSBEYH1/M236BOXMBEYH1/M236BXXSBEYH1",
             "md5": "ad323b9e2633fd617659e7788b4fb9ec",
             "found_at": "2025-10-18T03:32:01.623874+00:00"
+          },
+          {
+            "firmware": "M236BXXSCEYJ1/M236BOXMCEYJ1/M236BXXSCEYJ1",
+            "md5": "5f337e9a7ef54c35752afb231a0e2fba",
+            "found_at": "2025-11-19T03:13:20.883607039+00:00"
           }
         ]
       }

@@ -2673,7 +2673,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A366U1UEU3BYI7/A366U1OYM3BYI7/A366U1UEU3BYI7",
+        "latest_official": "A366U1UES4BYK3/A366U1OYM4BYK3/A366U1UES4BYK3",
         "test_firmwares": [
           {
             "firmware": "A366U1UEU3BYG3/A366U1OYM3BYG3/A366U1UEU3BYG3",
@@ -2724,6 +2724,16 @@
             "firmware": "A366U1UEU3BYI7/A366U1OYM3BYI7/A366U1UEU3BYI7",
             "md5": "b80aadedc99491225111531ef07e826f",
             "found_at": "2025-10-18T03:21:50.179362+00:00"
+          },
+          {
+            "firmware": "A366U1UES4BYK1/A366U1OYM4BYK1/A366U1UES4BYK1",
+            "md5": "1f34dfaed522bf031a2a312e23208c3e",
+            "found_at": "2025-11-20T16:36:14.248448480+00:00"
+          },
+          {
+            "firmware": "A366U1UES4BYK3/A366U1OYM4BYK3/A366U1UES4BYK3",
+            "md5": "8fcd04e605e63d5e1be8d35e65341a6a",
+            "found_at": "2025-11-20T16:36:14.249223578+00:00"
           }
         ]
       }
@@ -13239,6 +13249,126 @@
       }
     }
   },
+  "SM-S901U": {
+    "name": "Galaxy S22",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "S901USQS8GYK3/S901UOYN8GYK3/S901USQS8GYK3",
+        "test_firmwares": [
+          {
+            "firmware": "S901USQS8GYK1/S901UOYN8GYK1/S901USQS8GYK1",
+            "md5": "7e85b0b96668d177568a0fba5fcd295e",
+            "found_at": "2025-11-20T16:34:13.953227528+00:00"
+          },
+          {
+            "firmware": "S901USQS8GYK3/S901UOYN8GYK3/S901USQS8GYK3",
+            "md5": "b667ae1b64d86fc912eedba3ae6d919f",
+            "found_at": "2025-11-20T16:34:13.954015359+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYG1/S901UOYN8GYG1/S901USQU8GYG1",
+            "md5": "7f6bbee7d603f930acb0445e4f1413a6",
+            "found_at": "2025-11-20T16:34:15.700356375+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYG2/S901UOYN8GYG2/S901USQU8GYG2",
+            "md5": "a9cc5b3335d2401be9c643bf10c3f8c6",
+            "found_at": "2025-11-20T16:34:15.700750959+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYG5/S901UOYN8GYG5/S901USQU8GYG5",
+            "md5": "86b3ee283b8e2aa4b7c0f814f98bee68",
+            "found_at": "2025-11-20T16:34:15.701868115+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYGD/S901UOYN8GYGD/S901USQU8GYGD",
+            "md5": "45c26c0af91e1ce96b8d44e77ff5f921",
+            "found_at": "2025-11-20T16:34:15.704844722+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYH1/S901UOYN8GYH1/S901USQU8GYH1",
+            "md5": "b4d1c9b26bcaf4f1efd6299d94c80f1e",
+            "found_at": "2025-11-20T16:34:15.714837175+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYH2/S901UOYN8GYH2/S901USQU8GYH2",
+            "md5": "6438ff1563fb4d6f8b2f02caea6094e4",
+            "found_at": "2025-11-20T16:34:15.715217119+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYH5/S901UOYN8GYH5/S901USQU8GYH5",
+            "md5": "f5eaa58f439ccbad8cd813e10efbdb62",
+            "found_at": "2025-11-20T16:34:15.716303090+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYH7/S901UOYN8GYH7/S901USQU8GYH7",
+            "md5": "21d54261907818b561df5899fba88466",
+            "found_at": "2025-11-20T16:34:15.717043442+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYH9/S901UOYN8GYH9/S901USQU8GYH9",
+            "md5": "b49750f52f30f64e806b8c6ee336b153",
+            "found_at": "2025-11-20T16:34:15.717805267+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYHB/S901UOYN8GYHB/S901USQU8GYHB",
+            "md5": "23d748dca3219dd2582eac1191e80b5b",
+            "found_at": "2025-11-20T16:34:15.718604124+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYI3/S901UOYN8GYI3/S901USQU8GYI3",
+            "md5": "eac7c60190474e301b96cee3d389e254",
+            "found_at": "2025-11-20T16:34:15.730113521+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYI5/S901UOYN8GYI5/S901USQU8GYI5",
+            "md5": "ba23e749780c38bf3fda90368d6e2f81",
+            "found_at": "2025-11-20T16:34:15.730915792+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYI8/S901UOYN8GYI8/S901USQU8GYI8",
+            "md5": "184969328d0815e43f0cd7635079268d",
+            "found_at": "2025-11-20T16:34:15.732093876+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYIA/S901UOYN8GYIA/S901USQU8GYIA",
+            "md5": "9de6019bb53815f275916c5eae047e5f",
+            "found_at": "2025-11-20T16:34:15.732890559+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYIB/S901UOYN8GYIB/S901USQU8GYIB",
+            "md5": "65357bd92d1ded920186a2a662162d9a",
+            "found_at": "2025-11-20T16:34:15.733328697+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYIC/S901UOYN8GYIC/S901USQU8GYIC",
+            "md5": "3c725ee9833e8613b2c230d4dae4f98a",
+            "found_at": "2025-11-20T16:34:15.733773633+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYID/S901UOYN8GYID/S901USQU8GYID",
+            "md5": "e8a966f888c5c4854be2489a248d09cb",
+            "found_at": "2025-11-20T16:34:15.734227155+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYIE/S901UOYN8GYIE/S901USQU8GYIE",
+            "md5": "b6a3c55a27b1a74c2a1c4008bbfa3f8a",
+            "found_at": "2025-11-20T16:34:15.734657543+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYIF/S901UOYN8GYIF/S901USQU8GYIF",
+            "md5": "b07fb57e96333e03e27ab3cf2bce3c1d",
+            "found_at": "2025-11-20T16:34:15.735120812+00:00"
+          },
+          {
+            "firmware": "S901USQU8GYJ1/S901UOYN8GYJ1/S901USQU8GYJ1",
+            "md5": "8330c8e4afefcb9b9824346b0245115e",
+            "found_at": "2025-11-20T16:34:15.744489649+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-S901U1": {
     "name": "Galaxy S22",
     "regional_firmwares": {
@@ -13849,6 +13979,126 @@
             "firmware": "S906NKSS7GYK3/S906NOKR7GYK3/S906NKSU7GYI7",
             "md5": "1cf12c0b094d2b68b05b88934aebbb3b",
             "found_at": "2025-11-07T14:31:00.328818440+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-S906U": {
+    "name": "Galaxy S22+",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "S906USQS8GYK3/S906UOYN8GYK3/S906USQS8GYK3",
+        "test_firmwares": [
+          {
+            "firmware": "S906USQS8GYK1/S906UOYN8GYK1/S906USQS8GYK1",
+            "md5": "01464fa90f89bcc1054c0d34775d974f",
+            "found_at": "2025-11-20T16:35:17.382052196+00:00"
+          },
+          {
+            "firmware": "S906USQS8GYK3/S906UOYN8GYK3/S906USQS8GYK3",
+            "md5": "4417cc961a1fe73484d1b23896b7e87c",
+            "found_at": "2025-11-20T16:35:17.382775719+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYG1/S906UOYN8GYG1/S906USQU8GYG1",
+            "md5": "81fac92d5d8eee296090a01ec0186bef",
+            "found_at": "2025-11-20T16:35:19.201472362+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYG2/S906UOYN8GYG2/S906USQU8GYG2",
+            "md5": "7d504209ebfd68db1e8579cf48db67ea",
+            "found_at": "2025-11-20T16:35:19.201909123+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYG5/S906UOYN8GYG5/S906USQU8GYG5",
+            "md5": "b28141ca6ec9025fe6b00d4f0dbdd209",
+            "found_at": "2025-11-20T16:35:19.203209288+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYGD/S906UOYN8GYGD/S906USQU8GYGD",
+            "md5": "70e1cc5e1408c7f9d30d08e43d7a7339",
+            "found_at": "2025-11-20T16:35:19.206873304+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYH1/S906UOYN8GYH1/S906USQU8GYH1",
+            "md5": "8fc917f56ac3c69c054dfaeaf3956cff",
+            "found_at": "2025-11-20T16:35:19.217862126+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYH2/S906UOYN8GYH2/S906USQU8GYH2",
+            "md5": "b435cac01c3186ddd725162a51df3ef0",
+            "found_at": "2025-11-20T16:35:19.218272637+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYH5/S906UOYN8GYH5/S906USQU8GYH5",
+            "md5": "db01c8364ea675bfe457a454c7f24881",
+            "found_at": "2025-11-20T16:35:19.219451559+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYH7/S906UOYN8GYH7/S906USQU8GYH7",
+            "md5": "dab37b9aadd33064108f49756161f5fd",
+            "found_at": "2025-11-20T16:35:19.220274632+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYH9/S906UOYN8GYH9/S906USQU8GYH9",
+            "md5": "0b02667a376423cad97e450a9cd316b2",
+            "found_at": "2025-11-20T16:35:19.221099366+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYHB/S906UOYN8GYHB/S906USQU8GYHB",
+            "md5": "9e0973745cdca6d3ffb0bbb45b677d77",
+            "found_at": "2025-11-20T16:35:19.221938202+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYI3/S906UOYN8GYI3/S906USQU8GYI3",
+            "md5": "7f02f5962394a930843fcf4b04d81489",
+            "found_at": "2025-11-20T16:35:19.234645436+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYI5/S906UOYN8GYI5/S906USQU8GYI5",
+            "md5": "e76d827a1b0153038bc5f02f44f385a0",
+            "found_at": "2025-11-20T16:35:19.235455851+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYI8/S906UOYN8GYI8/S906USQU8GYI8",
+            "md5": "17bb5264c00ae013bc3af14c7332d920",
+            "found_at": "2025-11-20T16:35:19.236660704+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYIA/S906UOYN8GYIA/S906USQU8GYIA",
+            "md5": "6ced41d1ef7b2855e7247c84ad9adf75",
+            "found_at": "2025-11-20T16:35:19.237493808+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYIB/S906UOYN8GYIB/S906USQU8GYIB",
+            "md5": "b118e480b850dac200897e294c2a9a11",
+            "found_at": "2025-11-20T16:35:19.237936004+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYIC/S906UOYN8GYIC/S906USQU8GYIC",
+            "md5": "fe692a4666d29ca08ec5e023a30a7645",
+            "found_at": "2025-11-20T16:35:19.238379356+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYID/S906UOYN8GYID/S906USQU8GYID",
+            "md5": "e33c8e9ad7982f3f44f9ed16464b4c78",
+            "found_at": "2025-11-20T16:35:19.238824269+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYIE/S906UOYN8GYIE/S906USQU8GYIE",
+            "md5": "b7eb318ea6aa619fd3c50305759fbaba",
+            "found_at": "2025-11-20T16:35:19.239268259+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYIF/S906UOYN8GYIF/S906USQU8GYIF",
+            "md5": "ded4c7a9f0881b6c705648700a4e39d8",
+            "found_at": "2025-11-20T16:35:19.239710730+00:00"
+          },
+          {
+            "firmware": "S906USQU8GYJ1/S906UOYN8GYJ1/S906USQU8GYJ1",
+            "md5": "107368f34af5ea6c657c9d262879288c",
+            "found_at": "2025-11-20T16:35:19.249868891+00:00"
           }
         ]
       }
@@ -14479,6 +14729,126 @@
             "firmware": "S908NKSS7GYK3/S908NOKR7GYK3/S908NKSU7GYI7",
             "md5": "f869d7508c37d80879ba13975c9ad86c",
             "found_at": "2025-11-07T14:30:20.663855177+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-S908U": {
+    "name": "Galaxy S22 Ultra",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "S908USQS8GYK3/S908UOYN8GYK3/S908USQS8GYK3",
+        "test_firmwares": [
+          {
+            "firmware": "S908USQS8GYK1/S908UOYN8GYK1/S908USQS8GYK1",
+            "md5": "08987e71152f1425b3be0cdc2a89c5ae",
+            "found_at": "2025-11-20T16:34:45.220016872+00:00"
+          },
+          {
+            "firmware": "S908USQS8GYK3/S908UOYN8GYK3/S908USQS8GYK3",
+            "md5": "3cf2f9f56375d12c828aaee30edc5c43",
+            "found_at": "2025-11-20T16:34:45.220772702+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYG1/S908UOYN8GYG1/S908USQU8GYG1",
+            "md5": "99630439f8790e8a0a231593dc5abcf8",
+            "found_at": "2025-11-20T16:34:46.930863192+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYG2/S908UOYN8GYG2/S908USQU8GYG2",
+            "md5": "418872615591ee2e2de1d4edcbea199e",
+            "found_at": "2025-11-20T16:34:46.931294081+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYG5/S908UOYN8GYG5/S908USQU8GYG5",
+            "md5": "77340e5697aa2cda5c48af90458a7deb",
+            "found_at": "2025-11-20T16:34:46.932573819+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYGD/S908UOYN8GYGD/S908USQU8GYGD",
+            "md5": "4dfd2392be26f166e056a6a90d2addfd",
+            "found_at": "2025-11-20T16:34:46.935942497+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYH1/S908UOYN8GYH1/S908USQU8GYH1",
+            "md5": "d6d8114de38e81819c8154e92907b2ca",
+            "found_at": "2025-11-20T16:34:46.947052365+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYH2/S908UOYN8GYH2/S908USQU8GYH2",
+            "md5": "5f57a4422f8a80fc481fe1c7bacb7b6c",
+            "found_at": "2025-11-20T16:34:46.947472408+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYH5/S908UOYN8GYH5/S908USQU8GYH5",
+            "md5": "493bb9182254991758233e84f7bb325a",
+            "found_at": "2025-11-20T16:34:46.948664128+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYH7/S908UOYN8GYH7/S908USQU8GYH7",
+            "md5": "911c44eacaef5646d7b16a438cf9bee3",
+            "found_at": "2025-11-20T16:34:46.949494489+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYH9/S908UOYN8GYH9/S908USQU8GYH9",
+            "md5": "441a86a095ed42e4ee781766b9a1931a",
+            "found_at": "2025-11-20T16:34:46.950335269+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYHB/S908UOYN8GYHB/S908USQU8GYHB",
+            "md5": "c124fa12ea1d604d06892a4d414840ba",
+            "found_at": "2025-11-20T16:34:46.951194420+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYI3/S908UOYN8GYI3/S908USQU8GYI3",
+            "md5": "c3846f241deea6570a3d534920195a35",
+            "found_at": "2025-11-20T16:34:46.963933477+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYI5/S908UOYN8GYI5/S908USQU8GYI5",
+            "md5": "9da5604f8a781e7f8cb0fe4b63f71ce4",
+            "found_at": "2025-11-20T16:34:46.964766562+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYI8/S908UOYN8GYI8/S908USQU8GYI8",
+            "md5": "1eaf97a4d9ae3db087f2e7bce297ee69",
+            "found_at": "2025-11-20T16:34:46.966000401+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYIA/S908UOYN8GYIA/S908USQU8GYIA",
+            "md5": "79108457b8f8c835ca3cb85d5d22eac1",
+            "found_at": "2025-11-20T16:34:46.966849477+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYIB/S908UOYN8GYIB/S908USQU8GYIB",
+            "md5": "401ff153d04ad0cb53fc1a9b8cd01587",
+            "found_at": "2025-11-20T16:34:46.967302521+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYIC/S908UOYN8GYIC/S908USQU8GYIC",
+            "md5": "dd328256a9c5d5692b185ae9c550b2dc",
+            "found_at": "2025-11-20T16:34:46.967751692+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYID/S908UOYN8GYID/S908USQU8GYID",
+            "md5": "9436831d20b8563042bc3243d516aa66",
+            "found_at": "2025-11-20T16:34:46.968215092+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYIE/S908UOYN8GYIE/S908USQU8GYIE",
+            "md5": "4f472639c5f26a427921695201c3d3c3",
+            "found_at": "2025-11-20T16:34:46.968674076+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYIF/S908UOYN8GYIF/S908USQU8GYIF",
+            "md5": "88517081781d0794dbbbae1642cbdcc9",
+            "found_at": "2025-11-20T16:34:46.969126027+00:00"
+          },
+          {
+            "firmware": "S908USQU8GYJ1/S908UOYN8GYJ1/S908USQU8GYJ1",
+            "md5": "75dc624b1dd68e7c0d215078dfe99bb6",
+            "found_at": "2025-11-20T16:34:46.979359896+00:00"
           }
         ]
       }
@@ -22714,6 +23084,11 @@
             "firmware": "X216BXXU9EYKD/X216BOXM9EYKD/X216BXXU9EYKC",
             "md5": "a7f6dd34cf3435ab8a1d82ea2ff654e2",
             "found_at": "2025-11-20T04:25:17.659635835+00:00"
+          },
+          {
+            "firmware": "X216BXXU9EYKE/X216BOXM9EYKE/X216BXXU9EYKC",
+            "md5": "704c099221837ba1c086fd0e9caf9ed6",
+            "found_at": "2025-11-20T16:29:25.796435581+00:00"
           }
         ]
       }

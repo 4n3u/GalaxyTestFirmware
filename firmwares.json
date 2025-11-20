@@ -15659,6 +15659,11 @@
             "firmware": "S916BXXS8EYK2/S916BOXM8EYK2/S916BXXU8EYI5",
             "md5": "5067471b17526cc3be266eff3a6fea70",
             "found_at": "2025-11-10T08:39:28.973805393+00:00"
+          },
+          {
+            "firmware": "S916BXXS8EYK3/S916BOXM8EYK3/S916BXXU8EYI5",
+            "md5": "a6dea9cfb531556f53d91be023424e36",
+            "found_at": "2025-11-20T06:41:45.404904394+00:00"
           }
         ]
       }

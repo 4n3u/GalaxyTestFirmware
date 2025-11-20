@@ -423,7 +423,7 @@
     "name": "Galaxy A14 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A146PXXSDEYI2/A146POXMDEYI2/A146PXXSDEYI2",
+        "latest_official": "A146PXXUEEYJ6/A146POXMEEYJ6/A146PXXUEEYJ5",
         "test_firmwares": [
           {
             "firmware": "A146PXXSDEYI2/A146POXMDEYI2/A146PXXSDEYI2",
@@ -444,6 +444,11 @@
             "firmware": "A146PXXUEEYJ6/A146POXMEEYJ6/A146PXXUEEYJ5",
             "md5": "f362b56928691f88593ca26b954e27b9",
             "found_at": "2025-10-24T06:30:35.788136906+00:00"
+          },
+          {
+            "firmware": "A146PXXSFEYK2/A146POXMFEYK2/A146PXXSFEYK1",
+            "md5": "d81b462bec86b00da9cbedfc9ce2fd3b",
+            "found_at": "2025-11-20T08:31:11.975756323+00:00"
           }
         ]
       },
@@ -2483,7 +2488,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A366BXXU4BYI7/A366BOXM4BYI7/A366BXXU4BYI7",
+        "latest_official": "A366BXXS5BYK3/A366BOXM5BYK3/A366BXXS5BYK3",
         "test_firmwares": [
           {
             "firmware": "A366BXXU4BYG1/A366BOXM4BYG1/A366BXXU4BYG1",
@@ -2549,6 +2554,21 @@
             "firmware": "A366BXXU4BYI7/A366BOXM4BYI7/A366BXXU4BYI7",
             "md5": "9027489ca4db7cdc9dd5e337b103665e",
             "found_at": "2025-10-18T03:21:38.986705+00:00"
+          },
+          {
+            "firmware": "A366BXXS5BYK1/A366BOXM5BYK1/A366BXXS5BYK1",
+            "md5": "415932f78c293a33adabc8b35bf860b3",
+            "found_at": "2025-11-20T08:39:10.731443791+00:00"
+          },
+          {
+            "firmware": "A366BXXS5BYK3/A366BOXM5BYK3/A366BXXS5BYK3",
+            "md5": "8c8a1e34b04a2bb0f9b75ac131212dd3",
+            "found_at": "2025-11-20T08:39:10.732668205+00:00"
+          },
+          {
+            "firmware": "A366BXXU5BYK5/A366BOXM5BYK5/A366BXXU5BYK5",
+            "md5": "1c3a4d031b6cea7c7510c9f97a4f9b50",
+            "found_at": "2025-11-20T08:39:13.322786928+00:00"
           }
         ]
       }
@@ -2558,7 +2578,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A366USQU3BYI7/A366UOYN3BYI7/A366USQU3BYI7",
+        "latest_official": "A366USQS4BYK3/A366UOYN4BYK3/A366USQS4BYK3",
         "test_firmwares": [
           {
             "firmware": "A366USQU3BYG1/A366UOYN3BYG1/A366USQU3BYG1",
@@ -2624,6 +2644,16 @@
             "firmware": "A366USQU3BYI7/A366UOYN3BYI7/A366USQU3BYI7",
             "md5": "6dcbc6c0f6acc59339dcb4f1f1249b14",
             "found_at": "2025-10-18T03:21:47.956028+00:00"
+          },
+          {
+            "firmware": "A366USQS4BYK1/A366UOYN4BYK1/A366USQS4BYK1",
+            "md5": "41c0b3302b06ae3304dc71abf18f7514",
+            "found_at": "2025-11-20T08:39:27.516011447+00:00"
+          },
+          {
+            "firmware": "A366USQS4BYK3/A366UOYN4BYK3/A366USQS4BYK3",
+            "md5": "d21fd93c2d68cadc629ae462f67c0f9c",
+            "found_at": "2025-11-20T08:39:27.517331519+00:00"
           }
         ]
       }
@@ -14969,6 +14999,11 @@
             "firmware": "S911BXXS8EYK2/S911BOXM8EYK2/S911BXXU8EYI5",
             "md5": "66ba9ea3fd3cb8dce21f465899b09fe6",
             "found_at": "2025-11-10T06:40:12.662152732+00:00"
+          },
+          {
+            "firmware": "S911BXXS8EYK3/S911BOXM8EYK3/S911BXXU8EYI5",
+            "md5": "5f5879c4376993989045dfca27ba00e2",
+            "found_at": "2025-11-20T08:38:41.854962668+00:00"
           }
         ]
       }
@@ -16354,6 +16389,11 @@
             "firmware": "S918BXXS8EYK2/S918BOXM8EYK2/S918BXXU8EYI5",
             "md5": "23d9c14a76b1c9cc121e31f27cde70f5",
             "found_at": "2025-11-10T06:41:08.588001984+00:00"
+          },
+          {
+            "firmware": "S918BXXS8EYK3/S918BOXM8EYK3/S918BXXU8EYI5",
+            "md5": "f8e80c36fef27c54e60d40dadc23dc5c",
+            "found_at": "2025-11-20T08:39:48.505298511+00:00"
           }
         ]
       }
@@ -22539,6 +22579,11 @@
             "firmware": "X216CZCU9EYKC/X216CCHC9EYKC/X216CZCU9EYKC",
             "md5": "6b2275076c686aa5a7797430ec203581",
             "found_at": "2025-11-18T06:32:13.217345200+00:00"
+          },
+          {
+            "firmware": "X216CZCU9EYKD/X216CCHC9EYKD/X216CZCU9EYKC",
+            "md5": "0a10b3f2eabe5c382deb469f7aa3da73",
+            "found_at": "2025-11-20T08:30:44.800115316+00:00"
           }
         ]
       }

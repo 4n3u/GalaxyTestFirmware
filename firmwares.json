@@ -11568,7 +11568,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S711USQU6EYIF/S711UOYN6EYIF/S711USQU6EYIF",
+        "latest_official": "S711USQS6EYK1/S711UOYN6EYK1/S711USQS6EYK1",
         "test_firmwares": [
           {
             "firmware": "S711USQS6DYE1/S711UOYN6DYE1/S711USQS6DYE1",
@@ -11779,6 +11779,11 @@
             "firmware": "S711USQS6EYJ1/S711UOYN6EYJ1/S711USQS6EYJ1",
             "md5": "9d8a86f64526a85bad184ee270cccb15",
             "found_at": "2025-10-31T08:34:05.297957147+00:00"
+          },
+          {
+            "firmware": "S711USQS6EYK1/S711UOYN6EYK1/S711USQS6EYK1",
+            "md5": "a9cb6a5a958820bb515dc55cefacdee4",
+            "found_at": "2025-11-21T04:37:50.518606621+00:00"
           }
         ]
       }

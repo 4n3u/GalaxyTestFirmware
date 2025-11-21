@@ -23354,6 +23354,11 @@
             "firmware": "X218USQU9EYKD/X218UOYN9EYKD/X218USQU9EYKD",
             "md5": "3a7607622268bbcd753eb580d162c03b",
             "found_at": "2025-11-20T12:43:21.096267716+00:00"
+          },
+          {
+            "firmware": "X218USQU9EYKE/X218UOYN9EYKE/X218USQU9EYKE",
+            "md5": "53ff1eea50b6c76cd23ba410fd4214c0",
+            "found_at": "2025-11-21T10:24:12.237312921+00:00"
           }
         ]
       }

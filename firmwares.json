@@ -1798,7 +1798,7 @@
     "name": "Galaxy A26 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A266U1UEU4BYI4/A266U1OYM4BYI4/A266U1UEU4BYI4",
+        "latest_official": "A266U1UES5BYK2/A266U1OYM5BYK2/A266U1UES5BYK2",
         "test_firmwares": [
           {
             "firmware": "A266U1UEU4BYH2/A266U1OYM4BYH2/A266U1UEU4BYH2",
@@ -1839,6 +1839,11 @@
             "firmware": "A266U1UEU4BYI4/A266U1OYM4BYI4/A266U1UEU4BYI4",
             "md5": "9eed8d2a1952276079f9cc733320e2c3",
             "found_at": "2025-10-18T03:23:16.697859+00:00"
+          },
+          {
+            "firmware": "A266U1UES5BYK2/A266U1OYM5BYK2/A266U1UES5BYK2",
+            "md5": "0f71fc88be41f1ecf46706f69b8c1d40",
+            "found_at": "2025-11-24T06:38:06.484378040+00:00"
           }
         ]
       }
@@ -3558,7 +3563,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A566BXXU6BYIF/A566BOXM6BYIF/A566BXXU6BYIF",
+        "latest_official": "A566BXXS7BYK3/A566BOXM7BYK3/A566BXXS7BYK3",
         "test_firmwares": [
           {
             "firmware": "A566BXXU6BYGI/A566BOXM6BYGI/A566BXXU6BYGI",
@@ -3609,6 +3614,11 @@
             "firmware": "A566BXXS7BYJ7/A566BOXM7BYJ7/A566BXXS7BYJ7",
             "md5": "d197bec007652352b2b605196adc6e8c",
             "found_at": "2025-10-24T03:07:47.855453876+00:00"
+          },
+          {
+            "firmware": "A566BXXS7BYK3/A566BOXM7BYK3/A566BXXS7BYK3",
+            "md5": "78b6c037f86f747d0151e9373b2a1248",
+            "found_at": "2025-11-24T06:44:14.597433483+00:00"
           }
         ]
       }

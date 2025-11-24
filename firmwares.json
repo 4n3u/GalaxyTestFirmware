@@ -2388,7 +2388,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A356BXXU6CYI8/A356BOXM6CYI8/A356BXXU6CYI8",
+        "latest_official": "A356BXXS6CYJ1/A356BOXM6CYJ1/A356BXXU6CYI8",
         "test_firmwares": [
           {
             "firmware": "A356BXXU6CYI6/A356BOXM6CYI6/A356BXXU6CYI6",
@@ -2404,6 +2404,11 @@
             "firmware": "A356BXXS6CYJ1/A356BOXM6CYJ1/A356BXXU6CYI8",
             "md5": "c10b3446da6d08ac406e34ce74603ab8",
             "found_at": "2025-10-22T15:56:42.736070284+00:00"
+          },
+          {
+            "firmware": "A356BXXS7CYK1/A356BOXM7CYK1/A356BXXS7CYK1",
+            "md5": "cf443c4299405ad2c7cbeb3bdb21e69c",
+            "found_at": "2025-11-24T14:30:57.554681847+00:00"
           }
         ]
       }

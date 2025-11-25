@@ -1389,6 +1389,111 @@
       }
     }
   },
+  "SM-A175F": {
+    "name": "Galaxy A17",
+    "regional_firmwares": {
+      "EUX": {
+        "latest_official": "A175FXXU1BYK1/A175FOXM1BYK1/A175FXXU1BYK1",
+        "test_firmwares": [
+          {
+            "firmware": "A175FXXU1BYI1/A175FOXM1BYI1/A175FXXU1BYI1",
+            "md5": "d03d9711736aa2fc6cd007c2b4736e05",
+            "found_at": "2025-11-25T14:25:59.300000546+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYI2/A175FOXM1BYI2/A175FXXU1BYI2",
+            "md5": "1fe82236cd485016dedfa6c7f218b789",
+            "found_at": "2025-11-25T14:25:59.301439585+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYI4/A175FOXM1BYI4/A175FXXU1BYI4",
+            "md5": "d6b2c028e24c5832440b78007270e4aa",
+            "found_at": "2025-11-25T14:25:59.302295950+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYI5/A175FOXM1BYI5/A175FXXU1BYI5",
+            "md5": "0da95f547142042af6591c5b5718e2b8",
+            "found_at": "2025-11-25T14:25:59.302722701+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYI6/A175FOXM1BYI6/A175FXXU1BYI6",
+            "md5": "2c004879a6077ae55a50a5ae05e45ca6",
+            "found_at": "2025-11-25T14:25:59.306381887+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYI7/A175FOXM1BYI7/A175FXXU1BYI7",
+            "md5": "7ec0ab28985d2a408200f993da25d9d2",
+            "found_at": "2025-11-25T14:25:59.306803710+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYI8/A175FOXM1BYI8/A175FXXU1BYI8",
+            "md5": "220eeb06c71a07cbd101bf41f5da7ecf",
+            "found_at": "2025-11-25T14:25:59.310079289+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJ1/A175FOXM1BYJ1/A175FXXU1BYJ1",
+            "md5": "74504c0febaf366dd56b7d6f5db74d4e",
+            "found_at": "2025-11-25T14:25:59.348121654+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJ2/A175FOXM1BYJ2/A175FXXU1BYJ2",
+            "md5": "85c995c00bdb572be9a9fc0dbe672470",
+            "found_at": "2025-11-25T14:25:59.352140081+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJ3/A175FOXM1BYJ3/A175FXXU1BYJ3",
+            "md5": "0b9fc77529f0dfb99131cdd5d3f81ac7",
+            "found_at": "2025-11-25T14:25:59.353192717+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJ4/A175FOXM1BYJ4/A175FXXU1BYJ4",
+            "md5": "ca4bc81115e850be253affab539636d4",
+            "found_at": "2025-11-25T14:25:59.353688004+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJ5/A175FOXM1BYJ5/A175FXXU1BYJ5",
+            "md5": "b64c35ca978640ff6c90b6e126add455",
+            "found_at": "2025-11-25T14:25:59.354195198+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJ6/A175FOXM1BYJ6/A175FXXU1BYJ6",
+            "md5": "6c21a8903bbaac6da8e02ce8912bdb7b",
+            "found_at": "2025-11-25T14:25:59.354640383+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJ7/A175FOXM1BYJ7/A175FXXU1BYJ7",
+            "md5": "631df428af58c23eb50fc0ed74411ebf",
+            "found_at": "2025-11-25T14:25:59.355080634+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJ9/A175FOXM1BYJ9/A175FXXU1BYJ9",
+            "md5": "6cd8ebf054bb32272571f5fba9fd4512",
+            "found_at": "2025-11-25T14:25:59.356568186+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJA/A175FOXM1BYJA/A175FXXU1BYJA",
+            "md5": "22d5ed2d524b60d5edf3f28f217264c9",
+            "found_at": "2025-11-25T14:25:59.357044566+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJB/A175FOXM1BYJB/A175FXXU1BYJB",
+            "md5": "0a7230b0917e28b7e22c3eaffea1bdbb",
+            "found_at": "2025-11-25T14:25:59.359933182+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYJC/A175FOXM1BYJC/A175FXXU1BYJC",
+            "md5": "4adf7127e1f31429b863db830c28e423",
+            "found_at": "2025-11-25T14:25:59.360860487+00:00"
+          },
+          {
+            "firmware": "A175FXXU1BYK1/A175FOXM1BYK1/A175FXXU1BYK1",
+            "md5": "c73cedfea666e455136fc51048fc5524",
+            "found_at": "2025-11-25T14:25:59.392532499+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-A1760": {
     "name": "Galaxy A17 5G",
     "regional_firmwares": {

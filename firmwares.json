@@ -2418,7 +2418,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A356USQU6CYI8/A356UOYN6CYI8/A356USQU6CYI8",
+        "latest_official": "A356USQS6CYJ1/A356UOYN6CYJ1/A356USQS6CYJ1",
         "test_firmwares": [
           {
             "firmware": "A356USQU6CYG6/A356UOYN6CYG6/A356USQU6CYG6",
@@ -2494,6 +2494,11 @@
             "firmware": "A356USQS6CYJ2/A356UOYN6CYJ2/A356USQS6CYJ2",
             "md5": "ef6ddeb64693c7da07e124cc1ba4ac3c",
             "found_at": "2025-10-22T18:35:13.356945743+00:00"
+          },
+          {
+            "firmware": "A356USQS7CYK1/A356UOYN7CYK1/A356USQS7CYK1",
+            "md5": "92459d322712d34cacf8afcdf84c9dc3",
+            "found_at": "2025-11-25T12:53:07.305750285+00:00"
           }
         ]
       }

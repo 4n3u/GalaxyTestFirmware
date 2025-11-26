@@ -6569,6 +6569,11 @@
             "firmware": "F761NKSU6BYKP/F761NOKR6BYKP/F761NKSU6BYKP",
             "md5": "3f39e08012a3cb71e3df2e387f536938",
             "found_at": "2025-11-25T08:33:35.377339320+00:00"
+          },
+          {
+            "firmware": "F761NKSS6AYKE/F761NOKR6AYKE/F761NKSS6AYKE",
+            "md5": "2587172583cda8fb766c758c0232898e",
+            "found_at": "2025-11-26T13:01:02.657797861+00:00"
           }
         ]
       }
@@ -6874,6 +6879,11 @@
             "firmware": "F766NKSU6BYKP/F766NOKR6BYKP/F766NKSU6BYKP",
             "md5": "c6164cd09c6ceb58d71b12c49b60c17e",
             "found_at": "2025-11-25T08:44:27.891333496+00:00"
+          },
+          {
+            "firmware": "F766NKSS6AYKE/F766NOKR6AYKE/F766NKSS6AYKE",
+            "md5": "1d776c8500607ce6f673f95a1d8f2af6",
+            "found_at": "2025-11-26T12:49:40.554302586+00:00"
           }
         ]
       }
@@ -9704,6 +9714,11 @@
             "firmware": "F966NKSU6BYKP/F966NOKR6BYKP/F966NKSU6BYKP",
             "md5": "6b8dc6b9bf069350304f5f142388d33f",
             "found_at": "2025-11-25T08:45:11.942856280+00:00"
+          },
+          {
+            "firmware": "F966NKSS6AYKE/F966NOKR6AYKE/F966NKSS6AYKE",
+            "md5": "e045301fb2c47b16d6671b527d3c20c2",
+            "found_at": "2025-11-26T12:53:13.397218137+00:00"
           }
         ]
       }

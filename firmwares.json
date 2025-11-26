@@ -11938,7 +11938,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S7110ZCU6EYH3/S7110CHC6EYH3/S7110ZCU6EYH2",
+        "latest_official": "S7110ZCS6FYK1/S7110CHC6FYK1/S7110ZCS6FYK1",
         "test_firmwares": [
           {
             "firmware": "S7110ZCS6EYE2/S7110CHC6EYE2/S7110ZCS6EYE2",
@@ -12089,6 +12089,11 @@
             "firmware": "S7110ZCU6FYIF/S7110CHC6FYIF/S7110ZCU6FYIF",
             "md5": "5466519de65be8f8010821a9a755a935",
             "found_at": "2025-10-18T03:31:03.934976+00:00"
+          },
+          {
+            "firmware": "S7110ZCS6FYK1/S7110CHC6FYK1/S7110ZCS6FYK1",
+            "md5": "7ed7a60ba0463c5ffe17d21bd5a5fc7d",
+            "found_at": "2025-11-26T06:40:41.873678229+00:00"
           }
         ]
       }
@@ -25598,7 +25603,7 @@
     "name": "Galaxy Tab S8 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X706BXXS9DYI1/X706BOXM9DYI1/X706BXXS9DYI1",
+        "latest_official": "X706BXXU9EYJ4/X706BOXM9EYJ4/X706BXXU9EYJ4",
         "test_firmwares": [
           {
             "firmware": "X706BXXS9DYF1/X706BOXM9DYF1/X706BXXS9DYF1",
@@ -25794,6 +25799,11 @@
             "firmware": "X706BXXU9EYJ4/X706BOXM9EYJ4/X706BXXU9EYJ4",
             "md5": "8d8fba11fbcca2b2d6af5cf32bcef820",
             "found_at": "2025-10-18T03:34:43.236380+00:00"
+          },
+          {
+            "firmware": "X706BXXS9EYK1/X706BOXM9EYK1/X706BXXS9EYK1",
+            "md5": "620e03fcc60bc711266c782e3ef26799",
+            "found_at": "2025-11-26T06:45:36.368323045+00:00"
           }
         ]
       }
@@ -26128,7 +26138,7 @@
     "name": "Galaxy Tab S8+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X806BXXS9DYI1/X806BOXM9DYI1/X806BXXS9DYI1",
+        "latest_official": "X806BXXU9EYJ4/X806BOXM9EYJ4/X806BXXU9EYJ4",
         "test_firmwares": [
           {
             "firmware": "X806BXXS9DYF1/X806BOXM9DYF1/X806BXXS9DYF1",
@@ -26319,6 +26329,11 @@
             "firmware": "X806BXXU9EYJ4/X806BOXM9EYJ4/X806BXXU9EYJ4",
             "md5": "4d2b3220c660c4ebd9d98fc38aaf8ce7",
             "found_at": "2025-10-18T03:35:08.115204+00:00"
+          },
+          {
+            "firmware": "X806BXXS9EYK1/X806BOXM9EYK1/X806BXXS9EYK1",
+            "md5": "b97ab4fc0025557d255964288f3f4fde",
+            "found_at": "2025-11-26T06:46:14.674470677+00:00"
           }
         ]
       }
@@ -26503,7 +26518,7 @@
     "name": "Galaxy Tab S8+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X806EXXS9DYI1/X806EOXM9DYI1/X806EXXS9DYI1",
+        "latest_official": "X806EXXU9EYJ4/X806EOXM9EYJ4/X806EXXU9EYJ4",
         "test_firmwares": [
           {
             "firmware": "X806EXXS9DYF1/X806EOXM9DYF1/X806EXXS9DYF1",
@@ -26689,6 +26704,11 @@
             "firmware": "X806EXXU9EYJ4/X806EOXM9EYJ4/X806EXXU9EYJ4",
             "md5": "ebf9a204f4d6e70dba538ae2310945ef",
             "found_at": "2025-10-18T03:35:13.805953+00:00"
+          },
+          {
+            "firmware": "X806EXXS9EYK1/X806EOXM9EYK1/X806EXXS9EYK1",
+            "md5": "d3aa1f379b5165e86d4edc10de524766",
+            "found_at": "2025-11-26T06:46:25.881877761+00:00"
           }
         ]
       }
@@ -27038,7 +27058,7 @@
     "name": "Galaxy Tab S8 Ultra 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X906BXXS9DYI1/X906BOXM9DYI1/X906BXXS9DYI1",
+        "latest_official": "X906BXXU9EYJ4/X906BOXM9EYJ4/X906BXXU9EYJ4",
         "test_firmwares": [
           {
             "firmware": "X906BXXS9DYF1/X906BOXM9DYF1/X906BXXS9DYF1",
@@ -27244,6 +27264,11 @@
             "firmware": "X906BXXU9EYJ4/X906BOXM9EYJ4/X906BXXU9EYJ4",
             "md5": "b49c896bce04d7843017cd7317960eeb",
             "found_at": "2025-10-18T03:34:58.258675+00:00"
+          },
+          {
+            "firmware": "X906BXXS9EYK1/X906BOXM9EYK1/X906BXXS9EYK1",
+            "md5": "5e3ca71fe9972f940ecdb43b609a0348",
+            "found_at": "2025-11-26T06:45:55.927382302+00:00"
           }
         ]
       }

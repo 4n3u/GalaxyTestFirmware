@@ -449,6 +449,11 @@
             "firmware": "A146PXXSFEYK2/A146POXMFEYK2/A146PXXSFEYK1",
             "md5": "d81b462bec86b00da9cbedfc9ce2fd3b",
             "found_at": "2025-11-20T08:31:11.975756323+00:00"
+          },
+          {
+            "firmware": "A146PXXSFEYK4/A146POXMFEYK4/A146PXXSFEYK3",
+            "md5": "6f1a50050972791bdf63e59c4b51c864",
+            "found_at": "2025-11-26T01:30:24.520822844+00:00"
           }
         ]
       },

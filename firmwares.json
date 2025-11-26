@@ -2614,6 +2614,11 @@
             "firmware": "A356USQS7CYK3/A356UOYN7CYK3/A356USQS7CYK3",
             "md5": "97438d064bf7f38accbc67e238dfca19",
             "found_at": "2025-11-26T08:35:19.714886405+00:00"
+          },
+          {
+            "firmware": "A356USQS7CYK2/A356UOYN7CYK2/A356USQS7CYK2",
+            "md5": "ead2458748490b3abca35c5d57f824db",
+            "found_at": "2025-11-26T10:30:44.102724983+00:00"
           }
         ]
       }

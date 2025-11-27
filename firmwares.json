@@ -4233,7 +4233,7 @@
     "name": "Galaxy Z Flip3 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F711U1UESEKYGB/F711U1OYMEKYGB/F711U1UESEKYGB",
+        "latest_official": "F711U1UESFKYK1/F711U1OYMFKYK1/F711U1UESFKYK1",
         "test_firmwares": [
           {
             "firmware": "F711U1UESEKYFD/F711U1OYMEKYFD/F711U1UESEKYFD",
@@ -4244,6 +4244,11 @@
             "firmware": "F711U1UESEKYGB/F711U1OYMEKYGB/F711U1UESEKYGB",
             "md5": "310854534b72c5f69f880aa481740506",
             "found_at": "2025-10-18T03:33:45.928759+00:00"
+          },
+          {
+            "firmware": "F711U1UESFKYK1/F711U1OYMFKYK1/F711U1UESFKYK1",
+            "md5": "a59eda91f5a0fbfcee9d71353d4df46f",
+            "found_at": "2025-11-27T01:36:54.651539928+00:00"
           }
         ]
       }
@@ -7169,6 +7174,21 @@
             "firmware": "F926NKSSAKYGB/F926NOKRAKYGB/F926NKSSAKYG1",
             "md5": "e5f61c7513a33c922a266083eb064af3",
             "found_at": "2025-10-18T03:35:38.141272+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-F926U1": {
+    "name": "Galaxy Z Fold3 5G",
+    "regional_firmwares": {
+      "XAA": {
+        "latest_official": "F926U1UESEKYK1/F926U1OYMEKYK1/F926U1UESEKYK1",
+        "test_firmwares": [
+          {
+            "firmware": "F926U1UESEKYK1/F926U1OYMEKYK1/F926U1UESEKYK1",
+            "md5": "e9e1bd05912a846b94d35526ded6d81e",
+            "found_at": "2025-11-27T01:39:29.522694415+00:00"
           }
         ]
       }

@@ -13604,6 +13604,11 @@
             "firmware": "S731U1UEU3AYJ9/S731U1OYM3AYJ9/S731U1UEU3AYJ9",
             "md5": "b5a82ec6e910006f5ca514e9a4aaa005",
             "found_at": "2025-11-07T14:38:20.983638203+00:00"
+          },
+          {
+            "firmware": "S731U1UES3AYK1/S731U1OYM3AYK1/S731U1UES3AYK1",
+            "md5": "ba5b28d1f52c58c568d34c120e0f6126",
+            "found_at": "2025-11-27T14:31:21.413281869+00:00"
           }
         ]
       }
@@ -24363,7 +24368,7 @@
     "name": "Galaxy Tab A9+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X216RXXS4AYI1/X216ROXM4AYI1/X216RXXS4AYI1",
+        "latest_official": "X216RXXU4BYKG/X216ROXM4BYKG/X216RXXU4BYKG",
         "test_firmwares": [
           {
             "firmware": "X216RXXS4AYI1/X216ROXM4AYI1/X216RXXS4AYI1",
@@ -24389,6 +24394,51 @@
             "firmware": "X216RXXU4BYJD/X216ROXM4BYJD/X216RXXU4BYJD",
             "md5": "28516fca0bbbb944db20a5feeb0de8ab",
             "found_at": "2025-10-30T18:30:24.250558513+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYK3/X216ROXM4BYK3/X216RXXU4BYK1",
+            "md5": "413e7cd39856eb4ca8ddb8ad787a3a7e",
+            "found_at": "2025-11-27T14:23:06.011828202+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYK4/X216ROXM4BYK4/X216RXXU4BYK4",
+            "md5": "97754ca1604f74dd3991fc685b6f6e6a",
+            "found_at": "2025-11-27T14:23:06.012534646+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYK6/X216ROXM4BYK6/X216RXXU4BYK6",
+            "md5": "6ca6e8ac88f573457eeed7e7a82eef0e",
+            "found_at": "2025-11-27T14:23:06.013452819+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYK7/X216ROXM4BYK7/X216RXXU4BYK7",
+            "md5": "d9879b1c3792249a1f7b9fd210010f8d",
+            "found_at": "2025-11-27T14:23:06.013896613+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYK8/X216ROXM4BYK8/X216RXXU4BYK8",
+            "md5": "aa038e83dcb4496a114b25df48d486d3",
+            "found_at": "2025-11-27T14:23:06.014338715+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYKB/X216ROXM4BYKB/X216RXXU4BYKB",
+            "md5": "081a48b5a28f8c146826962f8508c727",
+            "found_at": "2025-11-27T14:23:06.017196270+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYKC/X216ROXM4BYKC/X216RXXU4BYKC",
+            "md5": "764f8421da9f4c8f595d2d58f5823ccc",
+            "found_at": "2025-11-27T14:23:06.019207516+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYKE/X216ROXM4BYKE/X216RXXU4BYKC",
+            "md5": "8ead4610c1a4682e23fb0493208125b8",
+            "found_at": "2025-11-27T14:23:06.022743917+00:00"
+          },
+          {
+            "firmware": "X216RXXU4BYKG/X216ROXM4BYKG/X216RXXU4BYKG",
+            "md5": "4cf2ebf903dd43a141ccbc1952ea10b7",
+            "found_at": "2025-11-27T14:23:06.026501465+00:00"
           }
         ]
       }

@@ -2698,7 +2698,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3660ZHU3BYI7/A3660OZS3BYI7/A3660ZHU3BYI7",
+        "latest_official": "A3660ZHS4BYK3/A3660OZS4BYK3/A3660ZHS4BYK3",
         "test_firmwares": [
           {
             "firmware": "A3660ZHU3BYG2/A3660OZS3BYG2/A3660ZHU3BYG2",
@@ -2759,6 +2759,11 @@
             "firmware": "A3660ZHU3BYI7/A3660OZS3BYI7/A3660ZHU3BYI7",
             "md5": "4f7551dd7171cfe9a4715ce509e7c98b",
             "found_at": "2025-10-18T03:21:34.968557+00:00"
+          },
+          {
+            "firmware": "A3660ZHS4BYK3/A3660OZS4BYK3/A3660ZHS4BYK3",
+            "md5": "dddc20d7ffd62138e518f64c799dde57",
+            "found_at": "2025-11-27T06:44:32.699272211+00:00"
           }
         ]
       }
@@ -5348,7 +5353,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F731U1UES6FYJ3/F731U1OYM6FYJ3/F731U1UES6FYJ3",
+        "latest_official": "F731U1UES6FYK2/F731U1OYM6FYK2/F731U1UES6FYK2",
         "test_firmwares": [
           {
             "firmware": "F731U1UES6FYJ1/F731U1OYM6FYJ1/F731U1UES6FYJ1",
@@ -5449,6 +5454,11 @@
             "firmware": "F731U1UES6FYK2/F731U1OYM6FYK2/F731U1UES6FYK2",
             "md5": "89f1042d8fe00327e85aa9417bf118db",
             "found_at": "2025-11-10T12:46:29.928020809+00:00"
+          },
+          {
+            "firmware": "F731U1UES6FYK3/F731U1OYM6FYK3/F731U1UES6FYK3",
+            "md5": "44c9a95851be2db83b0aa3a6b75b8cd2",
+            "found_at": "2025-11-27T06:38:46.391197186+00:00"
           }
         ]
       }
@@ -8278,7 +8288,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F946U1UES6FYJ3/F946U1OYM6FYJ3/F946U1UES6FYJ3",
+        "latest_official": "F946U1UES6FYK2/F946U1OYM6FYK2/F946U1UES6FYK2",
         "test_firmwares": [
           {
             "firmware": "F946U1UES6FYJ1/F946U1OYM6FYJ1/F946U1UES6FYJ1",
@@ -8379,6 +8389,11 @@
             "firmware": "F946U1UES6FYK2/F946U1OYM6FYK2/F946U1UES6FYK2",
             "md5": "a05506e7a66f7d896d7db35e972a2f97",
             "found_at": "2025-11-10T12:49:55.564223619+00:00"
+          },
+          {
+            "firmware": "F946U1UES6FYK3/F946U1OYM6FYK3/F946U1UES6FYK3",
+            "md5": "9bca9dc9777d7c5f790797afda671ea6",
+            "found_at": "2025-11-27T06:41:46.790786778+00:00"
           }
         ]
       }
@@ -23253,7 +23268,7 @@
     "name": "心系天下 三星 W23 Flip",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W7023ZCU8HYH4/W7023CHC8HYH4/W7023ZCU8HYH3",
+        "latest_official": "W7023ZCS8IYK4/W7023CHC8IYK4/W7023ZCS8IYK3",
         "test_firmwares": [
           {
             "firmware": "W7023ZCS8HYE2/W7023CHC8HYE2/W7023ZCS8HYE2",
@@ -23419,6 +23434,16 @@
             "firmware": "W7023ZCS8HYF1/W7023CHC8HYF1/W7023ZCS8HYE2",
             "md5": "903ed8a299288c41cbb9e46824dcba9e",
             "found_at": "2025-10-22T16:02:31.436931223+00:00"
+          },
+          {
+            "firmware": "W7023ZCS8IYK3/W7023CHC8IYK3/W7023ZCS8IYK3",
+            "md5": "3c05312f1eda42e81d344284ef03aa57",
+            "found_at": "2025-11-27T06:43:30.207968543+00:00"
+          },
+          {
+            "firmware": "W7023ZCS8IYK4/W7023CHC8IYK4/W7023ZCS8IYK3",
+            "md5": "b1f9d32457c97a2920b5e81fe5e13843",
+            "found_at": "2025-11-27T06:43:30.208603449+00:00"
           }
         ]
       }

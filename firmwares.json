@@ -22394,6 +22394,11 @@
             "firmware": "S937USQU4CYKR/S937UOYN4CYKR/S937USQU4CYKR",
             "md5": "6f886b9c37900181e339ff23a0f15932",
             "found_at": "2025-11-27T08:41:47.616857966+00:00"
+          },
+          {
+            "firmware": "S937USQS4BYJ8/S937UOYN4BYJ8/S937USQS4BYJ8",
+            "md5": "0cb28aac640f09a23c1ffbfdb0074546",
+            "found_at": "2025-11-28T08:47:54.543584796+00:00"
           }
         ]
       }

@@ -10004,6 +10004,11 @@
             "firmware": "F966U1UEU6BYKP/F966U1OYM6BYKP/F966U1UEU6BYKP",
             "md5": "529327e7034ecba2cc97e0186bb8a670",
             "found_at": "2025-11-25T10:40:24.178766713+00:00"
+          },
+          {
+            "firmware": "F966U1UES6AYKF/F966U1OYM6AYKF/F966U1UES6AYKF",
+            "md5": "d584452b291c46398de105a461f0a789",
+            "found_at": "2025-11-28T04:39:31.741361076+00:00"
           }
         ]
       }
@@ -18158,7 +18163,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S921NKSSACYJ3/S921NOKRACYJ3/S921NKSSACYJ1",
+        "latest_official": "S921NKSSBCYK2/S921NOKRBCYK2/S921NKSSBCYK1",
         "test_firmwares": [
           {
             "firmware": "S921NKSS9BYG6/S921NOKR9BYG6/S921NKSS9BYG6",
@@ -18244,6 +18249,11 @@
             "firmware": "S921NKSSBCYK2/S921NOKRBCYK2/S921NKSSBCYK1",
             "md5": "ba51300d390b30968bb1ebfd4e3cace6",
             "found_at": "2025-11-07T10:25:42.837538784+00:00"
+          },
+          {
+            "firmware": "S921NKSSBCYL1/S921NOKRBCYL1/S921NKSSBCYL1",
+            "md5": "d4127c6a69ced1719eaf067a40ced1c5",
+            "found_at": "2025-11-28T04:36:01.114674855+00:00"
           }
         ]
       }
@@ -19248,7 +19258,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S928NKSS4CYJ3/S928NOKR4CYJ3/S928NKSU4CYI3",
+        "latest_official": "S928NKSS4CYK2/S928NOKR4CYK2/S928NKSU4CYI3",
         "test_firmwares": [
           {
             "firmware": "S928NKSS4BYDF/S928NOKR4BYDF/S928NKSS4BYDF",
@@ -19514,6 +19524,11 @@
             "firmware": "S928NKSS4CYK2/S928NOKR4CYK2/S928NKSU4CYI3",
             "md5": "cd109d9a770c983dd83059bedc721c5c",
             "found_at": "2025-11-07T12:53:13.238068901+00:00"
+          },
+          {
+            "firmware": "S928NKSS4CYL1/S928NOKR4CYL1/S928NKSU4CYI3",
+            "md5": "8c9848f812d94d406db43325f7e168a8",
+            "found_at": "2025-11-28T04:36:51.453546320+00:00"
           }
         ]
       }

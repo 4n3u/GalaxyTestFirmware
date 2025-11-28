@@ -529,6 +529,11 @@
             "firmware": "A146U1UESGEYK3/A146U1OYMGEYK3/A146U1UESGEYK3",
             "md5": "3ea98f14d1aac7e424b7b039261f0c53",
             "found_at": "2025-11-27T10:26:32.666204491+00:00"
+          },
+          {
+            "firmware": "A146U1UESHEYK4/A146U1OYMHEYK4/A146U1UESHEYK4",
+            "md5": "94615795511b2ed182db242e021f8171",
+            "found_at": "2025-11-28T20:25:21.716760737+00:00"
           }
         ]
       }
@@ -2709,6 +2714,11 @@
             "firmware": "A356U1UES6CYK2/A356U1OYM6CYK2/A356U1UES6CYK2",
             "md5": "eb842b2e5e73deb4f421cfd1e6321d0f",
             "found_at": "2025-11-27T10:33:05.150823660+00:00"
+          },
+          {
+            "firmware": "A356U1UES7CYK3/A356U1OYM7CYK3/A356U1UES7CYK3",
+            "md5": "12a07cb1a1fe6a1aaab4127988ce1aa1",
+            "found_at": "2025-11-28T20:32:17.036870890+00:00"
           }
         ]
       }

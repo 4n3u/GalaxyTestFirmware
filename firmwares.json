@@ -6033,7 +6033,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F741USQS2CYJ1/F741UOYN2CYJ1/F741USQS2CYJ1",
+        "latest_official": "F741USQS2CYK2/F741UOYN2CYK2/F741USQS2CYK2",
         "test_firmwares": [
           {
             "firmware": "F741USQS2CYIB/F741UOYN2CYIB/F741USQS2CYIB",
@@ -6249,6 +6249,11 @@
             "firmware": "F741USQS2CYK2/F741UOYN2CYK2/F741USQS2CYK2",
             "md5": "7da266433c1ffef5e6a077bb45c0f769",
             "found_at": "2025-11-10T08:43:47.198710338+00:00"
+          },
+          {
+            "firmware": "F741USQS2CYK6/F741UOYN2CYK6/F741USQS2CYK6",
+            "md5": "7c40b1e9cac6dea99e4fbe2c72de546c",
+            "found_at": "2025-12-01T04:06:52.696399795+00:00"
           }
         ]
       }
@@ -11063,7 +11068,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G990BXXSGIYJ2/G990BOXMGIYJ2/G990BXXUGIYJ1",
+        "latest_official": "G990BXXSHIYK1/G990BOXMHIYK1/G990BXXSHIYK1",
         "test_firmwares": [
           {
             "firmware": "G990BXXSGHYI1/G990BOXMGHYI1/G990BXXSGHYI1",
@@ -11109,6 +11114,11 @@
             "firmware": "G990BXXSHIYK1/G990BOXMHIYK1/G990BXXSHIYK1",
             "md5": "1cfd70bd69d2525ca1663f1171871f24",
             "found_at": "2025-11-10T12:49:34.084892302+00:00"
+          },
+          {
+            "firmware": "G990BXXSHIYK2/G990BOXMHIYK2/G990BXXSHIYK1",
+            "md5": "8d0dd3819e6c9d42b08469e48387e5c0",
+            "found_at": "2025-12-01T03:58:08.313853070+00:00"
           }
         ]
       }

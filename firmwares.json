@@ -16573,7 +16573,7 @@
     "name": "Galaxy S23",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S911U1UES6EYJ5/S911U1OYM6EYJ5/S911U1UES6EYJ5",
+        "latest_official": "S911U1UES6EYK3/S911U1OYM6EYK3/S911U1UES6EYK3",
         "test_firmwares": [
           {
             "firmware": "S911U1UES6EYJ1/S911U1OYM6EYJ1/S911U1UES6EYJ1",
@@ -16659,6 +16659,11 @@
             "firmware": "S911U1UES6EYK3/S911U1OYM6EYK3/S911U1UES6EYK3",
             "md5": "6a2eed427f3a35c6cd8612b0a5bf1b93",
             "found_at": "2025-11-10T18:36:52.730703494+00:00"
+          },
+          {
+            "firmware": "S911U1UES6EYK5/S911U1OYM6EYK5/S911U1UES6EYK5",
+            "md5": "60e1cf4b2d933a4a1b2f91a5f30ab610",
+            "found_at": "2025-12-01T18:47:19.732544180+00:00"
           }
         ]
       }
@@ -17273,7 +17278,7 @@
     "name": "Galaxy S23+",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S916U1UES6EYJ5/S916U1OYM6EYJ5/S916U1UES6EYJ5",
+        "latest_official": "S916U1UES6EYK3/S916U1OYM6EYK3/S916U1UES6EYK3",
         "test_firmwares": [
           {
             "firmware": "S916U1UES6EYJ1/S916U1OYM6EYJ1/S916U1UES6EYJ1",
@@ -17359,6 +17364,11 @@
             "firmware": "S916U1UES6EYK3/S916U1OYM6EYK3/S916U1UES6EYK3",
             "md5": "70d430eaaf5cd9b799a1fedf246ceaf6",
             "found_at": "2025-11-10T18:38:04.151999366+00:00"
+          },
+          {
+            "firmware": "S916U1UES6EYK5/S916U1OYM6EYK5/S916U1UES6EYK5",
+            "md5": "68cd00bb7cb4edb2ebd73ea40b10598a",
+            "found_at": "2025-12-01T18:49:34.020387950+00:00"
           }
         ]
       }
@@ -17973,7 +17983,7 @@
     "name": "Galaxy S23 Ultra",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S918U1UES6EYJ5/S918U1OYM6EYJ5/S918U1UES6EYJ5",
+        "latest_official": "S918U1UES6EYK3/S918U1OYM6EYK3/S918U1UES6EYK3",
         "test_firmwares": [
           {
             "firmware": "S918U1UES6EYJ1/S918U1OYM6EYJ1/S918U1UES6EYJ1",
@@ -18054,6 +18064,11 @@
             "firmware": "S918U1UES6EYK3/S918U1OYM6EYK3/S918U1UES6EYK3",
             "md5": "d000096ba6602c82746a20490efff251",
             "found_at": "2025-11-10T18:37:39.253799281+00:00"
+          },
+          {
+            "firmware": "S918U1UES6EYK5/S918U1OYM6EYK5/S918U1UES6EYK5",
+            "md5": "7645299f7772cd13f887165de6021576",
+            "found_at": "2025-12-01T18:48:50.549092488+00:00"
           }
         ]
       }

@@ -11393,12 +11393,17 @@
     "name": "Galaxy M13",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M135FXXSBEYG1/M135FOXMBEYG1/M135FXXSBEYG1",
+        "latest_official": "M135FXXSCEYK1/M135FOXMCEYK1/M135FXXSCEYK1",
         "test_firmwares": [
           {
             "firmware": "M135FXXSBEYG1/M135FOXMBEYG1/M135FXXSBEYG1",
             "md5": "17d8bf7bf91439aa3914057c1849a209",
             "found_at": "2025-10-18T03:31:18.657374+00:00"
+          },
+          {
+            "firmware": "M135FXXSCEYK1/M135FOXMCEYK1/M135FXXSCEYK1",
+            "md5": "a2263e9bc0a17ed452f665a719008b07",
+            "found_at": "2025-12-01T10:24:38.563739105+00:00"
           }
         ]
       }
@@ -22224,6 +22229,11 @@
             "firmware": "S937BXXS4BYKS/S937BOXM4BYKS/S937BXXS4BYKS",
             "md5": "a4d399e3cf3a784a69fa7744befad64b",
             "found_at": "2025-11-28T10:36:02.808779857+00:00"
+          },
+          {
+            "firmware": "S937BXXU4CYKW/S937BOXM4CYKW/S937BXXU4CYKW",
+            "md5": "d8d2a11c00d442519dd20058b2eb509e",
+            "found_at": "2025-12-01T10:33:21.816296492+00:00"
           }
         ]
       }
@@ -22539,6 +22549,11 @@
             "firmware": "S937USQS4BYJ8/S937UOYN4BYJ8/S937USQS4BYJ8",
             "md5": "0cb28aac640f09a23c1ffbfdb0074546",
             "found_at": "2025-11-28T08:47:54.543584796+00:00"
+          },
+          {
+            "firmware": "S937USQU4CYKW/S937UOYN4CYKW/S937USQU4CYKW",
+            "md5": "27a400c0ca756a5482796b750e572864",
+            "found_at": "2025-12-01T10:33:33.869510550+00:00"
           }
         ]
       }
@@ -22689,6 +22704,11 @@
             "firmware": "S937U1UES4BYJ8/S937U1OYM4BYJ8/S937U1UES4BYJ8",
             "md5": "39b44d3034b625dc3e2079811950cea9",
             "found_at": "2025-11-28T10:36:24.468887867+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYKW/S937U1OYM4CYKW/S937U1UEU4CYKW",
+            "md5": "1c27d19cb8c170ad452ad3175d007727",
+            "found_at": "2025-12-01T10:33:38.324679687+00:00"
           }
         ]
       }

@@ -6263,7 +6263,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F741U1UES2CYJ1/F741U1OYM2CYJ1/F741U1UES2CYJ1",
+        "latest_official": "F741U1UES2CYK2/F741U1OYM2CYK2/F741U1UES2CYK2",
         "test_firmwares": [
           {
             "firmware": "F741U1UES2CYIB/F741U1OYM2CYIB/F741U1UES2CYIB",
@@ -6374,6 +6374,11 @@
             "firmware": "F741U1UES2CYK2/F741U1OYM2CYK2/F741U1UES2CYK2",
             "md5": "49f41119321b7a76714d8d8eb4cca432",
             "found_at": "2025-11-10T08:43:52.894984197+00:00"
+          },
+          {
+            "firmware": "F741U1UES2CYK6/F741U1OYM2CYK6/F741U1UES2CYK6",
+            "md5": "ffa98c4b0525c3d819eda71730cdcef1",
+            "found_at": "2025-12-01T06:47:42.746132927+00:00"
           }
         ]
       }
@@ -9323,7 +9328,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F956U1UES2CYJ1/F956U1OYM2CYJ1/F956U1UES2CYJ1",
+        "latest_official": "F956U1UES2CYK2/F956U1OYM2CYK2/F956U1UES2CYK2",
         "test_firmwares": [
           {
             "firmware": "F956U1UES2CYIB/F956U1OYM2CYIB/F956U1UES2CYIB",
@@ -9444,6 +9449,11 @@
             "firmware": "F956U1UES2CYK2/F956U1OYM2CYK2/F956U1UES2CYK2",
             "md5": "e9ad3f0e2c03375714c2566305b00091",
             "found_at": "2025-11-10T08:45:09.442989906+00:00"
+          },
+          {
+            "firmware": "F956U1UES2CYK6/F956U1OYM2CYK6/F956U1UES2CYK6",
+            "md5": "a5625fe03df9e54226d91957d03f4856",
+            "found_at": "2025-12-01T06:49:54.731616146+00:00"
           }
         ]
       }
@@ -11128,7 +11138,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G990B2XXSFIYJ2/G990B2OXMFIYJ2/G990B2XXUFIYJ1",
+        "latest_official": "G990B2XXSGIYK1/G990B2OXMGIYK1/G990B2XXSGIYK1",
         "test_firmwares": [
           {
             "firmware": "G990B2XXSFHYI1/G990B2OXMFHYI1/G990B2XXSFHYI1",
@@ -11174,6 +11184,11 @@
             "firmware": "G990B2XXSGIYK1/G990B2OXMGIYK1/G990B2XXSGIYK1",
             "md5": "9fc135f1fed37fb4c7a212f9392ab560",
             "found_at": "2025-11-10T12:49:42.563075871+00:00"
+          },
+          {
+            "firmware": "G990B2XXSGIYK2/G990B2OXMGIYK2/G990B2XXSGIYK1",
+            "md5": "c0ca741701e7048c9902c5f7cd3dde18",
+            "found_at": "2025-12-01T06:39:50.621306540+00:00"
           }
         ]
       }

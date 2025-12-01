@@ -193,7 +193,7 @@
     "name": "Galaxy A13 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A136BXXSDDYK2/A136BOXMDDYK2/A136BXXSDDYK1",
+        "latest_official": "A136BXXSDDYK4/A136BOXMDDYK4/A136BXXSDDYK4",
         "test_firmwares": [
           {
             "firmware": "A136BXXSCDYG1/A136BOXMCDYG1/A136BXXSCDYG1",
@@ -214,6 +214,16 @@
             "firmware": "A136BXXSDDYK2/A136BOXMDDYK2/A136BXXSDDYK1",
             "md5": "f31440bda1146a3e08a936ae0ebfe21c",
             "found_at": "2025-11-17T10:26:49.932643948+00:00"
+          },
+          {
+            "firmware": "A136BXXSDDYK4/A136BOXMDDYK4/A136BXXSDDYK4",
+            "md5": "4d04db3747ca08bcc873dbe617830f4b",
+            "found_at": "2025-12-01T12:45:44.734790962+00:00"
+          },
+          {
+            "firmware": "A136BXXUDDYK3/A136BOXMDDYK3/A136BXXUDDYK3",
+            "md5": "d602dd9f53c4d22d612c31055b36c9f0",
+            "found_at": "2025-12-01T12:45:47.123693400+00:00"
           }
         ]
       },
@@ -10458,7 +10468,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G766BXXS3BYJ1/G766BOXM3BYJ1/G766BXXS3BYJ1",
+        "latest_official": "G766BXXS4BYK2/G766BOXM4BYK2/G766BXXS4BYK2",
         "test_firmwares": [
           {
             "firmware": "G766BXXS3AYI1/G766BOXM3AYI1/G766BXXS3AYI1",
@@ -10514,6 +10524,11 @@
             "firmware": "G766BXXS4BYK2/G766BOXM4BYK2/G766BXXS4BYK2",
             "md5": "100de2be5dcd9f9f7f054809426fdf19",
             "found_at": "2025-11-10T12:43:43.115724572+00:00"
+          },
+          {
+            "firmware": "G766BXXS4BYL1/G766BOXM4BYL1/G766BXXS4BYL1",
+            "md5": "c25faffde775b0f6d4d597661cdb4d6b",
+            "found_at": "2025-12-01T12:46:18.561504918+00:00"
           }
         ]
       }

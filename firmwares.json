@@ -27548,7 +27548,7 @@
     "name": "Galaxy Tab S10+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X828USQU4CYI5/X828UOYN4CYI5/X828USQU4CYI5",
+        "latest_official": "X828USQU4CYJ4/X828UOYN4CYJ4/X828USQU4CYJ4",
         "test_firmwares": [
           {
             "firmware": "X828USQU4CYG3/X828UOYN4CYG3/X828USQU4CYG3",
@@ -27629,6 +27629,11 @@
             "firmware": "X828USQU4CYJ4/X828UOYN4CYJ4/X828USQU4CYJ4",
             "md5": "a29e1692eca829efc04814108ba1bc36",
             "found_at": "2025-10-23T16:27:44.455728156+00:00"
+          },
+          {
+            "firmware": "X828USQS5CYK1/X828UOYN5CYK1/X828USQS5CYK1",
+            "md5": "6db3c92fd166d9c51535fbc0453e0bd0",
+            "found_at": "2025-12-01T04:54:58.363998866+00:00"
           }
         ]
       }

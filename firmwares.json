@@ -10168,7 +10168,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G736BXXUAGYJ6/G736BOXMAGYJ6/G736BXXUAGYJ6",
+        "latest_official": "G736BXXSAGYK2/G736BOXMAGYK2/G736BXXSAGYK2",
         "test_firmwares": [
           {
             "firmware": "G736BXXSAFYF1/G736BOXMAFYF1/G736BXXSAFYF1",
@@ -10309,6 +10309,11 @@
             "firmware": "G736BXXSAGYK2/G736BOXMAGYK2/G736BXXSAGYK2",
             "md5": "83326b469fb4daaf9b0601260be32cac",
             "found_at": "2025-11-10T08:40:42.216217128+00:00"
+          },
+          {
+            "firmware": "G736BXXSAGYL1/G736BOXMAGYL1/G736BXXSAGYL1",
+            "md5": "8a1cf85be20549935771b28b357111d9",
+            "found_at": "2025-12-02T01:40:16.053699006+00:00"
           }
         ]
       }
@@ -23569,6 +23574,11 @@
             "firmware": "S938USQU7ZYKW/S938UOYN7ZYKW/S938USQU7CYKW",
             "md5": "fcda01b4ec72f7a5a3966a39f19a11cd",
             "found_at": "2025-12-01T08:40:23.070795588+00:00"
+          },
+          {
+            "firmware": "S938USQU7ZYKR/S938UOYN7ZYKR/S938USQU7CYKR",
+            "md5": "a8147d5660eaa54d058d06530dc336c5",
+            "found_at": "2025-12-02T01:43:10.416304967+00:00"
           }
         ]
       }

@@ -104,6 +104,11 @@
             "firmware": "A057GXXS9DYJ1/A057GOXM9DYJ1/A057GXXS9DYJ1",
             "md5": "bf39b3d198d048032051371b5da100c7",
             "found_at": "2025-11-17T04:27:54.313070100+00:00"
+          },
+          {
+            "firmware": "A057GXXU9DYK1/A057GOXM9DYK1/A057GXXU9DYK1",
+            "md5": "793166a1d77af6ecd3ba502186b1fa66",
+            "found_at": "2025-12-02T04:31:35.422674867+00:00"
           }
         ]
       }
@@ -10083,7 +10088,7 @@
     "name": "Galaxy XCover7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G556BXXSBDYJ4/G556BOXMBDYJ4/G556BXXSBDYJ4",
+        "latest_official": "G556BXXSCDYK3/G556BOXMCDYK3/G556BXXSCDYK3",
         "test_firmwares": [
           {
             "firmware": "G556BXXSBDYJ1/G556BOXMBDYJ1/G556BXXSBDYJ1",
@@ -10159,6 +10164,11 @@
             "firmware": "G556BXXSCDYK3/G556BOXMCDYK3/G556BXXSCDYK3",
             "md5": "96148bee98973f1980d1ab377d4dd645",
             "found_at": "2025-11-12T16:28:57.883346249+00:00"
+          },
+          {
+            "firmware": "G556BXXSCDYK5/G556BOXMCDYK5/G556BXXSCDYK5",
+            "md5": "5ba1b28d57ce4695c2c706809163b934",
+            "found_at": "2025-12-02T04:33:28.207651680+00:00"
           }
         ]
       }

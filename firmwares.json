@@ -3489,6 +3489,11 @@
             "firmware": "A536U1UESIGYK2/A536U1OYMIGYK2/A536U1UESIGYK2",
             "md5": "d844523a396089c8219d5136bfdae919",
             "found_at": "2025-11-24T08:40:48.732803065+00:00"
+          },
+          {
+            "firmware": "A536U1UESIGYL1/A536U1OYMIGYL1/A536U1UESIGYL1",
+            "md5": "813b4d70b496f1965fdd27fe0c15092e",
+            "found_at": "2025-12-02T14:40:30.444006003+00:00"
           }
         ]
       }
@@ -10613,7 +10618,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G766USQU3BYJ2/G766UOYN3BYJ2/G766USQU3BYJ2",
+        "latest_official": "G766USQS4BYK3/G766UOYN4BYK3/G766USQS4BYK3",
         "test_firmwares": [
           {
             "firmware": "G766USQS3AYI1/G766UOYN3AYI1/G766USQS3AYI1",
@@ -10664,6 +10669,11 @@
             "firmware": "G766USQS4BYK3/G766UOYN4BYK3/G766USQS4BYK3",
             "md5": "4943f0cc17bf7796b093e7c1b1b25890",
             "found_at": "2025-11-10T16:36:29.023981022+00:00"
+          },
+          {
+            "firmware": "G766USQS4BYL1/G766UOYN4BYL1/G766USQS4BYL1",
+            "md5": "47189e6404e00ccdd1a668fdbae3bf2e",
+            "found_at": "2025-12-02T14:39:44.461004587+00:00"
           }
         ]
       }

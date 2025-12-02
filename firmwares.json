@@ -3633,7 +3633,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A546U1UEUFEYJ1/A546U1OYMFEYJ1/A546U1UEUFEYJ1",
+        "latest_official": "A546U1UESGEYK2/A546U1OYMGEYK2/A546U1UESGEYK2",
         "test_firmwares": [
           {
             "firmware": "A546U1UESFDYI1/A546U1OYMFDYI1/A546U1UESFDYI1",
@@ -3679,6 +3679,11 @@
             "firmware": "A546U1UESGEYK2/A546U1OYMGEYK2/A546U1UESGEYK2",
             "md5": "d643d4d7e2aa357da90342eeda600c33",
             "found_at": "2025-11-10T12:58:53.735618946+00:00"
+          },
+          {
+            "firmware": "A546U1UESGEYK3/A546U1OYMGEYK3/A546U1UESGEYK3",
+            "md5": "66eeabfa411d8b2d70267b58c4c22321",
+            "found_at": "2025-12-02T06:43:53.333106994+00:00"
           }
         ]
       }
@@ -3949,6 +3954,11 @@
             "firmware": "A566BXXS7BYK3/A566BOXM7BYK3/A566BXXS7BYK3",
             "md5": "78b6c037f86f747d0151e9373b2a1248",
             "found_at": "2025-11-24T06:44:14.597433483+00:00"
+          },
+          {
+            "firmware": "A566BXXS7BYL3/A566BOXM7BYL3/A566BXXS7BYL3",
+            "md5": "5a659a75a2470ab37ef8d34887dbac4a",
+            "found_at": "2025-12-02T06:44:29.940619469+00:00"
           }
         ]
       }
@@ -4244,6 +4254,31 @@
             "firmware": "F707U1UES9IXH1/F707U1OYM9IXH1/F707U1UES9IXH1",
             "md5": "6a7f045ff147c4f69dea762fb910bc3c",
             "found_at": "2025-10-18T03:33:30.404347+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-F7110": {
+    "name": "Galaxy Z Flip3 5G",
+    "regional_firmwares": {
+      "CHC": {
+        "latest_official": "F7110ZCSEJYGB/F7110OZCEJYGB/F7110ZCSEJYFD",
+        "test_firmwares": [
+          {
+            "firmware": "F7110ZCSEJYFD/F7110CHCEJYFD/F7110ZCSEJYFD",
+            "md5": "b59879288b15ba118e0ff9709a0509ff",
+            "found_at": "2025-12-02T06:46:25.630530298+00:00"
+          },
+          {
+            "firmware": "F7110ZCSEJYG1/F7110CHCEJYG1/F7110ZCSEJYFD",
+            "md5": "7ed3e52495a50d34ee4477e07fa985d1",
+            "found_at": "2025-12-02T06:46:25.640498845+00:00"
+          },
+          {
+            "firmware": "F7110ZCSEJYGB/F7110CHCEJYGB/F7110ZCSEJYFD",
+            "md5": "b69a8e06d442aa55b4422b475aca8d7e",
+            "found_at": "2025-12-02T06:46:25.644039334+00:00"
           }
         ]
       }

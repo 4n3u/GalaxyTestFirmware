@@ -10468,7 +10468,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G736U1UESAFYJ1/G736U1OYMAFYJ1/G736U1UESAFYJ1",
+        "latest_official": "G736U1UEUAGYK2/G736U1OYMAGYK2/G736U1UEUAGYK2",
         "test_firmwares": [
           {
             "firmware": "G736U1UESAFYF2/G736U1OYMAFYF2/G736U1UESAFYF2",
@@ -10609,6 +10609,11 @@
             "firmware": "G736U1UEUAGYK2/G736U1OYMAGYK2/G736U1UEUAGYK2",
             "md5": "989e735487942fa0fbe7843aa2aac20e",
             "found_at": "2025-11-07T22:19:48.540607158+00:00"
+          },
+          {
+            "firmware": "G736U1UESAGYL1/G736U1OYMAGYL1/G736U1UESAGYL1",
+            "md5": "d509e8d0c4e94fcba7e7ad4bef004fa9",
+            "found_at": "2025-12-03T13:01:31.093008884+00:00"
           }
         ]
       }
@@ -12523,7 +12528,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S711BXXSBFYJ1/S711BOXMBFYJ1/S711BXXSBFYJ1",
+        "latest_official": "S711BXXSCFYK3/S711BOXMCFYK3/S711BXXSCFYK3",
         "test_firmwares": [
           {
             "firmware": "S711BXXSBFYJ1/S711BOXMBFYJ1/S711BXXSBFYJ1",
@@ -12584,6 +12589,11 @@
             "firmware": "S711BXXSCFYK3/S711BOXMCFYK3/S711BXXSCFYK3",
             "md5": "74e367bff5312bd692202e4d99e07b42",
             "found_at": "2025-11-10T12:53:31.145472060+00:00"
+          },
+          {
+            "firmware": "S711BXXSCFYL1/S711BOXMCFYL1/S711BXXSCFYL1",
+            "md5": "3c47daa9dd410ccd00e707688fb1a3b0",
+            "found_at": "2025-12-03T12:55:28.476546775+00:00"
           }
         ]
       }
@@ -13283,7 +13293,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S721USQS7CYJ8/S721UOYN7CYJ8/S721USQS7CYJ8",
+        "latest_official": "S721USQS8CYK3/S721UOYN8CYK3/S721USQS8CYK3",
         "test_firmwares": [
           {
             "firmware": "S721USQS7CYJ2/S721UOYN7CYJ2/S721USQS7CYJ2",
@@ -13404,6 +13414,11 @@
             "firmware": "S721USQS8CYK4/S721UOYN8CYK4/S721USQS8CYK4",
             "md5": "9bb0841647bcba2ce6002f171bb9848a",
             "found_at": "2025-11-10T14:35:19.845715267+00:00"
+          },
+          {
+            "firmware": "S721USQS8CYL1/S721UOYN8CYL1/S721USQS8CYL1",
+            "md5": "e756ccecccb96073fbed271a1f0d626b",
+            "found_at": "2025-12-03T12:58:09.757539975+00:00"
           }
         ]
       }

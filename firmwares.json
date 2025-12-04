@@ -233,12 +233,22 @@
         ]
       },
       "TGY": {
-        "latest_official": "A136BZHSCDYG2/A136BOZSCDYG2/A136BZHSCDYG2",
+        "latest_official": "A136BZHSDDYK4/A136BOZSDDYK4/A136BZHSDDYK4",
         "test_firmwares": [
           {
             "firmware": "A136BZHSCDYG2/A136BOZSCDYG2/A136BZHSCDYG2",
             "md5": "b3faed4988d18e953c1f0ea4141aec5f",
             "found_at": "2025-10-18T03:23:30.200859+00:00"
+          },
+          {
+            "firmware": "A136BZHSDDYK2/A136BOZSDDYK2/A136BZHSDDYK2",
+            "md5": "c3367de7246098ec8dc57f11ce5b112d",
+            "found_at": "2025-12-04T08:31:35.761995295+00:00"
+          },
+          {
+            "firmware": "A136BZHSDDYK4/A136BOZSDDYK4/A136BZHSDDYK4",
+            "md5": "e35319bbe644b9f58e0368c65e90b885",
+            "found_at": "2025-12-04T08:31:35.762777935+00:00"
           }
         ]
       }
@@ -13464,6 +13474,11 @@
             "firmware": "S721USQS8CYL1/S721UOYN8CYL1/S721USQS8CYL1",
             "md5": "e756ccecccb96073fbed271a1f0d626b",
             "found_at": "2025-12-03T12:58:09.757539975+00:00"
+          },
+          {
+            "firmware": "S721USQS8CYL2/S721UOYN8CYL2/S721USQS8CYL2",
+            "md5": "5a6f6717d35e94ce36f93fd1d72a59c0",
+            "found_at": "2025-12-04T08:41:11.118729439+00:00"
           }
         ]
       }
@@ -14499,6 +14514,11 @@
             "firmware": "S901USQU8GYJ1/S901UOYN8GYJ1/S901USQU8GYJ1",
             "md5": "8330c8e4afefcb9b9824346b0245115e",
             "found_at": "2025-11-20T16:34:15.744489649+00:00"
+          },
+          {
+            "firmware": "S901USQS8GYL1/S901UOYN8GYL1/S901USQS8GYL1",
+            "md5": "6764e7ee7399595441a92157eb69ee62",
+            "found_at": "2025-12-04T08:36:49.608159265+00:00"
           }
         ]
       }
@@ -15239,6 +15259,11 @@
             "firmware": "S906USQU8GYJ1/S906UOYN8GYJ1/S906USQU8GYJ1",
             "md5": "107368f34af5ea6c657c9d262879288c",
             "found_at": "2025-11-20T16:35:19.249868891+00:00"
+          },
+          {
+            "firmware": "S906USQS8GYL1/S906UOYN8GYL1/S906USQS8GYL1",
+            "md5": "64d6d30e9902584ac16c0950deb26267",
+            "found_at": "2025-12-04T08:37:55.958455159+00:00"
           }
         ]
       }
@@ -15994,6 +16019,11 @@
             "firmware": "S908USQU8GYJ1/S908UOYN8GYJ1/S908USQU8GYJ1",
             "md5": "75dc624b1dd68e7c0d215078dfe99bb6",
             "found_at": "2025-11-20T16:34:46.979359896+00:00"
+          },
+          {
+            "firmware": "S908USQS8GYL1/S908UOYN8GYL1/S908USQS8GYL1",
+            "md5": "3615faeba3998fe41325b349639a5fdb",
+            "found_at": "2025-12-04T08:37:22.451659259+00:00"
           }
         ]
       }

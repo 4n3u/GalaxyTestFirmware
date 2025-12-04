@@ -5383,7 +5383,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F731NKSS5FYJ3/F731NOKR5FYJ3/F731NKSU5FYI2",
+        "latest_official": "F731NKSS5FYK3/F731NOKR5FYK3/F731NKSU5FYI2",
         "test_firmwares": [
           {
             "firmware": "F731NKSS5FYIA/F731NOKR5FYIA/F731NKSU5FYI2",
@@ -5484,6 +5484,11 @@
             "firmware": "F731NKSS5FYK3/F731NOKR5FYK3/F731NKSU5FYI2",
             "md5": "2bc1846f4b98b770f2f3ccd857f0f0cc",
             "found_at": "2025-11-10T08:43:11.088062500+00:00"
+          },
+          {
+            "firmware": "F731NKSS5FYL1/F731NOKR5FYL1/F731NKSU5FYI2",
+            "md5": "bd5699f8e140435e52041d597e717642",
+            "found_at": "2025-12-04T03:32:08.195074313+00:00"
           }
         ]
       }
@@ -8438,7 +8443,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F946NKSS5FYJ3/F946NOKR5FYJ3/F946NKSU5FYI2",
+        "latest_official": "F946NKSS5FYK3/F946NOKR5FYK3/F946NKSU5FYI2",
         "test_firmwares": [
           {
             "firmware": "F946NKSS5FYIA/F946NOKR5FYIA/F946NKSU5FYI2",
@@ -8539,6 +8544,11 @@
             "firmware": "F946NKSS5FYK3/F946NOKR5FYK3/F946NKSU5FYI2",
             "md5": "d5d7c663dbd878c1441160b55c565fbe",
             "found_at": "2025-11-10T08:44:30.032135947+00:00"
+          },
+          {
+            "firmware": "F946NKSS5FYL1/F946NOKR5FYL1/F946NKSU5FYI2",
+            "md5": "fc8d5321d35a37741631f4d237537162",
+            "found_at": "2025-12-04T03:34:40.039746085+00:00"
           }
         ]
       }
@@ -14898,7 +14908,7 @@
     "name": "Galaxy S22+",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S906NKSU7GYJ1/S906NOKR7GYJ1/S906NKSU7GYI7",
+        "latest_official": "S906NKSS7GYK3/S906NOKR7GYK3/S906NKSU7GYI7",
         "test_firmwares": [
           {
             "firmware": "S906NKSS7FYF1/S906NOKR7FYF1/S906NKSS7FYF1",
@@ -15074,6 +15084,11 @@
             "firmware": "S906NKSS7GYK3/S906NOKR7GYK3/S906NKSU7GYI7",
             "md5": "1cf12c0b094d2b68b05b88934aebbb3b",
             "found_at": "2025-11-07T14:31:00.328818440+00:00"
+          },
+          {
+            "firmware": "S906NKSS7GYL1/S906NOKR7GYL1/S906NKSU7GYI7",
+            "md5": "766cfa9f7216471cacfc1898bf34e7e6",
+            "found_at": "2025-12-04T03:27:47.824899206+00:00"
           }
         ]
       }

@@ -4753,7 +4753,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F721NKSU6IYJ1/F721NOKR6IYJ1/F721NKSU6IYI2",
+        "latest_official": "F721NKSS6IYK3/F721NOKR6IYK3/F721NKSU6IYI2",
         "test_firmwares": [
           {
             "firmware": "F721NKSU6HYBG/F721NOKR6HYBG/F721NKSU6HYBG",
@@ -4924,6 +4924,11 @@
             "firmware": "F721NKSS6IYK3/F721NOKR6IYK3/F721NKSU6IYI2",
             "md5": "0f568a7b7a2ed17bc3fb32e36ac23683",
             "found_at": "2025-11-10T06:45:15.462928968+00:00"
+          },
+          {
+            "firmware": "F721NKSS6IYL1/F721NOKR6IYL1/F721NKSU6IYI2",
+            "md5": "0927702d639c456336f02b3c6c26a9ee",
+            "found_at": "2025-12-08T10:35:29.784749102+00:00"
           }
         ]
       }
@@ -7838,7 +7843,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F936NKSU6IYJ1/F936NOKR6IYJ1/F936NKSU6IYI2",
+        "latest_official": "F936NKSS6IYK3/F936NOKR6IYK3/F936NKSU6IYI2",
         "test_firmwares": [
           {
             "firmware": "F936NKSU6HYBG/F936NOKR6HYBG/F936NKSU6HYBG",
@@ -8009,6 +8014,11 @@
             "firmware": "F936NKSS6IYK3/F936NOKR6IYK3/F936NKSU6IYI2",
             "md5": "4a9a81fba566d1383eed013501cfa07d",
             "found_at": "2025-11-10T08:44:10.486194960+00:00"
+          },
+          {
+            "firmware": "F936NKSS6IYL1/F936NOKR6IYL1/F936NKSU6IYI2",
+            "md5": "9ed1b596733f25cce1fc8d9df539a1f7",
+            "found_at": "2025-12-08T10:38:01.202532529+00:00"
           }
         ]
       }
@@ -8634,6 +8644,11 @@
             "firmware": "F946NKSS5FYL1/F946NOKR5FYL1/F946NKSU5FYI2",
             "md5": "fc8d5321d35a37741631f4d237537162",
             "found_at": "2025-12-04T03:34:40.039746085+00:00"
+          },
+          {
+            "firmware": "F946NKSS5FYL2/F946NOKR5FYL2/F946NKSU5FYI2",
+            "md5": "61a631f3f7916e1000dd30774fe61f0c",
+            "found_at": "2025-12-08T10:38:26.099363730+00:00"
           }
         ]
       }

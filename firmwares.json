@@ -11984,6 +11984,11 @@
             "firmware": "M346B2ZHS8EYJ2/M346B2OZS8EYJ2/M346B2ZHS8EYJ2",
             "md5": "9d87796892c1f03a1967d2a1db7cf296",
             "found_at": "2025-11-10T08:30:34.219710042+00:00"
+          },
+          {
+            "firmware": "M346B2ZHS9EYK1/M346B2OZS9EYK1/M346B2ZHS9EYK1",
+            "md5": "653d800e21cb2c2466ff97332d702db3",
+            "found_at": "2025-12-08T03:24:33.739164704+00:00"
           }
         ]
       }

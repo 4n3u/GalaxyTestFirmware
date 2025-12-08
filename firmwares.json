@@ -1149,6 +1149,11 @@
             "firmware": "A165NKSU3CYK1/A165NOKR3CYK1/A165NKSU3CYJC",
             "md5": "6a787467356540971f9ef84d69c50d10",
             "found_at": "2025-11-24T10:27:54.435151473+00:00"
+          },
+          {
+            "firmware": "A165NKSS4CYL1/A165NOKR4CYL1/A165NKSS4CYL1",
+            "md5": "15d50ce2337e3db10fc9e452ffda8e7c",
+            "found_at": "2025-12-08T16:31:52.820662527+00:00"
           }
         ]
       }

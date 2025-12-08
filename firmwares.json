@@ -1554,6 +1554,11 @@
             "firmware": "A175FXXU1BYK1/A175FOXM1BYK1/A175FXXU1BYK1",
             "md5": "c73cedfea666e455136fc51048fc5524",
             "found_at": "2025-11-25T14:25:59.392532499+00:00"
+          },
+          {
+            "firmware": "A175FXXS2BYL1/A175FOXM2BYL1/A175FXXS2BYL1",
+            "md5": "0b86bbc753065a9148ae88aa0c9d25b5",
+            "found_at": "2025-12-08T14:28:06.936193086+00:00"
           }
         ]
       }

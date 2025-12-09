@@ -25234,6 +25234,11 @@
             "firmware": "X115XXU6DYK3/X115OXM6DYK3/X115XXU6DYK3",
             "md5": "2db816e0c64aa964e1795e60c3299172",
             "found_at": "2025-11-17T14:23:47.256500205+00:00"
+          },
+          {
+            "firmware": "X115XXS7DYL2/X115OXM7DYL2/X115XXS7DYL2",
+            "md5": "d29e5efe8e4a49fc0dcc0352964d7e39",
+            "found_at": "2025-12-09T04:31:29.743760566+00:00"
           }
         ]
       }

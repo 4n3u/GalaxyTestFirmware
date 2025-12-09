@@ -1038,7 +1038,7 @@
     "name": "Galaxy A16",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A165FXXS5BYJ5/A165FOXM5BYJ5/A165FXXS5BYJ1",
+        "latest_official": "A165FXXU5CYK1/A165FOXM5CYK1/A165FXXU5CYK1",
         "test_firmwares": [
           {
             "firmware": "A165FXXS5BYJ1/A165FOXM5BYJ1/A165FXXS5BYJ1",
@@ -1084,6 +1084,11 @@
             "firmware": "A165FXXU5CYK1/A165FOXM5CYK1/A165FXXU5CYK1",
             "md5": "dd1048a22cbab8525cb08d12dcc20529",
             "found_at": "2025-11-12T14:25:03.261980543+00:00"
+          },
+          {
+            "firmware": "A165FXXS6CYL1/A165FOXM6CYL1/A165FXXS6CYL1",
+            "md5": "3d9240c71e852537a4552a82e27caa51",
+            "found_at": "2025-12-09T03:23:48.267772758+00:00"
           }
         ]
       }
@@ -25304,6 +25309,11 @@
             "firmware": "X135FXXU1BYK3/X135FOXM1BYK3/X135FXXU1BYK3",
             "md5": "b1e1bf4343caeefeff705c59794e2d00",
             "found_at": "2025-11-19T12:54:01.590286865+00:00"
+          },
+          {
+            "firmware": "X135FXXS2BYL2/X135FOXM2BYL2/X135FXXS2BYL2",
+            "md5": "90afa9a52669735226b7476ffa0bbbae",
+            "found_at": "2025-12-09T03:20:53.113522619+00:00"
           }
         ]
       }

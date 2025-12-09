@@ -4139,6 +4139,11 @@
             "firmware": "A566U1UES4BYL1/A566U1OYM4BYL1/A566U1UES4BYL1",
             "md5": "ed482744b4b6a17e8b0b0c2955ce4719",
             "found_at": "2025-12-02T10:39:35.794830041+00:00"
+          },
+          {
+            "firmware": "A566U1UES4BYL2/A566U1OYM4BYL2/A566U1UES4BYL2",
+            "md5": "c61ae40ecf6bd340b724b36e4c320c3f",
+            "found_at": "2025-12-09T06:48:33.540733122+00:00"
           }
         ]
       }

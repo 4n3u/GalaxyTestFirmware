@@ -8794,6 +8794,11 @@
             "firmware": "F946U1UES6FYK3/F946U1OYM6FYK3/F946U1UES6FYK3",
             "md5": "9bca9dc9777d7c5f790797afda671ea6",
             "found_at": "2025-11-27T06:41:46.790786778+00:00"
+          },
+          {
+            "firmware": "F946U1UES6FYL1/F946U1OYM6FYL1/F946U1UES6FYL1",
+            "md5": "0ffc472fd49d57c1e100c72b1752bd9c",
+            "found_at": "2025-12-09T10:40:35.815842507+00:00"
           }
         ]
       }
@@ -20564,6 +20569,11 @@
             "firmware": "S9310ZCU7CYL7/S9310CHC7CYL7/S9310ZCU7CYL5",
             "md5": "127ecda66f77fb21a8421cbd4a560da7",
             "found_at": "2025-12-05T06:49:42.503870569+00:00"
+          },
+          {
+            "firmware": "S9310ZCS7BYL1/S9310CHC7BYL1/S9310ZCS7BYL1",
+            "md5": "5207990463c3c4a202560ce09b0087f3",
+            "found_at": "2025-12-09T10:40:16.666312648+00:00"
           }
         ]
       }
@@ -21654,6 +21664,11 @@
             "firmware": "S9360ZCU7CYL7/S9360CHC7CYL7/S9360ZCU7CYL5",
             "md5": "c919e66d3d8f6b355a5ddf01c33fd02e",
             "found_at": "2025-12-05T06:45:57.260431248+00:00"
+          },
+          {
+            "firmware": "S9360ZCS7BYL1/S9360CHC7BYL1/S9360ZCS7BYL1",
+            "md5": "a3c59eb9d3d58298a1928fd0bf10f9ff",
+            "found_at": "2025-12-09T10:42:48.227777570+00:00"
           }
         ]
       }
@@ -22754,6 +22769,11 @@
             "firmware": "S9370ZCU4CYL7/S9370CHC4CYL7/S9370ZCU4CYL5",
             "md5": "55f2cef2adf47cc08affd1c56157ee5d",
             "found_at": "2025-12-05T06:50:24.035251408+00:00"
+          },
+          {
+            "firmware": "S9370ZCS4BYL1/S9370CHC4BYL1/S9370ZCS4BYL1",
+            "md5": "aa18d2354a0340882ff36d920ea5df52",
+            "found_at": "2025-12-09T10:41:01.666038990+00:00"
           }
         ]
       }
@@ -23619,6 +23639,11 @@
             "firmware": "S9380ZCU7CYL7/S9380CHC7CYL7/S9380ZCU7CYL5",
             "md5": "315c458e50663c14dcaea2a3eec95460",
             "found_at": "2025-12-05T08:45:57.837956735+00:00"
+          },
+          {
+            "firmware": "S9380ZCS7BYL1/S9380CHC7BYL1/S9380ZCS7BYL1",
+            "md5": "21b537fc2c599c554d1777d3e38651a7",
+            "found_at": "2025-12-09T10:42:08.383560221+00:00"
           }
         ]
       }

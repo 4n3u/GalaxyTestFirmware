@@ -18563,7 +18563,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9210ZCS4CYJ7/S9210CHC4CYJ7/S9210ZCS4CYJ7",
+        "latest_official": "S9210ZCS4CYK2/S9210CHC4CYK2/S9210ZCS4CYK2",
         "test_firmwares": [
           {
             "firmware": "S9210ZCU4CYG1/S9210CHC4CYG1/S9210ZCU4CYG1",
@@ -18639,6 +18639,11 @@
             "firmware": "S9210ZCS4CYK2/S9210CHC4CYK2/S9210ZCS4CYK2",
             "md5": "45dd7d7c4d39e086a003bbfc74f0d679",
             "found_at": "2025-11-12T14:32:36.894447669+00:00"
+          },
+          {
+            "firmware": "S9210ZCS4CYL1/S9210CHC4CYL1/S9210ZCS4CYL1",
+            "md5": "7f7802585aa9ac532817fd679480eab4",
+            "found_at": "2025-12-10T10:39:05.679903111+00:00"
           }
         ]
       }
@@ -19693,7 +19698,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9280ZCS4CYJ7/S9280CHC4CYJ7/S9280ZCS4CYJ7",
+        "latest_official": "S9280ZCS4CYK2/S9280CHC4CYK2/S9280ZCS4CYK2",
         "test_firmwares": [
           {
             "firmware": "S9280ZCU4CYG1/S9280CHC4CYG1/S9280ZCU4CYG1",
@@ -19774,6 +19779,11 @@
             "firmware": "S9280ZCS4CYK2/S9280CHC4CYK2/S9280ZCS4CYK2",
             "md5": "c234f5132010fef77226cf4d5f84ebf8",
             "found_at": "2025-11-12T14:33:43.916529465+00:00"
+          },
+          {
+            "firmware": "S9280ZCS4CYL1/S9280CHC4CYL1/S9280ZCS4CYL1",
+            "md5": "533ec1b278227e7f324aa4b04d874aa9",
+            "found_at": "2025-12-10T10:40:30.286558218+00:00"
           }
         ]
       }

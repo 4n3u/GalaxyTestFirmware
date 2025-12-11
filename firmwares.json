@@ -16824,6 +16824,11 @@
             "firmware": "S911BXXS8EYK5/S911BOXM8EYK5/S911BXXU8EYI5",
             "md5": "0349cfb0b1295322099eba90ddd566b6",
             "found_at": "2025-11-28T06:42:42.789549152+00:00"
+          },
+          {
+            "firmware": "S911BXXU8FYLB/S911BOXM8FYLB/S911BXXU8FYLB",
+            "md5": "9cb251c325ccd52d73e2f6541757d7a1",
+            "found_at": "2025-12-11T01:49:32.149915975+00:00"
           }
         ]
       }
@@ -18244,6 +18249,11 @@
             "firmware": "S918BXXS8EYK5/S918BOXM8EYK5/S918BXXU8EYI5",
             "md5": "8768555aa6bf42cae2cbc86e4dba7e8b",
             "found_at": "2025-11-28T06:44:09.849613027+00:00"
+          },
+          {
+            "firmware": "S918BXXU8FYLB/S918BOXM8FYLB/S918BXXU8FYLB",
+            "md5": "f416a1c5a0bd3dd62e43910a65225e9d",
+            "found_at": "2025-12-11T01:50:33.933662292+00:00"
           }
         ]
       }

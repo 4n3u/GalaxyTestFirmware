@@ -5333,7 +5333,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7310ZCS7FYJ3/F7310CHC7FYJ3/F7310ZCS7FYJ3",
+        "latest_official": "F7310ZCS7FYK2/F7310CHC7FYK2/F7310ZCS7FYK2",
         "test_firmwares": [
           {
             "firmware": "F7310ZCS7FYJ1/F7310CHC7FYJ1/F7310ZCS7FYJ1",
@@ -5414,6 +5414,11 @@
             "firmware": "F7310ZCS7FYK2/F7310CHC7FYK2/F7310ZCS7FYK2",
             "md5": "4a4e066759216c24a1f765fc641824da",
             "found_at": "2025-11-12T14:35:01.049014140+00:00"
+          },
+          {
+            "firmware": "F7310ZCS7FYL1/F7310CHC7FYL1/F7310ZCS7FYL1",
+            "md5": "fe142b0065731dee4145db856cac444c",
+            "found_at": "2025-12-11T06:40:15.075660644+00:00"
           }
         ]
       }
@@ -7014,6 +7019,11 @@
             "firmware": "F761U1UEU6BYL3/F761U1OYM6BYL3/F761U1UEU6BYL3",
             "md5": "ef93ba398e060e0de02f5588a8c9d450",
             "found_at": "2025-12-03T06:37:59.650760796+00:00"
+          },
+          {
+            "firmware": "F761U1UEU6BYLB/F761U1OYM6BYLB/F761U1UEU6BYLB",
+            "md5": "d9d93c63195e59d6ea88fb4af254dfc6",
+            "found_at": "2025-12-11T06:51:46.556121544+00:00"
           }
         ]
       }
@@ -7099,6 +7109,11 @@
             "firmware": "F7660ZCU6BYL3/F7660CHC6BYL3/F7660ZCU6BYL3",
             "md5": "cdba0317b49a01d6fbd6e0aaa3973c5a",
             "found_at": "2025-12-03T06:49:51.989588523+00:00"
+          },
+          {
+            "firmware": "F7660ZCU6BYLB/F7660CHC6BYLB/F7660ZCU6BYLB",
+            "md5": "dc84871a0a02d34746fdaa2ebf95f98f",
+            "found_at": "2025-12-11T06:41:35.830570940+00:00"
           }
         ]
       }
@@ -7464,6 +7479,11 @@
             "firmware": "F766U1UEU6BYL3/F766U1OYM6BYL3/F766U1UEU6BYL3",
             "md5": "940f90022d17df1ae5700f5d5215bbe4",
             "found_at": "2025-12-03T06:50:06.158159337+00:00"
+          },
+          {
+            "firmware": "F766U1UEU6BYLB/F766U1OYM6BYLB/F766U1UEU6BYLB",
+            "md5": "11aad5b849f42c137a4f89b48fca2876",
+            "found_at": "2025-12-11T06:42:08.340223591+00:00"
           }
         ]
       }
@@ -10109,6 +10129,11 @@
             "firmware": "F9660ZCU6BYL3/F9660CHC6BYL3/F9660ZCU6BYL3",
             "md5": "c93bef9ec34416ccbe70bb61389567d7",
             "found_at": "2025-12-03T06:51:10.449776615+00:00"
+          },
+          {
+            "firmware": "F9660ZCU6BYLB/F9660CHC6BYLB/F9660ZCU6BYLB",
+            "md5": "e2e39208f03477808e08ea4b1ce27eb0",
+            "found_at": "2025-12-11T06:45:09.407006949+00:00"
           }
         ]
       }
@@ -10469,6 +10494,11 @@
             "firmware": "F966U1UEU6BYL3/F966U1OYM6BYL3/F966U1UEU6BYL3",
             "md5": "9621ebab57c159a1c45cfe0f2766fa5b",
             "found_at": "2025-12-03T06:50:25.371351443+00:00"
+          },
+          {
+            "firmware": "F966U1UEU6BYLB/F966U1OYM6BYLB/F966U1UEU6BYLB",
+            "md5": "f63aed94634dc3d6a4a3a8960723c237",
+            "found_at": "2025-12-11T06:45:45.767867354+00:00"
           }
         ]
       }
@@ -12789,6 +12819,11 @@
             "firmware": "S7110ZCS6FYK1/S7110CHC6FYK1/S7110ZCS6FYK1",
             "md5": "7ed7a60ba0463c5ffe17d21bd5a5fc7d",
             "found_at": "2025-11-26T06:40:41.873678229+00:00"
+          },
+          {
+            "firmware": "S7110ZCS6FYL1/S7110CHC6FYL1/S7110ZCS6FYL1",
+            "md5": "39f7bf9eaec674f03235672212f31677",
+            "found_at": "2025-12-11T06:45:18.900806174+00:00"
           }
         ]
       }

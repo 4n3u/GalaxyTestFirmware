@@ -16583,7 +16583,7 @@
     "name": "Galaxy S23",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9110ZCS6EYJ5/S9110CHC6EYJ5/S9110ZCS6EYJ5",
+        "latest_official": "S9110ZCS6EYK3/S9110CHC6EYK3/S9110ZCS6EYK3",
         "test_firmwares": [
           {
             "firmware": "S9110ZCU6EYG3/S9110CHC6EYG3/S9110ZCU6EYG3",
@@ -16709,6 +16709,11 @@
             "firmware": "S9110ZCS6EYK3/S9110CHC6EYK3/S9110ZCS6EYK3",
             "md5": "495afe502957257ef0d840f4bf3c52bb",
             "found_at": "2025-11-12T14:30:38.080881700+00:00"
+          },
+          {
+            "firmware": "S9110ZCS6EYL1/S9110CHC6EYL1/S9110ZCS6EYL1",
+            "md5": "c357fd64580d9294d8674dac54a5714b",
+            "found_at": "2025-12-12T04:43:20.215253688+00:00"
           }
         ]
       }
@@ -17298,7 +17303,7 @@
     "name": "Galaxy S23+",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9160ZCS6EYJ5/S9160CHC6EYJ5/S9160ZCS6EYJ5",
+        "latest_official": "S9160ZCS6EYK3/S9160CHC6EYK3/S9160ZCS6EYK3",
         "test_firmwares": [
           {
             "firmware": "S9160ZCU6EYG3/S9160CHC6EYG3/S9160ZCU6EYG3",
@@ -17424,6 +17429,11 @@
             "firmware": "S9160ZCS6EYK3/S9160CHC6EYK3/S9160ZCS6EYK3",
             "md5": "5a15edccd61833d386296fd8f639681e",
             "found_at": "2025-11-12T14:32:07.566423451+00:00"
+          },
+          {
+            "firmware": "S9160ZCS6EYL1/S9160CHC6EYL1/S9160ZCS6EYL1",
+            "md5": "36011486cef48001251f256cd18ebd7d",
+            "found_at": "2025-12-12T04:44:50.965590933+00:00"
           }
         ]
       }
@@ -18013,7 +18023,7 @@
     "name": "Galaxy S23 Ultra",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9180ZCS6EYJ5/S9180CHC6EYJ5/S9180ZCS6EYJ5",
+        "latest_official": "S9180ZCS6EYK3/S9180CHC6EYK3/S9180ZCS6EYK3",
         "test_firmwares": [
           {
             "firmware": "S9180ZCU6EYG3/S9180CHC6EYG3/S9180ZCU6EYG3",
@@ -18139,6 +18149,11 @@
             "firmware": "S9180ZCS6EYK3/S9180CHC6EYK3/S9180ZCS6EYK3",
             "md5": "2a2344be70743acc0356a70f5b0247cc",
             "found_at": "2025-11-12T14:31:36.721208864+00:00"
+          },
+          {
+            "firmware": "S9180ZCS6EYL1/S9180CHC6EYL1/S9180ZCS6EYL1",
+            "md5": "64fb83ccfeb410b8941c39d24d8879ff",
+            "found_at": "2025-12-12T04:44:20.678821822+00:00"
           }
         ]
       }

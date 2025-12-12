@@ -7849,6 +7849,11 @@
             "firmware": "F9360ZCS8IYK3/F9360CHC8IYK3/F9360ZCS8IYK3",
             "md5": "4cc4e26451dbd49ca3358cac18be1050",
             "found_at": "2025-11-27T08:44:48.843889984+00:00"
+          },
+          {
+            "firmware": "F9360ZCS8IYL1/F9360CHC8IYL1/F9360ZCS8IYL1",
+            "md5": "1818669aa942d8346703f9a789ad2073",
+            "found_at": "2025-12-12T08:46:27.344247818+00:00"
           }
         ]
       }
@@ -25344,6 +25349,11 @@
             "firmware": "W9023ZCS8IYK4/W9023CHC8IYK4/W9023ZCS8IYK3",
             "md5": "176b140881f9de309f1efc660519a01b",
             "found_at": "2025-11-27T08:45:59.165931619+00:00"
+          },
+          {
+            "firmware": "W9023ZCS8IYL1/W9023CHC8IYL1/W9023ZCS8IYL1",
+            "md5": "ab5da9eff83baf28740fe8240f3c8193",
+            "found_at": "2025-12-12T08:48:23.569480891+00:00"
           }
         ]
       }

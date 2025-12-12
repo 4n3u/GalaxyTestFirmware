@@ -4689,6 +4689,11 @@
             "firmware": "F7210ZCS8IYK3/F7210CHC8IYK3/F7210ZCS8IYK3",
             "md5": "a9118d17bde2687260e96bd4ce0d1b85",
             "found_at": "2025-11-27T08:43:23.074893321+00:00"
+          },
+          {
+            "firmware": "F7210ZCS8IYL1/F7210CHC8IYL1/F7210ZCS8IYL1",
+            "md5": "75b1f548c175f0f049c41f288999c7a5",
+            "found_at": "2025-12-12T03:35:15.323625022+00:00"
           }
         ]
       }
@@ -14268,7 +14273,7 @@
     "name": "Galaxy S22",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9010ZCU9GYJ1/S9010CHC9GYJ1/S9010ZCU9GYJ1",
+        "latest_official": "S9010ZCS9GYK3/S9010CHC9GYK3/S9010ZCS9GYK3",
         "test_firmwares": [
           {
             "firmware": "S9010ZCS9FYE2/S9010CHC9FYE2/S9010ZCS9FYE2",
@@ -14434,6 +14439,11 @@
             "firmware": "S9010ZCS9GYK3/S9010CHC9GYK3/S9010ZCS9GYK3",
             "md5": "bc3c7948b05dfdfccc61f1f09562691e",
             "found_at": "2025-11-13T10:30:44.997384699+00:00"
+          },
+          {
+            "firmware": "S9010ZCS9GYL1/S9010CHC9GYL1/S9010ZCS9GYL1",
+            "md5": "fbdf961f27e2ef96ffa57364b7daa9e1",
+            "found_at": "2025-12-12T03:31:04.567097677+00:00"
           }
         ]
       }
@@ -15028,7 +15038,7 @@
     "name": "Galaxy S22+",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9060ZCU9GYJ1/S9060CHC9GYJ1/S9060ZCU9GYJ1",
+        "latest_official": "S9060ZCS9GYK3/S9060CHC9GYK3/S9060ZCS9GYK3",
         "test_firmwares": [
           {
             "firmware": "S9060ZCS9FYE2/S9060CHC9FYE2/S9060ZCS9FYE2",
@@ -15194,6 +15204,11 @@
             "firmware": "S9060ZCS9GYK3/S9060CHC9GYK3/S9060ZCS9GYK3",
             "md5": "719b5616607e423fc488de0a0ca969c8",
             "found_at": "2025-11-13T10:31:42.462387917+00:00"
+          },
+          {
+            "firmware": "S9060ZCS9GYL1/S9060CHC9GYL1/S9060ZCS9GYL1",
+            "md5": "eb43a18dac40895326da3ad8ca417200",
+            "found_at": "2025-12-12T03:32:06.764703997+00:00"
           }
         ]
       }
@@ -15788,7 +15803,7 @@
     "name": "Galaxy S22 Ultra",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9080ZCU9GYJ1/S9080CHC9GYJ1/S9080ZCU9GYJ1",
+        "latest_official": "S9080ZCS9GYK3/S9080CHC9GYK3/S9080ZCS9GYK3",
         "test_firmwares": [
           {
             "firmware": "S9080ZCS9FYE2/S9080CHC9FYE2/S9080ZCS9FYE2",
@@ -15954,6 +15969,11 @@
             "firmware": "S9080ZCS9GYK3/S9080CHC9GYK3/S9080ZCS9GYK3",
             "md5": "62bc67844a2579ef960eb45edf62dfae",
             "found_at": "2025-11-13T10:31:14.023954087+00:00"
+          },
+          {
+            "firmware": "S9080ZCS9GYL1/S9080CHC9GYL1/S9080ZCS9GYL1",
+            "md5": "a156bbfaad858ae81d944630dfce3e08",
+            "found_at": "2025-12-12T03:31:36.000555325+00:00"
           }
         ]
       }
@@ -25104,6 +25124,11 @@
             "firmware": "W7023ZCS8IYK4/W7023CHC8IYK4/W7023ZCS8IYK3",
             "md5": "b1f9d32457c97a2920b5e81fe5e13843",
             "found_at": "2025-11-27T06:43:30.208603449+00:00"
+          },
+          {
+            "firmware": "W7023ZCS8IYL1/W7023CHC8IYL1/W7023ZCS8IYL1",
+            "md5": "a745ef6ecd4c5feafec735d6e4a3deed",
+            "found_at": "2025-12-12T03:38:08.242396358+00:00"
           }
         ]
       }
@@ -29708,7 +29733,7 @@
     "name": "Galaxy Tab S10 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X926CZCU4CYI5/X926CCHC4CYI5/X926CZCU4CYI5",
+        "latest_official": "X926CZCU4CYJ4/X926CCHC4CYJ4/X926CZCU4CYJ4",
         "test_firmwares": [
           {
             "firmware": "X926CZCU4CYH2/X926CCHC4CYH2/X926CZCU4CYH2",
@@ -29764,6 +29789,11 @@
             "firmware": "X926CZCU4CYJ4/X926CCHC4CYJ4/X926CZCU4CYJ4",
             "md5": "9684057f6d354a9028eccdbcb4d99296",
             "found_at": "2025-10-23T18:31:18.506074516+00:00"
+          },
+          {
+            "firmware": "X926CZCS5CYK1/X926CCHC5CYK1/X926CZCS5CYK1",
+            "md5": "03eaaf7a65785fd4d8f95a1c7d1d9e15",
+            "found_at": "2025-12-12T03:28:47.159088657+00:00"
           }
         ]
       }

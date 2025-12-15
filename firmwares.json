@@ -3593,7 +3593,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5460ZCSFEYJ9/A5460CHCFEYJ9/A5460ZCSFEYJ9",
+        "latest_official": "A5460ZCSGEYK3/A5460CHCGEYK3/A5460ZCSGEYK3",
         "test_firmwares": [
           {
             "firmware": "A5460ZCUFEYH2/A5460CHCFEYH2/A5460ZCUFEYH2",
@@ -3639,6 +3639,11 @@
             "firmware": "A5460ZCSGEYK3/A5460CHCGEYK3/A5460ZCSGEYK3",
             "md5": "6728042861a1570d4861246cf216c7ad",
             "found_at": "2025-11-13T14:32:20.434635172+00:00"
+          },
+          {
+            "firmware": "A5460ZCSGEYK7/A5460CHCGEYK7/A5460ZCSGEYK7",
+            "md5": "d159f477af58c121ad313b552065daa3",
+            "found_at": "2025-12-15T10:40:53.549513770+00:00"
           }
         ]
       }

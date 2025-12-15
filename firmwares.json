@@ -14078,7 +14078,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S731USQU3AYJ9/S731UOYN3AYJ9/S731USQU3AYJ9",
+        "latest_official": "S731USQS3AYK1/S731UOYN3AYK1/S731USQS3AYK1",
         "test_firmwares": [
           {
             "firmware": "S731USQS2AYID/S731UOYN2AYID/S731USQS2AYID",
@@ -14174,6 +14174,11 @@
             "firmware": "S731USQS3AYK1/S731UOYN3AYK1/S731USQS3AYK1",
             "md5": "3a22fbe294258a15e25103a56f335263",
             "found_at": "2025-11-27T12:52:50.776720941+00:00"
+          },
+          {
+            "firmware": "S731USQU3BYLB/S731UOYN3BYLB/S731USQU3BYLB",
+            "md5": "bc52b34f3eb963feafe21730040bfbd1",
+            "found_at": "2025-12-15T08:41:12.735690305+00:00"
           }
         ]
       }

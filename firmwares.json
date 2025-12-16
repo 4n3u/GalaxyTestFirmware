@@ -10524,6 +10524,71 @@
       }
     }
   },
+  "SM-F9680": {
+    "name": "Galaxy Z TriFold",
+    "regional_firmwares": {
+      "CHC": {
+        "latest_official": "F9680ZCS1AYL2/F9680CHC1AYL2/F9680ZCS1AYL2",
+        "test_firmwares": [
+          {
+            "firmware": "F9680ZCS1AYL2/F9680CHC1AYL2/F9680ZCS1AYL2",
+            "md5": "6ec6a6c69d5775c912f64f8a05674f54",
+            "found_at": "2025-12-16T04:49:54.838646923+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYJ7/F9680CHC1AYJ7/F9680ZCU1AYJ7",
+            "md5": "0ac71a034d5393c828533fa6f3f07901",
+            "found_at": "2025-12-16T04:49:56.762458805+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYJ9/F9680CHC1AYJ9/F9680ZCU1AYJ9",
+            "md5": "027168471bb78510122bdd43dee4b4b0",
+            "found_at": "2025-12-16T04:49:56.763326275+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYJB/F9680CHC1AYJB/F9680ZCU1AYJB",
+            "md5": "471a9ab5aa6d0ddd6c60cccf621e2c79",
+            "found_at": "2025-12-16T04:49:56.764193564+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYJD/F9680CHC1AYJD/F9680ZCU1AYJD",
+            "md5": "0c4053494d1e2766f9d3e57f1067cc42",
+            "found_at": "2025-12-16T04:49:56.765414627+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYK1/F9680CHC1AYK1/F9680ZCU1AYK1",
+            "md5": "511901687f40db4072ad38cb5133e156",
+            "found_at": "2025-12-16T04:49:56.776979627+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYK3/F9680CHC1AYK3/F9680ZCU1AYK1",
+            "md5": "f99d740106ad5ad4ea4c0093b9bb02e5",
+            "found_at": "2025-12-16T04:49:56.778068734+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYK7/F9680CHC1AYK7/F9680ZCU1AYK1",
+            "md5": "88dace8cc49ef88ea630df703b17a8a7",
+            "found_at": "2025-12-16T04:49:56.779734103+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYK8/F9680CHC1AYK8/F9680ZCU1AYK8",
+            "md5": "d6a89c44a8bdfe1ef303615ef2db97e8",
+            "found_at": "2025-12-16T04:49:56.780141565+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYK8/F9680CHC1AYK8/F9680ZCU1AYK1",
+            "md5": "4bd42fcc74550c88e26ec03a290eb2bc",
+            "found_at": "2025-12-16T04:49:56.780162565+00:00"
+          },
+          {
+            "firmware": "F9680ZCU1AYL1/F9680CHC1AYL1/F9680ZCU1AYK8",
+            "md5": "7f0bc902db3074065a5b394971ee88ab",
+            "found_at": "2025-12-16T04:49:56.794262988+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-G556B": {
     "name": "Galaxy XCover7",
     "regional_firmwares": {

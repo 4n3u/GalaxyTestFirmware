@@ -14344,6 +14344,11 @@
             "firmware": "S731USQU3BYLD/S731UOYN3BYLD/S731USQU3BYLD",
             "md5": "dc956a6ff807e3abb01b07d97fd75a61",
             "found_at": "2025-12-16T14:44:39.211527872+00:00"
+          },
+          {
+            "firmware": "S731USQS3AYL1/S731UOYN3AYL1/S731USQS3AYL1",
+            "md5": "b765aec8c258c5c067a988cfb5e8d2f8",
+            "found_at": "2025-12-17T10:35:11.834298209+00:00"
           }
         ]
       }
@@ -26428,7 +26433,7 @@
     "name": "Galaxy Tab Active5 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X308UUES7BYIB/X308UOYM7BYIB/X308UUES7BYIB",
+        "latest_official": "X308UUES8CYL1/X308UOYM8CYL1/X308UUES8CYL1",
         "test_firmwares": [
           {
             "firmware": "X308UUES7BYI1/X308UOYM7BYI1/X308UUES7BYI1",
@@ -26494,6 +26499,11 @@
             "firmware": "X308UUEU7CYJ5/X308UOYM7CYJ5/X308UUEU7CYJ5",
             "md5": "d469d9257947cd4838938805c874591e",
             "found_at": "2025-10-23T08:38:21.578753356+00:00"
+          },
+          {
+            "firmware": "X308UUES8CYL1/X308UOYM8CYL1/X308UUES8CYL1",
+            "md5": "a09f8c5b28c0f48d835a94be6e2024ab",
+            "found_at": "2025-12-17T10:37:29.283236936+00:00"
           }
         ]
       }

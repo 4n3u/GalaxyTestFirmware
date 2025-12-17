@@ -19013,7 +19013,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S921BXXSBCYK2/S921BOXMBCYK2/S921BXXSBCYK2",
+        "latest_official": "S921BXXSBCYK8/S921BOXMBCYK8/S921BXXSBCYK8",
         "test_firmwares": [
           {
             "firmware": "S921BXXS9CYI9/S921BOXM9CYI9/S921BXXS9CYI9",
@@ -19139,6 +19139,11 @@
             "firmware": "S921BXXUBDYL5/S921BOXMBDYL5/S921BXXUBDYL5",
             "md5": "a0d9608145338dcd175ddc3db403db06",
             "found_at": "2025-12-04T14:35:39.454973060+00:00"
+          },
+          {
+            "firmware": "S921BXXUBDYLD/S921BOXMBDYLD/S921BXXUBDYLD",
+            "md5": "2775e5c8b3373b5f7f33a7bf8ca51d9e",
+            "found_at": "2025-12-17T03:34:01.626841609+00:00"
           }
         ]
       }
@@ -19593,7 +19598,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S926BXXSBCYK2/S926BOXMBCYK2/S926BXXSBCYK2",
+        "latest_official": "S926BXXSBCYK8/S926BOXMBCYK8/S926BXXSBCYK8",
         "test_firmwares": [
           {
             "firmware": "S926BXXSACYJ1/S926BOXMACYJ1/S926BXXSACYJ1",
@@ -19694,6 +19699,11 @@
             "firmware": "S926BXXUBDYL5/S926BOXMBDYL5/S926BXXUBDYL5",
             "md5": "3928536946beb91256bc9deff9b7c217",
             "found_at": "2025-12-04T14:37:53.795029578+00:00"
+          },
+          {
+            "firmware": "S926BXXUBDYLD/S926BOXMBDYLD/S926BXXUBDYLD",
+            "md5": "2671e57764d8da4fb270686ea1bf6082",
+            "found_at": "2025-12-17T03:36:01.379349177+00:00"
           }
         ]
       }
@@ -20158,7 +20168,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S928BXXS4CYK2/S928BOXM4CYK2/S928BXXS4CYK2",
+        "latest_official": "S928BXXS4CYK8/S928BOXM4CYK8/S928BXXS4CYK8",
         "test_firmwares": [
           {
             "firmware": "S928BXXS4CYJ1/S928BOXM4CYJ1/S928BXXS4CYJ1",
@@ -20299,6 +20309,11 @@
             "firmware": "S928BXXU4DYL5/S928BOXM4DYL5/S928BXXU4DYL5",
             "md5": "240ff1662ab4992548f22872955a6182",
             "found_at": "2025-12-04T14:36:45.281874031+00:00"
+          },
+          {
+            "firmware": "S928BXXU4DYLD/S928BOXM4DYLD/S928BXXU4DYLD",
+            "md5": "e86ee63239cefebbefc6ef6d154e387e",
+            "found_at": "2025-12-17T03:34:59.733475607+00:00"
           }
         ]
       }

@@ -3878,7 +3878,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A556BXXSBCYK2/A556BOXMBCYK2/A556BXXSBCYK2",
+        "latest_official": "A556BXXSBCYL1/A556BOXMBCYL1/A556BXXSBCYL1",
         "test_firmwares": [
           {
             "firmware": "A556BXXSBCYJ1/A556BOXMBCYJ1/A556BXXSBCYJ1",
@@ -3959,6 +3959,11 @@
             "firmware": "A556BXXSBCYL1/A556BOXMBCYL1/A556BXXSBCYL1",
             "md5": "c62de864b4caf13a5f89353071fe455f",
             "found_at": "2025-12-04T10:37:56.228839901+00:00"
+          },
+          {
+            "firmware": "A556BXXUBDYL2/A556BOXMBDYL2/A556BXXUBDYL2",
+            "md5": "fbceedd517b21c4b38e59a0a65641f5c",
+            "found_at": "2025-12-17T13:03:22.637030058+00:00"
           }
         ]
       }

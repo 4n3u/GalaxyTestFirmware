@@ -13924,6 +13924,11 @@
             "firmware": "S721USQS8CYL4/S721UOYN8CYL4/S721USQS8CYL4",
             "md5": "4704e251d7e2229d84c19be85abc41fc",
             "found_at": "2025-12-05T08:42:15.286130296+00:00"
+          },
+          {
+            "firmware": "S721USQU8DYLB/S721UOYN8DYLB/S721USQU8DYLB",
+            "md5": "90b65ac6b64c3f01fab87706a8025b9f",
+            "found_at": "2025-12-17T08:44:41.834029492+00:00"
           }
         ]
       }
@@ -19384,6 +19389,11 @@
             "firmware": "S921USQU4DYL5/S921UOYN4DYL5/S921USQU4DYL5",
             "md5": "52f34d8d447abab7d418c1cccfa5060a",
             "found_at": "2025-12-10T08:44:20.550836365+00:00"
+          },
+          {
+            "firmware": "S921USQU4DYLD/S921UOYN4DYLD/S921USQU4DYLD",
+            "md5": "938b7746e9f6afcff6d3706282975d3f",
+            "found_at": "2025-12-17T08:43:42.245459695+00:00"
           }
         ]
       }
@@ -19949,6 +19959,11 @@
             "firmware": "S926USQU4DYL5/S926UOYN4DYL5/S926USQU4DYL5",
             "md5": "601648580f9fa8c6af619001bd63f93c",
             "found_at": "2025-12-10T08:46:46.573991844+00:00"
+          },
+          {
+            "firmware": "S926USQU4DYLD/S926UOYN4DYLD/S926USQU4DYLD",
+            "md5": "320c743f200a922751bbdc26749257cf",
+            "found_at": "2025-12-17T08:46:03.899653204+00:00"
           }
         ]
       }

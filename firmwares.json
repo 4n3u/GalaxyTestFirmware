@@ -14354,6 +14354,11 @@
             "firmware": "S731USQS3AYL1/S731UOYN3AYL1/S731USQS3AYL1",
             "md5": "b765aec8c258c5c067a988cfb5e8d2f8",
             "found_at": "2025-12-17T10:35:11.834298209+00:00"
+          },
+          {
+            "firmware": "S731USQS3AYL2/S731UOYN3AYL2/S731USQS3AYL2",
+            "md5": "46a4dfdcf02c7ab35fc0f7bf3b37327d",
+            "found_at": "2025-12-17T14:35:33.581488547+00:00"
           }
         ]
       }

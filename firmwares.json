@@ -7479,6 +7479,11 @@
             "firmware": "F766USQU6BYLD/F766UOYN6BYLD/F766USQU6BYLD",
             "md5": "199343da0efae47e920aff4e9f13b996",
             "found_at": "2025-12-16T12:59:41.949400657+00:00"
+          },
+          {
+            "firmware": "F766USQS6AYL3/F766UOYN6AYL3/F766USQS6AYL3",
+            "md5": "a834508a9a36b7cb66617696b62e5250",
+            "found_at": "2025-12-18T06:48:29.318430518+00:00"
           }
         ]
       }

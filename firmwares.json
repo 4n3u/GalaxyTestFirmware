@@ -3074,6 +3074,11 @@
             "firmware": "A366USQS4BYK3/A366UOYN4BYK3/A366USQS4BYK3",
             "md5": "d21fd93c2d68cadc629ae462f67c0f9c",
             "found_at": "2025-11-20T08:39:27.517331519+00:00"
+          },
+          {
+            "firmware": "A366USQU4CYL3/A366UOYN4CYL3/A366USQU4CYL3",
+            "md5": "ab05fa44810662709cbdc0215a158c6c",
+            "found_at": "2025-12-18T10:25:16.412351785+00:00"
           }
         ]
       }
@@ -11978,7 +11983,7 @@
     "name": "Galaxy S21 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G991U1UESHHYI2/G991U1OYMHHYI2/G991U1UESHHYI2",
+        "latest_official": "G991U1UESIHYL1/G991U1OYMIHYL1/G991U1UESIHYL1",
         "test_firmwares": [
           {
             "firmware": "G991U1UESHHYI1/G991U1OYMHHYI1/G991U1UESHHYI1",
@@ -11989,6 +11994,11 @@
             "firmware": "G991U1UESHHYI2/G991U1OYMHHYI2/G991U1UESHHYI2",
             "md5": "726a47c36c6dcfbafe9397cd38c8ed77",
             "found_at": "2025-10-18T03:28:39.897737+00:00"
+          },
+          {
+            "firmware": "G991U1UESIHYL1/G991U1OYMIHYL1/G991U1UESIHYL1",
+            "md5": "4d1b55dd7ada7b84de19a096c548852a",
+            "found_at": "2025-12-18T10:29:18.578410767+00:00"
           }
         ]
       }
@@ -12013,7 +12023,7 @@
     "name": "Galaxy S21+ 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G996U1UESHHYI2/G996U1OYMHHYI2/G996U1UESHHYI2",
+        "latest_official": "G996U1UESIHYL1/G996U1OYMIHYL1/G996U1UESIHYL1",
         "test_firmwares": [
           {
             "firmware": "G996U1UESHHYI1/G996U1OYMHHYI1/G996U1UESHHYI1",
@@ -12024,6 +12034,11 @@
             "firmware": "G996U1UESHHYI2/G996U1OYMHHYI2/G996U1UESHHYI2",
             "md5": "e75bb966603d99a1d9cea51f4108207d",
             "found_at": "2025-10-18T03:29:37.682844+00:00"
+          },
+          {
+            "firmware": "G996U1UESIHYL1/G996U1OYMIHYL1/G996U1UESIHYL1",
+            "md5": "fc60e10601f9287ec3489a0e55749d0b",
+            "found_at": "2025-12-18T10:30:37.429630633+00:00"
           }
         ]
       }
@@ -12048,7 +12063,7 @@
     "name": "Galaxy S21 Ultra 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G998U1UESHHYI2/G998U1OYMHHYI2/G998U1UESHHYI2",
+        "latest_official": "G998U1UESIHYL1/G998U1OYMIHYL1/G998U1UESIHYL1",
         "test_firmwares": [
           {
             "firmware": "G998U1UESHHYI1/G998U1OYMHHYI1/G998U1UESHHYI1",
@@ -12059,6 +12074,11 @@
             "firmware": "G998U1UESHHYI2/G998U1OYMHHYI2/G998U1UESHHYI2",
             "md5": "5faaf0aa6c55979d81b12ffee00931ab",
             "found_at": "2025-10-18T03:29:18.553852+00:00"
+          },
+          {
+            "firmware": "G998U1UESIHYL1/G998U1OYMIHYL1/G998U1UESIHYL1",
+            "md5": "13cfdaca5cf71bd614083311acb0201a",
+            "found_at": "2025-12-18T10:30:17.751086080+00:00"
           }
         ]
       }
@@ -21349,6 +21369,11 @@
             "firmware": "S931BXXU7ZYLD/S931BOXM7ZYLD/S931BXXU7CYLD",
             "md5": "8384b1bead8874094aef47bc8ec385e1",
             "found_at": "2025-12-16T13:00:49.628800129+00:00"
+          },
+          {
+            "firmware": "S931BXXS7BYLE/S931BOXM7BYLE/S931BXXS7BYLE",
+            "md5": "219097ed93d4d5c98c2a23e1eed73a20",
+            "found_at": "2025-12-18T10:36:56.149704947+00:00"
           }
         ]
       }
@@ -27433,7 +27458,7 @@
     "name": "Galaxy Tab S10 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X528USQU6BYI9/X528UOYN6BYI9/X528USQU6BYI9",
+        "latest_official": "X528USQS7BYL3/X528UOYN7BYL3/X528USQS7BYL3",
         "test_firmwares": [
           {
             "firmware": "X528USQU6BYI4/X528UOYN6BYI4/X528USQU6BYI4",
@@ -27469,6 +27494,16 @@
             "firmware": "X528USQU6BYJ1/X528UOYN6BYJ1/X528USQU6BYJ1",
             "md5": "928aa2f43e2db6cfa5f7406c4bac337c",
             "found_at": "2025-10-18T03:33:44.072175+00:00"
+          },
+          {
+            "firmware": "X528USQS7BYL1/X528UOYN7BYL1/X528USQS7BYL1",
+            "md5": "94cfa71bd549f13c2aff0bd9db393cab",
+            "found_at": "2025-12-18T10:35:53.182683216+00:00"
+          },
+          {
+            "firmware": "X528USQS7BYL3/X528UOYN7BYL3/X528USQS7BYL3",
+            "md5": "1bb07033829bc0298608fda351324fed",
+            "found_at": "2025-12-18T10:35:53.183502520+00:00"
           }
         ]
       }
@@ -27698,7 +27733,7 @@
     "name": "Galaxy Tab S10 FE+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X626BXXU4BYJ2/X626BOXM4BYJ2/X626BXXU4BYJ2",
+        "latest_official": "X626BXXS5BYL2/X626BOXM5BYL2/X626BXXS5BYL2",
         "test_firmwares": [
           {
             "firmware": "X626BXXU4BYG2/X626BOXM4BYG2/X626BXXU4BYG2",
@@ -27784,6 +27819,11 @@
             "firmware": "X626BXXS5BYK2/X626BOXM5BYK2/X626BXXS5BYK2",
             "md5": "1d1e3a34492fb412c9a825f9844fef00",
             "found_at": "2025-11-27T08:32:58.409475778+00:00"
+          },
+          {
+            "firmware": "X626BXXS5BYL2/X626BOXM5BYL2/X626BXXS5BYL2",
+            "md5": "cdd08f6c1390079b7f7cc809e9b3e8af",
+            "found_at": "2025-12-18T10:36:02.980810158+00:00"
           }
         ]
       }
@@ -29248,7 +29288,7 @@
     "name": "Galaxy Tab S10+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X828USQU4CYJ4/X828UOYN4CYJ4/X828USQU4CYJ4",
+        "latest_official": "X828USQS5CYL1/X828UOYN5CYL1/X828USQS5CYL1",
         "test_firmwares": [
           {
             "firmware": "X828USQU4CYG3/X828UOYN4CYG3/X828USQU4CYG3",
@@ -29334,6 +29374,11 @@
             "firmware": "X828USQS5CYK1/X828UOYN5CYK1/X828USQS5CYK1",
             "md5": "6db3c92fd166d9c51535fbc0453e0bd0",
             "found_at": "2025-12-01T04:54:58.363998866+00:00"
+          },
+          {
+            "firmware": "X828USQS5CYL1/X828UOYN5CYL1/X828USQS5CYL1",
+            "md5": "52f1c08d51586fb9adbe025f2f35d5c4",
+            "found_at": "2025-12-18T10:36:58.344301397+00:00"
           }
         ]
       }

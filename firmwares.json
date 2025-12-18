@@ -13124,6 +13124,11 @@
             "firmware": "S711BXXSCFYL1/S711BOXMCFYL1/S711BXXSCFYL1",
             "md5": "3c47daa9dd410ccd00e707688fb1a3b0",
             "found_at": "2025-12-03T12:55:28.476546775+00:00"
+          },
+          {
+            "firmware": "S711BXXUCGYLF/S711BOXMCGYLF/S711BXXUCGYLF",
+            "md5": "5c11db35a08826ee010d3c23a2066e14",
+            "found_at": "2025-12-18T14:33:28.354825634+00:00"
           }
         ]
       }
@@ -21644,6 +21649,11 @@
             "firmware": "S931NKSU7ZYLD/S931NOKR7ZYLD/S931NKSU7CYLD",
             "md5": "3084d23582ad2924698356755c97e268",
             "found_at": "2025-12-16T14:42:58.691420363+00:00"
+          },
+          {
+            "firmware": "S931NKSU7ZYLF/S931NOKR7ZYLF/S931NKSU7CYLD",
+            "md5": "a615258b73da360ac309915c91483fa9",
+            "found_at": "2025-12-18T14:37:40.331717097+00:00"
           }
         ]
       }
@@ -22769,6 +22779,11 @@
             "firmware": "S936NKSU7ZYLD/S936NOKR7ZYLD/S936NKSU7CYLD",
             "md5": "10a822616460570fd8fd106f97aff255",
             "found_at": "2025-12-16T13:03:48.490618911+00:00"
+          },
+          {
+            "firmware": "S936NKSU7ZYLF/S936NOKR7ZYLF/S936NKSU7CYLD",
+            "md5": "ce73d2dd575d183fda6178e3810a1867",
+            "found_at": "2025-12-18T14:40:02.570312890+00:00"
           }
         ]
       }
@@ -27188,7 +27203,7 @@
     "name": "Galaxy Tab S10 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X526BXXU4BYJ2/X526BOXM4BYJ2/X526BXXU4BYJ2",
+        "latest_official": "X526BXXS5BYL2/X526BOXM5BYL2/X526BXXS5BYL2",
         "test_firmwares": [
           {
             "firmware": "X526BXXU4BYG2/X526BOXM4BYG2/X526BXXU4BYG2",
@@ -27279,6 +27294,11 @@
             "firmware": "X526BXXS5BYK2/X526BOXM5BYK2/X526BXXS5BYK2",
             "md5": "fcc2f342aabef5d1237c0dfa6d4ef59c",
             "found_at": "2025-11-27T10:26:55.905985887+00:00"
+          },
+          {
+            "firmware": "X526BXXS5BYL2/X526BOXM5BYL2/X526BXXS5BYL2",
+            "md5": "a24e3cf8d431fde28a66303f096703d2",
+            "found_at": "2025-12-18T14:26:36.535735801+00:00"
           }
         ]
       }
@@ -27368,7 +27388,7 @@
     "name": "Galaxy Tab S10 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X526EXXU4BYJ2/X526EOXM4BYJ2/X526EXXU4BYJ2",
+        "latest_official": "X526EXXS5BYL2/X526EOXM5BYL2/X526EXXS5BYL2",
         "test_firmwares": [
           {
             "firmware": "X526EXXU4BYG3/X526EOXM4BYG3/X526EXXU4BYG3",
@@ -27454,6 +27474,11 @@
             "firmware": "X526EXXS5BYK2/X526EOXM5BYK2/X526EXXS5BYK2",
             "md5": "a8e039ead1008e4b8752c3fbef80d9b6",
             "found_at": "2025-11-27T10:27:07.468613911+00:00"
+          },
+          {
+            "firmware": "X526EXXS5BYL2/X526EOXM5BYL2/X526EXXS5BYL2",
+            "md5": "b00c513e0fb05ed8042676e2077a8998",
+            "found_at": "2025-12-18T14:26:48.110507296+00:00"
           }
         ]
       }

@@ -6283,7 +6283,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F741USQS2CYK2/F741UOYN2CYK2/F741USQS2CYK2",
+        "latest_official": "F741USQS2CYL1/F741UOYN2CYL1/F741USQS2CYL1",
         "test_firmwares": [
           {
             "firmware": "F741USQS2CYIB/F741UOYN2CYIB/F741USQS2CYIB",
@@ -6514,6 +6514,11 @@
             "firmware": "F741USQU2DYLB/F741UOYN2DYLB/F741USQU2DYLB",
             "md5": "f267d57027e84652fad178f4d25a20bc",
             "found_at": "2025-12-11T04:47:33.061003967+00:00"
+          },
+          {
+            "firmware": "F741USQS2CYL3/F741UOYN2CYL3/F741USQS2CYL3",
+            "md5": "e3dbb9516a431b02f040ec83b9c74a84",
+            "found_at": "2025-12-18T03:26:39.940421703+00:00"
           }
         ]
       }

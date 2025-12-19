@@ -14769,6 +14769,11 @@
             "firmware": "S901BXXSKGYL3/S901BOXMKGYL3/S901BXXSKGYL3",
             "md5": "0d6485fa7ca2558adf68a0bac8b42225",
             "found_at": "2025-12-08T12:50:29.344576363+00:00"
+          },
+          {
+            "firmware": "S901BXXUKHYLF/S901BOXMKHYLF/S901BXXUKHYLF",
+            "md5": "77696c0eb203935121a3fb4c5b277d1d",
+            "found_at": "2025-12-19T06:39:54.548109756+00:00"
           }
         ]
       }
@@ -15534,6 +15539,11 @@
             "firmware": "S906BXXSKGYL3/S906BOXMKGYL3/S906BXXSKGYL3",
             "md5": "d64be57c77652b31858310e5e109e269",
             "found_at": "2025-12-08T12:51:48.685000930+00:00"
+          },
+          {
+            "firmware": "S906BXXUKHYLF/S906BOXMKHYLF/S906BXXUKHYLF",
+            "md5": "e869b5a1301c9c54c20c9873b9e74a12",
+            "found_at": "2025-12-19T06:41:02.623873868+00:00"
           }
         ]
       }
@@ -16309,6 +16319,11 @@
             "firmware": "S908BXXSKGYL3/S908BOXMKGYL3/S908BXXSKGYL3",
             "md5": "3caa98cd2ad89f9adb7b70fd0a47f071",
             "found_at": "2025-12-08T12:51:10.999277949+00:00"
+          },
+          {
+            "firmware": "S908BXXUKHYLF/S908BOXMKHYLF/S908BXXUKHYLF",
+            "md5": "18e49187114a0721bcb9dead9fac7d5c",
+            "found_at": "2025-12-19T06:40:28.137978090+00:00"
           }
         ]
       }

@@ -19488,7 +19488,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S921U1UES4CYK2/S921U1OYM4CYK2/S921U1UES4CYK2",
+        "latest_official": "S921U1UES4CYL1/S921U1OYM4CYL1/S921U1UES4CYL1",
         "test_firmwares": [
           {
             "firmware": "S921U1UES4CYIB/S921U1OYM4CYIB/S921U1UES4CYIB",
@@ -19599,6 +19599,11 @@
             "firmware": "S921U1UES4CYL1/S921U1OYM4CYL1/S921U1UES4CYL1",
             "md5": "270be80446fa18c7f3d1f0c5d590ca2a",
             "found_at": "2025-12-04T12:58:44.370239580+00:00"
+          },
+          {
+            "firmware": "S921U1UEU4DYLD/S921U1OYM4DYLD/S921U1UEU4DYLD",
+            "md5": "d48df60f320da441d457327d6007ff4a",
+            "found_at": "2025-12-19T14:34:49.636489870+00:00"
           }
         ]
       }
@@ -20058,7 +20063,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S926U1UES4CYK2/S926U1OYM4CYK2/S926U1UES4CYK2",
+        "latest_official": "S926U1UES4CYL1/S926U1OYM4CYL1/S926U1UES4CYL1",
         "test_firmwares": [
           {
             "firmware": "S926U1UES4CYIB/S926U1OYM4CYIB/S926U1UES4CYIB",
@@ -20169,6 +20174,11 @@
             "firmware": "S926U1UES4CYL1/S926U1OYM4CYL1/S926U1UES4CYL1",
             "md5": "edf136be4e98fab9d646349da720aded",
             "found_at": "2025-12-04T13:00:54.534845971+00:00"
+          },
+          {
+            "firmware": "S926U1UEU4DYLD/S926U1OYM4DYLD/S926U1UEU4DYLD",
+            "md5": "0ee7ee6fc21babb458c23adadebc39af",
+            "found_at": "2025-12-19T14:37:23.453611972+00:00"
           }
         ]
       }
@@ -20848,7 +20858,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S928U1UES4CYK2/S928U1OYM4CYK2/S928U1UES4CYK2",
+        "latest_official": "S928U1UES4CYL1/S928U1OYM4CYL1/S928U1UES4CYL1",
         "test_firmwares": [
           {
             "firmware": "S928U1UES4CYIB/S928U1OYM4CYIB/S928U1UES4CYIB",
@@ -20959,6 +20969,11 @@
             "firmware": "S928U1UES4CYL1/S928U1OYM4CYL1/S928U1UES4CYL1",
             "md5": "9b0ec003a5ab403234f891f07e94892d",
             "found_at": "2025-12-04T13:00:22.775696919+00:00"
+          },
+          {
+            "firmware": "S928U1UEU4DYLD/S928U1OYM4DYLD/S928U1UEU4DYLD",
+            "md5": "ad39c89beddde6b35369e92a1a6f78ce",
+            "found_at": "2025-12-19T14:36:49.459216297+00:00"
           }
         ]
       }

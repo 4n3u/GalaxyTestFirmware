@@ -1318,7 +1318,7 @@
     "name": "Galaxy A16 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A166USQU3CYIC/A166UOYN3CYIC/A166USQU3CYIC",
+        "latest_official": "A166USQS4CYL1/A166UOYN4CYL1/A166USQS4CYL1",
         "test_firmwares": [
           {
             "firmware": "A166USQU3CYF6/A166UOYN3CYF6/A166USQU3CYF6",
@@ -1394,6 +1394,11 @@
             "firmware": "A166USQS3CYJ1/A166UOYN3CYJ1/A166USQS3CYJ1",
             "md5": "893e8e14b7068b6c186afaf21d7b6b3b",
             "found_at": "2025-10-23T12:45:10.034227553+00:00"
+          },
+          {
+            "firmware": "A166USQS4CYL1/A166UOYN4CYL1/A166USQS4CYL1",
+            "md5": "7770b0726eeb2996585146616cdb0695",
+            "found_at": "2025-12-22T10:27:25.300493018+00:00"
           }
         ]
       }

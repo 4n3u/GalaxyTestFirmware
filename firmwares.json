@@ -1388,7 +1388,7 @@
     "name": "Galaxy A16 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A166U1UEU3CYIC/A166U1OYM3CYIC/A166U1UEU3CYIC",
+        "latest_official": "A166U1UES4CYL1/A166U1OYM4CYL1/A166U1UES4CYL1",
         "test_firmwares": [
           {
             "firmware": "A166U1UES3BYF4/A166U1OYM3BYF4/A166U1UES3BYF4",
@@ -1459,6 +1459,11 @@
             "firmware": "A166U1UEU3CYIC/A166U1OYM3CYIC/A166U1UEU3CYIC",
             "md5": "094181d9b5c0f3ab4e8804b8896bfa65",
             "found_at": "2025-11-03T08:32:20.478212579+00:00"
+          },
+          {
+            "firmware": "A166U1UES4CYL1/A166U1OYM4CYL1/A166U1UES4CYL1",
+            "md5": "ffb9a7929e864af26686039c9322c6ee",
+            "found_at": "2025-12-22T06:40:32.181006388+00:00"
           }
         ]
       }
@@ -4043,7 +4048,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A566BXXS7BYK3/A566BOXM7BYK3/A566BXXS7BYK3",
+        "latest_official": "A566BXXS7BYL3/A566BOXM7BYL3/A566BXXS7BYL3",
         "test_firmwares": [
           {
             "firmware": "A566BXXU6BYGI/A566BOXM6BYGI/A566BXXU6BYGI",
@@ -4109,6 +4114,11 @@
             "firmware": "A566BXXU7CYL8/A566BOXM7CYL8/A566BXXU7CYL8",
             "md5": "a3d064361894de696076e14ffbcc96be",
             "found_at": "2025-12-09T12:59:54.702973427+00:00"
+          },
+          {
+            "firmware": "A566BXXU7BYLC/A566BOXM7BYLC/A566BXXU7BYLC",
+            "md5": "009594e2ab82f9d6b245623b5f1cb39e",
+            "found_at": "2025-12-22T06:51:48.348464590+00:00"
           }
         ]
       }
@@ -12498,7 +12508,7 @@
     "name": "Galaxy M53 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M536BXXUBGYJ4/M536BOXMBGYJ4/M536BXXUBGYJ4",
+        "latest_official": "M536BXXSCGYL2/M536BOXMCGYL2/M536BXXSCGYL2",
         "test_firmwares": [
           {
             "firmware": "M536BXXSBFYG1/M536BOXMBFYG1/M536BXXSBFYG1",
@@ -12564,6 +12574,16 @@
             "firmware": "M536BXXUBGYJ4/M536BOXMBGYJ4/M536BXXUBGYJ4",
             "md5": "e7e3c8ffade9b4eee9791a1c576fca65",
             "found_at": "2025-11-03T12:43:37.689946601+00:00"
+          },
+          {
+            "firmware": "M536BXXSCGYL1/M536BOXMCGYL1/M536BXXSCGYL1",
+            "md5": "e22676a9fa1c165220386e7d92688d3f",
+            "found_at": "2025-12-22T06:38:05.120061394+00:00"
+          },
+          {
+            "firmware": "M536BXXSCGYL2/M536BOXMCGYL2/M536BXXSCGYL2",
+            "md5": "2daa151a2edb40a88bb05a74ab204b0b",
+            "found_at": "2025-12-22T06:38:05.120782320+00:00"
           }
         ]
       }

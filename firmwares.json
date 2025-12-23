@@ -11404,6 +11404,11 @@
             "firmware": "G766BXXU4CYL2/G766BOXM4CYL2/G766BXXU4CYL2",
             "md5": "5d9bf5c8d6f6a38a64324a8e60412204",
             "found_at": "2025-12-17T16:42:46.424139820+00:00"
+          },
+          {
+            "firmware": "G766BXXU4CYL3/G766BOXM4CYL3/G766BXXU4CYL3",
+            "md5": "08349c6c5b70786d5eb8baaabe74033c",
+            "found_at": "2025-12-23T14:39:20.716050341+00:00"
           }
         ]
       }
@@ -29879,6 +29884,11 @@
             "firmware": "X828USQS5CYL1/X828UOYN5CYL1/X828USQS5CYL1",
             "md5": "52f1c08d51586fb9adbe025f2f35d5c4",
             "found_at": "2025-12-18T10:36:58.344301397+00:00"
+          },
+          {
+            "firmware": "X828USQU5DYL2/X828UOYN5DYL2/X828USQU5DYL2",
+            "md5": "03644cf09905ef9dd28cea8331ae74b5",
+            "found_at": "2025-12-23T14:36:58.418138654+00:00"
           }
         ]
       }

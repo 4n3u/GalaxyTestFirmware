@@ -17063,7 +17063,7 @@
     "name": "Galaxy S23",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S911BXXS8EYK2/S911BOXM8EYK2/S911BXXU8EYI5",
+        "latest_official": "S911BXXS8EYK5/S911BOXM8EYK5/S911BXXU8EYI5",
         "test_firmwares": [
           {
             "firmware": "S911BXXU8EYFB/S911BOXM8EYFB/S911BXXU8EYFB",
@@ -17309,6 +17309,11 @@
             "firmware": "S911BXXU8FYLB/S911BOXM8FYLB/S911BXXU8FYLB",
             "md5": "9cb251c325ccd52d73e2f6541757d7a1",
             "found_at": "2025-12-11T01:49:32.149915975+00:00"
+          },
+          {
+            "firmware": "S911BXXU8FYLJ/S911BOXM8FYLJ/S911BXXU8FYLJ",
+            "md5": "a0f23f9e24d805b421bb56de27774ffa",
+            "found_at": "2025-12-23T06:43:36.065293624+00:00"
           }
         ]
       }

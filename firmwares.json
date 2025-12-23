@@ -8628,7 +8628,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9460ZCU7FYI8/F9460CHC7FYI8/F9460ZCU7FYI8",
+        "latest_official": "F9460ZCS7FYL2/F9460CHC7FYL2/F9460ZCS7FYL2",
         "test_firmwares": [
           {
             "firmware": "F9460ZCS7FYJ1/F9460CHC7FYJ1/F9460ZCS7FYJ1",
@@ -8704,6 +8704,16 @@
             "firmware": "F9460ZCS7FYJ3/F9460CHC7FYJ3/F9460ZCS7FYJ3",
             "md5": "7ec34eb267dcbaca755f6098e5ada4ec",
             "found_at": "2025-10-23T04:35:33.126478935+00:00"
+          },
+          {
+            "firmware": "F9460ZCS7FYK2/F9460CHC7FYK2/F9460ZCS7FYK2",
+            "md5": "62fa0c3d340bfa556c9e2d0b5825c02c",
+            "found_at": "2025-12-23T04:49:57.881062805+00:00"
+          },
+          {
+            "firmware": "F9460ZCS7FYL2/F9460CHC7FYL2/F9460ZCS7FYL2",
+            "md5": "6038b0a7743a1431184d5d617f01d0f8",
+            "found_at": "2025-12-23T04:49:57.896187235+00:00"
           }
         ]
       }
@@ -27478,7 +27488,7 @@
     "name": "Galaxy Tab S10 FE 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X526CZCU4BYI7/X526CCHC4BYI7/X526CZCU4BYI7",
+        "latest_official": "X526CZCS5BYL2/X526CCHC5BYL2/X526CZCS5BYL2",
         "test_firmwares": [
           {
             "firmware": "X526CZCU4BYG3/X526CCHC4BYG3/X526CZCU4BYG3",
@@ -27549,6 +27559,11 @@
             "firmware": "X526CZCU4BYJ2/X526CCHC4BYJ2/X526CZCU4BYJ2",
             "md5": "2e80acb1cd044ae0a27d464b06f657f0",
             "found_at": "2025-10-18T03:33:35.095471+00:00"
+          },
+          {
+            "firmware": "X526CZCS5BYL2/X526CCHC5BYL2/X526CZCS5BYL2",
+            "md5": "85dbe4c65ef81dc9ab2cae74e0d6fe1c",
+            "found_at": "2025-12-23T04:46:50.219687696+00:00"
           }
         ]
       }
@@ -28033,7 +28048,7 @@
     "name": "Galaxy Tab S10 FE+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X626CZCU4BYI7/X626CCHC4BYI7/X626CZCU4BYI7",
+        "latest_official": "X626CZCS5BYL2/X626CCHC5BYL2/X626CZCS5BYL2",
         "test_firmwares": [
           {
             "firmware": "X626CZCU4BYG3/X626CCHC4BYG3/X626CZCU4BYG3",
@@ -28104,6 +28119,11 @@
             "firmware": "X626CZCU4BYJ2/X626CCHC4BYJ2/X626CZCU4BYJ2",
             "md5": "56ce1f99926ed0da8de6eee4acc2920b",
             "found_at": "2025-10-18T03:33:49.793584+00:00"
+          },
+          {
+            "firmware": "X626CZCS5BYL2/X626CCHC5BYL2/X626CZCS5BYL2",
+            "md5": "38d2a712ae510b7f7287c81e107194ab",
+            "found_at": "2025-12-23T04:47:17.046475765+00:00"
           }
         ]
       }

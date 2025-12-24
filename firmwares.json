@@ -28493,7 +28493,7 @@
     "name": "Galaxy Tab S8 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X706BXXU9EYJ4/X706BOXM9EYJ4/X706BXXU9EYJ4",
+        "latest_official": "X706BXXS9EYK1/X706BOXM9EYK1/X706BXXS9EYK1",
         "test_firmwares": [
           {
             "firmware": "X706BXXS9DYF1/X706BOXM9DYF1/X706BXXS9DYF1",
@@ -28694,6 +28694,11 @@
             "firmware": "X706BXXS9EYK1/X706BOXM9EYK1/X706BXXS9EYK1",
             "md5": "620e03fcc60bc711266c782e3ef26799",
             "found_at": "2025-11-26T06:45:36.368323045+00:00"
+          },
+          {
+            "firmware": "X706BXXU9EYL1/X706BOXM9EYL1/X706BXXU9EYL1",
+            "md5": "df3cb5d5c79e0b378d4688d74ab1c312",
+            "found_at": "2025-12-24T14:35:16.967814269+00:00"
           }
         ]
       }

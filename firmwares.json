@@ -26689,6 +26689,11 @@
             "firmware": "X216CZCU9EYL4/X216CCHC9EYL4/X216CZCU9EYKI",
             "md5": "847ba8f462d8effb3b6065aeb7ee2b2c",
             "found_at": "2025-12-08T06:37:17.813836817+00:00"
+          },
+          {
+            "firmware": "X216CZCU9EYLC/X216CCHC9EYLC/X216CZCU9EYLC",
+            "md5": "60027d165b1df1ec6b04918915f83f15",
+            "found_at": "2025-12-24T04:44:58.013706099+00:00"
           }
         ]
       }

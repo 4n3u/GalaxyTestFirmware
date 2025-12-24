@@ -11418,7 +11418,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G766USQS4BYK3/G766UOYN4BYK3/G766USQS4BYK3",
+        "latest_official": "G766USQS4BYL1/G766UOYN4BYL1/G766USQS4BYL1",
         "test_firmwares": [
           {
             "firmware": "G766USQS3AYI1/G766UOYN3AYI1/G766USQS3AYI1",
@@ -11474,6 +11474,11 @@
             "firmware": "G766USQS4BYL1/G766UOYN4BYL1/G766USQS4BYL1",
             "md5": "47189e6404e00ccdd1a668fdbae3bf2e",
             "found_at": "2025-12-02T14:39:44.461004587+00:00"
+          },
+          {
+            "firmware": "G766USQU4CYL3/G766UOYN4CYL3/G766USQU4CYL3",
+            "md5": "b3985abdfafc8976f185aaf2be8824bb",
+            "found_at": "2025-12-24T06:38:15.864141313+00:00"
           }
         ]
       }
@@ -14424,6 +14429,11 @@
             "firmware": "S731BXXU3BYLD/S731BOXM3BYLD/S731BXXU3BYLD",
             "md5": "1c592f8d8e6f088370ad95cea318054f",
             "found_at": "2025-12-16T13:02:12.737949865+00:00"
+          },
+          {
+            "firmware": "S731BXXU3BYLJ/S731BOXM3BYLJ/S731BXXU3BYLJ",
+            "md5": "50f8cd88b7c6ce879b6af37b8890ef8e",
+            "found_at": "2025-12-24T06:47:00.567156885+00:00"
           }
         ]
       }
@@ -14544,6 +14554,11 @@
             "firmware": "S731NKSU3BYLD/S731NOKR3BYLD/S731NKSU3BYLD",
             "md5": "713b1f5c15368016230374473aa4beb2",
             "found_at": "2025-12-16T13:02:20.775458557+00:00"
+          },
+          {
+            "firmware": "S731NKSU3BYLJ/S731NOKR3BYLJ/S731NKSU3BYLJ",
+            "md5": "6f6df0c3f8b4a4b02115ad212873aaae",
+            "found_at": "2025-12-24T06:47:07.726939655+00:00"
           }
         ]
       }
@@ -14669,6 +14684,11 @@
             "firmware": "S731USQS3AYL2/S731UOYN3AYL2/S731USQS3AYL2",
             "md5": "46a4dfdcf02c7ab35fc0f7bf3b37327d",
             "found_at": "2025-12-17T14:35:33.581488547+00:00"
+          },
+          {
+            "firmware": "S731USQU3BYLJ/S731UOYN3BYLJ/S731USQU3BYLJ",
+            "md5": "c139af4e25d2ef884326ce59a0522193",
+            "found_at": "2025-12-24T06:47:15.119881104+00:00"
           }
         ]
       }

@@ -283,7 +283,7 @@
     "name": "Galaxy A13",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A137FXXSAEYI1/A137FOXMAEYI1/A137FXXSAEYI1",
+        "latest_official": "A137FXXSBEYL1/A137FOXMBEYL1/A137FXXSBEYK3",
         "test_firmwares": [
           {
             "firmware": "A137FXXSAEYG1/A137FOXMAEYG1/A137FXXSAEYG1",
@@ -304,6 +304,36 @@
             "firmware": "A137FXXSAEYI2/A137FOXMAEYI2/A137FXXSAEYI2",
             "md5": "319180717f5f42aeeed1affd13f46156",
             "found_at": "2025-10-18T03:23:29.061385+00:00"
+          },
+          {
+            "firmware": "A137FXXSBEYK1/A137FOXMBEYK1/A137FXXSBEYK1",
+            "md5": "af9b049a678d64476cd1ea07021ff8f3",
+            "found_at": "2025-12-25T10:25:22.387166598+00:00"
+          },
+          {
+            "firmware": "A137FXXSBEYK2/A137FOXMBEYK2/A137FXXSBEYK2",
+            "md5": "cee6715262cf2e34f5fee122c277b1a9",
+            "found_at": "2025-12-25T10:25:22.387796366+00:00"
+          },
+          {
+            "firmware": "A137FXXSBEYK3/A137FOXMBEYK3/A137FXXSBEYK3",
+            "md5": "f5cfd136a31fc8d911b52d0d3fdd1a9b",
+            "found_at": "2025-12-25T10:25:22.390052326+00:00"
+          },
+          {
+            "firmware": "A137FXXSBEYL1/A137FOXMBEYL1/A137FXXSBEYK3",
+            "md5": "3bd3a2e233833af9f7048ca0963f6363",
+            "found_at": "2025-12-25T10:25:22.450521306+00:00"
+          },
+          {
+            "firmware": "A137FXXSBEYL3/A137FOXMBEYL3/A137FXXSBEYL3",
+            "md5": "232fc3d1ded1fdcbe71c1df073f742ad",
+            "found_at": "2025-12-25T10:25:22.452200967+00:00"
+          },
+          {
+            "firmware": "A137FXXSBEYL4/A137FOXMBEYL4/A137FXXSBEYL4",
+            "md5": "0bb29e2c24e57bf18e2ed5ce803cdad5",
+            "found_at": "2025-12-25T10:25:22.453735908+00:00"
           }
         ]
       }
@@ -823,7 +853,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A156BXXU7DYIA/A156BOXM7DYIA/A156BXXU7DYIA",
+        "latest_official": "A156BXXS8DYL3/A156BOXM8DYL3/A156BXXS8DYL3",
         "test_firmwares": [
           {
             "firmware": "A156BXXU7DYI4/A156BOXM7DYI4/A156BXXU7DYI4",
@@ -854,6 +884,11 @@
             "firmware": "A156BXXS7DYJ1/A156BOXM7DYJ1/A156BXXS7DYJ1",
             "md5": "717b07301540d992a32c83feb8e8d531",
             "found_at": "2025-10-23T08:31:59.763139189+00:00"
+          },
+          {
+            "firmware": "A156BXXS8DYL3/A156BOXM8DYL3/A156BXXS8DYL3",
+            "md5": "590f449ebdf2bf2e8d4dc1c9644dfe55",
+            "found_at": "2025-12-25T10:27:23.393913387+00:00"
           }
         ]
       }

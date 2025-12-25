@@ -1319,6 +1319,11 @@
             "firmware": "A166BXXU5DYLD/A166BOXM5DYLD/A166BXXU5DYLD",
             "md5": "e7a42a09e54de01184a0698bc16072fb",
             "found_at": "2025-12-23T12:48:48.120518196+00:00"
+          },
+          {
+            "firmware": "A166BXXU5DYLJ/A166BOXM5DYLJ/A166BXXU5DYLJ",
+            "md5": "2b9c533df96829586d58f5cb324d4b68",
+            "found_at": "2025-12-25T04:41:48.158456819+00:00"
           }
         ]
       }

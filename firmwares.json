@@ -2039,6 +2039,11 @@
             "firmware": "A256BXXS9DYK2/A256BOXM9DYK2/A256BXXS9DYK2",
             "md5": "5f64f491f38d747c00e1fad3c9f375b0",
             "found_at": "2025-11-20T12:47:15.256404990+00:00"
+          },
+          {
+            "firmware": "A256BXXU9EYL2/A256BOXM9EYL2/A256BXXU9EYL2",
+            "md5": "e9fd41b9ee0620d8c63bdb2859f5002b",
+            "found_at": "2025-12-25T03:33:32.954481200+00:00"
           }
         ]
       }

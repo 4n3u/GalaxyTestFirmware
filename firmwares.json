@@ -4124,6 +4124,11 @@
             "firmware": "A556BXXSCCYL3/A556BOXMCCYL3/A556BXXSCCYL3",
             "md5": "339df8ab9e9b2563d1cbee0652d1bf15",
             "found_at": "2025-12-22T14:37:43.252855791+00:00"
+          },
+          {
+            "firmware": "A556BXXUCDYL4/A556BOXMCDYL4/A556BXXUCDYL4",
+            "md5": "8b47281685b72879fc00c67a17f708bf",
+            "found_at": "2025-12-26T14:39:11.857681325+00:00"
           }
         ]
       }

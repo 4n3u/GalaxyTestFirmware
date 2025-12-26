@@ -2768,7 +2768,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A356USQS6CYJ1/A356UOYN6CYJ1/A356USQS6CYJ1",
+        "latest_official": "A356USQS7CYK3/A356UOYN7CYK3/A356USQS7CYK3",
         "test_firmwares": [
           {
             "firmware": "A356USQU6CYG6/A356UOYN6CYG6/A356USQU6CYG6",
@@ -2859,6 +2859,11 @@
             "firmware": "A356USQS7CYK2/A356UOYN7CYK2/A356USQS7CYK2",
             "md5": "ead2458748490b3abca35c5d57f824db",
             "found_at": "2025-11-26T10:30:44.102724983+00:00"
+          },
+          {
+            "firmware": "A356USQU7DYL1/A356UOYN7DYL1/A356USQU7DYL1",
+            "md5": "77714d887272eb90513623ea5c66b572",
+            "found_at": "2025-12-26T08:39:51.908287146+00:00"
           }
         ]
       }
@@ -12573,7 +12578,7 @@
     "name": "Galaxy M33 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M336BXXSDGYJ2/M336BOXMDGYI6/M336BXXUDGYI6",
+        "latest_official": "M336BXXSEGYK3/M336BOXMEGYK3/M336BXXSEGYK3",
         "test_firmwares": [
           {
             "firmware": "M336BXXSDFYG2/M336BOXMDFYG2/M336BXXSDFYG2",
@@ -12634,6 +12639,11 @@
             "firmware": "M336BXXSEGYK3/M336BOXMEGYK3/M336BXXSEGYK3",
             "md5": "5093a7c030f2ad2ccbc6454fbe1221b4",
             "found_at": "2025-11-20T10:24:07.691766257+00:00"
+          },
+          {
+            "firmware": "M336BXXUEGYL1/M336BOXMEGYL1/M336BXXUEGYL1",
+            "md5": "b3ecfc024858d24d7808ca1224ce2897",
+            "found_at": "2025-12-26T08:30:11.566645577+00:00"
           }
         ]
       },
@@ -14378,7 +14388,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S721U1UES8CYK3/S721U1OYM8CYK3/S721U1UES8CYK3",
+        "latest_official": "S721U1UES8CYL3/S721U1OYM8CYL3/S721U1UES8CYL3",
         "test_firmwares": [
           {
             "firmware": "S721U1UES7CYJ2/S721U1OYM7CYJ2/S721U1UES7CYJ2",
@@ -14444,6 +14454,11 @@
             "firmware": "S721U1UES8CYL3/S721U1OYM8CYL3/S721U1UES8CYL3",
             "md5": "5a206f646a50feddd84d395788fd0530",
             "found_at": "2025-12-05T12:57:41.170499597+00:00"
+          },
+          {
+            "firmware": "S721U1UEU8DYLJ/S721U1OYM8DYLJ/S721U1UEU8DYLJ",
+            "md5": "06e4bf3863de94c730c17db264c27912",
+            "found_at": "2025-12-26T08:43:33.181829700+00:00"
           }
         ]
       }

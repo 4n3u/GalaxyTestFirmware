@@ -6729,6 +6729,11 @@
             "firmware": "F741USQU2DYLJ/F741UOYN2DYLJ/F741USQU2DYLJ",
             "md5": "cac917b8c8f6a6da83586f9eda5ccefa",
             "found_at": "2025-12-23T08:45:17.873041016+00:00"
+          },
+          {
+            "firmware": "F741USQS2CYL4/F741UOYN2CYL4/F741USQS2CYL4",
+            "md5": "d7fe74486039d02d5e1e06f410332881",
+            "found_at": "2025-12-26T04:44:54.809358753+00:00"
           }
         ]
       }

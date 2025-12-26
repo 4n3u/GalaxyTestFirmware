@@ -14218,7 +14218,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S721USQS8CYK3/S721UOYN8CYK3/S721USQS8CYK3",
+        "latest_official": "S721USQS8CYL3/S721UOYN8CYL3/S721USQS8CYL3",
         "test_firmwares": [
           {
             "firmware": "S721USQS7CYJ2/S721UOYN7CYJ2/S721USQS7CYJ2",
@@ -14364,6 +14364,11 @@
             "firmware": "S721USQU8DYLB/S721UOYN8DYLB/S721USQU8DYLB",
             "md5": "90b65ac6b64c3f01fab87706a8025b9f",
             "found_at": "2025-12-17T08:44:41.834029492+00:00"
+          },
+          {
+            "firmware": "S721USQU8DYLJ/S721UOYN8DYLJ/S721USQU8DYLJ",
+            "md5": "005e8acfa70c19c7162017324a490b87",
+            "found_at": "2025-12-26T06:46:56.161856362+00:00"
           }
         ]
       }
@@ -21869,6 +21874,11 @@
             "firmware": "S931BXXU7ZYLJ/S931BOXM7ZYLJ/S931BXXU7CYLJ",
             "md5": "02d98a0c6331d91db045c261927c578a",
             "found_at": "2025-12-23T10:39:14.800889334+00:00"
+          },
+          {
+            "firmware": "S931BXXS7BYLK/S931BOXM7BYLK/S931BXXS7BYLE",
+            "md5": "8e577e850b5f665bf2e5516fbda784ca",
+            "found_at": "2025-12-26T06:48:47.682729494+00:00"
           }
         ]
       }

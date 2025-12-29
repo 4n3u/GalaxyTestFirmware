@@ -12854,6 +12854,11 @@
             "firmware": "M356BXXU5CYI8/M356BOXM5CYI8/M356BXXU5CYI8",
             "md5": "c72c5b5482ab83f38ca0a29fb2ed2979",
             "found_at": "2025-10-29T10:23:48.506194907+00:00"
+          },
+          {
+            "firmware": "M356BXXS6CZA1/M356BOXM6CZA1/M356BXXS6CZA1",
+            "md5": "f23dd963b8caa6f8d7e49ee804ef439f",
+            "found_at": "2025-12-29T08:34:03.766044130+00:00"
           }
         ]
       }

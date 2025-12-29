@@ -4279,6 +4279,11 @@
             "firmware": "A566BXXU7CYLJ/A566BOXM7CYLJ/A566BXXU7CYLJ",
             "md5": "dee6e277e9c25b7b1563b2d4a1200e80",
             "found_at": "2025-12-23T10:30:14.351983855+00:00"
+          },
+          {
+            "firmware": "A566BXXU8BYLM/A566BOXM8BYLM/A566BXXU8BYLM",
+            "md5": "5151ac586de9493b5cd72da96c440014",
+            "found_at": "2025-12-29T12:59:19.188066627+00:00"
           }
         ]
       }
@@ -24419,6 +24424,11 @@
             "firmware": "S937NKSU4CYLJ/S937NOKR4CYLJ/S937NKSU4CYLJ",
             "md5": "10f03886a28311587a51fab4e603dbf3",
             "found_at": "2025-12-23T08:46:13.729309081+00:00"
+          },
+          {
+            "firmware": "S937NKSU4CYLL/S937NOKR4CYLL/S937NKSU4CYLL",
+            "md5": "fed1512a63d52296c3f78956c629b486",
+            "found_at": "2025-12-29T12:56:46.282861758+00:00"
           }
         ]
       }

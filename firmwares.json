@@ -12953,7 +12953,7 @@
     "name": "Galaxy M55 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M556EXXU4CYJ4/M556EOXM4CYJ4/M556EXXU4CYJ4",
+        "latest_official": "M556EXXS4CYL1/M556EOXM4CYL1/M556EXXS4CYL1",
         "test_firmwares": [
           {
             "firmware": "M556EXXS4BYH2/M556EOXM4BYH2/M556EXXS4BYH2",
@@ -13114,6 +13114,11 @@
             "firmware": "M556EXXU4CYJ4/M556EOXM4CYJ4/M556EXXU4CYJ4",
             "md5": "06282279b20ad4e91c478028ff921964",
             "found_at": "2025-10-30T12:43:07.168104511+00:00"
+          },
+          {
+            "firmware": "M556EXXS4CYL1/M556EOXM4CYL1/M556EXXS4CYL1",
+            "md5": "3f1727bd133ad3bc55f9ee97e11c01b2",
+            "found_at": "2025-12-29T10:26:19.130809518+00:00"
           }
         ]
       }

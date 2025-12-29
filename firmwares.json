@@ -1228,7 +1228,7 @@
     "name": "Galaxy A16 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A1660ZHU4CYI8/A1660OZS4CYI8/A1660ZHU4CYI8",
+        "latest_official": "A1660ZHS5CYL1/A1660OZS5CYL1/A1660ZHS5CYL1",
         "test_firmwares": [
           {
             "firmware": "A1660ZHU4CYG3/A1660OZS4CYG3/A1660ZHU4CYG3",
@@ -1289,6 +1289,11 @@
             "firmware": "A1660ZHS4CYJ1/A1660OZS4CYJ1/A1660ZHS4CYJ1",
             "md5": "1b00cadd8139291dcf1e3e6ff59c79c5",
             "found_at": "2025-10-23T08:32:25.995043402+00:00"
+          },
+          {
+            "firmware": "A1660ZHS5CYL1/A1660OZS5CYL1/A1660ZHS5CYL1",
+            "md5": "eb318f2e85994b59041c864aabb3d475",
+            "found_at": "2025-12-29T04:53:59.039123661+00:00"
           }
         ]
       }

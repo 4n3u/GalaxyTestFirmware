@@ -21784,6 +21784,11 @@
             "firmware": "S928U1UEU4DYLD/S928U1OYM4DYLD/S928U1UEU4DYLD",
             "md5": "ad39c89beddde6b35369e92a1a6f78ce",
             "found_at": "2025-12-19T14:36:49.459216297+00:00"
+          },
+          {
+            "firmware": "S928U1UEU4DYLL/S928U1OYM4DYLL/S928U1UEU4DYLL",
+            "md5": "ea068e99848ebc75f41a9fc2d2ec5c4d",
+            "found_at": "2025-12-30T16:40:05.712328935+00:00"
           }
         ]
       }

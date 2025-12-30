@@ -7284,6 +7284,11 @@
             "firmware": "F761NKSU7BYLL/F761NOKR7BYLL/F761NKSU7BYLL",
             "md5": "fd6135319b74faae5529dc61f4f807fe",
             "found_at": "2025-12-29T16:30:51.870405325+00:00"
+          },
+          {
+            "firmware": "F761NKSS7AYLS/F761NOKR7AYLS/F761NKSS7AYLS",
+            "md5": "0733cd0fc1f86145c72b61b3ae557d2e",
+            "found_at": "2025-12-30T06:38:32.845377568+00:00"
           }
         ]
       }

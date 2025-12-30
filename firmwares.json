@@ -803,7 +803,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A1560ZHU6DYIA/A1560OZS6DYIA/A1560ZHU6DYIA",
+        "latest_official": "A1560ZHS7DYL3/A1560OZS7DYL3/A1560ZHS7DYL3",
         "test_firmwares": [
           {
             "firmware": "A1560ZHU6DYH3/A1560OZS6DYH3/A1560ZHU6DYH3",
@@ -854,6 +854,11 @@
             "firmware": "A1560ZHS6DYJ1/A1560OZS6DYJ1/A1560ZHS6DYJ1",
             "md5": "69587758b8aeb25c4722504976328599",
             "found_at": "2025-10-23T10:24:36.505053022+00:00"
+          },
+          {
+            "firmware": "A1560ZHS7DYL3/A1560OZS7DYL3/A1560ZHS7DYL3",
+            "md5": "85152c56a24717e303610849a9b30695",
+            "found_at": "2025-12-30T04:43:10.131466142+00:00"
           }
         ]
       }
@@ -6514,6 +6519,11 @@
             "firmware": "F741NKSU2DYLJ/F741NOKR2DYLJ/F741NKSU2DYLJ",
             "md5": "9157749d272205d0eb4c0781f403fb4c",
             "found_at": "2025-12-23T10:37:52.274278203+00:00"
+          },
+          {
+            "firmware": "F741NKSU2DYLL/F741NOKR2DYLL/F741NKSU2DYLL",
+            "md5": "fd691e036207981d2ad0d705be05ba66",
+            "found_at": "2025-12-30T04:53:32.650737849+00:00"
           }
         ]
       }
@@ -9934,6 +9944,11 @@
             "firmware": "F956NKSU2DYLJ/F956NOKR2DYLJ/F956NKSU2DYLJ",
             "md5": "1f9f6ef6a98c4a623b6199a8f551b156",
             "found_at": "2025-12-23T08:47:23.501193912+00:00"
+          },
+          {
+            "firmware": "F956NKSU2DYLL/F956NOKR2DYLL/F956NKSU2DYLL",
+            "md5": "fcade871b1949eb7588aef7373a72a73",
+            "found_at": "2025-12-30T04:54:24.486475118+00:00"
           }
         ]
       }
@@ -10559,6 +10574,11 @@
             "firmware": "F958NKSU2DYLJ/F958NOKR2DYLJ/F958NKSU2DYLJ",
             "md5": "bd24bb5418c88d846ef49157ec34fe88",
             "found_at": "2025-12-23T10:39:02.656776079+00:00"
+          },
+          {
+            "firmware": "F958NKSU2DYLL/F958NOKR2DYLL/F958NKSU2DYLL",
+            "md5": "27800c0edf0a3fdb7af25ff600f0291c",
+            "found_at": "2025-12-30T04:54:23.288850175+00:00"
           }
         ]
       }
@@ -12448,12 +12468,17 @@
     "name": "Galaxy S21 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "G9910ZCSEHYI1/G9910CHCEHYI1/G9910ZCSEHYI1",
+        "latest_official": "G9910ZCSFHYL1/G9910CHCFHYL1/G9910ZCSFHYL1",
         "test_firmwares": [
           {
             "firmware": "G9910ZCSEHYI1/G9910CHCEHYI1/G9910ZCSEHYI1",
             "md5": "46228dc152c1ca28589cb82cd311e6b8",
             "found_at": "2025-10-18T03:32:56.594658+00:00"
+          },
+          {
+            "firmware": "G9910ZCSFHYL1/G9910CHCFHYL1/G9910ZCSFHYL1",
+            "md5": "1c7428a5fa2068dfbde881ab5608896d",
+            "found_at": "2025-12-30T04:45:07.322541155+00:00"
           }
         ]
       }
@@ -12488,12 +12513,17 @@
     "name": "Galaxy S21+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "G9960ZCSEHYI1/G9960CHCEHYI1/G9960ZCSEHYI1",
+        "latest_official": "G9960ZCSFHYL1/G9960CHCFHYL1/G9960ZCSFHYL1",
         "test_firmwares": [
           {
             "firmware": "G9960ZCSEHYI1/G9960CHCEHYI1/G9960ZCSEHYI1",
             "md5": "65d1254cb66afb600e3076b1b03b4ab2",
             "found_at": "2025-10-18T03:29:31.846310+00:00"
+          },
+          {
+            "firmware": "G9960ZCSFHYL1/G9960CHCFHYL1/G9960ZCSFHYL1",
+            "md5": "97a464175bc523728e2d1180922816b3",
+            "found_at": "2025-12-30T04:46:31.853307287+00:00"
           }
         ]
       }
@@ -12528,12 +12558,17 @@
     "name": "Galaxy S21 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "G9980ZCSEHYI1/G9980CHCEHYI1/G9980ZCSEHYI1",
+        "latest_official": "G9980ZCSFHYL1/G9980CHCFHYL1/G9980ZCSFHYL1",
         "test_firmwares": [
           {
             "firmware": "G9980ZCSEHYI1/G9980CHCEHYI1/G9980ZCSEHYI1",
             "md5": "3b3e7030256be454e49f3fae8cf9a7e0",
             "found_at": "2025-10-18T03:29:12.861693+00:00"
+          },
+          {
+            "firmware": "G9980ZCSFHYL1/G9980CHCFHYL1/G9980ZCSFHYL1",
+            "md5": "e4af7d74d64ec9050cfa0deff5b9eccf",
+            "found_at": "2025-12-30T04:46:08.684039241+00:00"
           }
         ]
       }

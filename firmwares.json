@@ -1019,6 +1019,11 @@
             "firmware": "A156USQS8DYL5/A156UOYN8DYL5/A156USQS8DYL5",
             "md5": "6fe4b479e033c5758e6be94166678036",
             "found_at": "2025-12-22T08:34:50.599770962+00:00"
+          },
+          {
+            "firmware": "A156USQU8EYLL/A156UOYN8EYLL/A156USQU8EYLL",
+            "md5": "66940f448a41a0468783a2aba24dea7b",
+            "found_at": "2025-12-31T08:33:38.250297260+00:00"
           }
         ]
       }

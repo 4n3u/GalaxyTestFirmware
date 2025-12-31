@@ -5938,7 +5938,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F731U1UES6FYK2/F731U1OYM6FYK2/F731U1UES6FYK2",
+        "latest_official": "F731U1UES6FYK3/F731U1OYM6FYK3/F731U1UES6FYK3",
         "test_firmwares": [
           {
             "firmware": "F731U1UES6FYJ1/F731U1OYM6FYJ1/F731U1UES6FYJ1",
@@ -6044,6 +6044,11 @@
             "firmware": "F731U1UES6FYK3/F731U1OYM6FYK3/F731U1UES6FYK3",
             "md5": "44c9a95851be2db83b0aa3a6b75b8cd2",
             "found_at": "2025-11-27T06:38:46.391197186+00:00"
+          },
+          {
+            "firmware": "F731U1UEU6GYLL/F731U1OYM6GYLL/F731U1UEU6GYLL",
+            "md5": "d5150a29007852fdb38f189c48810936",
+            "found_at": "2025-12-31T10:42:04.999674878+00:00"
           }
         ]
       }
@@ -9378,7 +9383,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F946U1UES6FYK2/F946U1OYM6FYK2/F946U1UES6FYK2",
+        "latest_official": "F946U1UES6FYL1/F946U1OYM6FYL1/F946U1UES6FYL1",
         "test_firmwares": [
           {
             "firmware": "F946U1UES6FYJ1/F946U1OYM6FYJ1/F946U1UES6FYJ1",
@@ -9489,6 +9494,11 @@
             "firmware": "F946U1UES6FYL1/F946U1OYM6FYL1/F946U1UES6FYL1",
             "md5": "0ffc472fd49d57c1e100c72b1752bd9c",
             "found_at": "2025-12-09T10:40:35.815842507+00:00"
+          },
+          {
+            "firmware": "F946U1UEU6GYLL/F946U1OYM6GYLL/F946U1UEU6GYLL",
+            "md5": "7664f2853492bc4e332455d499a97b8e",
+            "found_at": "2025-12-31T10:42:53.797909657+00:00"
           }
         ]
       }
@@ -15824,6 +15834,11 @@
             "firmware": "S901USQU8HYLJ/S901UOYN8HYLJ/S901USQU8HYLJ",
             "md5": "dbcbc2d3820f2c1c596ad3890b80d992",
             "found_at": "2025-12-24T12:51:09.997023060+00:00"
+          },
+          {
+            "firmware": "S901USQU8HYLL/S901UOYN8HYLL/S901USQU8HYLL",
+            "md5": "3b16f6004282ebb844513085cbe40638",
+            "found_at": "2025-12-31T10:32:05.681518935+00:00"
           }
         ]
       }
@@ -16604,6 +16619,11 @@
             "firmware": "S906USQU8HYLJ/S906UOYN8HYLJ/S906USQU8HYLJ",
             "md5": "09f06055ab8ded8f602146d11da86fc8",
             "found_at": "2025-12-24T12:52:39.285713168+00:00"
+          },
+          {
+            "firmware": "S906USQU8HYLL/S906UOYN8HYLL/S906USQU8HYLL",
+            "md5": "1ff581b42a65ed6c301bd214c592e611",
+            "found_at": "2025-12-31T10:33:31.593175915+00:00"
           }
         ]
       }
@@ -17399,6 +17419,11 @@
             "firmware": "S908USQU8HYLJ/S908UOYN8HYLJ/S908USQU8HYLJ",
             "md5": "fb9253acfb19d0ab33144e2aa4cedd68",
             "found_at": "2025-12-24T12:51:55.890125775+00:00"
+          },
+          {
+            "firmware": "S908USQU8HYLL/S908UOYN8HYLL/S908USQU8HYLL",
+            "md5": "4e51ecf693f71deee702e3282d003cac",
+            "found_at": "2025-12-31T10:32:47.849120576+00:00"
           }
         ]
       }
@@ -20738,7 +20763,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S926USQS4CYK2/S926UOYN4CYK2/S926USQS4CYK2",
+        "latest_official": "S926USQS4CYL1/S926UOYN4CYL1/S926USQS4CYL1",
         "test_firmwares": [
           {
             "firmware": "S926USQS4CYIB/S926UOYN4CYIB/S926USQS4CYIB",
@@ -20874,6 +20899,11 @@
             "firmware": "S926USQU4DYLD/S926UOYN4DYLD/S926USQU4DYLD",
             "md5": "320c743f200a922751bbdc26749257cf",
             "found_at": "2025-12-17T08:46:03.899653204+00:00"
+          },
+          {
+            "firmware": "S926USQU4DYLL/S926UOYN4DYLL/S926USQU4DYLL",
+            "md5": "2cff125713d4128be37fc8e291b3c3b1",
+            "found_at": "2025-12-31T10:40:19.677061155+00:00"
           }
         ]
       }
@@ -20999,6 +21029,11 @@
             "firmware": "S926U1UEU4DYLD/S926U1OYM4DYLD/S926U1UEU4DYLD",
             "md5": "0ee7ee6fc21babb458c23adadebc39af",
             "found_at": "2025-12-19T14:37:23.453611972+00:00"
+          },
+          {
+            "firmware": "S926U1UEU4DYLL/S926U1OYM4DYLL/S926U1UEU4DYLL",
+            "md5": "b877bab0cd6a5cf5540b9fc023cf44ae",
+            "found_at": "2025-12-31T10:40:28.861745550+00:00"
           }
         ]
       }

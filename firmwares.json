@@ -4314,6 +4314,11 @@
             "firmware": "A566BXXU8BYLO/A566BOXM8BYLO/A566BXXU8BYLO",
             "md5": "f095b8cddf0ce49d815d36dcfce5b9ab",
             "found_at": "2025-12-30T10:41:00.827505987+00:00"
+          },
+          {
+            "firmware": "A566BXXU8BYLP/A566BOXM8BYLP/A566BXXU8BYLP",
+            "md5": "901d6452b49018abd5bf473096452db8",
+            "found_at": "2025-12-31T03:40:40.797327572+00:00"
           }
         ]
       }

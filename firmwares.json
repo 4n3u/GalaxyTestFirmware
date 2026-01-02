@@ -11799,6 +11799,11 @@
             "firmware": "G766BXXU4CYL3/G766BOXM4CYL3/G766BXXU4CYL3",
             "md5": "08349c6c5b70786d5eb8baaabe74033c",
             "found_at": "2025-12-23T14:39:20.716050341+00:00"
+          },
+          {
+            "firmware": "G766BXXS5BZA1/G766BOXM5BZA1/G766BXXS5BZA1",
+            "md5": "3655a4598670ce86c78a0e5fadf7ca48",
+            "found_at": "2026-01-02T12:53:35.656855317+00:00"
           }
         ]
       }

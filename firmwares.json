@@ -15004,6 +15004,11 @@
             "firmware": "S731NKSU4BYLL/S731NOKR4BYLL/S731NKSU4BYLL",
             "md5": "ce99a4d4f5689bcfca63f4ec9c04726f",
             "found_at": "2025-12-29T14:36:21.083622134+00:00"
+          },
+          {
+            "firmware": "S731NKSS4AYL3/S731NOKR4AYL3/S731NKSS4AYL3",
+            "md5": "ca4b4dcff62a2010e71480c8f49c3146",
+            "found_at": "2026-01-02T04:55:13.680974898+00:00"
           }
         ]
       }

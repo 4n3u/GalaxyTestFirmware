@@ -3159,6 +3159,11 @@
             "firmware": "A366BXXU6CYL4/A366BOXM6CYL4/A366BXXU6CYL4",
             "md5": "6e7b734c6522a7b9dfccc2147c2361e8",
             "found_at": "2025-12-23T10:25:31.846440009+00:00"
+          },
+          {
+            "firmware": "A366BXXS7BZA1/A366BOXM7BZA1/A366BXXS7BZA1",
+            "md5": "dffdb4896b476dd6de071291f3e0d151",
+            "found_at": "2026-01-02T14:27:39.944717064+00:00"
           }
         ]
       }

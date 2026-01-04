@@ -25038,7 +25038,7 @@
     "name": "Galaxy S25 Edge",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S937USQS4BYJ5/S937UOYN4BYJ5/S937USQS4BYJ5",
+        "latest_official": "S937USQS4BYJ9/S937UOYN4BYJ9/S937USQS4BYJ9",
         "test_firmwares": [
           {
             "firmware": "S937USQS2BYI7/S937UOYN2BYI7/S937USQS2BYI7",
@@ -25184,6 +25184,11 @@
             "firmware": "S937USQS4BYJ9/S937UOYN4BYJ9/S937USQS4BYJ9",
             "md5": "8ed8e143e49395e649c000e30fc6a9e5",
             "found_at": "2025-12-04T04:43:06.635179950+00:00"
+          },
+          {
+            "firmware": "S937USQU4CZA1/S937UOYN4CZA1/S937USQU4CZA1",
+            "md5": "b0f4f819bb45266cd6db7528ec586d18",
+            "found_at": "2026-01-04T10:36:52.234245735+00:00"
           }
         ]
       }

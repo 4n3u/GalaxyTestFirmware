@@ -1959,6 +1959,11 @@
             "firmware": "A236U1UESCEYJ2/A236U1OYMCEYJ2/A236U1UESCEYJ2",
             "md5": "d52bfb51d0d73a01943fbbcc6aa2c0d5",
             "found_at": "2025-10-30T14:26:20.126892984+00:00"
+          },
+          {
+            "firmware": "A236U1UESDEZA1/A236U1OYMDEZA1/A236U1UESDEZA1",
+            "md5": "42b9382549848b7e42c329a1b9452e28",
+            "found_at": "2026-01-05T06:45:20.104426699+00:00"
           }
         ]
       }
@@ -6864,6 +6869,11 @@
             "firmware": "F741USQU2DYLL/F741UOYN2DYLL/F741USQU2DYLL",
             "md5": "c130b0a6bbcd2167a0f751d487b312f2",
             "found_at": "2025-12-30T01:56:36.678584885+00:00"
+          },
+          {
+            "firmware": "F741USQS2CYL5/F741UOYN2CYL5/F741USQS2CYL5",
+            "md5": "18e0337bb105eb2be550878b2e665935",
+            "found_at": "2026-01-05T06:54:46.244371800+00:00"
           }
         ]
       }
@@ -10359,6 +10369,11 @@
             "firmware": "F956USQU2DYLL/F956UOYN2DYLL/F956USQU2DYLL",
             "md5": "d3189048ce86a88eeb824fc6a26dfc83",
             "found_at": "2025-12-30T01:57:02.198424497+00:00"
+          },
+          {
+            "firmware": "F956USQS2CYL5/F956UOYN2CYL5/F956USQS2CYL5",
+            "md5": "7a5d49b5424f6c6185bf3c79e97aab0a",
+            "found_at": "2026-01-05T06:54:31.675960241+00:00"
           }
         ]
       }
@@ -15304,6 +15319,11 @@
             "firmware": "S731U1UEU4BYLL/S731U1OYM4BYLL/S731U1UEU4BYLL",
             "md5": "54562b3e47bcc39e4414341122011d50",
             "found_at": "2026-01-02T10:31:52.548302070+00:00"
+          },
+          {
+            "firmware": "S731U1UES4AYL4/S731U1OYM4AYL4/S731U1UES4AYL4",
+            "md5": "074b7d856542ddae689ce035671ccb5d",
+            "found_at": "2026-01-05T06:47:52.583884172+00:00"
           }
         ]
       }
@@ -25074,6 +25094,11 @@
             "firmware": "S937NKSU4CZA1/S937NOKR4CZA1/S937NKSU4CYLL",
             "md5": "ec0effd1e7e2c8a944c5781675d6d5ae",
             "found_at": "2026-01-02T06:51:33.179884562+00:00"
+          },
+          {
+            "firmware": "S937NKSS5BYLP/S937NOKR5BYLP/S937NKSS5BYLP",
+            "md5": "7d0b117396408861e321bd444ee0c0ac",
+            "found_at": "2026-01-05T06:47:18.513212985+00:00"
           }
         ]
       }

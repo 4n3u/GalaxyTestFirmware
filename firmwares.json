@@ -7014,6 +7014,11 @@
             "firmware": "F741U1UEU2DYLL/F741U1OYM2DYLL/F741U1UEU2DYLL",
             "md5": "be608d2db56583927be92d1f163d7390",
             "found_at": "2025-12-30T01:56:42.721200174+00:00"
+          },
+          {
+            "firmware": "F741U1UES2CYL5/F741U1OYM2CYL5/F741U1UES2CYL5",
+            "md5": "283a712cd542d9ecdb41f699609b5d3e",
+            "found_at": "2026-01-05T10:37:47.496472715+00:00"
           }
         ]
       }
@@ -10534,6 +10539,11 @@
             "firmware": "F956U1UEU2DYLL/F956U1OYM2DYLL/F956U1UEU2DYLL",
             "md5": "de21bb411d2364e311c2cdc2cca4567c",
             "found_at": "2025-12-30T01:57:08.811251331+00:00"
+          },
+          {
+            "firmware": "F956U1UES2CYL5/F956U1OYM2CYL5/F956U1UES2CYL5",
+            "md5": "b1ae633399c86b7adc87e7f559c30cd7",
+            "found_at": "2026-01-05T10:40:15.182930523+00:00"
           }
         ]
       }
@@ -11084,6 +11094,11 @@
             "firmware": "F966NKSS7AYLS/F966NOKR7AYLS/F966NKSS7AYLS",
             "md5": "a160e411eb3253f2048a76ab411e4b71",
             "found_at": "2025-12-30T08:39:51.042845346+00:00"
+          },
+          {
+            "firmware": "F966NKSS7AYLT/F966NOKR7AYLT/F966NKSS7AYLS",
+            "md5": "ef25b7d94333a6b5078346de512f4009",
+            "found_at": "2026-01-05T10:40:31.920588375+00:00"
           }
         ]
       }

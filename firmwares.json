@@ -3714,6 +3714,11 @@
             "firmware": "A536BXXUIHYL6/A536BOXMIHYL6/A536BXXUIHYL6",
             "md5": "03e252be617ec1f761083bf1347bc2ef",
             "found_at": "2025-12-24T16:32:21.149227632+00:00"
+          },
+          {
+            "firmware": "A536BXXSJGZA1/A536BOXMJGZA1/A536BXXSJGZA1",
+            "md5": "08a341eb74f9914c006b220329ac7458",
+            "found_at": "2026-01-06T06:40:31.762427373+00:00"
           }
         ]
       }
@@ -15029,6 +15034,11 @@
             "firmware": "S731BXXU4BYLL/S731BOXM4BYLL/S731BXXU4BYLL",
             "md5": "653c8ab35a6f7f824ba230dc0b9a04ec",
             "found_at": "2025-12-29T16:34:36.330539287+00:00"
+          },
+          {
+            "firmware": "S731BXXS4AZA1/S731BOXM4AZA1/S731BXXS4AZA1",
+            "md5": "3d508aa20a1b3868f649de1eb4802519",
+            "found_at": "2026-01-06T06:44:25.720243187+00:00"
           }
         ]
       }
@@ -16808,7 +16818,7 @@
     "name": "Galaxy S22+",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S906U1UES8GYK3/S906U1OYM8GYK3/S906U1UES8GYK3",
+        "latest_official": "S906U1UES8GYL1/S906U1OYM8GYL1/S906U1UES8GYL1",
         "test_firmwares": [
           {
             "firmware": "S906U1UES8FYE1/S906U1OYM8FYE1/S906U1UES8FYE1",
@@ -17009,6 +17019,11 @@
             "firmware": "S906U1UES8GYL1/S906U1OYM8GYL1/S906U1UES8GYL1",
             "md5": "4dcbac7ea582967e8df4fac974b58490",
             "found_at": "2025-12-05T12:53:14.876747711+00:00"
+          },
+          {
+            "firmware": "S906U1UEU8HYLL/S906U1OYM8HYLL/S906U1UEU8HYLL",
+            "md5": "21513a0f77f1f9a9274b24fbb2651474",
+            "found_at": "2026-01-06T06:45:04.798935065+00:00"
           }
         ]
       }
@@ -31174,6 +31189,11 @@
             "firmware": "X826BXXU5CYL2/X826BOXM5CYL2/X826BXXU5CYL2",
             "md5": "7ab8bb48eb2823f9b6840571050046a5",
             "found_at": "2025-12-30T08:34:55.538016390+00:00"
+          },
+          {
+            "firmware": "X826BXXU5CZA1/X826BOXM5CZA1/X826BXXU5CZA1",
+            "md5": "f7235fad0a01604b441414ecd83c68c2",
+            "found_at": "2026-01-06T06:48:39.045928253+00:00"
           }
         ]
       }
@@ -32064,6 +32084,11 @@
             "firmware": "X926BXXU5CYL2/X926BOXM5CYL2/X926BXXU5CYL2",
             "md5": "a46b74c117a3e1e66ada28bc1e489db6",
             "found_at": "2025-12-30T08:34:33.964842762+00:00"
+          },
+          {
+            "firmware": "X926BXXU5CZA1/X926BOXM5CZA1/X926BXXU5CZA1",
+            "md5": "84ca41d99b54b767824a19d76c9b0828",
+            "found_at": "2026-01-06T06:48:21.861313599+00:00"
           }
         ]
       }

@@ -18228,7 +18228,7 @@
     "name": "Galaxy S23",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S911NKSS6EYK3/S911NOKR6EYK3/S911NKSU6EYI7",
+        "latest_official": "S911NKSS6EYL1/S911NOKR6EYL1/S911NKSU6EYI7",
         "test_firmwares": [
           {
             "firmware": "S911NKSS6EYI9/S911NOKR6EYI9/S911NKSU6EYI7",
@@ -18444,6 +18444,11 @@
             "firmware": "S911NKSS6EYL1/S911NOKR6EYL1/S911NKSU6EYI7",
             "md5": "fa2e2a7bdc9e1c112f417896973ef0e4",
             "found_at": "2025-12-02T12:53:44.694321547+00:00"
+          },
+          {
+            "firmware": "S911NKSU6FZA5/S911NOKR6FZA5/S911NKSU6FZA5",
+            "md5": "5922308ed7e035eae4c453cc26435e77",
+            "found_at": "2026-01-06T04:49:16.468197874+00:00"
           }
         ]
       }
@@ -18968,7 +18973,7 @@
     "name": "Galaxy S23+",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S916NKSS6EYK3/S916NOKR6EYK3/S916NKSU6EYI7",
+        "latest_official": "S916NKSS6EYL1/S916NOKR6EYL1/S916NKSU6EYI7",
         "test_firmwares": [
           {
             "firmware": "S916NKSS6EYI9/S916NOKR6EYI9/S916NKSU6EYI7",
@@ -19184,6 +19189,11 @@
             "firmware": "S916NKSS6EYL1/S916NOKR6EYL1/S916NKSU6EYI7",
             "md5": "7ff70674936f6ea5438f6d09c4f9afcc",
             "found_at": "2025-12-02T10:35:17.257911247+00:00"
+          },
+          {
+            "firmware": "S916NKSU6FZA5/S916NOKR6FZA5/S916NKSU6FZA5",
+            "md5": "bf5e52d93afc2bc5a0cff124b0a21f1a",
+            "found_at": "2026-01-06T04:50:47.404586852+00:00"
           }
         ]
       }
@@ -19694,6 +19704,11 @@
             "firmware": "S918BXXU8FYLL/S918BOXM8FYLL/S918BXXU8FYLL",
             "md5": "9dd67e896ff5a2c127f572c2b41c5c92",
             "found_at": "2025-12-30T01:51:42.745822097+00:00"
+          },
+          {
+            "firmware": "S918BXXU8FZA5/S918BOXM8FZA5/S918BXXU8FZA5",
+            "md5": "7ff0f219b13291a894d453c3560fc62e",
+            "found_at": "2026-01-06T04:50:12.176888502+00:00"
           }
         ]
       }
@@ -19703,7 +19718,7 @@
     "name": "Galaxy S23 Ultra",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S918NKSS6EYK3/S918NOKR6EYK3/S918NKSU6EYI7",
+        "latest_official": "S918NKSS6EYL1/S918NOKR6EYL1/S918NKSU6EYI7",
         "test_firmwares": [
           {
             "firmware": "S918NKSS6EYI9/S918NOKR6EYI9/S918NKSU6EYI7",
@@ -19919,6 +19934,11 @@
             "firmware": "S918NKSS6EYL1/S918NOKR6EYL1/S918NKSU6EYI7",
             "md5": "5b6ed0b2fe3598c7c6636d47953caa61",
             "found_at": "2025-12-02T12:54:47.634579130+00:00"
+          },
+          {
+            "firmware": "S918NKSU6FZA5/S918NOKR6FZA5/S918NKSU6FZA5",
+            "md5": "b4c1e57aca46163db58b8c85d340df3e",
+            "found_at": "2026-01-06T04:50:17.173588083+00:00"
           }
         ]
       }

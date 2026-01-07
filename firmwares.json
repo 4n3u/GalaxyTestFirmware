@@ -5789,6 +5789,11 @@
             "firmware": "F721U1UEU8JZA5/F721U1OYM8JZA5/F721U1UEU8JZA5",
             "md5": "e7485c537a3ba24cfc600bdc68303731",
             "found_at": "2026-01-07T08:46:23.304491806+00:00"
+          },
+          {
+            "firmware": "F721U1UES8IZA1/F721U1OYM8IZA1/F721U1UES8IZA1",
+            "md5": "5c662eb39b9f475a9fdbecc32292b1fa",
+            "found_at": "2026-01-07T16:35:09.943985219+00:00"
           }
         ]
       }
@@ -9389,6 +9394,11 @@
             "firmware": "F936U1UEU8JZA5/F936U1OYM8JZA5/F936U1UEU8JZA5",
             "md5": "d97344833c412756df17b3d337a3f82c",
             "found_at": "2026-01-07T08:45:54.321002514+00:00"
+          },
+          {
+            "firmware": "F936U1UES8IZA1/F936U1OYM8IZA1/F936U1UES8IZA1",
+            "md5": "ad769c17156d369b3fbc213b5ee68327",
+            "found_at": "2026-01-07T16:37:35.504842718+00:00"
           }
         ]
       }
@@ -12259,6 +12269,11 @@
             "firmware": "G766BXXS5BZA1/G766BOXM5BZA1/G766BXXS5BZA1",
             "md5": "3655a4598670ce86c78a0e5fadf7ca48",
             "found_at": "2026-01-02T12:53:35.656855317+00:00"
+          },
+          {
+            "firmware": "G766BXXU5CZA2/G766BOXM5CZA2/G766BXXU5CZA2",
+            "md5": "9145031944fd1d25a6c586a4cc65e85a",
+            "found_at": "2026-01-07T16:33:34.352362424+00:00"
           }
         ]
       }
@@ -14974,6 +14989,11 @@
             "firmware": "S721BXXS9CZA2/S721BOXM9CZA2/S721BXXS9CZA2",
             "md5": "d2fb08791496cbc2b42db059ea9e3c51",
             "found_at": "2026-01-07T08:43:11.708824457+00:00"
+          },
+          {
+            "firmware": "S721BXXU9DZA5/S721BOXM9DZA5/S721BXXU9DZA5",
+            "md5": "b6531f71f9117287a88361ff790bddc4",
+            "found_at": "2026-01-07T16:41:18.200990722+00:00"
           }
         ]
       }
@@ -31834,6 +31854,11 @@
             "firmware": "X818USQS6DZA1/X818UOYN6DZA1/X818USQS6DZA1",
             "md5": "c33fc5f0607c86cd963f3bbbfaed3338",
             "found_at": "2026-01-05T12:55:08.241664982+00:00"
+          },
+          {
+            "firmware": "X818USQU6EZA2/X818UOYN6EZA2/X818USQU6EZA2",
+            "md5": "865119674c3f5d0bd9068ca2bb2a551a",
+            "found_at": "2026-01-07T16:37:41.483419870+00:00"
           }
         ]
       }

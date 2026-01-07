@@ -2003,7 +2003,7 @@
     "name": "Galaxy A24",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "A245NKSU7EYK1/A245NOKR7EYK1/A245NKSU7EYJF",
+        "latest_official": "A245NKSS7EYL2/A245NOKR7EYL2/A245NKSU7EYJF",
         "test_firmwares": [
           {
             "firmware": "A245NKSS7DYH1/A245NOKR7DYH1/A245NKSS7DYH1",
@@ -2089,6 +2089,11 @@
             "firmware": "A245NKSS7EYL2/A245NOKR7EYL2/A245NKSU7EYJF",
             "md5": "a97cfb3f3bd15ec46a6176ced27141fb",
             "found_at": "2025-12-08T06:41:09.034041364+00:00"
+          },
+          {
+            "firmware": "A245NKSU7FZA1/A245NOKR7FZA1/A245NKSU7FZA1",
+            "md5": "c00bfe08a7541aad2d164d1aede388c9",
+            "found_at": "2026-01-07T03:44:40.987378152+00:00"
           }
         ]
       }
@@ -9783,7 +9788,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9560ZCS2CYK2/F9560CHC2CYK2/F9560ZCS2CYK2",
+        "latest_official": "F9560ZCS2CYL1/F9560CHC2CYL1/F9560ZCS2CYL1",
         "test_firmwares": [
           {
             "firmware": "F9560ZCS2CYIB/F9560CHC2CYIB/F9560ZCS2CYIB",
@@ -9884,6 +9889,11 @@
             "firmware": "F9560ZCS2CYL1/F9560CHC2CYL1/F9560ZCS2CYL1",
             "md5": "a46d3fa40caabba5aada11d63c9122c0",
             "found_at": "2025-12-10T13:05:23.114735293+00:00"
+          },
+          {
+            "firmware": "F9560ZCU2DZA5/F9560CHC2DZA5/F9560ZCU2DZA5",
+            "md5": "4ac1d9174e19047ba5bd474c80df7548",
+            "found_at": "2026-01-07T03:50:58.179628750+00:00"
           }
         ]
       }
@@ -23714,6 +23724,11 @@
             "firmware": "S931U1UEU7ZZA3/S931U1OYM7ZZA3/S931U1UEU7CZA3",
             "md5": "c7c1ed55c5f3e91ec44eb8c6306166b4",
             "found_at": "2026-01-04T12:59:47.034014853+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZZA6/S931U1OYM7ZZA6/S931U1UEU7CZA6",
+            "md5": "6af94ba4cd79dd3b946de59290a38402",
+            "found_at": "2026-01-07T03:51:23.343992797+00:00"
           }
         ]
       }
@@ -27404,6 +27419,11 @@
             "firmware": "S938U1UEU7ZZA3/S938U1OYM7ZZA3/S938U1UEU7CZA3",
             "md5": "3a042e1938c5ae793bb6fb9b33ca9048",
             "found_at": "2026-01-04T13:01:29.591208915+00:00"
+          },
+          {
+            "firmware": "S938U1UEU7ZZA6/S938U1OYM7ZZA6/S938U1UEU7CZA6",
+            "md5": "671ce4df85a1e32a3c13e4e2564abc65",
+            "found_at": "2026-01-07T03:52:49.831071114+00:00"
           }
         ]
       }
@@ -27863,7 +27883,7 @@
     "name": "心系天下 三星 W25",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W9025ZCS2CYK3/W9025CHC2CYK3/W9025ZCS2CYK2",
+        "latest_official": "W9025ZCS2CYL1/W9025CHC2CYL1/W9025ZCS2CYL1",
         "test_firmwares": [
           {
             "firmware": "W9025ZCS2CYIB/W9025CHC2CYIB/W9025ZCS2CYIB",
@@ -27974,6 +27994,11 @@
             "firmware": "W9025ZCS2CYL1/W9025CHC2CYL1/W9025ZCS2CYL1",
             "md5": "dc01377d3b0597cb78cb5fbe55311b4d",
             "found_at": "2025-12-10T13:06:37.121210242+00:00"
+          },
+          {
+            "firmware": "W9025ZCU2DZA5/W9025CHC2DZA5/W9025ZCU2DZA5",
+            "md5": "adfbba9fca626ce7ba4ff6af28c1bcf8",
+            "found_at": "2026-01-07T03:51:50.702363944+00:00"
           }
         ]
       }
@@ -27983,7 +28008,7 @@
     "name": "Galaxy Tab A9",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X115XXU6DYK3/X115OXM6DYK3/X115XXU6DYK3",
+        "latest_official": "X115XXS7DYL2/X115OXM7DYL2/X115XXS7DYL2",
         "test_firmwares": [
           {
             "firmware": "X115XXS5CYG1/X115OXM5CYG1/X115XXS5CYG1",
@@ -28079,6 +28104,11 @@
             "firmware": "X115XXS7DYL2/X115OXM7DYL2/X115XXS7DYL2",
             "md5": "d29e5efe8e4a49fc0dcc0352964d7e39",
             "found_at": "2025-12-09T04:31:29.743760566+00:00"
+          },
+          {
+            "firmware": "X115XXU7DZA1/X115OXM7DZA1/X115XXU7DZA1",
+            "md5": "6cc2acc1cb91a5b3cca5635dcc4cafa0",
+            "found_at": "2026-01-07T03:47:57.727238564+00:00"
           }
         ]
       }

@@ -1134,6 +1134,11 @@
             "firmware": "A156U1UES8DYL3/A156U1OYM8DYL3/A156U1UES8DYL3",
             "md5": "1a7658c495fb692ae570acaf907b449e",
             "found_at": "2026-01-06T08:35:48.957078322+00:00"
+          },
+          {
+            "firmware": "A156U1UEU8EZA1/A156U1OYM8EZA1/A156U1UEU8EZA1",
+            "md5": "f07e921b248431da90c40637f711bf0a",
+            "found_at": "2026-01-08T08:35:29.569530794+00:00"
           }
         ]
       }
@@ -12903,7 +12908,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G990BXXSHIYK1/G990BOXMHIYK1/G990BXXSHIYK1",
+        "latest_official": "G990BXXSHIYK2/G990BOXMHIYK2/G990BXXSHIYK1",
         "test_firmwares": [
           {
             "firmware": "G990BXXSGHYI1/G990BOXMGHYI1/G990BXXSGHYI1",
@@ -12954,6 +12959,11 @@
             "firmware": "G990BXXSHIYK2/G990BOXMHIYK2/G990BXXSHIYK1",
             "md5": "8d0dd3819e6c9d42b08469e48387e5c0",
             "found_at": "2025-12-01T03:58:08.313853070+00:00"
+          },
+          {
+            "firmware": "G990BXXSIIZA1/G990BOXMIIZA1/G990BXXSIIZA1",
+            "md5": "a4cd0c0c6e2be7be4f28354513742e7a",
+            "found_at": "2026-01-08T08:38:07.383536625+00:00"
           }
         ]
       }

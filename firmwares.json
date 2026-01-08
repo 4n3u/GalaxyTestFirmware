@@ -3484,6 +3484,11 @@
             "firmware": "A366U1UEU5CZA2/A366U1OYM5CZA2/A366U1UEU5CZA2",
             "md5": "79bcad3ccd0cdef14e96517cdc5c2bfc",
             "found_at": "2026-01-08T10:36:02.988513024+00:00"
+          },
+          {
+            "firmware": "A366U1UES5BZA1/A366U1OYM5BZA1/A366U1UES5BZA1",
+            "md5": "123d534d6ca62123462198f946d1d3ce",
+            "found_at": "2026-01-08T18:39:31.341324986+00:00"
           }
         ]
       }

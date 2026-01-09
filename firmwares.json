@@ -3068,7 +3068,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A356U1UES6CYJ2/A356U1OYM6CYJ2/A356U1UES6CYJ2",
+        "latest_official": "A356U1UES7CYK3/A356U1OYM7CYK3/A356U1UES7CYK3",
         "test_firmwares": [
           {
             "firmware": "A356U1UEU6CYG7/A356U1OYM6CYG7/A356U1UEU6CYG7",
@@ -3139,6 +3139,11 @@
             "firmware": "A356U1UES7CYK3/A356U1OYM7CYK3/A356U1UES7CYK3",
             "md5": "12a07cb1a1fe6a1aaab4127988ce1aa1",
             "found_at": "2025-11-28T20:32:17.036870890+00:00"
+          },
+          {
+            "firmware": "A356U1UEU7DZA1/A356U1OYM7DZA1/A356U1UEU7DZA1",
+            "md5": "51d28491b6b335b2bc36c137c1839fc1",
+            "found_at": "2026-01-09T14:32:48.290183517+00:00"
           }
         ]
       }
@@ -16754,6 +16759,11 @@
             "firmware": "S901USQS8GZA1/S901UOYN8GZA1/S901USQS8GZA1",
             "md5": "5fa0ddf9d01ea1b4994fea25bc789d46",
             "found_at": "2026-01-08T12:54:56.271243849+00:00"
+          },
+          {
+            "firmware": "S901USQU8HZA5/S901UOYN8HZA5/S901USQU8HZA5",
+            "md5": "371f73133ad07eff175e068c322e0d75",
+            "found_at": "2026-01-09T14:34:27.914520921+00:00"
           }
         ]
       }
@@ -17569,6 +17579,11 @@
             "firmware": "S906USQS8GZA1/S906UOYN8GZA1/S906USQS8GZA1",
             "md5": "98f3d14796622230f6700c182e6addb9",
             "found_at": "2026-01-08T12:56:12.316675438+00:00"
+          },
+          {
+            "firmware": "S906USQU8HZA5/S906UOYN8HZA5/S906USQU8HZA5",
+            "md5": "6d9ddeba9ca4aee498b5df95abaebf9e",
+            "found_at": "2026-01-09T14:36:23.195097132+00:00"
           }
         ]
       }
@@ -18399,6 +18414,11 @@
             "firmware": "S908USQS8GZA1/S908UOYN8GZA1/S908USQS8GZA1",
             "md5": "01c94bca62b24d61fc5c8324885b30c3",
             "found_at": "2026-01-08T12:55:34.207326639+00:00"
+          },
+          {
+            "firmware": "S908USQU8HZA5/S908UOYN8HZA5/S908USQU8HZA5",
+            "md5": "f56e84ebb3befae3151f27a99a7283fc",
+            "found_at": "2026-01-09T14:35:17.956081573+00:00"
           }
         ]
       }

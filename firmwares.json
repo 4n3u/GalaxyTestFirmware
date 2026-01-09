@@ -734,6 +734,11 @@
             "firmware": "A155FXXU8EZA1/A155FOXM8EZA1/A155FXXU8EZA1",
             "md5": "da9cd7bf378d152b59d1181e83dfa8a9",
             "found_at": "2026-01-08T03:42:25.050520667+00:00"
+          },
+          {
+            "firmware": "A155FXXS9DZA2/A155FOXM9DZA2/A155FXXS9DZA2",
+            "md5": "b47ec8ae0c82d6a84be0a7c7a80413a4",
+            "found_at": "2026-01-09T06:38:16.324087607+00:00"
           }
         ]
       }
@@ -2309,6 +2314,11 @@
             "firmware": "A256U1UES9DYK3/A256U1OYM9DYK3/A256U1UES9DYK3",
             "md5": "937732f6a118d38eb2fe9ab7d90d15ab",
             "found_at": "2025-11-24T08:36:06.555575485+00:00"
+          },
+          {
+            "firmware": "A256U1UEU9EZA1/A256U1OYM9EZA1/A256U1UEU9EZA1",
+            "md5": "efeb716cb958ab07c8dacde02ad433e3",
+            "found_at": "2026-01-09T06:42:10.320450074+00:00"
           }
         ]
       }
@@ -4219,6 +4229,11 @@
             "firmware": "A546U1UESHEZA3/A546U1OYMHEZA3/A546U1UESHEZA3",
             "md5": "02e9a394a1ab765f3a57960303284a89",
             "found_at": "2026-01-08T10:39:45.120869260+00:00"
+          },
+          {
+            "firmware": "A546U1UEUHFZA5/A546U1OYMHFZA5/A546U1UEUHFZA5",
+            "md5": "66a3ea2624dbf46e16641be88f0b9f08",
+            "found_at": "2026-01-09T06:46:44.401801095+00:00"
           }
         ]
       }
@@ -21428,7 +21443,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9260ZCS4CYK2/S9260CHC4CYK2/S9260ZCS4CYK2",
+        "latest_official": "S9260ZCS4CYL1/S9260CHC4CYL1/S9260ZCS4CYL1",
         "test_firmwares": [
           {
             "firmware": "S9260ZCU4CYG1/S9260CHC4CYG1/S9260ZCU4CYG1",
@@ -21509,6 +21524,11 @@
             "firmware": "S9260ZCS4CYL1/S9260CHC4CYL1/S9260ZCS4CYL1",
             "md5": "5d5a1a6f433c098716be57e052ee49ff",
             "found_at": "2025-12-10T13:02:46.207837694+00:00"
+          },
+          {
+            "firmware": "S9260ZCU4DZA5/S9260CHC4DZA5/S9260ZCU4DZA5",
+            "md5": "76bd6215ef2569f0f151e5078a92b307",
+            "found_at": "2026-01-09T06:48:10.228487865+00:00"
           }
         ]
       }
@@ -29374,6 +29394,11 @@
             "firmware": "X308UUEU8DZA1/X308UOYM8DZA1/X308UUEU8DZA1",
             "md5": "915c4be173d16c7b21b2eef12411e6da",
             "found_at": "2026-01-07T12:48:18.533805161+00:00"
+          },
+          {
+            "firmware": "X308UUEU8DZA2/X308UOYM8DZA2/X308UUEU8DZA2",
+            "md5": "3ca7ac9984b031932c95cf6d70c6877c",
+            "found_at": "2026-01-09T06:45:00.521142902+00:00"
           }
         ]
       }

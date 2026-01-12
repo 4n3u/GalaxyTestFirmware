@@ -13709,6 +13709,11 @@
             "firmware": "M336BXXUEGZA1/M336BOXMEGZA1/M336BXXUEGZA1",
             "md5": "cbb2367bc1953ac1b96fa90484908d2f",
             "found_at": "2026-01-09T04:42:21.046092814+00:00"
+          },
+          {
+            "firmware": "M336BXXSFGZA2/M336BOXMFGZA2/M336BXXSFGZA2",
+            "md5": "144b9154dae0b384615b82ee60473908",
+            "found_at": "2026-01-12T12:50:03.045884771+00:00"
           }
         ]
       },

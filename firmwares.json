@@ -2949,6 +2949,11 @@
             "firmware": "A356BXXU7DZA1/A356BOXM7DZA1/A356BXXU7DZA1",
             "md5": "d77a391fdd9fb16a4731ed97c03c3a01",
             "found_at": "2026-01-08T14:36:06.745112199+00:00"
+          },
+          {
+            "firmware": "A356BXXS8CZA2/A356BOXM8CZA2/A356BXXS8CZA2",
+            "md5": "e82208ee452fe0dfae6ca825dd7578fa",
+            "found_at": "2026-01-12T03:55:48.633514567+00:00"
           }
         ]
       }
@@ -4614,6 +4619,11 @@
             "firmware": "A566BXXU8CZA6/A566BOXM8CZA6/A566BXXU8CZA6",
             "md5": "422eb3b5f9173b88d3232c3c808ddb69",
             "found_at": "2026-01-06T08:47:33.716544888+00:00"
+          },
+          {
+            "firmware": "A566BXXS8BZA7/A566BOXM8BZA7/A566BXXS8BZA7",
+            "md5": "a6df0e98c4ed380c780c52ade2ce95b2",
+            "found_at": "2026-01-12T03:57:10.405767704+00:00"
           }
         ]
       }
@@ -13198,7 +13208,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G990U1UESKIYK2/G990U1OYMKIYK2/G990U1UESKIYK2",
+        "latest_official": "G990U1UESKIYL1/G990U1OYMKIYL1/G990U1UESKIYL1",
         "test_firmwares": [
           {
             "firmware": "G990U1UESJHYI6/G990U1OYMJHYI6/G990U1UESJHYI6",
@@ -13239,6 +13249,11 @@
             "firmware": "G990U1UESKIYL1/G990U1OYMKIYL1/G990U1UESKIYL1",
             "md5": "f787a8c43aa5b1edef1bbabd21b8d4c2",
             "found_at": "2025-12-03T16:36:12.072688645+00:00"
+          },
+          {
+            "firmware": "G990U1UESLIZA1/G990U1OYMLIZA1/G990U1UESLIZA1",
+            "md5": "ecd64b4c72158a77220c343010cf095f",
+            "found_at": "2026-01-12T03:55:26.652428284+00:00"
           }
         ]
       }
@@ -13248,7 +13263,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G990U3UESIIYK2/G990U3OYMIIYK2/G990U3UESIIYK2",
+        "latest_official": "G990U3UESIIYL1/G990U3OYMIIYL1/G990U3UESIIYL1",
         "test_firmwares": [
           {
             "firmware": "G990U3UESHHYI6/G990U3OYMHHYI6/G990U3UESHHYI6",
@@ -13289,6 +13304,11 @@
             "firmware": "G990U3UESIIYL1/G990U3OYMIIYL1/G990U3UESIIYL1",
             "md5": "b821329ec339da388779ab41208019f9",
             "found_at": "2025-12-03T16:36:19.463640961+00:00"
+          },
+          {
+            "firmware": "G990U3UESJIZA1/G990U3OYMJIZA1/G990U3UESJIZA1",
+            "md5": "cb9109c53d541e8b8b4d5d2975df9506",
+            "found_at": "2026-01-12T03:55:33.331440298+00:00"
           }
         ]
       }

@@ -2689,6 +2689,11 @@
             "firmware": "A336BXXUFHZA3/A336BOXMFHZA3/A336BXXUFHZA3",
             "md5": "7fe2de13453e1e5ba44a3e2cde5ab700",
             "found_at": "2026-01-08T14:35:26.362805660+00:00"
+          },
+          {
+            "firmware": "A336BXXSGGZA1/A336BOXMGGZA1/A336BXXSGGZA1",
+            "md5": "34f5018fd7fd37779d27d6fda8082f9e",
+            "found_at": "2026-01-12T06:46:09.421401775+00:00"
           }
         ]
       }
@@ -29154,6 +29159,11 @@
             "firmware": "X216BXXU9EYLC/X216BOXM9EYLC/X216BXXU9EYLC",
             "md5": "52a01b3eef45ffee69df081efac9222d",
             "found_at": "2025-12-23T12:53:59.804161551+00:00"
+          },
+          {
+            "firmware": "X216BXXSAEZA1/X216BOXMAEZA1/X216BXXSAEZA1",
+            "md5": "2289af5dd9452d5d15d143cc54e6d9aa",
+            "found_at": "2026-01-12T06:39:44.823092204+00:00"
           }
         ]
       }
@@ -29334,6 +29344,11 @@
             "firmware": "X216RXXU4BYLC/X216ROXM4BYLC/X216RXXU4BYLC",
             "md5": "024ccd2c073a009530c8d3182006b9db",
             "found_at": "2025-12-23T12:54:18.878773765+00:00"
+          },
+          {
+            "firmware": "X216RXXS5BZA1/X216ROXM5BZA1/X216RXXS5BZA1",
+            "md5": "0f6d15bfa60b3370c840fe495c58e939",
+            "found_at": "2026-01-12T06:39:57.664935480+00:00"
           }
         ]
       }

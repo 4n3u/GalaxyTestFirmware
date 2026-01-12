@@ -829,6 +829,11 @@
             "firmware": "A155NKSU7DZA1/A155NOKR7DZA1/A155NKSU7DZA1",
             "md5": "35ac052220d6324d3c48f458616e8a13",
             "found_at": "2026-01-08T03:42:30.695570224+00:00"
+          },
+          {
+            "firmware": "A155NKSS8CZA2/A155NOKR8CZA2/A155NKSS8CZA2",
+            "md5": "e2be2375d3548437f31c5a31199db3ca",
+            "found_at": "2026-01-12T08:36:47.381565876+00:00"
           }
         ]
       }
@@ -2159,6 +2164,11 @@
             "firmware": "A245NKSU7FZA1/A245NOKR7FZA1/A245NKSU7FZA1",
             "md5": "c00bfe08a7541aad2d164d1aede388c9",
             "found_at": "2026-01-07T03:44:40.987378152+00:00"
+          },
+          {
+            "firmware": "A245NKSS8EZA2/A245NOKR8EZA2/A245NKSS8EZA2",
+            "md5": "25a1851a0dde2868165c30a2e8168ff2",
+            "found_at": "2026-01-12T08:39:58.240468380+00:00"
           }
         ]
       }
@@ -2394,6 +2404,11 @@
             "firmware": "A266BXXS7BZA2/A266BOXM7BZA2/A266BXXS7BZA2",
             "md5": "ca417e114a7cde87636ceb78d7ebb93d",
             "found_at": "2026-01-09T08:38:54.094984205+00:00"
+          },
+          {
+            "firmware": "A266BXXS7BZA3/A266BOXM7BZA3/A266BXXS7BZA3",
+            "md5": "6b1d671a643ca20ff10a046c71acbbda",
+            "found_at": "2026-01-12T08:40:35.787995492+00:00"
           }
         ]
       }

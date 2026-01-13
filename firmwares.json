@@ -33294,6 +33294,11 @@
             "firmware": "X828USQU5DZA1/X828UOYN5DZA1/X828USQU5DZA1",
             "md5": "1db2bdcef03c49e6ac5e9c482eb082c7",
             "found_at": "2026-01-07T06:39:25.970108920+00:00"
+          },
+          {
+            "firmware": "X828USQU5DZA2/X828UOYN5DZA2/X828USQU5DZA2",
+            "md5": "974ba4b7d3d6abcc0c561188eace430e",
+            "found_at": "2026-01-13T20:30:25.334143680+00:00"
           }
         ]
       }

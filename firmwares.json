@@ -3169,6 +3169,11 @@
             "firmware": "A356USQS8CZA3/A356UOYN8CZA3/A356USQS8CZA3",
             "md5": "d2c7caebfe8ce915c3cf34fae409a5e5",
             "found_at": "2026-01-14T12:54:04.507698039+00:00"
+          },
+          {
+            "firmware": "A356USQS8CZA4/A356UOYN8CZA4/A356USQS8CZA4",
+            "md5": "06074a52fca435c67b07eeb6b57718e6",
+            "found_at": "2026-01-14T16:41:56.750324042+00:00"
           }
         ]
       }
@@ -29739,6 +29744,11 @@
             "firmware": "X115XXS8DZA6/X115OXM8DZA6/X115XXS8DZA6",
             "md5": "35dab13955d2e8e24a7d2ab0756ecc45",
             "found_at": "2026-01-14T14:28:49.303793393+00:00"
+          },
+          {
+            "firmware": "X115XXU8DZA5/X115OXM8DZA5/X115XXU8DZA5",
+            "md5": "9ad74c4c024c3e3526aadc7b45b90563",
+            "found_at": "2026-01-14T16:32:47.095280034+00:00"
           }
         ]
       }

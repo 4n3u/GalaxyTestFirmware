@@ -1839,6 +1839,11 @@
             "firmware": "A175FXXS3BZA2/A175FOXM3BZA2/A175FXXS3BZA2",
             "md5": "947a8981437e96c339dcacd54a986d10",
             "found_at": "2026-01-14T12:51:47.685471522+00:00"
+          },
+          {
+            "firmware": "A175FXXS3BZA5/A175FOXM3BZA5/A175FXXS3BZA5",
+            "md5": "0a7bf0b2cba0b4c47d3b61e0bbd8dc7d",
+            "found_at": "2026-01-15T08:38:15.615993799+00:00"
           }
         ]
       }
@@ -2394,6 +2399,11 @@
             "firmware": "A256U1UEU9EZA1/A256U1OYM9EZA1/A256U1UEU9EZA1",
             "md5": "efeb716cb958ab07c8dacde02ad433e3",
             "found_at": "2026-01-09T06:42:10.320450074+00:00"
+          },
+          {
+            "firmware": "A256U1UESADZA3/A256U1OYMADZA3/A256U1UESADZA3",
+            "md5": "b4dcaf03fb6cce2bf48a9c1c92d7a95b",
+            "found_at": "2026-01-15T08:41:24.676404055+00:00"
           }
         ]
       }
@@ -6163,7 +6173,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7310ZCS7FYK2/F7310CHC7FYK2/F7310ZCS7FYK2",
+        "latest_official": "F7310ZCS7FYL1/F7310CHC7FYL1/F7310ZCS7FYL1",
         "test_firmwares": [
           {
             "firmware": "F7310ZCS7FYJ1/F7310CHC7FYJ1/F7310ZCS7FYJ1",
@@ -6249,6 +6259,11 @@
             "firmware": "F7310ZCS7FYL1/F7310CHC7FYL1/F7310ZCS7FYL1",
             "md5": "fe142b0065731dee4145db856cac444c",
             "found_at": "2025-12-11T06:40:15.075660644+00:00"
+          },
+          {
+            "firmware": "F7310ZCS7FZA1/F7310CHC7FZA1/F7310ZCS7FZA1",
+            "md5": "6579958c591110fd04625d9366cf0dad",
+            "found_at": "2026-01-15T08:38:32.173951073+00:00"
           }
         ]
       }
@@ -31004,6 +31019,11 @@
             "firmware": "X516BXXUADZA2/X516BOXMADZA2/X516BXXUADZA2",
             "md5": "8d33370449041318bc76c5e319cd226b",
             "found_at": "2026-01-15T06:50:55.082977937+00:00"
+          },
+          {
+            "firmware": "X516BXXSADZA3/X516BOXMADZA3/X516BXXSADZA3",
+            "md5": "642af8e1869fef7aaad065f47e8bb19a",
+            "found_at": "2026-01-15T08:40:59.715665014+00:00"
           }
         ]
       }

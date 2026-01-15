@@ -2329,6 +2329,11 @@
             "firmware": "A256BXXSADZA2/A256BOXMADZA2/A256BXXSADZA2",
             "md5": "c8c4873074b3fb499fee9cdada95818c",
             "found_at": "2026-01-09T12:52:47.405959747+00:00"
+          },
+          {
+            "firmware": "A256BXXUAEZA4/A256BOXMAEZA4/A256BXXUAEZA4",
+            "md5": "89991faba18a9c29ac5f5586c561186b",
+            "found_at": "2026-01-15T14:33:23.724657213+00:00"
           }
         ]
       }
@@ -12929,6 +12934,11 @@
             "firmware": "G766BXXU5CZA2/G766BOXM5CZA2/G766BXXU5CZA2",
             "md5": "9145031944fd1d25a6c586a4cc65e85a",
             "found_at": "2026-01-07T16:33:34.352362424+00:00"
+          },
+          {
+            "firmware": "G766BXXU5CZA3/G766BOXM5CZA3/G766BXXU5CZA3",
+            "md5": "faca787a61cd26fe204be6ffba12f4a5",
+            "found_at": "2026-01-15T14:40:32.043373795+00:00"
           }
         ]
       }
@@ -14389,6 +14399,11 @@
             "firmware": "M356BXXS6CZA4/M356BOXM6CZA4/M356BXXS6CZA4",
             "md5": "f07b89ba88c46b201d1b8655a4e3c315",
             "found_at": "2026-01-13T12:49:52.051208111+00:00"
+          },
+          {
+            "firmware": "M356BXXU6DZA5/M356BOXM6DZA5/M356BXXU6DZA5",
+            "md5": "dfc992bd2437a835c0ef05cc6080da5f",
+            "found_at": "2026-01-15T14:27:54.327164228+00:00"
           }
         ]
       }

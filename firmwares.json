@@ -363,7 +363,7 @@
     "name": "Galaxy A14",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A145RXXSADYI2/A145ROXMADYI2/A145RXXSADYI2",
+        "latest_official": "A145RXXUBDYJ2/A145ROXMBDYJ2/A145RXXUBDYJ1",
         "test_firmwares": [
           {
             "firmware": "A145RXXSADYI2/A145ROXMADYI2/A145RXXSADYI2",
@@ -494,6 +494,11 @@
             "firmware": "A145RXXUBDYJ2/A145ROXMBDYJ2/A145RXXUBDYJ1",
             "md5": "cd85fee7a4e72c51677cead189ecbc8e",
             "found_at": "2025-10-21T04:22:02.196482+00:00"
+          },
+          {
+            "firmware": "A145RXXSCDZA1/A145ROXMCDZA1/A145RXXSCDZA1",
+            "md5": "d8333630057d8131c4d75b2bc0ac2636",
+            "found_at": "2026-01-15T03:44:21.140379814+00:00"
           }
         ]
       }
@@ -4413,7 +4418,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5560ZCSBCYK2/A5560CHCBCYK2/A5560ZCSBCYK2",
+        "latest_official": "A5560ZCSBCYL1/A5560CHCBCYL1/A5560ZCSBCYL1",
         "test_firmwares": [
           {
             "firmware": "A5560ZCSBCYJ1/A5560CHCBCYJ1/A5560ZCSBCYJ1",
@@ -4474,6 +4479,11 @@
             "firmware": "A5560ZCSBCYL1/A5560CHCBCYL1/A5560ZCSBCYL1",
             "md5": "7a07bbbc6cb65f34682046b54fd9b65a",
             "found_at": "2025-12-11T04:48:46.959426448+00:00"
+          },
+          {
+            "firmware": "A5560ZCSCCZA1/A5560CHCCCZA1/A5560ZCSCCZA1",
+            "md5": "2e788b5207f52e1f829a0de57aec7649",
+            "found_at": "2026-01-15T03:55:45.863781091+00:00"
           }
         ]
       }
@@ -16489,6 +16499,11 @@
             "firmware": "S731USQU4BZA5/S731UOYN4BZA5/S731USQU4BZA5",
             "md5": "65f0a891bc010b87601bf0b40c148ab6",
             "found_at": "2026-01-07T01:53:55.747765624+00:00"
+          },
+          {
+            "firmware": "S731USQS4AYL7/S731UOYN4AYL7/S731USQS4AYL7",
+            "md5": "c965fd3d0b91428c56d5b89a627874c4",
+            "found_at": "2026-01-15T03:56:14.211744059+00:00"
           }
         ]
       }

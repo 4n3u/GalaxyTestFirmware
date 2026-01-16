@@ -3324,6 +3324,11 @@
             "firmware": "A356U1UES8CZA2/A356U1OYM8CZA2/A356U1UES8CZA2",
             "md5": "79e7937b8221e603ec3ae535c26f212a",
             "found_at": "2026-01-13T16:39:42.386711406+00:00"
+          },
+          {
+            "firmware": "A356U1UES8CZA4/A356U1OYM8CZA4/A356U1UES8CZA4",
+            "md5": "dab572373c50e5faca5a37529a8d4750",
+            "found_at": "2026-01-16T08:41:01.228121752+00:00"
           }
         ]
       }
@@ -3404,6 +3409,11 @@
             "firmware": "A3660ZHS5BZA1/A3660OZS5BZA1/A3660ZHS5BZA1",
             "md5": "c34fb0198a4070b549b0a1adaa95f22e",
             "found_at": "2026-01-14T08:44:46.219727916+00:00"
+          },
+          {
+            "firmware": "A3660ZHU5CZA3/A3660OZS5CZA3/A3660ZHU5CZA3",
+            "md5": "f438175fa3144bba1d89f67c77d800cb",
+            "found_at": "2026-01-16T08:41:11.822220577+00:00"
           }
         ]
       }
@@ -3923,7 +3933,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5360ZCSIGYK3/A5360CHCIGYK3/A5360ZCSIGYK3",
+        "latest_official": "A5360ZCSIGYL1/A5360CHCIGYL1/A5360ZCSIGYL1",
         "test_firmwares": [
           {
             "firmware": "A5360ZCSHFYH1/A5360CHCHFYH1/A5360ZCSHFYH1",
@@ -3984,6 +3994,11 @@
             "firmware": "A5360ZCSIGYL1/A5360CHCIGYL1/A5360ZCSIGYL1",
             "md5": "99f18088c51e1309f471eb259651af6e",
             "found_at": "2025-12-12T10:38:32.545914056+00:00"
+          },
+          {
+            "firmware": "A5360ZCSJGZA2/A5360CHCJGZA2/A5360ZCSJGZA2",
+            "md5": "ebb7643303fb5c00b26228a94d52d11b",
+            "found_at": "2026-01-16T08:44:17.726913804+00:00"
           }
         ]
       }
@@ -4154,6 +4169,11 @@
             "firmware": "A536USQUJHZA4/A536UOYNJHZA4/A536USQUJHZA4",
             "md5": "657854ee33b676ce8edfe705a4b2b6e5",
             "found_at": "2026-01-09T12:52:27.923083712+00:00"
+          },
+          {
+            "firmware": "A536USQUJHZA6/A536UOYNJHZA6/A536USQUJHZA6",
+            "md5": "f49327581647e797913fa4a934e35130",
+            "found_at": "2026-01-16T08:44:39.191068817+00:00"
           }
         ]
       }
@@ -7549,6 +7569,11 @@
             "firmware": "F741USQU2DZAA/F741UOYN2DZAA/F741USQU2DZAA",
             "md5": "82cc018473e0a5790a56001f8f1882da",
             "found_at": "2026-01-13T06:54:34.899794577+00:00"
+          },
+          {
+            "firmware": "F741USQS2CZA1/F741UOYN2CZA1/F741USQS2CZA1",
+            "md5": "4c21dcb5d09f1af612fc821b64b0c202",
+            "found_at": "2026-01-16T08:36:42.058044323+00:00"
           }
         ]
       }
@@ -14868,7 +14893,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S7110ZCS6FYK1/S7110CHC6FYK1/S7110ZCS6FYK1",
+        "latest_official": "S7110ZCS6FYL1/S7110CHC6FYL1/S7110ZCS6FYL1",
         "test_firmwares": [
           {
             "firmware": "S7110ZCS6EYE2/S7110CHC6EYE2/S7110ZCS6EYE2",
@@ -15029,6 +15054,11 @@
             "firmware": "S7110ZCS6FYL1/S7110CHC6FYL1/S7110ZCS6FYL1",
             "md5": "39f7bf9eaec674f03235672212f31677",
             "found_at": "2025-12-11T06:45:18.900806174+00:00"
+          },
+          {
+            "firmware": "S7110ZCS6FZA1/S7110CHC6FZA1/S7110ZCS6FZA1",
+            "md5": "6a8745f6f1f8fd09a3f6742f27be317d",
+            "found_at": "2026-01-16T08:40:57.049112951+00:00"
           }
         ]
       }
@@ -15714,6 +15744,11 @@
             "firmware": "S7210ZHS9CZA2/S7210OZS9CZA2/S7210ZHS9CZA2",
             "md5": "01021fa64acac036fb7147b0045eb840",
             "found_at": "2026-01-15T10:41:07.875484198+00:00"
+          },
+          {
+            "firmware": "S7210ZHU9DZAA/S7210OZS9DZAA/S7210ZHU9DZAA",
+            "md5": "c5757b07ab8bd3fafa6ff248c69a1061",
+            "found_at": "2026-01-16T08:42:58.790818182+00:00"
           }
         ]
       }
@@ -31974,6 +32009,11 @@
             "firmware": "X616BXXSADZA3/X616BOXMADZA3/X616BXXSADZA3",
             "md5": "544f423f1478db5d51c95b680c022013",
             "found_at": "2026-01-15T10:42:34.724132203+00:00"
+          },
+          {
+            "firmware": "X616BXXSADZA5/X616BOXMADZA5/X616BXXSADZA5",
+            "md5": "6a5871978826d2859d7c35fd9f6bf5e0",
+            "found_at": "2026-01-16T08:38:05.537470244+00:00"
           }
         ]
       }

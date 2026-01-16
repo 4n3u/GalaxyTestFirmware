@@ -21694,6 +21694,11 @@
             "firmware": "S9210ZCU4DZAA/S9210CHC4DZAA/S9210ZCU4DZAA",
             "md5": "4a11f542fec4316b5883126fd1a06bf7",
             "found_at": "2026-01-14T08:46:05.048857307+00:00"
+          },
+          {
+            "firmware": "S9210ZCS4CZA1/S9210CHC4CZA1/S9210ZCS4CZA1",
+            "md5": "94e0c847e09f180f2612df6439ff5f7b",
+            "found_at": "2026-01-16T01:50:08.574694405+00:00"
           }
         ]
       }
@@ -22369,6 +22374,11 @@
             "firmware": "S9260ZCU4DZAA/S9260CHC4DZAA/S9260ZCU4DZAA",
             "md5": "9571ab20fab3cb011b454e748cbd4a88",
             "found_at": "2026-01-14T08:48:07.051605771+00:00"
+          },
+          {
+            "firmware": "S9260ZCS4CZA1/S9260CHC4CZA1/S9260ZCS4CZA1",
+            "md5": "f1b7a5e9072ea275aca85a3a8271bf66",
+            "found_at": "2026-01-16T01:51:39.472066462+00:00"
           }
         ]
       }

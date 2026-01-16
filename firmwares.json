@@ -1509,6 +1509,11 @@
             "firmware": "A166BXXU5DZAA/A166BOXM5DZAA/A166BXXU5DZAA",
             "md5": "2add447db521858c76d80bb84115c13b",
             "found_at": "2026-01-13T16:37:17.965269831+00:00"
+          },
+          {
+            "firmware": "A166BXXS6CZA8/A166BOXM6CZA8/A166BXXS6CZA8",
+            "md5": "f76bf41403b48769eb5c6a3aa9b5f2a7",
+            "found_at": "2026-01-16T14:29:45.861261888+00:00"
           }
         ]
       }
@@ -2424,6 +2429,11 @@
             "firmware": "A256U1UESADZA3/A256U1OYMADZA3/A256U1UESADZA3",
             "md5": "b4dcaf03fb6cce2bf48a9c1c92d7a95b",
             "found_at": "2026-01-15T08:41:24.676404055+00:00"
+          },
+          {
+            "firmware": "A256U1UEUAEZA4/A256U1OYMAEZA4/A256U1UEUAEZA4",
+            "md5": "30c855cf351d800412b6f5743961d50a",
+            "found_at": "2026-01-16T14:33:24.934696637+00:00"
           }
         ]
       }
@@ -4249,6 +4259,11 @@
             "firmware": "A536U1UESJGZA3/A536U1OYMJGZA3/A536U1UESJGZA3",
             "md5": "88b3a3a94b56def51ea40d05e9d37c9b",
             "found_at": "2026-01-08T10:39:16.548723512+00:00"
+          },
+          {
+            "firmware": "A536U1UEUJHZA6/A536U1OYMJHZA6/A536U1UEUJHZA6",
+            "md5": "2f2de59200a3fcc85dd77064ccf5f413",
+            "found_at": "2026-01-16T14:41:18.788634771+00:00"
           }
         ]
       }
@@ -14299,6 +14314,11 @@
             "firmware": "M336BXXUFGZA4/M336BOXMFGZA4/M336BXXUFGZA4",
             "md5": "9af03f3745aed0d630367af60d8a98cf",
             "found_at": "2026-01-16T06:36:48.121528584+00:00"
+          },
+          {
+            "firmware": "M336BXXSFGZA5/M336BOXMFGZA5/M336BXXSFGZA5",
+            "md5": "72ee7f913fa42e2bcb77042209a3b216",
+            "found_at": "2026-01-16T14:26:07.826144030+00:00"
           }
         ]
       },
@@ -29438,7 +29458,7 @@
     "name": "心系天下 三星 W23 Flip",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W7023ZCS8IYK4/W7023CHC8IYK4/W7023ZCS8IYK3",
+        "latest_official": "W7023ZCS8IYL1/W7023CHC8IYL1/W7023ZCS8IYL1",
         "test_firmwares": [
           {
             "firmware": "W7023ZCS8HYE2/W7023CHC8HYE2/W7023ZCS8HYE2",
@@ -29619,6 +29639,11 @@
             "firmware": "W7023ZCS8IYL1/W7023CHC8IYL1/W7023ZCS8IYL1",
             "md5": "a745ef6ecd4c5feafec735d6e4a3deed",
             "found_at": "2025-12-12T03:38:08.242396358+00:00"
+          },
+          {
+            "firmware": "W7023ZCS8IZA1/W7023CHC8IZA1/W7023ZCS8IZA1",
+            "md5": "36b78327b206495eb0c47f30e4282c89",
+            "found_at": "2026-01-16T14:43:56.493305493+00:00"
           }
         ]
       }
@@ -29628,7 +29653,7 @@
     "name": "心系天下 三星 W23",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W9023ZCS8IYK4/W9023CHC8IYK4/W9023ZCS8IYK3",
+        "latest_official": "W9023ZCS8IYL1/W9023CHC8IYL1/W9023ZCS8IYL1",
         "test_firmwares": [
           {
             "firmware": "W9023ZCS8HYE2/W9023CHC8HYE2/W9023ZCS8HYE2",
@@ -29824,6 +29849,11 @@
             "firmware": "W9023ZCS8IYL1/W9023CHC8IYL1/W9023ZCS8IYL1",
             "md5": "ab5da9eff83baf28740fe8240f3c8193",
             "found_at": "2025-12-12T08:48:23.569480891+00:00"
+          },
+          {
+            "firmware": "W9023ZCS8IZA1/W9023CHC8IZA1/W9023ZCS8IZA1",
+            "md5": "fdaa3495acfe0b69e58e79938b0ef42e",
+            "found_at": "2026-01-16T14:43:48.585560428+00:00"
           }
         ]
       }
@@ -30929,6 +30959,11 @@
             "firmware": "X356BXXU5CZA3/X356BOXM5CZA3/X356BXXU5CZA3",
             "md5": "81ccf4465b1d2d3625707247e236881c",
             "found_at": "2026-01-13T06:47:18.973748038+00:00"
+          },
+          {
+            "firmware": "X356BXXU5BZA5/X356BOXM5BZA5/X356BXXU5BZA5",
+            "md5": "6df3ec6459d935bbde44eafd87f59812",
+            "found_at": "2026-01-16T14:27:59.368084705+00:00"
           }
         ]
       }

@@ -23039,6 +23039,11 @@
             "firmware": "S9280ZCU4DZAA/S9280CHC4DZAA/S9280ZCU4DZAA",
             "md5": "357a877be871d9270d91737344232a84",
             "found_at": "2026-01-14T08:47:27.009481283+00:00"
+          },
+          {
+            "firmware": "S9280ZCS4CZA1/S9280CHC4CZA1/S9280ZCS4CZA1",
+            "md5": "5cccd574e2f29bbeb1e2a451ec33a91d",
+            "found_at": "2026-01-16T03:46:26.908686772+00:00"
           }
         ]
       }

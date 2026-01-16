@@ -2894,6 +2894,11 @@
             "firmware": "A3460ZHSBEYL1/A3460OZSBEYL1/A3460ZHSBEYL1",
             "md5": "52cf45f8669a9b30a774c7435a0b60d7",
             "found_at": "2025-12-23T08:39:52.992422935+00:00"
+          },
+          {
+            "firmware": "A3460ZHSCEYL2/A3460OZSCEYL2/A3460ZHSCEYL2",
+            "md5": "12db6a589047a4784f6e6301d6dd39aa",
+            "found_at": "2026-01-16T12:57:30.488209978+00:00"
           }
         ]
       }
@@ -4253,7 +4258,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5460ZCSGEYK3/A5460CHCGEYK3/A5460ZCSGEYK3",
+        "latest_official": "A5460ZCSGEYK7/A5460CHCGEYK7/A5460ZCSGEYK7",
         "test_firmwares": [
           {
             "firmware": "A5460ZCUFEYH2/A5460CHCFEYH2/A5460ZCUFEYH2",
@@ -4304,6 +4309,11 @@
             "firmware": "A5460ZCSGEYK7/A5460CHCGEYK7/A5460ZCSGEYK7",
             "md5": "d159f477af58c121ad313b552065daa3",
             "found_at": "2025-12-15T10:40:53.549513770+00:00"
+          },
+          {
+            "firmware": "A5460ZCSHEZA3/A5460CHCHEZA3/A5460ZCSHEZA3",
+            "md5": "7011335d3d262a00b6bde70ae554fbaa",
+            "found_at": "2026-01-16T13:04:20.151300642+00:00"
           }
         ]
       }
@@ -5343,7 +5353,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7210ZCS8IYK3/F7210CHC8IYK3/F7210ZCS8IYK3",
+        "latest_official": "F7210ZCS8IYL1/F7210CHC8IYL1/F7210ZCS8IYL1",
         "test_firmwares": [
           {
             "firmware": "F7210ZCS8HYE2/F7210CHC8HYE2/F7210ZCS8HYE2",
@@ -5529,6 +5539,11 @@
             "firmware": "F7210ZCS8IYL1/F7210CHC8IYL1/F7210ZCS8IYL1",
             "md5": "75b1f548c175f0f049c41f288999c7a5",
             "found_at": "2025-12-12T03:35:15.323625022+00:00"
+          },
+          {
+            "firmware": "F7210ZCS8IZA1/F7210CHC8IZA1/F7210ZCS8IZA1",
+            "md5": "0d5813467db1bd0c1c81687f174c7e9b",
+            "found_at": "2026-01-16T12:50:41.561864149+00:00"
           }
         ]
       }
@@ -9088,7 +9103,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9360ZCS8IYK3/F9360CHC8IYK3/F9360ZCS8IYK3",
+        "latest_official": "F9360ZCS8IYL1/F9360CHC8IYL1/F9360ZCS8IYL1",
         "test_firmwares": [
           {
             "firmware": "F9360ZCS8HYE2/F9360CHC8HYE2/F9360ZCS8HYE2",
@@ -9274,6 +9289,11 @@
             "firmware": "F9360ZCS8IYL1/F9360CHC8IYL1/F9360ZCS8IYL1",
             "md5": "1818669aa942d8346703f9a789ad2073",
             "found_at": "2025-12-12T08:46:27.344247818+00:00"
+          },
+          {
+            "firmware": "F9360ZCS8IZA1/F9360CHC8IZA1/F9360ZCS8IZA1",
+            "md5": "978c783e8a78806fc4d47540e34830e4",
+            "found_at": "2026-01-16T12:54:37.208524911+00:00"
           }
         ]
       }
@@ -13174,6 +13194,11 @@
             "firmware": "G766U1UEU5CZA3/G766U1OYM5CZA3/G766U1UEU5CZA3",
             "md5": "ab031e53a81691f1c071dd48b8f6d020",
             "found_at": "2026-01-08T12:59:47.486444196+00:00"
+          },
+          {
+            "firmware": "G766U1UEU5CZA4/G766U1OYM5CZA4/G766U1UEU5CZA4",
+            "md5": "20f3066987b033c59fb53949286366ce",
+            "found_at": "2026-01-16T12:49:07.763802854+00:00"
           }
         ]
       }
@@ -13528,7 +13553,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "G9900ZCSHIYK2/G9900CHCHIYK2/G9900ZCSHIYK2",
+        "latest_official": "G9900ZCSHIYL1/G9900CHCHIYL1/G9900ZCSHIYL1",
         "test_firmwares": [
           {
             "firmware": "G9900ZCSGHYI3/G9900CHCGHYI3/G9900ZCSGHYI3",
@@ -13574,11 +13599,16 @@
             "firmware": "G9900ZCSHIYL1/G9900CHCHIYL1/G9900ZCSHIYL1",
             "md5": "4dc6a0373304e35e1dfbb98006dba6d1",
             "found_at": "2025-12-12T10:29:45.674049487+00:00"
+          },
+          {
+            "firmware": "G9900ZCSIIZA1/G9900CHCIIZA1/G9900ZCSIIZA1",
+            "md5": "2e61fc5b54c3ed8c86048d0de4349da2",
+            "found_at": "2026-01-16T12:52:47.838301365+00:00"
           }
         ]
       },
       "TGY": {
-        "latest_official": "G9900ZHSHIYK2/G9900OZSHIYK2/G9900ZHSHIYK2",
+        "latest_official": "G9900ZHSHIYL1/G9900OZSHIYL1/G9900ZHSHIYL1",
         "test_firmwares": [
           {
             "firmware": "G9900ZHSGHYI3/G9900OZSGHYI3/G9900ZHSGHYI3",
@@ -13624,6 +13654,11 @@
             "firmware": "G9900ZHSHIYL1/G9900OZSHIYL1/G9900ZHSHIYL1",
             "md5": "940d9badc8b028b609c37e69797be9eb",
             "found_at": "2025-12-12T10:29:51.330265547+00:00"
+          },
+          {
+            "firmware": "G9900ZHSIIZA1/G9900OZSIIZA1/G9900ZHSIIZA1",
+            "md5": "5a3161a8ce2534b39431c8392ef10cbb",
+            "found_at": "2026-01-16T12:52:41.877069595+00:00"
           }
         ]
       }

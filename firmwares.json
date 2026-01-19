@@ -974,6 +974,11 @@
             "firmware": "A156BXXU8EZAA/A156BOXM8EZAA/A156BXXU8EZAA",
             "md5": "501dbe2b60d4d4f8892bc21ba5f53062",
             "found_at": "2026-01-13T12:51:58.040454268+00:00"
+          },
+          {
+            "firmware": "A156BXXS9DZA1/A156BOXM9DZA1/A156BXXS9DZA1",
+            "md5": "92528e46cac1579c886684eeaf6e95b7",
+            "found_at": "2026-01-19T06:43:10.846856437+00:00"
           }
         ]
       }

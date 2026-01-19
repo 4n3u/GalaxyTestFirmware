@@ -354,6 +354,11 @@
             "firmware": "A137FXXSBEYL4/A137FOXMBEYL4/A137FXXSBEYL4",
             "md5": "0bb29e2c24e57bf18e2ed5ce803cdad5",
             "found_at": "2025-12-25T10:25:22.453735908+00:00"
+          },
+          {
+            "firmware": "A137FXXSBEZA2/A137FOXMBEZA2/A137FXXSBEZA2",
+            "md5": "c0aff4e5318e93e7ec2fe6d39aa5746c",
+            "found_at": "2026-01-19T03:54:12.713623919+00:00"
           }
         ]
       }

@@ -5044,6 +5044,11 @@
             "firmware": "A566U1UEU5CZAA/A566U1OYM5CZAA/A566U1UEU5CZAA",
             "md5": "9abbc99a9e664689d32949e53e72eff0",
             "found_at": "2026-01-13T13:05:48.304672344+00:00"
+          },
+          {
+            "firmware": "A566U1UES5BZA7/A566U1OYM5BZA7/A566U1UES5BZA7",
+            "md5": "d82ab6e43afd24e5879e5cc3b6857a3b",
+            "found_at": "2026-01-19T10:43:54.014993344+00:00"
           }
         ]
       }
@@ -16774,6 +16779,11 @@
             "firmware": "S731USQS4AYL7/S731UOYN4AYL7/S731USQS4AYL7",
             "md5": "c965fd3d0b91428c56d5b89a627874c4",
             "found_at": "2026-01-15T03:56:14.211744059+00:00"
+          },
+          {
+            "firmware": "S731USQS4AYL9/S731UOYN4AYL9/S731USQS4AYL9",
+            "md5": "347c2d739a9b4d0af998cc9fef93c85b",
+            "found_at": "2026-01-19T10:43:57.906762487+00:00"
           }
         ]
       }
@@ -25258,7 +25268,7 @@
     "name": "Galaxy S25",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S931U1UES7BYJ8/S931U1OYM7BYJ8/S931U1UES7BYJ8",
+        "latest_official": "S931U1UES7BYLR/S931U1OYM7BYLR/S931U1UES7BYLR",
         "test_firmwares": [
           {
             "firmware": "S931U1UES5BYI7/S931U1OYM5BYI7/S931U1UES5BYI7",
@@ -25494,6 +25504,76 @@
             "firmware": "S931U1UEU7ZZAB/S931U1OYM7ZZAB/S931U1UEU7CZAB",
             "md5": "4c13e74f04139db0f6f8e0a0fd0077fb",
             "found_at": "2026-01-14T06:43:48.984871867+00:00"
+          },
+          {
+            "firmware": "S931U1UES7BYLP/S931U1OYM7BYLP/S931U1UES7BYLP",
+            "md5": "1e0ce052ea0364cbe059eeb86e96949b",
+            "found_at": "2026-01-19T10:43:02.396418532+00:00"
+          },
+          {
+            "firmware": "S931U1UES7BYLR/S931U1OYM7BYLR/S931U1UES7BYLR",
+            "md5": "be1afb9d1d0d1f637253cc20cef39386",
+            "found_at": "2026-01-19T10:43:02.397464304+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYL1/S931U1OYM7ZYL1/S931U1UEU7CYL1",
+            "md5": "19295d16bff429dc5ef0637015414281",
+            "found_at": "2026-01-19T10:43:04.696534649+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYL3/S931U1OYM7ZYL3/S931U1UEU7CYL3",
+            "md5": "4e328748cfe3f0744fd4b6eb4c99fa79",
+            "found_at": "2026-01-19T10:43:04.697364691+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYL5/S931U1OYM7ZYL5/S931U1UEU7CYL5",
+            "md5": "daa78e1f245068360e589230d6285fd9",
+            "found_at": "2026-01-19T10:43:04.698180632+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYL7/S931U1OYM7ZYL7/S931U1UEU7CYL7",
+            "md5": "0bba9404b0696c874803aba6422f3003",
+            "found_at": "2026-01-19T10:43:04.699002996+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYL8/S931U1OYM7ZYL8/S931U1UEU7CYL8",
+            "md5": "f59d697580ce3eecfadb55d1063c4a6e",
+            "found_at": "2026-01-19T10:43:04.699468628+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYLB/S931U1OYM7ZYLB/S931U1UEU7CYLB",
+            "md5": "97d39f93941521c32d8608f8db45b6e4",
+            "found_at": "2026-01-19T10:43:04.700813536+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYLD/S931U1OYM7ZYLD/S931U1UEU7CYLD",
+            "md5": "cb624ae2e86079bd9b20e705d61cb6a5",
+            "found_at": "2026-01-19T10:43:04.701698763+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYLF/S931U1OYM7ZYLF/S931U1UEU7CYLF",
+            "md5": "46c284fa4b5322682e77a4809a4faf7f",
+            "found_at": "2026-01-19T10:43:04.702558831+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYLH/S931U1OYM7ZYLH/S931U1UEU7CYLH",
+            "md5": "899101b655b30e3f61444ce4204bb589",
+            "found_at": "2026-01-19T10:43:04.703466497+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYLJ/S931U1OYM7ZYLJ/S931U1UEU7CYLJ",
+            "md5": "920b864406cc712fd7eb198b19e9645d",
+            "found_at": "2026-01-19T10:43:04.704467180+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYLL/S931U1OYM7ZYLL/S931U1UEU7CYLL",
+            "md5": "c15841ae28f6465343dbff2292ad67f6",
+            "found_at": "2026-01-19T10:43:04.705435351+00:00"
+          },
+          {
+            "firmware": "S931U1UEU7ZYLN/S931U1OYM7ZYLN/S931U1UEU7CYLN",
+            "md5": "a0dbe730f3c48b216f9a4a8f3430242d",
+            "found_at": "2026-01-19T10:43:04.706431181+00:00"
           }
         ]
       }
@@ -28078,7 +28158,7 @@
     "name": "Galaxy S25 Edge",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S937U1UES4BYJ8/S937U1OYM4BYJ8/S937U1UES4BYJ8",
+        "latest_official": "S937U1UES4BYLR/S937U1OYM4BYLR/S937U1UES4BYLR",
         "test_firmwares": [
           {
             "firmware": "S937U1UES2BYI7/S937U1OYM2BYI7/S937U1UES2BYI7",
@@ -28259,6 +28339,76 @@
             "firmware": "S937U1UEU4CZAB/S937U1OYM4CZAB/S937U1UEU4CZAB",
             "md5": "34602d273487073c471be95f63163d48",
             "found_at": "2026-01-14T06:44:28.308407752+00:00"
+          },
+          {
+            "firmware": "S937U1UES4BYLP/S937U1OYM4BYLP/S937U1UES4BYLP",
+            "md5": "75fcab6554bf0a9949666e5779f650cd",
+            "found_at": "2026-01-19T10:43:40.384190749+00:00"
+          },
+          {
+            "firmware": "S937U1UES4BYLR/S937U1OYM4BYLR/S937U1UES4BYLR",
+            "md5": "736fce436bbf3658a432f8b3425dbfe7",
+            "found_at": "2026-01-19T10:43:40.385236995+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYL1/S937U1OYM4CYL1/S937U1UEU4CYL1",
+            "md5": "f92df2a794906e5ed8468d201fc23bed",
+            "found_at": "2026-01-19T10:43:42.812877802+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYL3/S937U1OYM4CYL3/S937U1UEU4CYL3",
+            "md5": "d767efb0017ebae1d05ba8ee23780ab6",
+            "found_at": "2026-01-19T10:43:42.813716768+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYL5/S937U1OYM4CYL5/S937U1UEU4CYL5",
+            "md5": "d954fc2ab1a5f1e27707c1de852db4b2",
+            "found_at": "2026-01-19T10:43:42.814531267+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYL7/S937U1OYM4CYL7/S937U1UEU4CYL7",
+            "md5": "6c8c726d6c24fcf25e2431fc3f5679fc",
+            "found_at": "2026-01-19T10:43:42.815319028+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYL8/S937U1OYM4CYL8/S937U1UEU4CYL8",
+            "md5": "e5823ad553626d91d352e437ab1fa47b",
+            "found_at": "2026-01-19T10:43:42.815753987+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYLB/S937U1OYM4CYLB/S937U1UEU4CYLB",
+            "md5": "f865cdeae0edb7875836786299f13d6f",
+            "found_at": "2026-01-19T10:43:42.816964977+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYLD/S937U1OYM4CYLD/S937U1UEU4CYLD",
+            "md5": "62cea1fd38568f0a8bbb84697a90bf27",
+            "found_at": "2026-01-19T10:43:42.817772214+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYLF/S937U1OYM4CYLF/S937U1UEU4CYLF",
+            "md5": "086d8d11d91bb3dd4f5f012a26c3501e",
+            "found_at": "2026-01-19T10:43:42.818594289+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYLH/S937U1OYM4CYLH/S937U1UEU4CYLH",
+            "md5": "b50df54e21e7b7877aaaedb0a2790676",
+            "found_at": "2026-01-19T10:43:42.819579066+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYLJ/S937U1OYM4CYLJ/S937U1UEU4CYLJ",
+            "md5": "8c4d30bf90dd842e0125a28bf6d46309",
+            "found_at": "2026-01-19T10:43:42.820504702+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYLL/S937U1OYM4CYLL/S937U1UEU4CYLL",
+            "md5": "941be525f07df5b40c59a1465214b2e8",
+            "found_at": "2026-01-19T10:43:42.821440406+00:00"
+          },
+          {
+            "firmware": "S937U1UEU4CYLN/S937U1OYM4CYLN/S937U1UEU4CYLN",
+            "md5": "76f8fbaad771a232c74ae60802c25ae3",
+            "found_at": "2026-01-19T10:43:42.822410928+00:00"
           }
         ]
       }
@@ -34539,6 +34689,11 @@
             "firmware": "X828USQU5DZA2/X828UOYN5DZA2/X828USQU5DZA2",
             "md5": "974ba4b7d3d6abcc0c561188eace430e",
             "found_at": "2026-01-13T20:30:25.334143680+00:00"
+          },
+          {
+            "firmware": "X828USQS6CZA3/X828UOYN6CZA3/X828USQS6CZA3",
+            "md5": "7d840b0131472aa01df1ec965a6c1092",
+            "found_at": "2026-01-19T10:34:04.665860267+00:00"
           }
         ]
       }

@@ -1104,6 +1104,11 @@
             "firmware": "A156USQU8EZAA/A156UOYN8EZAA/A156USQU8EZAA",
             "md5": "d1f6a3d6b7c9a874794152a047d78b69",
             "found_at": "2026-01-13T12:52:08.079407674+00:00"
+          },
+          {
+            "firmware": "A156USQS9DZA1/A156UOYN9DZA1/A156USQS9DZA1",
+            "md5": "fcef4f5f739d717605ed72acf1cc8416",
+            "found_at": "2026-01-19T14:31:52.984310906+00:00"
           }
         ]
       }
@@ -14114,6 +14119,11 @@
             "firmware": "M135FXXSCEYK1/M135FOXMCEYK1/M135FXXSCEYK1",
             "md5": "a2263e9bc0a17ed452f665a719008b07",
             "found_at": "2025-12-01T10:24:38.563739105+00:00"
+          },
+          {
+            "firmware": "M135FXXSDEZA1/M135FOXMDEZA1/M135FXXSDEZA1",
+            "md5": "a103e4594c0c1177bef5d59b9b4fad29",
+            "found_at": "2026-01-19T14:28:37.670499043+00:00"
           }
         ]
       }

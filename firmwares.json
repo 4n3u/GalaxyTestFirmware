@@ -184,6 +184,11 @@
             "firmware": "A135FXXSDEYJ1/A135FOXMDEYJ1/A135FXXSDEYJ1",
             "md5": "5e99da45bd773f604b3bd06b2e84696b",
             "found_at": "2025-11-27T12:44:34.625568410+00:00"
+          },
+          {
+            "firmware": "A135FXXSEEZA1/A135FOXMEEZA1/A135FXXSEEZA1",
+            "md5": "233d42d7b6bebe625c578e34ea9c1a4f",
+            "found_at": "2026-01-19T12:53:11.125534138+00:00"
           }
         ]
       }
@@ -32159,6 +32164,11 @@
             "firmware": "X518USQSBDZA3/X518UOYNBDZA3/X518USQSBDZA3",
             "md5": "b2ae9fbea628038145edc1193c8554ee",
             "found_at": "2026-01-15T12:55:44.660782595+00:00"
+          },
+          {
+            "firmware": "X518USQSBDZA5/X518UOYNBDZA5/X518USQSBDZA5",
+            "md5": "2a785ee7a20acbdebbea9381bb79ab8a",
+            "found_at": "2026-01-19T13:06:28.319058402+00:00"
           }
         ]
       }

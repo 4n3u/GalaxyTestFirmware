@@ -1894,6 +1894,11 @@
             "firmware": "A175FXXS3BZA5/A175FOXM3BZA5/A175FXXS3BZA5",
             "md5": "0a7bf0b2cba0b4c47d3b61e0bbd8dc7d",
             "found_at": "2026-01-15T08:38:15.615993799+00:00"
+          },
+          {
+            "firmware": "A175FXXU3CZA6/A175FOXM3CZA6/A175FXXU3CZA6",
+            "md5": "f605e92e04d65e69f5e564c58936294a",
+            "found_at": "2026-01-20T16:41:13.713611287+00:00"
           }
         ]
       }
@@ -31894,6 +31899,11 @@
             "firmware": "X308UUES9CZA3/X308UOYM9CZA3/X308UUES9CZA3",
             "md5": "47d38107a19a48c9313ec87f618a4a8c",
             "found_at": "2026-01-19T08:36:50.531284967+00:00"
+          },
+          {
+            "firmware": "X308UUEU9DZA4/X308UOYM9DZA4/X308UUEU9DZA4",
+            "md5": "71520ddcb8da2d27ba2007b7bb8f15da",
+            "found_at": "2026-01-20T16:45:04.606998885+00:00"
           }
         ]
       }
@@ -35189,6 +35199,11 @@
             "firmware": "X828USQS6CZA3/X828UOYN6CZA3/X828USQS6CZA3",
             "md5": "7d840b0131472aa01df1ec965a6c1092",
             "found_at": "2026-01-19T10:34:04.665860267+00:00"
+          },
+          {
+            "firmware": "X828USQU6DZA4/X828UOYN6DZA4/X828USQU6DZA4",
+            "md5": "fa31cb24773563b76d9b8061ace84e01",
+            "found_at": "2026-01-20T16:46:56.198172324+00:00"
           }
         ]
       }

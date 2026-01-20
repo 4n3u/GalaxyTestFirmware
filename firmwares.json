@@ -9934,6 +9934,11 @@
             "firmware": "F936USQU8JZAA/F936UOYN8JZAA/F936USQU8JZAA",
             "md5": "b9cae8afa4422173bda8794653d2d4ed",
             "found_at": "2026-01-14T05:00:52.419559161+00:00"
+          },
+          {
+            "firmware": "F936USQU8JZAD/F936UOYN8JZAD/F936USQU8JZAD",
+            "md5": "4958cd8327cbb7c3f59e8e1c98406fdf",
+            "found_at": "2026-01-20T10:35:31.726975859+00:00"
           }
         ]
       }
@@ -17154,6 +17159,11 @@
             "firmware": "S731U1UEU4BZAA/S731U1OYM4BZAA/S731U1UEU4BZAA",
             "md5": "a33cbea7448ca9c34ce7715afecc6d38",
             "found_at": "2026-01-13T13:03:03.197597753+00:00"
+          },
+          {
+            "firmware": "S731U1UEU4BZAD/S731U1OYM4BZAD/S731U1UEU4BZAD",
+            "md5": "0d4bce621eb57d3846e58cee62181e27",
+            "found_at": "2026-01-20T10:38:23.785802217+00:00"
           }
         ]
       }
@@ -23244,6 +23254,11 @@
             "firmware": "S926USQU4DZAA/S926UOYN4DZAA/S926USQU4DZAA",
             "md5": "52cc1fa4f943e537573000cf4d63efb5",
             "found_at": "2026-01-13T14:33:47.933483510+00:00"
+          },
+          {
+            "firmware": "S926USQU4DZAD/S926UOYN4DZAD/S926USQU4DZAD",
+            "md5": "0909f1b59d06dbbe98f2da9eb6a763ff",
+            "found_at": "2026-01-20T10:40:58.729999787+00:00"
           }
         ]
       }
@@ -31914,6 +31929,11 @@
             "firmware": "X356BXXU5BZA5/X356BOXM5BZA5/X356BXXU5BZA5",
             "md5": "6df3ec6459d935bbde44eafd87f59812",
             "found_at": "2026-01-16T14:27:59.368084705+00:00"
+          },
+          {
+            "firmware": "X356BXXU5CZA6/X356BOXM5CZA6/X356BXXU5CZA6",
+            "md5": "044938ca5f42bfa8b61180104df47b77",
+            "found_at": "2026-01-20T10:31:32.367805723+00:00"
           }
         ]
       }
@@ -33999,6 +34019,11 @@
             "firmware": "X736CZCU4AZA3/X736CCHC4AZA3/X736CZCU4AZA3",
             "md5": "d9c481bd574b3e71e0ca1045c5af4eee",
             "found_at": "2026-01-15T06:49:45.011912764+00:00"
+          },
+          {
+            "firmware": "X736CZCU4AZA6/X736CCHC4AZA6/X736CZCU4AZA6",
+            "md5": "e0732f94c706a7ee05322a8f95ab3e88",
+            "found_at": "2026-01-20T10:33:30.018615806+00:00"
           }
         ]
       }
@@ -34939,6 +34964,11 @@
             "firmware": "X826BXXS6CZA3/X826BOXM6CZA3/X826BXXS6CZA3",
             "md5": "c1a898a17287c4960f2102e4c51c27dc",
             "found_at": "2026-01-14T10:30:54.576246113+00:00"
+          },
+          {
+            "firmware": "X826BXXU6DZA4/X826BOXM6DZA4/X826BXXU6DZA4",
+            "md5": "4f14d356416fdfb94ee9812319586ba5",
+            "found_at": "2026-01-20T10:33:06.047113049+00:00"
           }
         ]
       }
@@ -35889,6 +35919,11 @@
             "firmware": "X926BXXS6CZA3/X926BOXM6CZA3/X926BXXS6CZA3",
             "md5": "97d5b225aebd1fe5812277212f0b1a92",
             "found_at": "2026-01-14T12:59:15.065805470+00:00"
+          },
+          {
+            "firmware": "X926BXXU6DZA4/X926BOXM6DZA4/X926BXXU6DZA4",
+            "md5": "fb5f117def3b11d4f6160f798918296e",
+            "found_at": "2026-01-20T10:32:48.282566458+00:00"
           }
         ]
       }
@@ -36014,6 +36049,11 @@
             "firmware": "X936BXXU4AZA3/X936BOXM4AZA3/X936BXXU4AZA3",
             "md5": "bd1ddc5d93b6000d2ee443b8fb82bef0",
             "found_at": "2026-01-14T06:41:21.033403012+00:00"
+          },
+          {
+            "firmware": "X936BXXU4AZA6/X936BOXM4AZA6/X936BXXU4AZA6",
+            "md5": "35e35f8bba54772e6eee5c83d2630599",
+            "found_at": "2026-01-20T10:33:41.943153232+00:00"
           }
         ]
       }
@@ -36059,6 +36099,11 @@
             "firmware": "X936CZCU4AZA3/X936CCHC4AZA3/X936CZCU4AZA3",
             "md5": "0d4ad72f3541039aa1051ff43c2ecd74",
             "found_at": "2026-01-15T06:50:03.420775119+00:00"
+          },
+          {
+            "firmware": "X936CZCU4AZA6/X936CCHC4AZA6/X936CZCU4AZA6",
+            "md5": "4f2e8091c0cdca17ef0ceec23dc0fde8",
+            "found_at": "2026-01-20T10:33:46.995065114+00:00"
           }
         ]
       }

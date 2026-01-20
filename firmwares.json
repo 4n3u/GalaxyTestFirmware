@@ -6933,7 +6933,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F741BXXS2CYK6/F741BOXM2CYI6/F741BXXU2CYI6",
+        "latest_official": "F741BXXS2CYL5/F741BOXM2CYI6/F741BXXS2CYL5",
         "test_firmwares": [
           {
             "firmware": "F741BXXU2CYB7/F741BOXM2CYB7/F741BXXU2CYB7",
@@ -7159,6 +7159,11 @@
             "firmware": "F741BXXU2DZAA/F741BOXM2DZAA/F741BXXU2DZAA",
             "md5": "474ae80700d735d14bce727ef2efffd3",
             "found_at": "2026-01-13T06:54:29.233566509+00:00"
+          },
+          {
+            "firmware": "F741BXXU2DZAD/F741BOXM2DZAD/F741BXXU2DZAD",
+            "md5": "e22ceaf2029982a0eb829ef1b9deb503",
+            "found_at": "2026-01-20T04:59:54.578664371+00:00"
           }
         ]
       }
@@ -7678,7 +7683,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F741U1UES2CYK6/F741U1OYM2CYK6/F741U1UES2CYK6",
+        "latest_official": "F741U1UES2CYL5/F741U1OYM2CYL5/F741U1UES2CYL5",
         "test_firmwares": [
           {
             "firmware": "F741U1UES2CYIB/F741U1OYM2CYIB/F741U1UES2CYIB",
@@ -7819,6 +7824,11 @@
             "firmware": "F741U1UEU2DZAA/F741U1OYM2DZAA/F741U1UEU2DZAA",
             "md5": "191b21d64dff662d5826ac290084d46d",
             "found_at": "2026-01-13T06:54:41.460069289+00:00"
+          },
+          {
+            "firmware": "F741U1UEU2DZAD/F741U1OYM2DZAD/F741U1UEU2DZAD",
+            "md5": "0f9f682bb4609181ac675f4bd72cad44",
+            "found_at": "2026-01-20T05:00:07.669941645+00:00"
           }
         ]
       }
@@ -8099,6 +8109,11 @@
             "firmware": "F761BXXU7BZAA/F761BOXM7BZAA/F761BXXU7BZAA",
             "md5": "cfe98bcc43ecb53c55f2fce8060d4332",
             "found_at": "2026-01-13T05:02:36.782232916+00:00"
+          },
+          {
+            "firmware": "F761BXXU7BZAD/F761BOXM7BZAD/F761BXXU7BZAD",
+            "md5": "d9aa41f90cca761f061e89867fdc4df7",
+            "found_at": "2026-01-20T05:00:44.487585196+00:00"
           }
         ]
       }
@@ -8239,6 +8254,11 @@
             "firmware": "F761NKSU7BZAA/F761NOKR7BZAA/F761NKSU7BZAA",
             "md5": "a61d5317dc398f94d8fcbf9152e567dc",
             "found_at": "2026-01-13T05:02:42.248037089+00:00"
+          },
+          {
+            "firmware": "F761NKSU7BZAD/F761NOKR7BZAD/F761NKSU7BZAD",
+            "md5": "f898f919db197ca10cfc8b9236032e9c",
+            "found_at": "2026-01-20T05:00:49.233903072+00:00"
           }
         ]
       }
@@ -8739,6 +8759,11 @@
             "firmware": "F766NKSU7BZAA/F766NOKR7BZAA/F766NKSU7BZAA",
             "md5": "b7f5569b228af62ccc835c02e3f1a61b",
             "found_at": "2026-01-13T06:55:03.121626671+00:00"
+          },
+          {
+            "firmware": "F766NKSU7BZAD/F766NOKR7BZAD/F766NKSU7BZAD",
+            "md5": "33a29de4fddb5bf2ad431a53a565588f",
+            "found_at": "2026-01-20T05:00:26.674068034+00:00"
           }
         ]
       }
@@ -8913,7 +8938,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F766U1UES6AYKF/F766U1OYM6AYKF/F766U1UES6AYKF",
+        "latest_official": "F766U1UES7AZA1/F766U1OYM7AZA1/F766U1UES7AZA1",
         "test_firmwares": [
           {
             "firmware": "F766U1UES5AYI5/F766U1OYM5AYI5/F766U1UES5AYI5",
@@ -9009,6 +9034,11 @@
             "firmware": "F766U1UEU7BZAA/F766U1OYM7BZAA/F766U1UEU7BZAA",
             "md5": "76d6e789d780035df2389eb4dbfd0c0e",
             "found_at": "2026-01-13T06:55:12.826109875+00:00"
+          },
+          {
+            "firmware": "F766U1UEU7BZAD/F766U1OYM7BZAD/F766U1UEU7BZAD",
+            "md5": "2d48f077770ed8f4fb1357cd18377569",
+            "found_at": "2026-01-20T05:00:31.736042409+00:00"
           }
         ]
       }
@@ -11523,7 +11553,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F956U1UES2CYK6/F956U1OYM2CYK6/F956U1UES2CYK6",
+        "latest_official": "F956U1UES2CYL5/F956U1OYM2CYL5/F956U1UES2CYL5",
         "test_firmwares": [
           {
             "firmware": "F956U1UES2CYIB/F956U1OYM2CYIB/F956U1UES2CYIB",
@@ -11674,6 +11704,11 @@
             "firmware": "F956U1UEU2DZAA/F956U1OYM2DZAA/F956U1UEU2DZAA",
             "md5": "5a4daf300006e73e941b4cfb4f4975a5",
             "found_at": "2026-01-13T06:54:51.058117221+00:00"
+          },
+          {
+            "firmware": "F956U1UEU2DZAD/F956U1OYM2DZAD/F956U1UEU2DZAD",
+            "md5": "cee5898e569535d132bbe496e4ea1ed1",
+            "found_at": "2026-01-20T04:59:59.707848535+00:00"
           }
         ]
       }
@@ -12443,7 +12478,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F966U1UES6AYKF/F966U1OYM6AYKF/F966U1UES6AYKF",
+        "latest_official": "F966U1UES7AZA1/F966U1OYM7AZA1/F966U1UES7AZA1",
         "test_firmwares": [
           {
             "firmware": "F966U1UES5AYI5/F966U1OYM5AYI5/F966U1UES5AYI5",
@@ -12539,6 +12574,11 @@
             "firmware": "F966U1UEU7BZAA/F966U1OYM7BZAA/F966U1UEU7BZAA",
             "md5": "f93a6d759619424fdb6769fb441a3a1b",
             "found_at": "2026-01-13T06:55:11.013262747+00:00"
+          },
+          {
+            "firmware": "F966U1UEU7BZAD/F966U1OYM7BZAD/F966U1UEU7BZAD",
+            "md5": "13bd374a268e7596a2f5ec78ad704dd6",
+            "found_at": "2026-01-20T05:00:22.548670139+00:00"
           }
         ]
       }
@@ -22184,6 +22224,11 @@
             "firmware": "S921BXXUCDZAA/S921BOXMCDZAA/S921BXXUCDZAA",
             "md5": "0388405aad949191ddd57c01762137eb",
             "found_at": "2026-01-13T13:01:49.247868058+00:00"
+          },
+          {
+            "firmware": "S921BXXUCDZAD/S921BOXMCDZAD/S921BXXUCDZAD",
+            "md5": "5cd82e1d739f83699809f0444530c71c",
+            "found_at": "2026-01-20T04:56:23.599832358+00:00"
           }
         ]
       }
@@ -22839,6 +22884,11 @@
             "firmware": "S926BXXUCDZAA/S926BOXMCDZAA/S926BXXUCDZAA",
             "md5": "288281f17fe56072b92dc70e144f693a",
             "found_at": "2026-01-13T13:03:49.633301652+00:00"
+          },
+          {
+            "firmware": "S926BXXUCDZAD/S926BOXMCDZAD/S926BXXUCDZAD",
+            "md5": "f4fbf8f74fc10ec5d31a03c616f4beaa",
+            "found_at": "2026-01-20T04:57:46.410416085+00:00"
           }
         ]
       }
@@ -25939,6 +25989,11 @@
             "firmware": "S9360ZCS8BZA1/S9360CHC8BZA1/S9360ZCS8BZA1",
             "md5": "4a48ee9c2fc855b690d254598d6c9ce1",
             "found_at": "2026-01-13T13:03:54.639026757+00:00"
+          },
+          {
+            "firmware": "S9360ZCU8CZAD/S9360CHC8CZAD/S9360ZCU8CZAD",
+            "md5": "56409333658e3f6ad74c93243f5a1b17",
+            "found_at": "2026-01-20T04:56:47.171511106+00:00"
           }
         ]
       }
@@ -28824,6 +28879,11 @@
             "firmware": "S9380ZCS8BZA1/S9380CHC8BZA1/S9380ZCS8BZA1",
             "md5": "4e748dd6812a41385b0b14dfc71bb550",
             "found_at": "2026-01-13T10:38:23.007325930+00:00"
+          },
+          {
+            "firmware": "S9380ZCU8CZAD/S9380CHC8CZAD/S9380ZCU8CZAD",
+            "md5": "30ab235ee88cbd9fc485a7a49b73461e",
+            "found_at": "2026-01-20T04:56:12.310947291+00:00"
           }
         ]
       }

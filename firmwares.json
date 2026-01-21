@@ -3209,6 +3209,11 @@
             "firmware": "A356BXXU8DZAA/A356BOXM8DZAA/A356BXXU8DZAA",
             "md5": "5a9efd26c8447c06eace6c5659db2b7a",
             "found_at": "2026-01-15T06:42:01.988319083+00:00"
+          },
+          {
+            "firmware": "A356BXXU8DZAD/A356BOXM8DZAD/A356BXXU8DZAD",
+            "md5": "e2d3810acfd52d88a669cb444434a1f9",
+            "found_at": "2026-01-21T16:47:41.756535693+00:00"
           }
         ]
       }
@@ -31929,6 +31934,11 @@
             "firmware": "X306BXXU9DZA4/X306BOXM9DZA4/X306BXXU9DZA4",
             "md5": "872eb19d713e620f650286903fb4a02f",
             "found_at": "2026-01-15T16:45:11.940655724+00:00"
+          },
+          {
+            "firmware": "X306BXXU9DZA5/X306BOXM9DZA5/X306BXXU9DZA5",
+            "md5": "15f3a37d139436c53171092492772a9e",
+            "found_at": "2026-01-21T16:56:49.071898569+00:00"
           }
         ]
       }

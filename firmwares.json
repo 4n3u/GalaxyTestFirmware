@@ -13298,7 +13298,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G766BXXS4BYL1/G766BOXM4BYL1/G766BXXS4BYL1",
+        "latest_official": "G766BXXS5BZA1/G766BOXM5BZA1/G766BXXS5BZA1",
         "test_firmwares": [
           {
             "firmware": "G766BXXS3AYI1/G766BOXM3AYI1/G766BXXS3AYI1",
@@ -13384,6 +13384,11 @@
             "firmware": "G766BXXU5CZA3/G766BOXM5CZA3/G766BXXU5CZA3",
             "md5": "faca787a61cd26fe204be6ffba12f4a5",
             "found_at": "2026-01-15T14:40:32.043373795+00:00"
+          },
+          {
+            "firmware": "G766BXXU5CZA4/G766BOXM5CZA4/G766BXXU5CZA4",
+            "md5": "a786f5da370ef1cb999e45889908141b",
+            "found_at": "2026-01-21T14:47:13.726514267+00:00"
           }
         ]
       }
@@ -31383,7 +31388,7 @@
     "name": "Galaxy Tab A9+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X216BXXU9EYKG/X216BOXM9EYKG/X216BXXU9EYKG",
+        "latest_official": "X216BXXU9EYLC/X216BOXM9EYLC/X216BXXU9EYLC",
         "test_firmwares": [
           {
             "firmware": "X216BXXS8DYH1/X216BOXM8DYH1/X216BXXS8DYH1",
@@ -31489,6 +31494,11 @@
             "firmware": "X216BXXSAEZA1/X216BOXMAEZA1/X216BXXSAEZA1",
             "md5": "2289af5dd9452d5d15d143cc54e6d9aa",
             "found_at": "2026-01-12T06:39:44.823092204+00:00"
+          },
+          {
+            "firmware": "X216BXXUAEZAA/X216BOXMAEZAA/X216BXXUAEZAA",
+            "md5": "c03c301d1cc5ea5af77b315023d3496b",
+            "found_at": "2026-01-21T14:41:51.159250542+00:00"
           }
         ]
       }
@@ -31598,7 +31608,7 @@
     "name": "Galaxy Tab A9+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X216RXXU4BYKG/X216ROXM4BYKG/X216RXXU4BYKG",
+        "latest_official": "X216RXXU4BYLC/X216ROXM4BYLC/X216RXXU4BYLC",
         "test_firmwares": [
           {
             "firmware": "X216RXXS4AYI1/X216ROXM4AYI1/X216RXXS4AYI1",
@@ -31679,6 +31689,11 @@
             "firmware": "X216RXXS5BZA1/X216ROXM5BZA1/X216RXXS5BZA1",
             "md5": "0f6d15bfa60b3370c840fe495c58e939",
             "found_at": "2026-01-12T06:39:57.664935480+00:00"
+          },
+          {
+            "firmware": "X216RXXU5BZAA/X216ROXM5BZAA/X216RXXU5BZAA",
+            "md5": "491d57a5e4685dcaa3156703343a272b",
+            "found_at": "2026-01-21T14:42:04.058443081+00:00"
           }
         ]
       }
@@ -32129,6 +32144,11 @@
             "firmware": "X356BXXU5CZA6/X356BOXM5CZA6/X356BXXU5CZA6",
             "md5": "044938ca5f42bfa8b61180104df47b77",
             "found_at": "2026-01-20T10:31:32.367805723+00:00"
+          },
+          {
+            "firmware": "X356BXXU5BZA7/X356BOXM5BZA7/X356BXXU5BZA7",
+            "md5": "ac515f853743eda00a1a30287378608b",
+            "found_at": "2026-01-21T14:42:41.147002867+00:00"
           }
         ]
       }

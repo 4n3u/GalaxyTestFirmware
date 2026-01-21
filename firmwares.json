@@ -22388,7 +22388,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S921NKSSBCYL1/S921NOKRBCYL1/S921NKSSBCYL1",
+        "latest_official": "S921NKSSCCZA1/S921NOKRCCZA1/S921NKSSCCZA1",
         "test_firmwares": [
           {
             "firmware": "S921NKSS9BYG6/S921NOKR9BYG6/S921NKSS9BYG6",
@@ -22489,6 +22489,11 @@
             "firmware": "S921NKSUCDZAA/S921NOKRCDZAA/S921NKSUCDZAA",
             "md5": "f845086b617a3a1963fe2899b98ff409",
             "found_at": "2026-01-14T04:00:14.877918522+00:00"
+          },
+          {
+            "firmware": "S921NKSUCDZAD/S921NOKRCDZAD/S921NKSUCDZAD",
+            "md5": "5b3e5899d309b8c715fd33ec417dfc33",
+            "found_at": "2026-01-21T01:52:53.483299279+00:00"
           }
         ]
       }
@@ -23058,7 +23063,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S926NKSSBCYL1/S926NOKRBCYL1/S926NKSSBCYL1",
+        "latest_official": "S926NKSSCCZA1/S926NOKRCCZA1/S926NKSSCCZA1",
         "test_firmwares": [
           {
             "firmware": "S926NKSS9BYG6/S926NOKR9BYG6/S926NKSS9BYG6",
@@ -23159,6 +23164,11 @@
             "firmware": "S926NKSUCDZAA/S926NOKRCDZAA/S926NKSUCDZAA",
             "md5": "a145873c2a24c0497f90c30fa81e0d38",
             "found_at": "2026-01-14T04:01:55.730484289+00:00"
+          },
+          {
+            "firmware": "S926NKSUCDZAD/S926NOKRCDZAD/S926NKSUCDZAD",
+            "md5": "0985b02e0f911670b192a120a3842abc",
+            "found_at": "2026-01-21T01:54:15.438311179+00:00"
           }
         ]
       }
@@ -23778,7 +23788,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S928NKSS4CYL1/S928NOKR4CYL1/S928NKSU4CYI3",
+        "latest_official": "S928NKSS4CZA1/S928NOKR4CZA1/S928NKSU4CYI3",
         "test_firmwares": [
           {
             "firmware": "S928NKSS4BYDF/S928NOKR4BYDF/S928NKSS4BYDF",
@@ -24059,6 +24069,11 @@
             "firmware": "S928NKSU4DZAA/S928NOKR4DZAA/S928NKSU4DZAA",
             "md5": "4586215e55d766db7630ffbacee56319",
             "found_at": "2026-01-14T04:01:04.209570489+00:00"
+          },
+          {
+            "firmware": "S928NKSU4DZAD/S928NOKR4DZAD/S928NKSU4DZAD",
+            "md5": "873604a7ea69fe374a804141715c2524",
+            "found_at": "2026-01-21T01:53:34.393511480+00:00"
           }
         ]
       }

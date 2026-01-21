@@ -5004,6 +5004,11 @@
             "firmware": "A566BXXU8CZAD/A566BOXM8CZAD/A566BXXU8CZAD",
             "md5": "0e3afa0b975c834cb38681f3d9ecd1e6",
             "found_at": "2026-01-20T06:42:37.732065847+00:00"
+          },
+          {
+            "firmware": "A566BXXU8BZAE/A566BOXM8BZAE/A566BXXU8BZAE",
+            "md5": "3deea0006144323dcbeaf00a572208e9",
+            "found_at": "2026-01-21T06:51:17.524522416+00:00"
           }
         ]
       }
@@ -5774,6 +5779,11 @@
             "firmware": "F721BXXUAJZAA/F721BOXMAJZAA/F721BXXUAJZAA",
             "md5": "03c3b418d97dba3f9020c4698bc1dfcf",
             "found_at": "2026-01-14T06:48:19.366466562+00:00"
+          },
+          {
+            "firmware": "F721BXXUAJZAD/F721BOXMAJZAD/F721BXXUAJZAD",
+            "md5": "691edf3ec4c65219d7620ae6e976b6c8",
+            "found_at": "2026-01-21T06:48:41.963064167+00:00"
           }
         ]
       }
@@ -9624,6 +9634,11 @@
             "firmware": "F936BXXUAJZAA/F936BOXMAJZAA/F936BXXUAJZAA",
             "md5": "74810fa569382862b55623abb13b8dca",
             "found_at": "2026-01-14T06:51:14.762227077+00:00"
+          },
+          {
+            "firmware": "F936BXXUAJZAD/F936BOXMAJZAD/F936BXXUAJZAD",
+            "md5": "baced4e38f7d3174e3865524cb580661",
+            "found_at": "2026-01-21T06:51:10.593526989+00:00"
           }
         ]
       }
@@ -34144,6 +34159,11 @@
             "firmware": "X736BXXU4AZA6/X736BOXM4AZA6/X736BXXU4AZA6",
             "md5": "b3c318dd7dab8392c531833af94d3d3f",
             "found_at": "2026-01-20T12:56:13.519347898+00:00"
+          },
+          {
+            "firmware": "X736BXXU4AZA7/X736BOXM4AZA7/X736BXXU4AZA7",
+            "md5": "1be7888f96339d26092a7244218db3ee",
+            "found_at": "2026-01-21T06:41:58.370378803+00:00"
           }
         ]
       }

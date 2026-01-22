@@ -1799,6 +1799,11 @@
             "firmware": "A166U1UEU5DZAD/A166U1OYM5DZAD/A166U1UEU5DZAD",
             "md5": "dafa811864cb0d582fee05c37138803d",
             "found_at": "2026-01-22T08:38:21.298182908+00:00"
+          },
+          {
+            "firmware": "A166U1UES5CZA8/A166U1OYM5CZA8/A166U1UES5CZA8",
+            "md5": "fb57302e31e3bc67bb2fde275124809b",
+            "found_at": "2026-01-22T18:39:13.368684741+00:00"
           }
         ]
       }
@@ -33384,6 +33389,11 @@
             "firmware": "X518USQSBDZA5/X518UOYNBDZA5/X518USQSBDZA5",
             "md5": "2a785ee7a20acbdebbea9381bb79ab8a",
             "found_at": "2026-01-19T13:06:28.319058402+00:00"
+          },
+          {
+            "firmware": "X518USQUBDZA7/X518UOYNBDZA7/X518USQUBDZA7",
+            "md5": "4929775bb05060f0bb5c847a5a5023fe",
+            "found_at": "2026-01-22T18:41:16.650952106+00:00"
           }
         ]
       }

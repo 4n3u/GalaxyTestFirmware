@@ -2124,6 +2124,11 @@
             "firmware": "A176BXXS4BZA3/A176BOXM4BZA3/A176BXXS4BZA3",
             "md5": "7455d924b8b4ff582a3ab880059fb4fa",
             "found_at": "2026-01-22T08:38:46.783896712+00:00"
+          },
+          {
+            "firmware": "A176BXXS4BZA5/A176BOXM4BZA5/A176BXXS4BZA5",
+            "md5": "f79a7d613181cfb2c4b8d92b2ee74f15",
+            "found_at": "2026-01-22T16:42:52.611935778+00:00"
           }
         ]
       }

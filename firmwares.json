@@ -559,6 +559,11 @@
             "firmware": "A146PXXSGEZA2/A146POXMGEZA2/A146PXXSGEZA1",
             "md5": "813d632cbbefefbef252e56e2ef80363",
             "found_at": "2026-01-05T12:49:53.207166063+00:00"
+          },
+          {
+            "firmware": "A146PXXUHEZA3/A146POXMHEZA3/A146PXXUHEZA3",
+            "md5": "c1fbf9fdf22a82b00996cd7009429c1a",
+            "found_at": "2026-01-23T10:29:07.906194120+00:00"
           }
         ]
       },

@@ -20474,6 +20474,11 @@
             "firmware": "S9110ZCS6EZA1/S9110CHC6EZA1/S9110ZCS6EZA1",
             "md5": "1b0bfa2567e6f93b2dba9e44a9d1c34f",
             "found_at": "2026-01-16T06:44:39.533405824+00:00"
+          },
+          {
+            "firmware": "S9110ZCU6FZAF/S9110CHC6FZAF/S9110ZCU6FZAF",
+            "md5": "bca33b604f95e9be414bd73d646ebcbb",
+            "found_at": "2026-01-23T04:51:04.451706542+00:00"
           }
         ]
       }
@@ -21264,6 +21269,11 @@
             "firmware": "S9160ZCS6EZA1/S9160CHC6EZA1/S9160ZCS6EZA1",
             "md5": "2a3b55945f2f0249d64db4755b6c09b9",
             "found_at": "2026-01-16T04:50:40.722883939+00:00"
+          },
+          {
+            "firmware": "S9160ZCU6FZAF/S9160CHC6FZAF/S9160ZCU6FZAF",
+            "md5": "cd9b1be8aa4689f327984375df460a6a",
+            "found_at": "2026-01-23T04:51:16.594047116+00:00"
           }
         ]
       }
@@ -22054,6 +22064,11 @@
             "firmware": "S9180ZCS6EZA1/S9180CHC6EZA1/S9180ZCS6EZA1",
             "md5": "65ddea5675f0fc1aa29ae47f24aa033a",
             "found_at": "2026-01-16T04:50:09.669656423+00:00"
+          },
+          {
+            "firmware": "S9180ZCU6FZAF/S9180CHC6FZAF/S9180ZCU6FZAF",
+            "md5": "18d166a2814e65949d1e4b1ed4a42d42",
+            "found_at": "2026-01-23T04:50:50.343199425+00:00"
           }
         ]
       }

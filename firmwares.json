@@ -4514,6 +4514,11 @@
             "firmware": "A536U1UEUJHZA6/A536U1OYMJHZA6/A536U1UEUJHZA6",
             "md5": "2f2de59200a3fcc85dd77064ccf5f413",
             "found_at": "2026-01-16T14:41:18.788634771+00:00"
+          },
+          {
+            "firmware": "A536U1UEUJHZA9/A536U1OYMJHZA9/A536U1UEUJHZA9",
+            "md5": "a19dbfc6155707e1cdf70fbca844f0c7",
+            "found_at": "2026-01-23T16:44:14.023328506+00:00"
           }
         ]
       }

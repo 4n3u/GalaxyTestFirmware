@@ -3264,6 +3264,11 @@
             "firmware": "A3560ZHU7DZAD/A3560OZS7DZAD/A3560ZHU7DZAD",
             "md5": "034ee59b2651c95988d94e75bccf3e16",
             "found_at": "2026-01-23T03:52:32.391848937+00:00"
+          },
+          {
+            "firmware": "A3560ZHS7CZA4/A3560OZS7CZA4/A3560ZHS7CZA4",
+            "md5": "346925dab17d4c933314eb04ed401a4d",
+            "found_at": "2026-01-26T10:37:03.524541216+00:00"
           }
         ]
       }
@@ -14839,6 +14844,11 @@
             "firmware": "M135FXXSDEZA1/M135FOXMDEZA1/M135FXXSDEZA1",
             "md5": "a103e4594c0c1177bef5d59b9b4fad29",
             "found_at": "2026-01-19T14:28:37.670499043+00:00"
+          },
+          {
+            "firmware": "M135FXXSDEZA3/M135FOXMDEZA3/M135FXXSDEZA1",
+            "md5": "37a231a0a2308eabead5210d6d149f99",
+            "found_at": "2026-01-26T10:28:02.895364704+00:00"
           }
         ]
       }
@@ -37033,7 +37043,7 @@
     "name": "Galaxy Tab S10 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X926CZCU4CYJ4/X926CCHC4CYJ4/X926CZCU4CYJ4",
+        "latest_official": "X926CZCS5CYK1/X926CCHC5CYK1/X926CZCS5CYK1",
         "test_firmwares": [
           {
             "firmware": "X926CZCU4CYH2/X926CCHC4CYH2/X926CZCU4CYH2",
@@ -37094,6 +37104,11 @@
             "firmware": "X926CZCS5CYK1/X926CCHC5CYK1/X926CZCS5CYK1",
             "md5": "03eaaf7a65785fd4d8f95a1c7d1d9e15",
             "found_at": "2025-12-12T03:28:47.159088657+00:00"
+          },
+          {
+            "firmware": "X926CZCS6CZA3/X926CCHC6CZA3/X926CZCS6CZA3",
+            "md5": "a47098d05002859c75608420ae7f0455",
+            "found_at": "2026-01-26T10:31:56.733132955+00:00"
           }
         ]
       }

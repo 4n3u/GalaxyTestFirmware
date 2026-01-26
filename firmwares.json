@@ -36443,7 +36443,7 @@
     "name": "Galaxy Tab S8 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X906CZCU9EYJ4/X906CCHC9EYJ4/X906CZCU9EYJ4",
+        "latest_official": "X906CZCS9EYK1/X906CCHC9EYK1/X906CZCS9EYK1",
         "test_firmwares": [
           {
             "firmware": "X906CZCS9DYF4/X906CCHC9DYF4/X906CZCS9DYF4",
@@ -36614,6 +36614,11 @@
             "firmware": "X906CZCS9EYK1/X906CCHC9EYK1/X906CZCS9EYK1",
             "md5": "825e5a8ab0e708cd786bf86680d7a047",
             "found_at": "2025-12-12T10:30:27.188639685+00:00"
+          },
+          {
+            "firmware": "X906CZCS9EZA3/X906CCHC9EZA3/X906CZCS9EZA3",
+            "md5": "e0acd695e8f271828491b7b5fd6021d9",
+            "found_at": "2026-01-26T14:44:00.527944016+00:00"
           }
         ]
       }

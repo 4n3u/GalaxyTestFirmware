@@ -32674,6 +32674,11 @@
             "firmware": "X306BXXU9DZA5/X306BOXM9DZA5/X306BXXU9DZA5",
             "md5": "15f3a37d139436c53171092492772a9e",
             "found_at": "2026-01-21T16:56:49.071898569+00:00"
+          },
+          {
+            "firmware": "X306BXXU9CZA6/X306BOXM9CZA6/X306BXXU9CZA6",
+            "md5": "610a10c8cd5416d82a0ad9a954b86330",
+            "found_at": "2026-01-27T10:31:23.071475770+00:00"
           }
         ]
       }

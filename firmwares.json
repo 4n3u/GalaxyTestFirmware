@@ -15108,7 +15108,7 @@
         ]
       },
       "TGY": {
-        "latest_official": "M336BZHSDGYJ1/M336BOZSDGYJ1/M336BZHUDGYI6",
+        "latest_official": "M336BZHSEGYK3/M336BOZSEGYK3/M336BZHSEGYK3",
         "test_firmwares": [
           {
             "firmware": "M336BZHSDFYG2/M336BOZSDFYG2/M336BZHSDFYG2",
@@ -15184,6 +15184,11 @@
             "firmware": "M336BZHSEGYK3/M336BOZSEGYK3/M336BZHSEGYK3",
             "md5": "6779eb2a76872f33ec89e470394313e4",
             "found_at": "2025-11-28T03:12:57.103712134+00:00"
+          },
+          {
+            "firmware": "M336BZHSFGZA6/M336BOZSFGZA6/M336BZHSFGZA6",
+            "md5": "3153bf6625503183a825f7a791fd7d97",
+            "found_at": "2026-01-27T06:37:51.415945619+00:00"
           }
         ]
       }
@@ -32534,6 +32539,11 @@
             "firmware": "X218USQSAEZA1/X218UOYNAEZA1/X218USQSAEZA1",
             "md5": "9e7d8fad2d1e9e039986469e7ca3d79b",
             "found_at": "2026-01-13T10:27:25.738588992+00:00"
+          },
+          {
+            "firmware": "X218USQUAEZAA/X218UOYNAEZAA/X218USQUAEZAA",
+            "md5": "2e78498eb2780cb96b67c8ca315bd34d",
+            "found_at": "2026-01-27T06:38:49.438771192+00:00"
           }
         ]
       }

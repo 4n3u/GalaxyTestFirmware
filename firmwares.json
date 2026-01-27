@@ -15193,7 +15193,7 @@
     "name": "Galaxy M34 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "M346B2ZHS8EYJ2/M346B2OZS8EYJ2/M346B2ZHS8EYJ2",
+        "latest_official": "M346B2ZHS9EYK1/M346B2OZS9EYK1/M346B2ZHS9EYK1",
         "test_firmwares": [
           {
             "firmware": "M346B2ZHS8DYH1/M346B2OZS8DYH1/M346B2ZHS8DYH1",
@@ -15239,6 +15239,11 @@
             "firmware": "M346B2ZHS9EYK1/M346B2OZS9EYK1/M346B2ZHS9EYK1",
             "md5": "653d800e21cb2c2466ff97332d702db3",
             "found_at": "2025-12-08T03:24:33.739164704+00:00"
+          },
+          {
+            "firmware": "M346B2ZHSAEZA2/M346B2OZSAEZA2/M346B2ZHSAEZA2",
+            "md5": "e78b420875c6c9d1b7a8609980f12053",
+            "found_at": "2026-01-27T03:51:17.171408936+00:00"
           }
         ]
       }

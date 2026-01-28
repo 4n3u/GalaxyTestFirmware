@@ -2044,6 +2044,11 @@
             "firmware": "A1760ZHU4CZAD/A1760OZS4CZAD/A1760ZHU4CZAD",
             "md5": "0ba59b5812db9ef53df550bc10ac71f9",
             "found_at": "2026-01-22T10:32:38.488064703+00:00"
+          },
+          {
+            "firmware": "A1760ZHS4BZA5/A1760OZS4BZA5/A1760ZHS4BZA5",
+            "md5": "3b0b0552196982bb13eab74326fb5afc",
+            "found_at": "2026-01-28T08:40:05.950722290+00:00"
           }
         ]
       }

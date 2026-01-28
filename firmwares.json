@@ -15638,7 +15638,7 @@
     "name": "Galaxy Watch4 Classic",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "R8950ZCU1IYI1/R8950CHC1IYI1/R8950ZCU1IYI1",
+        "latest_official": "R8950ZCU1JYL6/R8950CHC1JYL6/R8950ZCU1JYL6",
         "test_firmwares": [
           {
             "firmware": "R8950ZCU1IYB3/R8950CHC1IYB3/R8950ZCU1IYB3",
@@ -15774,6 +15774,31 @@
             "firmware": "R8950ZCU1JYJ7/R8950CHC1JYJ7/R8950ZCU1JYJ7",
             "md5": "b69fbc567923b4269e2c5f585de15181",
             "found_at": "2025-11-04T12:53:32.923671988+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYK2/R8950CHC1JYK2/R8950ZCU1JYK2",
+            "md5": "80ea500b4520db89dd91ac6933af4922",
+            "found_at": "2026-01-28T03:53:57.311322056+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYK3/R8950CHC1JYK3/R8950ZCU1JYK3",
+            "md5": "694c7213a5e5f02b5d15e208fdf81c4d",
+            "found_at": "2026-01-28T03:53:57.311724712+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYK4/R8950CHC1JYK4/R8950ZCU1JYK4",
+            "md5": "6b324565882b5ceb2f84e0141c504f85",
+            "found_at": "2026-01-28T03:53:57.312132450+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYL3/R8950CHC1JYL3/R8950ZCU1JYL3",
+            "md5": "426b2bf6d96313cb1b53b27bb2d8ad94",
+            "found_at": "2026-01-28T03:53:57.326584228+00:00"
+          },
+          {
+            "firmware": "R8950ZCU1JYL6/R8950CHC1JYL6/R8950ZCU1JYL6",
+            "md5": "98bab462bb76994aa03492e31aad8f5b",
+            "found_at": "2026-01-28T03:53:57.327728548+00:00"
           }
         ]
       }
@@ -16879,6 +16904,11 @@
             "firmware": "S721NKSU9DZAF/S721NOKR9DZAF/S721NKSU9DZAF",
             "md5": "51e0c87767ea68f14405474ce6d2b985",
             "found_at": "2026-01-22T05:01:22.543222684+00:00"
+          },
+          {
+            "firmware": "S721NKSU9CZA3/S721NOKR9CZA3/S721NKSS9CZA1",
+            "md5": "1563cdd0bce7489b8232e6f0ba047ed9",
+            "found_at": "2026-01-28T03:48:48.742682033+00:00"
           }
         ]
       }

@@ -5098,7 +5098,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A566BXXS7BYL3/A566BOXM7BYL3/A566BXXS7BYL3",
+        "latest_official": "A566BXXS8BZA7/A566BOXM8BZA7/A566BXXS8BZA7",
         "test_firmwares": [
           {
             "firmware": "A566BXXU6BYGI/A566BOXM6BYGI/A566BXXU6BYGI",
@@ -5214,6 +5214,11 @@
             "firmware": "A566BXXU8BZAE/A566BOXM8BZAE/A566BXXU8BZAE",
             "md5": "3deea0006144323dcbeaf00a572208e9",
             "found_at": "2026-01-21T06:51:17.524522416+00:00"
+          },
+          {
+            "firmware": "A566BXXU9BZAF/A566BOXM9BZAF/A566BXXU9BZAF",
+            "md5": "b62fe823a0f925fc7bac55859b0f684c",
+            "found_at": "2026-01-28T06:45:52.817167734+00:00"
           }
         ]
       }

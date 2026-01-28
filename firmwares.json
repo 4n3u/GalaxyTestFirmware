@@ -954,6 +954,11 @@
             "firmware": "A1560ZHU8EZAF/A1560OZS8EZAF/A1560ZHU8EZAF",
             "md5": "a8b02615a8291a3e5d2126165a0dcc3c",
             "found_at": "2026-01-23T12:51:59.995857923+00:00"
+          },
+          {
+            "firmware": "A1560ZHS8DZA1/A1560OZS8DZA1/A1560ZHS8DZA1",
+            "md5": "39fa3a7a918b699d668d6cbafa8226b2",
+            "found_at": "2026-01-28T10:33:12.339097965+00:00"
           }
         ]
       }

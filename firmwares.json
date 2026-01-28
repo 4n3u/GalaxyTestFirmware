@@ -9604,6 +9604,11 @@
             "firmware": "F926BXXSGJZA1/F926BOXMGJZA1/F926BXXSGJZA1",
             "md5": "c3c39547a422ea9a6ffda70d3711e103",
             "found_at": "2026-01-20T14:44:03.469115487+00:00"
+          },
+          {
+            "firmware": "F926BXXSGJZA2/F926BOXMGJZA2/F926BXXSGJZA1",
+            "md5": "9632171e551ca373e5bd2dc6b850ccca",
+            "found_at": "2026-01-28T13:05:55.144999460+00:00"
           }
         ]
       }

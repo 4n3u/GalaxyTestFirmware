@@ -1154,6 +1154,11 @@
             "firmware": "A156USQS9DZA2/A156UOYN9DZA2/A156USQS9DZA2",
             "md5": "36e77edf3f55c502fa75ccba5b7aad4a",
             "found_at": "2026-01-20T12:55:12.117481773+00:00"
+          },
+          {
+            "firmware": "A156USQU9EZAC/A156UOYN9EZAC/A156USQU9EZAC",
+            "md5": "044f8a3ffd45870cb222b762cb237377",
+            "found_at": "2026-01-28T14:35:13.905079665+00:00"
           }
         ]
       }

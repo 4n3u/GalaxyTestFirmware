@@ -5069,6 +5069,11 @@
             "firmware": "A556BXXUCDZA5/A556BOXMCDZA5/A556BXXUCDZA5",
             "md5": "50e724115a2a22cb63e57525c7314cbe",
             "found_at": "2026-01-22T13:06:26.709215379+00:00"
+          },
+          {
+            "firmware": "A556BXXUDDZA7/A556BOXMDDZA7/A556BXXUDDZA7",
+            "md5": "c55426f6323512e60702f49f0b333187",
+            "found_at": "2026-01-29T16:51:03.360604114+00:00"
           }
         ]
       }
@@ -23698,7 +23703,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S921USQS4CYL1/S921UOYN4CYL1/S921USQS4CYL1",
+        "latest_official": "S921USQS4CZA1/S921UOYN4CZA1/S921USQS4CZA1",
         "test_firmwares": [
           {
             "firmware": "S921USQS4CYIB/S921UOYN4CYIB/S921USQS4CYIB",
@@ -23854,6 +23859,11 @@
             "firmware": "S921USQU4DZAD/S921UOYN4DZAD/S921USQU4DZAD",
             "md5": "1c500d79d300d558c4dad2902ee6600f",
             "found_at": "2026-01-20T12:55:28.354220246+00:00"
+          },
+          {
+            "firmware": "S921USQU4DZAH/S921UOYN4DZAH/S921USQU4DZAH",
+            "md5": "56a065bed806bd263556e5713ccc9d84",
+            "found_at": "2026-01-29T16:52:15.884668195+00:00"
           }
         ]
       }
@@ -24388,7 +24398,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S926USQS4CYL1/S926UOYN4CYL1/S926USQS4CYL1",
+        "latest_official": "S926USQS4CZA1/S926UOYN4CZA1/S926USQS4CZA1",
         "test_firmwares": [
           {
             "firmware": "S926USQS4CYIB/S926UOYN4CYIB/S926USQS4CYIB",
@@ -24549,6 +24559,11 @@
             "firmware": "S926USQU4DZAD/S926UOYN4DZAD/S926USQU4DZAD",
             "md5": "0909f1b59d06dbbe98f2da9eb6a763ff",
             "found_at": "2026-01-20T10:40:58.729999787+00:00"
+          },
+          {
+            "firmware": "S926USQU4DZAH/S926UOYN4DZAH/S926USQU4DZAH",
+            "md5": "d985f25b82f53a7d74a18d2bab65c6be",
+            "found_at": "2026-01-29T16:52:50.717206226+00:00"
           }
         ]
       }
@@ -25308,7 +25323,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S928USQS4CYL1/S928UOYN4CYL1/S928USQS4CYL1",
+        "latest_official": "S928USQS4CZA1/S928UOYN4CZA1/S928USQS4CZA1",
         "test_firmwares": [
           {
             "firmware": "S928USQS4CYIB/S928UOYN4CYIB/S928USQS4CYIB",
@@ -25464,6 +25479,11 @@
             "firmware": "S928USQU4DZAD/S928UOYN4DZAD/S928USQU4DZAD",
             "md5": "23f7f16bc11c75cf11baf9749803cdbd",
             "found_at": "2026-01-20T12:56:31.527440801+00:00"
+          },
+          {
+            "firmware": "S928USQU4DZAH/S928UOYN4DZAH/S928USQU4DZAH",
+            "md5": "200bc2885efc2b38abcd2f38a1f81431",
+            "found_at": "2026-01-29T16:52:40.658383441+00:00"
           }
         ]
       }

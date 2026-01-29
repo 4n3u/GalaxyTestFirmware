@@ -33694,6 +33694,11 @@
             "firmware": "X358UUEU5CZA6/X358UOYM5CZA6/X358UUEU5CZA6",
             "md5": "a5523377c43bc82570489fa33a087a19",
             "found_at": "2026-01-21T18:45:09.246148557+00:00"
+          },
+          {
+            "firmware": "X358UUEU5CZA8/X358UOYM5CZA8/X358UUEU5CZA8",
+            "md5": "0ce485e0f2f1cb837e64a5c526bd6ee7",
+            "found_at": "2026-01-29T18:48:23.591688467+00:00"
           }
         ]
       }

@@ -33474,6 +33474,11 @@
             "firmware": "X236BXXU2BZA7/X236BOXM2BZA7/X236BXXU2BZA7",
             "md5": "586155b5946a1e2feec6fda5ccbe16a8",
             "found_at": "2026-01-29T04:24:28.661932385+00:00"
+          },
+          {
+            "firmware": "X236BXXU2AZA8/X236BOXM2AZA8/X236BXXU2AZA4",
+            "md5": "19064762130446e0415163735971f0db",
+            "found_at": "2026-01-30T16:40:58.661055979+00:00"
           }
         ]
       }

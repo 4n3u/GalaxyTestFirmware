@@ -3694,6 +3694,11 @@
             "firmware": "A356U1UEU8DZAD/A356U1OYM8DZAD/A356U1UEU8DZAD",
             "md5": "67d1dd23362e770096b1da26b814f863",
             "found_at": "2026-01-22T14:44:19.814118680+00:00"
+          },
+          {
+            "firmware": "A356U1UEU8DZAH/A356U1OYM8DZAH/A356U1UEU8DZAH",
+            "md5": "df29e1f9cb2f0eecfd862c84482918ed",
+            "found_at": "2026-02-02T17:42:42.930007476+00:00"
           }
         ]
       }

@@ -4333,7 +4333,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5360ZCSIGYL1/A5360CHCIGYL1/A5360ZCSIGYL1",
+        "latest_official": "A5360ZCSJGZA2/A5360CHCJGZA2/A5360ZCSJGZA2",
         "test_firmwares": [
           {
             "firmware": "A5360ZCSHFYH1/A5360CHCHFYH1/A5360ZCSHFYH1",
@@ -4399,6 +4399,11 @@
             "firmware": "A5360ZCSJGZA2/A5360CHCJGZA2/A5360ZCSJGZA2",
             "md5": "ebb7643303fb5c00b26228a94d52d11b",
             "found_at": "2026-01-16T08:44:17.726913804+00:00"
+          },
+          {
+            "firmware": "A5360ZCUJGZAA/A5360CHCJGZAA/A5360ZCUJGZAA",
+            "md5": "532baf65cd3a02a97e5983abf97b4305",
+            "found_at": "2026-02-02T05:36:06.632218199+00:00"
           }
         ]
       }
@@ -33739,6 +33744,11 @@
             "firmware": "X308UUEU9DZA5/X308UOYM9DZA5/X308UUEU9DZA5",
             "md5": "cb147e057f08110c8734c91f2f25bf9d",
             "found_at": "2026-01-23T06:49:17.042480150+00:00"
+          },
+          {
+            "firmware": "X308UUEU9CZA6/X308UOYM9CZA6/X308UUEU9CZA6",
+            "md5": "456a7b240345b176e505973ede6c1aa9",
+            "found_at": "2026-02-02T05:26:36.562832364+00:00"
           }
         ]
       }

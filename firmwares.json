@@ -2679,6 +2679,11 @@
             "firmware": "A256U1UEUAEZA5/A256U1OYMAEZA5/A256U1UEUAEZA5",
             "md5": "e2b34ab3e97aa3c784a982dfa1a6a760",
             "found_at": "2026-01-23T08:38:17.353812326+00:00"
+          },
+          {
+            "firmware": "A256U1UEUAEZA6/A256U1OYMAEZA6/A256U1UEUAEZA6",
+            "md5": "729d80a5b3ce649b0894dd4f453128bb",
+            "found_at": "2026-02-02T08:49:51.712556466+00:00"
           }
         ]
       }

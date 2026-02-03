@@ -2229,6 +2229,31 @@
       }
     }
   },
+  "SM-A176U": {
+    "name": "Galaxy A17 5G",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "A176USQS2AZA3/A176UOYN2AZA3/A176USQS2AZA3",
+        "test_firmwares": [
+          {
+            "firmware": "A176USQS2AZA3/A176UOYN2AZA3/A176USQS2AZA3",
+            "md5": "8e4af8b525b78b84d44e2633a38a2dad",
+            "found_at": "2026-02-03T06:56:25.044843212+00:00"
+          },
+          {
+            "firmware": "A176USQU2BZAD/A176UOYN2BZAD/A176USQU2BZAD",
+            "md5": "fa0084895753be1de6414ca4becdfb25",
+            "found_at": "2026-02-03T06:56:25.106075474+00:00"
+          },
+          {
+            "firmware": "A176USQU2BZAH/A176UOYN2BZAH/A176USQU2BZAH",
+            "md5": "6250c1c33e2da99d1e38976294e5a05a",
+            "found_at": "2026-02-03T06:56:25.106295834+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-A205U1": {
     "name": "Galaxy A20",
     "regional_firmwares": {
@@ -2854,6 +2879,11 @@
             "firmware": "A266U1UEU6CZA5/A266U1OYM6CZA5/A266U1UEU6CZA5",
             "md5": "25735a740ee8e48a50c032df407a1c11",
             "found_at": "2026-01-22T13:01:00.870581259+00:00"
+          },
+          {
+            "firmware": "A266U1UEU6CZB1/A266U1OYM6CZB1/A266U1UEU6CZB1",
+            "md5": "7765acb128ef7061448abd3675486116",
+            "found_at": "2026-02-03T06:58:06.524656950+00:00"
           }
         ]
       }

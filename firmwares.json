@@ -369,6 +369,11 @@
             "firmware": "A137FXXSBEZA2/A137FOXMBEZA2/A137FXXSBEZA2",
             "md5": "c0aff4e5318e93e7ec2fe6d39aa5746c",
             "found_at": "2026-01-19T03:54:12.713623919+00:00"
+          },
+          {
+            "firmware": "A137FXXSBEZA3/A137FOXMBEZA3/A137FXXSBEZA3",
+            "md5": "86eb3463a0885075e74b84a2c99776fa",
+            "found_at": "2026-02-03T10:42:46.139717582+00:00"
           }
         ]
       }
@@ -2249,6 +2254,31 @@
             "firmware": "A176USQU2BZAH/A176UOYN2BZAH/A176USQU2BZAH",
             "md5": "6250c1c33e2da99d1e38976294e5a05a",
             "found_at": "2026-02-03T06:56:25.106295834+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-A176U1": {
+    "name": "Galaxy A17 5G",
+    "regional_firmwares": {
+      "XAA": {
+        "latest_official": "A176U1UES2AZA3/A176U1OYM2AZA3/A176U1UES2AZA3",
+        "test_firmwares": [
+          {
+            "firmware": "A176U1UES2AZA3/A176U1OYM2AZA3/A176U1UES2AZA3",
+            "md5": "ccbf7eccd49ed5b2aa1f01f4dd0c1cf8",
+            "found_at": "2026-02-03T10:44:42.791215177+00:00"
+          },
+          {
+            "firmware": "A176U1UEU2BZAD/A176U1OYM2BZAD/A176U1UEU2BZAD",
+            "md5": "4f845c20a7b3d1dcd543581757f506ca",
+            "found_at": "2026-02-03T10:44:42.847871180+00:00"
+          },
+          {
+            "firmware": "A176U1UEU2BZAH/A176U1OYM2BZAH/A176U1UEU2BZAH",
+            "md5": "9b6b869283103f98c079f1479f682864",
+            "found_at": "2026-02-03T10:44:42.848084187+00:00"
           }
         ]
       }

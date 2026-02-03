@@ -119,6 +119,11 @@
             "firmware": "A057GXXU9DYK1/A057GOXM9DYK1/A057GXXU9DYK1",
             "md5": "793166a1d77af6ecd3ba502186b1fa66",
             "found_at": "2025-12-02T04:31:35.422674867+00:00"
+          },
+          {
+            "firmware": "A057GXXUADZB1/A057GOXMADZB1/A057GXXUADZB1",
+            "md5": "3263b4bee205fe0c5ef7efd3eefbb065",
+            "found_at": "2026-02-03T13:00:48.337092741+00:00"
           }
         ]
       }
@@ -613,7 +618,7 @@
     "name": "Galaxy A14 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A146U1UESHEYK4/A146U1OYMHEYK4/A146U1UESHEYK4",
+        "latest_official": "A146U1UESIEZA1/A146U1OYMIEZA1/A146U1UESIEZA1",
         "test_firmwares": [
           {
             "firmware": "A146U1UESEEYG1/A146U1OYMEEYG1/A146U1UESEEYG1",
@@ -664,6 +669,11 @@
             "firmware": "A146U1UESIEZA1/A146U1OYMIEZA1/A146U1UESIEZA1",
             "md5": "c4ca12fecaf84c0c1b285621ef1066a2",
             "found_at": "2026-01-13T16:35:56.527918096+00:00"
+          },
+          {
+            "firmware": "A146U1UEUJEZA3/A146U1OYMJEZA3/A146U1UEUJEZA3",
+            "md5": "ad304a625bf0cbc28790b96ff0a0c23f",
+            "found_at": "2026-02-03T13:03:09.389240012+00:00"
           }
         ]
       }

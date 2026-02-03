@@ -26534,6 +26534,11 @@
             "firmware": "S931BXXU7ZZAH/S931BOXM7ZZAH/S931BXXU7CZAH",
             "md5": "23558360cd38221e187a3246ff70ca2e",
             "found_at": "2026-01-29T04:24:26.379756481+00:00"
+          },
+          {
+            "firmware": "S931BXXU7ZZAJ/S931BOXM7ZZAJ/S931BXXU7CZAJ",
+            "md5": "c03aacaeee66c99f93efee0500b0beea",
+            "found_at": "2026-02-03T05:23:08.448056129+00:00"
           }
         ]
       }
@@ -28169,6 +28174,11 @@
             "firmware": "S936BXXU7ZZAH/S936BOXM7ZZAH/S936BXXU7CZAH",
             "md5": "1a37374976b73932086ad331b8d5f409",
             "found_at": "2026-01-29T04:26:07.643218064+00:00"
+          },
+          {
+            "firmware": "S936BXXU7ZZAJ/S936BOXM7ZZAJ/S936BXXU7CZAJ",
+            "md5": "934303e3d464a84d837a55d887dc0e78",
+            "found_at": "2026-02-03T05:22:34.844777635+00:00"
           }
         ]
       }
@@ -29224,6 +29234,11 @@
             "firmware": "S936U1UEU7ZZAH/S936U1OYM7ZZAH/S936U1UEU7CZAH",
             "md5": "0140fbb7b479bb25b897827b9609fe38",
             "found_at": "2026-02-02T14:53:00.963285471+00:00"
+          },
+          {
+            "firmware": "S936U1UEU7ZZAJ/S936U1OYM7ZZAJ/S936U1UEU7CZAJ",
+            "md5": "2138a2ded1791a17333fea54a029920a",
+            "found_at": "2026-02-03T05:22:50.604534867+00:00"
           }
         ]
       }
@@ -31174,6 +31189,11 @@
             "firmware": "S938BXXU7ZZAH/S938BOXM7ZZAH/S938BXXU7CZAH",
             "md5": "f0e69e90639a0bcd2d191d2193457902",
             "found_at": "2026-01-29T04:25:39.280100997+00:00"
+          },
+          {
+            "firmware": "S938BXXU7ZZAJ/S938BOXM7ZZAJ/S938BXXU7CZAJ",
+            "md5": "3eb497f7feeff4985e6253a940555049",
+            "found_at": "2026-02-03T05:22:08.312070151+00:00"
           }
         ]
       }
@@ -33609,6 +33629,26 @@
             "firmware": "X236BXXU2AZA8/X236BOXM2AZA8/X236BXXU2AZA4",
             "md5": "19064762130446e0415163735971f0db",
             "found_at": "2026-01-30T16:40:58.661055979+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-X236C": {
+    "name": "Galaxy Tab A11+ 5G",
+    "regional_firmwares": {
+      "CHC": {
+        "latest_official": "X236CZCU2AZA4/X236CCHC2AZA4/X236CZCU2AZA4",
+        "test_firmwares": [
+          {
+            "firmware": "X236CZCU2AZA4/X236CCHC2AZA4/X236CZCU2AZA4",
+            "md5": "baf4ac7a4a8f3a726d4622e411e4267c",
+            "found_at": "2026-02-03T05:22:08.878262417+00:00"
+          },
+          {
+            "firmware": "X236CZCU2BZA7/X236CCHC2BZA7/X236CZCU2BZA7",
+            "md5": "340fd15b358b8ab556830806465c87ce",
+            "found_at": "2026-02-03T05:22:08.886181887+00:00"
           }
         ]
       }

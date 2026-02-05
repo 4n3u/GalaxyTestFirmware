@@ -408,7 +408,7 @@
     "name": "Galaxy A14",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A145RXXUBDYJ2/A145ROXMBDYJ2/A145RXXUBDYJ1",
+        "latest_official": "A145RXXSCDZA1/A145ROXMCDZA1/A145RXXSCDZA1",
         "test_firmwares": [
           {
             "firmware": "A145RXXSADYI2/A145ROXMADYI2/A145RXXSADYI2",
@@ -544,6 +544,11 @@
             "firmware": "A145RXXSCDZA1/A145ROXMCDZA1/A145RXXSCDZA1",
             "md5": "d8333630057d8131c4d75b2bc0ac2636",
             "found_at": "2026-01-15T03:44:21.140379814+00:00"
+          },
+          {
+            "firmware": "A145RXXUCDZB1/A145ROXMCDZB1/A145RXXUCDZB1",
+            "md5": "253bbcedff6226be4fdba8c6a8375f2d",
+            "found_at": "2026-02-05T18:50:42.060238997+00:00"
           }
         ]
       }
@@ -3824,6 +3829,11 @@
             "firmware": "A356USQS9CZB2/A356UOYN9CZB2/A356USQS9CZB2",
             "md5": "0d020a0f1f22b87850c95d66f8e07817",
             "found_at": "2026-02-05T16:57:41.836613304+00:00"
+          },
+          {
+            "firmware": "A356USQS9CZB1/A356UOYN9CZB1/A356USQS9CZB1",
+            "md5": "e39cc579ea2f1a7327926c4e697bebaf",
+            "found_at": "2026-02-05T18:55:20.096487162+00:00"
           }
         ]
       }
@@ -4869,6 +4879,11 @@
             "firmware": "A536USQUJHZAA/A536UOYNJHZAA/A536USQUJHZAA",
             "md5": "f700b7400f7d588aacee30ab89720313",
             "found_at": "2026-01-30T13:06:53.007791115+00:00"
+          },
+          {
+            "firmware": "A536USQSKGZB1/A536UOYNKGZB1/A536USQSKGZB1",
+            "md5": "ee17cecec96e7e1621d9246c5982438d",
+            "found_at": "2026-02-05T18:58:06.444489302+00:00"
           }
         ]
       }
@@ -18289,6 +18304,16 @@
             "firmware": "S721USQUADZB3/S721UOYNADZB3/S721USQUADZB3",
             "md5": "ba92892b691c2da8269764b5ed4043b1",
             "found_at": "2026-02-05T10:48:44.742847584+00:00"
+          },
+          {
+            "firmware": "S721USQSACZB1/S721UOYNACZB1/S721USQSACZB1",
+            "md5": "a0bbfd841da46f57e37bc483908b3a84",
+            "found_at": "2026-02-05T18:55:27.079057653+00:00"
+          },
+          {
+            "firmware": "S721USQSACZB2/S721UOYNACZB2/S721USQSACZB2",
+            "md5": "963d76c587f507f1024809b5ac9cc9ef",
+            "found_at": "2026-02-05T18:55:27.079228536+00:00"
           }
         ]
       }
@@ -18399,6 +18424,11 @@
             "firmware": "S721U1UEUADZB3/S721U1OYMADZB3/S721U1UEUADZB3",
             "md5": "4cfb323f09c885fcb55ca9395f9e167c",
             "found_at": "2026-02-05T13:10:06.008902868+00:00"
+          },
+          {
+            "firmware": "S721U1UESACZB1/S721U1OYMACZB1/S721U1UESACZB1",
+            "md5": "eefb729673a85df565c5acad118647ab",
+            "found_at": "2026-02-05T18:55:28.789159812+00:00"
           }
         ]
       }
@@ -35764,6 +35794,11 @@
             "firmware": "X518USQUBDZAB/X518UOYNBDZAB/X518USQUBDZAB",
             "md5": "78c6e448c56c0e981cf71bc8ce528815",
             "found_at": "2026-01-30T06:56:23.121808594+00:00"
+          },
+          {
+            "firmware": "X518USQSCDZB2/X518UOYNCDZB2/X518USQSCDZB2",
+            "md5": "0c86749666c79f5b76470f16a2f420b7",
+            "found_at": "2026-02-05T18:51:37.226275626+00:00"
           }
         ]
       }
@@ -37473,7 +37508,7 @@
     "name": "Galaxy Tab S8+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X806BXXS9EYK1/X806BOXM9EYK1/X806BXXS9EYK1",
+        "latest_official": "X806BXXS9EZA3/X806BOXM9EZA3/X806BXXS9EZA3",
         "test_firmwares": [
           {
             "firmware": "X806BXXS9DYF1/X806BOXM9DYF1/X806BXXS9DYF1",
@@ -37709,6 +37744,11 @@
             "firmware": "X806BXXU9EZA6/X806BOXM9EZA6/X806BXXU9EZA6",
             "md5": "4164876a39d8f60aec92919dd9b09a3e",
             "found_at": "2026-01-29T14:49:24.719818507+00:00"
+          },
+          {
+            "firmware": "X806BXXUAEZB1/X806BOXMAEZB1/X806BXXUAEZB1",
+            "md5": "8d031e448d83e870c656f33f8f6ce322",
+            "found_at": "2026-02-05T18:51:16.100682640+00:00"
           }
         ]
       }

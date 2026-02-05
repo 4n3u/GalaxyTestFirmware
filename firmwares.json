@@ -1979,6 +1979,11 @@
             "firmware": "A166U1UEU5DZAH/A166U1OYM5DZAH/A166U1UEU5DZAH",
             "md5": "e8be37a2086fec1d89e826ba63821784",
             "found_at": "2026-01-30T13:00:45.253051570+00:00"
+          },
+          {
+            "firmware": "A166U1UES6CZB4/A166U1OYM6CZB4/A166U1UES6CZB4",
+            "md5": "e7d09333bee961f46674f63212d55ec5",
+            "found_at": "2026-02-05T20:37:52.341761959+00:00"
           }
         ]
       }
@@ -2149,6 +2154,11 @@
             "firmware": "A175FXXS4BZB1/A175FOXM4BZB1/A175FXXS4BZB1",
             "md5": "9d841b4bca72d4743670875f05c5d3a6",
             "found_at": "2026-02-05T14:47:11.516239674+00:00"
+          },
+          {
+            "firmware": "A175FXXU4CZB2/A175FOXM4CZB2/A175FXXU4CZB2",
+            "md5": "b6b7702b70776a0ff950829be2c08ac8",
+            "found_at": "2026-02-05T20:38:00.771250380+00:00"
           }
         ]
       }
@@ -35379,6 +35389,11 @@
             "firmware": "X406BXXS4BZB2/X406BOXM4BZB2/X406BXXS4BZB2",
             "md5": "e3bb77893de82411a4d70d592e3c950f",
             "found_at": "2026-02-05T08:45:09.709380211+00:00"
+          },
+          {
+            "firmware": "X406BXXU4CZB3/X406BOXM4CZB3/X406BXXU4CZB3",
+            "md5": "67bf2e27ae2a2c72e0429b7dc1daef55",
+            "found_at": "2026-02-05T20:36:32.209633299+00:00"
           }
         ]
       }
@@ -37948,7 +37963,7 @@
     "name": "Galaxy Tab S8+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X806EXXS9EYK1/X806EOXM9EYK1/X806EXXS9EYK1",
+        "latest_official": "X806EXXS9EZA3/X806EOXM9EZA3/X806EXXS9EZA3",
         "test_firmwares": [
           {
             "firmware": "X806EXXS9DYF1/X806EOXM9DYF1/X806EXXS9DYF1",
@@ -38174,6 +38189,11 @@
             "firmware": "X806EXXU9EZA6/X806EOXM9EZA6/X806EXXU9EZA6",
             "md5": "9427bc3b2acac31be3a3ec4da0b23e24",
             "found_at": "2026-01-29T14:49:35.660109215+00:00"
+          },
+          {
+            "firmware": "X806EXXUAEZB1/X806EOXMAEZB1/X806EXXUAEZB1",
+            "md5": "444a24752223d47b9e358b5169b4bf41",
+            "found_at": "2026-02-05T20:37:43.172573043+00:00"
           }
         ]
       }

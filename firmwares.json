@@ -34204,6 +34204,11 @@
             "firmware": "X135FXXS4BZB2/X135FOXM4BZB2/X135FXXS4BZB2",
             "md5": "2954e86175315c0a397caaaf160421ae",
             "found_at": "2026-02-05T14:44:09.493761077+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZB1/X135FOXM4BZB1/X135FXXU4BZB1",
+            "md5": "541dba9f308da5112d00a58232fe0579",
+            "found_at": "2026-02-05T22:35:27.938132631+00:00"
           }
         ]
       }

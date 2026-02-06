@@ -134,6 +134,11 @@
             "firmware": "A057GXXUADZB1/A057GOXMADZB1/A057GXXUADZB1",
             "md5": "3263b4bee205fe0c5ef7efd3eefbb065",
             "found_at": "2026-02-03T13:00:48.337092741+00:00"
+          },
+          {
+            "firmware": "A057GXXSBDZB2/A057GOXMBDZB2/A057GXXSBDZB2",
+            "md5": "e0e52a80dd5c60aa67684cde20e3b5ca",
+            "found_at": "2026-02-06T22:25:07.781778429+00:00"
           }
         ]
       }
@@ -20544,6 +20549,11 @@
             "firmware": "S901U1UEU8HZB3/S901U1OYM8HZB3/S901U1UEU8HZB3",
             "md5": "bb54adafbd0729d56ffbd6dc0315bb75",
             "found_at": "2026-02-06T14:46:37.612667613+00:00"
+          },
+          {
+            "firmware": "S901U1UES9GZB1/S901U1OYM9GZB1/S901U1UES9GZB1",
+            "md5": "00c0db814218180b006538f07f3fad19",
+            "found_at": "2026-02-06T22:30:23.702285734+00:00"
           }
         ]
       }
@@ -21474,6 +21484,11 @@
             "firmware": "S906U1UEU8HZB3/S906U1OYM8HZB3/S906U1UEU8HZB3",
             "md5": "972a84a346707857577ae6dea2b16f30",
             "found_at": "2026-02-06T14:47:06.425337027+00:00"
+          },
+          {
+            "firmware": "S906U1UES9GZB1/S906U1OYM9GZB1/S906U1UES9GZB1",
+            "md5": "f228e7b1b103c387736e61795d4fab12",
+            "found_at": "2026-02-06T22:30:43.862565528+00:00"
           }
         ]
       }

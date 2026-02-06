@@ -5579,6 +5579,11 @@
             "firmware": "A5660ZCU8CZAH/A5660CHC8CZAH/A5660ZCU8CZAH",
             "md5": "e92614b9c9d568a6ee4ee5d3265482f0",
             "found_at": "2026-01-29T13:14:40.319238296+00:00"
+          },
+          {
+            "firmware": "A5660ZCU8CZB3/A5660CHC8CZB3/A5660ZCU8CZB3",
+            "md5": "6f513bddf41e55e4b23b51b8eef6c740",
+            "found_at": "2026-02-06T02:13:55.105200297+00:00"
           }
         ]
       }
@@ -16368,7 +16373,7 @@
     "name": "Galaxy M35 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M356BXXS5CYJ2/M356BOXM5CYJ2/M356BXXU5CYI8",
+        "latest_official": "M356BXXS6CZA4/M356BOXM6CZA4/M356BXXS6CZA4",
         "test_firmwares": [
           {
             "firmware": "M356BXXS5BYG1/M356BOXM5BYG1/M356BXXS5BYG1",
@@ -16459,6 +16464,11 @@
             "firmware": "M356BXXU6DZA7/M356BOXM6DZA7/M356BXXU6DZA7",
             "md5": "7e5f39715421068e488819eac326265d",
             "found_at": "2026-01-30T14:38:00.813127414+00:00"
+          },
+          {
+            "firmware": "M356BXXS7CZB1/M356BOXM7CZB1/M356BXXS7CZB1",
+            "md5": "46efc3d4da7e2f0b17b54d3bf37da9f1",
+            "found_at": "2026-02-06T02:04:53.992914836+00:00"
           }
         ]
       }
@@ -17249,6 +17259,11 @@
             "firmware": "S711BXXSEFZB1/S711BOXMEFZB1/S711BXXSEFZB1",
             "md5": "14c4a54122098934604bf0bc5d974018",
             "found_at": "2026-02-05T13:09:22.830763335+00:00"
+          },
+          {
+            "firmware": "S711BXXUEGZB2/S711BOXMEGZB2/S711BXXUEGZB2",
+            "md5": "86dc3ca6122b58b5b8d7de8cc9aa02f1",
+            "found_at": "2026-02-06T02:10:40.258772196+00:00"
           }
         ]
       }
@@ -18119,6 +18134,11 @@
             "firmware": "S721NKSU9DZB3/S721NOKR9DZB3/S721NKSU9DZB3",
             "md5": "5a9831ad269a3d272fd6660bea66ddc1",
             "found_at": "2026-02-05T05:25:41.133210413+00:00"
+          },
+          {
+            "firmware": "S721NKSSACZB1/S721NOKRACZB1/S721NKSSACZB1",
+            "md5": "9eefcf4d5b17937cfb11b5def3421bd8",
+            "found_at": "2026-02-06T02:11:19.265706746+00:00"
           }
         ]
       }
@@ -34739,6 +34759,51 @@
       }
     }
   },
+  "SM-X238U": {
+    "name": "Galaxy Tab A11+ 5G",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "X238USQU3AZA5/X238UOYN3AZA5/X238USQU3AZA5",
+        "test_firmwares": [
+          {
+            "firmware": "X238USQU3AZA5/X238UOYN3AZA5/X238USQU3AZA5",
+            "md5": "3f1aee65dadf8429c264df7a246aa1ce",
+            "found_at": "2026-02-06T02:04:29.887828108+00:00"
+          },
+          {
+            "firmware": "X238USQU3AZA6/X238UOYN3AZA6/X238USQU3AZA6",
+            "md5": "1cb92375960b3fefc990c9e259749030",
+            "found_at": "2026-02-06T02:04:29.887855076+00:00"
+          },
+          {
+            "firmware": "X238USQU3AZA8/X238UOYN3AZA8/X238USQU3AZA8",
+            "md5": "78a917ced907a50c0ba061a608062b58",
+            "found_at": "2026-02-06T02:04:29.887900531+00:00"
+          },
+          {
+            "firmware": "X238USQU3AZA9/X238UOYN3AZA9/X238USQU3AZA9",
+            "md5": "65ac5490d79796b1d864ab42a1515839",
+            "found_at": "2026-02-06T02:04:29.887929022+00:00"
+          },
+          {
+            "firmware": "X238USQU3AZB1/X238UOYN3AZB1/X238USQU3AZB1",
+            "md5": "1023f2f040d8bc2fb6c938acc0e1c124",
+            "found_at": "2026-02-06T02:04:29.889910437+00:00"
+          },
+          {
+            "firmware": "X238USQU3BZA7/X238UOYN3BZA7/X238USQU3BZA7",
+            "md5": "4693a25ec31beaa84791970788783aa2",
+            "found_at": "2026-02-06T02:04:29.895861506+00:00"
+          },
+          {
+            "firmware": "X238USQU3BZB1/X238UOYN3BZB1/X238USQU3BZB1",
+            "md5": "0d8f852de5349926782fd11e07d07e3a",
+            "found_at": "2026-02-06T02:04:29.898022073+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-X306B": {
     "name": "Galaxy Tab Active5 5G",
     "regional_firmwares": {
@@ -36473,7 +36538,7 @@
     "name": "Galaxy Tab S9 FE+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X616CZCS9DYK1/X616CCHC9DYK1/X616CZCS9DYK1",
+        "latest_official": "X616CZCSADZA3/X616CCHCADZA3/X616CZCSADZA3",
         "test_firmwares": [
           {
             "firmware": "X616CZCS8CYG1/X616CCHC8CYG1/X616CZCS8CYG1",
@@ -36579,6 +36644,11 @@
             "firmware": "X616CZCUADZAB/X616CCHCADZAB/X616CZCUADZAB",
             "md5": "131567989680bc364df2477e80fd3c64",
             "found_at": "2026-01-30T06:56:40.162507085+00:00"
+          },
+          {
+            "firmware": "X616CZCUBDZB1/X616CCHCBDZB1/X616CZCUBDZB1",
+            "md5": "de757dece494cb5abdc01a9b389e7181",
+            "found_at": "2026-02-06T02:07:31.393575747+00:00"
           }
         ]
       }
@@ -37454,6 +37524,11 @@
             "firmware": "X736BXXU4AZB1/X736BOXM4AZB1/X736BXXU4AZB1",
             "md5": "3a420a13680cd8e33a31daf2eab13551",
             "found_at": "2026-02-05T05:27:12.642040429+00:00"
+          },
+          {
+            "firmware": "X736BXXS5AZB2/X736BOXM5AZB2/X736BXXS5AZB2",
+            "md5": "84ecf77bec5c7a05b875ff94d5e641d2",
+            "found_at": "2026-02-06T02:06:07.995636800+00:00"
           }
         ]
       }
@@ -39683,7 +39758,7 @@
     "name": "Galaxy Tab S11 Ultra 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X936BXXS3AYJ3/X936BOXM3AYJ3/X936BXXS3AYJ3",
+        "latest_official": "X936BXXU4AZA7/X936BOXM4AZA7/X936BXXU4AZA7",
         "test_firmwares": [
           {
             "firmware": "X936BXXU2AYI2/X936BOXM2AYI2/X936BXXU2AYI2",
@@ -39749,6 +39824,11 @@
             "firmware": "X936BXXU4AZB1/X936BOXM4AZB1/X936BXXU4AZB1",
             "md5": "a75134f9e0158f212cb1db7d927cf685",
             "found_at": "2026-02-05T07:03:11.087271360+00:00"
+          },
+          {
+            "firmware": "X936BXXS5AZB2/X936BOXM5AZB2/X936BXXS5AZB2",
+            "md5": "4b4845dc174bbfaba186c12f186db8ab",
+            "found_at": "2026-02-06T02:06:20.722895920+00:00"
           }
         ]
       }

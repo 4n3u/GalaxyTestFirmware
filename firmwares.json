@@ -2284,6 +2284,11 @@
             "firmware": "A1760ZHS4BZA5/A1760OZS4BZA5/A1760ZHS4BZA5",
             "md5": "3b0b0552196982bb13eab74326fb5afc",
             "found_at": "2026-01-28T08:40:05.950722290+00:00"
+          },
+          {
+            "firmware": "A1760ZHS5BZB7/A1760OZS5BZB7/A1760ZHS5BZB7",
+            "md5": "218cc3d6a3007bbc06942867229a8d5e",
+            "found_at": "2026-02-07T12:53:33.690228773+00:00"
           }
         ]
       }
@@ -6289,6 +6294,11 @@
             "firmware": "F7110ZCSFJYK2/F7110CHCFJYK2/F7110ZCSFJYK1",
             "md5": "3a9188897474d96a9b70b99f7adea6e3",
             "found_at": "2025-12-02T08:46:14.450365692+00:00"
+          },
+          {
+            "firmware": "F7110ZCSGJZB1/F7110CHCGJZB1/F7110ZCSGJZB1",
+            "md5": "93ad29557c2d01b2aa7276a1e986af59",
+            "found_at": "2026-02-07T12:52:16.809553332+00:00"
           }
         ]
       }

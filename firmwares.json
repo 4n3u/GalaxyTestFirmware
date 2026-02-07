@@ -1039,6 +1039,11 @@
             "firmware": "A1560ZHS8DZA1/A1560OZS8DZA1/A1560ZHS8DZA1",
             "md5": "39fa3a7a918b699d668d6cbafa8226b2",
             "found_at": "2026-01-28T10:33:12.339097965+00:00"
+          },
+          {
+            "firmware": "A1560ZHS9DZA5/A1560OZS9DZA5/A1560ZHS9DZA5",
+            "md5": "bd91ef24c98bd30a9a5b6c71d6aeb9d4",
+            "found_at": "2026-02-07T10:29:37.368906389+00:00"
           }
         ]
       }
@@ -8114,6 +8119,11 @@
             "firmware": "F7410ZCU2DZAH/F7410CHC2DZAH/F7410ZCU2DZAH",
             "md5": "11e54bd250c3c4107fc18e7dc753b0ed",
             "found_at": "2026-01-29T08:53:50.712433743+00:00"
+          },
+          {
+            "firmware": "F7410ZCS3CZB1/F7410CHC3CZB1/F7410ZCS3CZB1",
+            "md5": "e69f03ecc300cc8f2c894c2dcd6f8144",
+            "found_at": "2026-02-07T10:30:03.230198399+00:00"
           }
         ]
       }
@@ -10698,7 +10708,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9360ZCS8IYL1/F9360CHC8IYL1/F9360ZCS8IYL1",
+        "latest_official": "F9360ZCS8IZA1/F9360CHC8IZA1/F9360ZCS8IZA1",
         "test_firmwares": [
           {
             "firmware": "F9360ZCS8HYE2/F9360CHC8HYE2/F9360ZCS8HYE2",
@@ -10894,6 +10904,11 @@
             "firmware": "F9360ZCU8JZAF/F9360CHC8JZAF/F9360ZCU8JZAF",
             "md5": "b9eb08df8da6679c70140101a7b31d7f",
             "found_at": "2026-01-23T08:45:52.127344209+00:00"
+          },
+          {
+            "firmware": "F9360ZCS9IZB1/F9360CHC9IZB1/F9360ZCS9IZB1",
+            "md5": "b29b2c69847e4f0ad4b91974806415ef",
+            "found_at": "2026-02-07T10:31:35.319561904+00:00"
           }
         ]
       }
@@ -12444,6 +12459,11 @@
             "firmware": "F9560ZCU2DZAH/F9560CHC2DZAH/F9560ZCU2DZAH",
             "md5": "d30ccd04885860c2470ef38045ebcf39",
             "found_at": "2026-01-29T08:53:52.014867831+00:00"
+          },
+          {
+            "firmware": "F9560ZCS3CZB1/F9560CHC3CZB1/F9560ZCS3CZB1",
+            "md5": "555768b7f101886b3a2ae63decea960b",
+            "found_at": "2026-02-07T10:31:58.266225045+00:00"
           }
         ]
       }
@@ -19839,6 +19859,11 @@
             "firmware": "S9010ZCU9HZAH/S9010CHC9HZAH/S9010ZCU9HZAH",
             "md5": "78c5b43d9b8378859a386b83889c8220",
             "found_at": "2026-01-30T08:47:57.701203255+00:00"
+          },
+          {
+            "firmware": "S9010ZCSAGZB1/S9010CHCAGZB1/S9010ZCSAGZB1",
+            "md5": "3d929c711f40d01cf03a995fe1d8dbe0",
+            "found_at": "2026-02-07T10:32:44.809385920+00:00"
           }
         ]
       }
@@ -20774,6 +20799,11 @@
             "firmware": "S9060ZCU9HZAH/S9060CHC9HZAH/S9060ZCU9HZAH",
             "md5": "c04c2bed5c8f942cb13291d94d3660ce",
             "found_at": "2026-01-30T08:48:26.896628013+00:00"
+          },
+          {
+            "firmware": "S9060ZCSAGZB1/S9060CHCAGZB1/S9060ZCSAGZB1",
+            "md5": "1e2f62c5d5d5d83e7e52de3f068e6ff3",
+            "found_at": "2026-02-07T10:33:07.875510959+00:00"
           }
         ]
       }
@@ -21709,6 +21739,11 @@
             "firmware": "S9080ZCU9HZAH/S9080CHC9HZAH/S9080ZCU9HZAH",
             "md5": "cf0a988671cc822de6fcf703d0b6018b",
             "found_at": "2026-01-30T08:48:12.280193190+00:00"
+          },
+          {
+            "firmware": "S9080ZCSAGZB1/S9080CHCAGZB1/S9080ZCSAGZB1",
+            "md5": "9b9596b333a031341eee79d578dad997",
+            "found_at": "2026-02-07T10:32:56.887318938+00:00"
           }
         ]
       }
@@ -34473,7 +34508,7 @@
     "name": "心系天下 三星 W23",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W9023ZCS8IYL1/W9023CHC8IYL1/W9023ZCS8IYL1",
+        "latest_official": "W9023ZCS8IZA1/W9023CHC8IZA1/W9023ZCS8IZA1",
         "test_firmwares": [
           {
             "firmware": "W9023ZCS8HYE2/W9023CHC8HYE2/W9023ZCS8HYE2",
@@ -34679,6 +34714,11 @@
             "firmware": "W9023ZCU8JZAF/W9023CHC8JZAF/W9023ZCU8JZAF",
             "md5": "5c5eafa1307cecab0d798600bfd55219",
             "found_at": "2026-01-23T08:46:36.509803884+00:00"
+          },
+          {
+            "firmware": "W9023ZCS9IZB1/W9023CHC9IZB1/W9023ZCS9IZB1",
+            "md5": "1dde97bf20dd74e6b70b983b08c8f76e",
+            "found_at": "2026-02-07T10:33:09.113998436+00:00"
           }
         ]
       }
@@ -34824,6 +34864,11 @@
             "firmware": "W9025ZCU2DZAH/W9025CHC2DZAH/W9025ZCU2DZAH",
             "md5": "0c56233711aa61ad6480d3ffcb4c2484",
             "found_at": "2026-01-29T08:54:16.599290352+00:00"
+          },
+          {
+            "firmware": "W9025ZCS3CZB1/W9025CHC3CZB1/W9025ZCS3CZB1",
+            "md5": "98f5ebfc910840bb10d774b002f0253f",
+            "found_at": "2026-02-07T10:33:13.298990242+00:00"
           }
         ]
       }
@@ -35339,6 +35384,11 @@
             "firmware": "X216CZCUBFZB1/X216CCHCBFZB1/X216CZCUBFZB1",
             "md5": "1fd00e155cf72d398ce323dbbbee6fbb",
             "found_at": "2026-02-06T13:10:07.663271376+00:00"
+          },
+          {
+            "firmware": "X216CZCSBEZB2/X216CCHCBEZB2/X216CZCSBEZB2",
+            "md5": "a558f5d42ed1bd247ebe95c6a4e1a267",
+            "found_at": "2026-02-07T10:28:12.635148039+00:00"
           }
         ]
       }
@@ -38299,6 +38349,11 @@
             "firmware": "X706CZCU9EZA6/X706CCHC9EZA6/X706CZCU9EZA6",
             "md5": "00a0e1c5e697f318b396e749d220ae55",
             "found_at": "2026-01-30T04:21:03.481003062+00:00"
+          },
+          {
+            "firmware": "X706CZCSAEZB2/X706CCHCAEZB2/X706CZCSAEZB2",
+            "md5": "3f8ee186f6a11b0939d52f43b50a1264",
+            "found_at": "2026-02-07T10:29:41.404538825+00:00"
           }
         ]
       }
@@ -39019,6 +39074,11 @@
             "firmware": "X806CZCU9EZA6/X806CCHC9EZA6/X806CZCU9EZA6",
             "md5": "9db2f3cec61856a33cdd67957b68fd63",
             "found_at": "2026-01-30T04:21:37.453780097+00:00"
+          },
+          {
+            "firmware": "X806CZCSAEZB2/X806CCHCAEZB2/X806CZCSAEZB2",
+            "md5": "2eec499adfc7e53114c65ca62a017d1b",
+            "found_at": "2026-02-07T10:30:02.669786099+00:00"
           }
         ]
       }
@@ -40234,6 +40294,11 @@
             "firmware": "X906CZCU9EZA6/X906CCHC9EZA6/X906CZCU9EZA6",
             "md5": "71577d4d95a87e4b9eb3e6e7ac63a31e",
             "found_at": "2026-01-30T04:21:20.066683744+00:00"
+          },
+          {
+            "firmware": "X906CZCSAEZB2/X906CCHCAEZB2/X906CZCSAEZB2",
+            "md5": "d60afcb81c221b6f439948a3cae171b0",
+            "found_at": "2026-02-07T10:29:52.017243086+00:00"
           }
         ]
       }

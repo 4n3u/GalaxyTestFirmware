@@ -4139,6 +4139,11 @@
             "firmware": "A356U1UES9CZB2/A356U1OYM9CZB2/A356U1UES9CZB2",
             "md5": "2b7072395044f568bdc36596b96c2119",
             "found_at": "2026-02-05T16:57:44.528873961+00:00"
+          },
+          {
+            "firmware": "A356U1UEU9DZB5/A356U1OYM9DZB5/A356U1UEU9DZB5",
+            "md5": "9b16585067ef31dac8bb4108a906cd3c",
+            "found_at": "2026-02-09T20:44:30.875955870+00:00"
           }
         ]
       }
@@ -17574,6 +17579,16 @@
             "firmware": "R8950ZCU2JZB2/R8950CHC2JZB2/R8950ZCU2JZB2",
             "md5": "92cf3efb78c8c4bf2ce1632aca7116af",
             "found_at": "2026-02-04T10:44:57.683882116+00:00"
+          },
+          {
+            "firmware": "R8950ZCU2JZB3/R8950CHC2JZB3/R8950ZCU2JZB3",
+            "md5": "11d5faa8c1a1235acdd373e5e7dfe958",
+            "found_at": "2026-02-09T20:42:49.468928273+00:00"
+          },
+          {
+            "firmware": "R8950ZCU2JZB4/R8950CHC2JZB4/R8950ZCU2JZB4",
+            "md5": "5e93f472cfdd0d5e6626dbcc92546ebf",
+            "found_at": "2026-02-09T20:42:49.469098586+00:00"
           }
         ]
       }

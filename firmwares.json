@@ -969,6 +969,11 @@
             "firmware": "A155NKSS9CZB1/A155NOKR9CZB1/A155NKSS9CZB1",
             "md5": "506be5fcc9b0483f301cdb01d60e1b45",
             "found_at": "2026-02-05T08:45:42.007281458+00:00"
+          },
+          {
+            "firmware": "A155NKSS9CZB2/A155NOKR9CZB2/A155NKSS9CZB2",
+            "md5": "a10d6d7cd8aa324ae9cc5d4cfd6677da",
+            "found_at": "2026-02-09T07:07:39.824378146+00:00"
           }
         ]
       }
@@ -3189,6 +3194,11 @@
             "firmware": "A266U1UES6BZB2/A266U1OYM6BZB2/A266U1UES6BZB2",
             "md5": "e7c8820decf826e1defad46e5541d3b7",
             "found_at": "2026-02-05T16:55:46.516949396+00:00"
+          },
+          {
+            "firmware": "A266U1UES7BZB3/A266U1OYM7BZB3/A266U1UES7BZB3",
+            "md5": "45d032b2df1df534c76583a87fba48b3",
+            "found_at": "2026-02-09T07:10:09.655424329+00:00"
           }
         ]
       }
@@ -3459,6 +3469,11 @@
             "firmware": "A336BXXSHGZB1/A336BOXMHGZB1/A336BXXSHGZB1",
             "md5": "7f1660932bdd3f43c27acf79cf1208cb",
             "found_at": "2026-02-05T14:50:51.339577994+00:00"
+          },
+          {
+            "firmware": "A336BXXUHHZB5/A336BOXMHHZB5/A336BXXUHHZB5",
+            "md5": "55405df072784d83ef68332df31927b5",
+            "found_at": "2026-02-09T07:11:30.452889450+00:00"
           }
         ]
       }
@@ -19694,6 +19709,11 @@
             "firmware": "S731U1UES5AYLB/S731U1OYM5AYLB/S731U1UES5AYLB",
             "md5": "7bbb976fea2dc2acc2118b2cfb84f06f",
             "found_at": "2026-02-05T16:59:26.681818438+00:00"
+          },
+          {
+            "firmware": "S731U1UEU5BZB3/S731U1OYM5BZB3/S731U1UEU5BZB3",
+            "md5": "ae8f286f16155978f477e10ef62189e6",
+            "found_at": "2026-02-09T07:13:50.923882311+00:00"
           }
         ]
       }

@@ -1309,6 +1309,11 @@
             "firmware": "A156USQSADZA6/A156UOYNADZA6/A156USQSADZA6",
             "md5": "5bbfae742079b0f322e92c4fbd71fc2a",
             "found_at": "2026-02-05T16:53:17.471865539+00:00"
+          },
+          {
+            "firmware": "A156USQSADZB1/A156UOYNADZB1/A156USQSADZB1",
+            "md5": "8b1970a0aa81617af0b4333dc7095fb9",
+            "found_at": "2026-02-10T10:57:57.936267885+00:00"
           }
         ]
       }
@@ -3804,6 +3809,11 @@
             "firmware": "A3560ZHS8CZB1/A3560OZS8CZB1/A3560ZHS8CZB1",
             "md5": "9a3e1935e767288aad5bab1214bf7fbc",
             "found_at": "2026-02-06T10:47:51.419098847+00:00"
+          },
+          {
+            "firmware": "A3560ZHU8DZB5/A3560OZS8DZB5/A3560ZHU8DZB5",
+            "md5": "ab985663b8532621c5f930c35ccdbc6a",
+            "found_at": "2026-02-10T11:01:09.041559326+00:00"
           }
         ]
       }
@@ -11049,6 +11059,11 @@
             "firmware": "F9360ZCS9IZB1/F9360CHC9IZB1/F9360ZCS9IZB1",
             "md5": "b29b2c69847e4f0ad4b91974806415ef",
             "found_at": "2026-02-07T10:31:35.319561904+00:00"
+          },
+          {
+            "firmware": "F9360ZCU9JZB3/F9360CHC9JZB3/F9360ZCU9JZB3",
+            "md5": "072632f6117b1da65eebf6c375385a22",
+            "found_at": "2026-02-10T11:06:44.270765984+00:00"
           }
         ]
       }
@@ -34684,6 +34699,11 @@
             "firmware": "W7023ZCS9IZB1/W7023CHC9IZB1/W7023ZCS9IZB1",
             "md5": "099ac6c6c948ae97bd3702000a8b43dd",
             "found_at": "2026-02-07T08:44:05.682365647+00:00"
+          },
+          {
+            "firmware": "W7023ZCU9JZB3/W7023CHC9JZB3/W7023ZCU9JZB3",
+            "md5": "235b618f31c3d8c356f3893d81f5e24e",
+            "found_at": "2026-02-10T11:06:57.864774001+00:00"
           }
         ]
       }
@@ -34904,6 +34924,11 @@
             "firmware": "W9023ZCS9IZB1/W9023CHC9IZB1/W9023ZCS9IZB1",
             "md5": "1dde97bf20dd74e6b70b983b08c8f76e",
             "found_at": "2026-02-07T10:33:09.113998436+00:00"
+          },
+          {
+            "firmware": "W9023ZCU9JZB3/W9023CHC9JZB3/W9023ZCU9JZB3",
+            "md5": "75d6a9caf6731737fef84914c9f779aa",
+            "found_at": "2026-02-10T11:06:56.091297865+00:00"
           }
         ]
       }

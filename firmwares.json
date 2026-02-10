@@ -979,6 +979,11 @@
             "firmware": "A155NKSS9CZB2/A155NOKR9CZB2/A155NKSS9CZB2",
             "md5": "a10d6d7cd8aa324ae9cc5d4cfd6677da",
             "found_at": "2026-02-09T07:07:39.824378146+00:00"
+          },
+          {
+            "firmware": "A155NKSU9DZB3/A155NOKR9DZB3/A155NKSU9DZB3",
+            "md5": "756917b1a770fc27a2b61b4ede9b51ff",
+            "found_at": "2026-02-10T07:07:55.518710451+00:00"
           }
         ]
       }

@@ -859,6 +859,11 @@
             "firmware": "A155FXXSADZB2/A155FOXMADZB2/A155FXXSADZB2",
             "md5": "ba21223fea91d1f695265a07b1fb6422",
             "found_at": "2026-02-09T05:30:58.831842289+00:00"
+          },
+          {
+            "firmware": "A155FXXUAEZB3/A155FOXMAEZB3/A155FXXUAEZB3",
+            "md5": "6e37ec47a0411b45512ecc9af77f217c",
+            "found_at": "2026-02-10T05:31:22.024028111+00:00"
           }
         ]
       }
@@ -1059,6 +1064,11 @@
             "firmware": "A1560ZHS9DZB1/A1560OZS9DZB1/A1560ZHS9DZB1",
             "md5": "5d38e91026ca59f4d4bdf1499f18697d",
             "found_at": "2026-02-09T08:56:50.694371565+00:00"
+          },
+          {
+            "firmware": "A1560ZHU9EZB3/A1560OZS9EZB3/A1560ZHU9EZB3",
+            "md5": "f5f83769ba9d1015a8e86b7aaa2aa728",
+            "found_at": "2026-02-10T05:31:26.665479001+00:00"
           }
         ]
       }
@@ -2263,7 +2273,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A1760ZHU3BYK3/A1760OZS3BYK3/A1760ZHU3BYK3",
+        "latest_official": "A1760ZHS4BZA5/A1760OZS4BZA5/A1760ZHS4BZA5",
         "test_firmwares": [
           {
             "firmware": "A1760ZHU2BYI2/A1760OZS2BYI2/A1760ZHU2BYI2",
@@ -2324,6 +2334,11 @@
             "firmware": "A1760ZHS5BZB7/A1760OZS5BZB7/A1760ZHS5BZB7",
             "md5": "218cc3d6a3007bbc06942867229a8d5e",
             "found_at": "2026-02-07T12:53:33.690228773+00:00"
+          },
+          {
+            "firmware": "A1760ZHU5CZB3/A1760OZS5CZB3/A1760ZHU5CZB3",
+            "md5": "11fdb6c0086554679a6286a05323d32a",
+            "found_at": "2026-02-10T05:32:05.507623491+00:00"
           }
         ]
       }
@@ -5614,6 +5629,11 @@
             "firmware": "A5560ZCSDCZB1/A5560CHCDCZB1/A5560ZCSDCZB1",
             "md5": "eecfa63e4e1565af2924dce30fece584",
             "found_at": "2026-02-06T18:58:11.775075347+00:00"
+          },
+          {
+            "firmware": "A5560ZCUDDZB3/A5560CHCDDZB3/A5560ZCUDDZB3",
+            "md5": "005c8c75176f648c3ae77611723a4513",
+            "found_at": "2026-02-10T05:32:26.631101677+00:00"
           }
         ]
       }
@@ -6709,6 +6729,11 @@
             "firmware": "F7210ZCS9IZB1/F7210CHC9IZB1/F7210ZCS9IZB1",
             "md5": "31fa816c4b4f7b479da7a1b54d07f440",
             "found_at": "2026-02-07T08:43:30.638572729+00:00"
+          },
+          {
+            "firmware": "F7210ZCU9JZB3/F7210CHC9JZB3/F7210ZCU9JZB3",
+            "md5": "740c96ea2ab3e1508b8ee19429ccbd6e",
+            "found_at": "2026-02-10T05:37:05.517080428+00:00"
           }
         ]
       }
@@ -16813,7 +16838,7 @@
         ]
       },
       "TGY": {
-        "latest_official": "M336BZHSEGYK3/M336BOZSEGYK3/M336BZHSEGYK3",
+        "latest_official": "M336BZHSFGZA6/M336BOZSFGZA6/M336BZHSFGZA6",
         "test_firmwares": [
           {
             "firmware": "M336BZHSDFYG2/M336BOZSDFYG2/M336BZHSDFYG2",
@@ -16899,6 +16924,11 @@
             "firmware": "M336BZHSGGZB1/M336BOZSGGZB1/M336BZHSGGZB1",
             "md5": "e2040ab2bd5de282500134a456083488",
             "found_at": "2026-02-06T16:45:33.252102321+00:00"
+          },
+          {
+            "firmware": "M336BZHUGGZB2/M336BOZSGGZB2/M336BZHUGGZB2",
+            "md5": "e42eccc430b911b61ea939e8185c1ed2",
+            "found_at": "2026-02-10T05:29:34.700160011+00:00"
           }
         ]
       }

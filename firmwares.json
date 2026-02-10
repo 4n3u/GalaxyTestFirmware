@@ -1328,7 +1328,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A156U1UES8DYL3/A156U1OYM8DYL3/A156U1UES8DYL3",
+        "latest_official": "A156U1UES9DZA1/A156U1OYM9DZA1/A156U1UES9DZA1",
         "test_firmwares": [
           {
             "firmware": "A156U1UES7CYF1/A156U1OYM7CYF1/A156U1UES7CYF1",
@@ -1439,6 +1439,11 @@
             "firmware": "A156U1UEUAEZB3/A156U1OYMAEZB3/A156U1UEUAEZB3",
             "md5": "bd26e68b589b6443c64f5d7c606308f7",
             "found_at": "2026-02-06T10:43:19.321453853+00:00"
+          },
+          {
+            "firmware": "A156U1UESADZB2/A156U1OYMADZB2/A156U1UESADZB2",
+            "md5": "556161a18075c80db76b1482c26f216c",
+            "found_at": "2026-02-10T15:01:34.024135146+00:00"
           }
         ]
       }

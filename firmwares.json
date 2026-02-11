@@ -2284,6 +2284,11 @@
             "firmware": "A175FXXU3BZB3/A175FOXM3BZB3/A175FXXU3BZB3",
             "md5": "4a0135ac611a76266a4761821131c260",
             "found_at": "2026-02-09T08:57:34.146395532+00:00"
+          },
+          {
+            "firmware": "A175FXXU3BZB4/A175FOXM3BZB4/A175FXXU3BZB4",
+            "md5": "2184280027f1c76a130775be61e83031",
+            "found_at": "2026-02-11T10:56:00.432031751+00:00"
           }
         ]
       }
@@ -10544,6 +10549,11 @@
             "firmware": "F766USQS8AZB1/F766UOYN8AZB1/F766USQS8AZB1",
             "md5": "d4ae025b4b331d7a31e4c33dc0ac3a59",
             "found_at": "2026-02-05T08:46:42.770246867+00:00"
+          },
+          {
+            "firmware": "F766USQS8AZB3/F766UOYN8AZB3/F766USQS8AZB3",
+            "md5": "75f198a3819d43ab4331d4c4ee6258f8",
+            "found_at": "2026-02-11T10:59:24.650729073+00:00"
           }
         ]
       }
@@ -36024,6 +36034,16 @@
             "firmware": "X238USQU3BZB1/X238UOYN3BZB1/X238USQU3BZB1",
             "md5": "0d8f852de5349926782fd11e07d07e3a",
             "found_at": "2026-02-06T02:04:29.898022073+00:00"
+          },
+          {
+            "firmware": "X238USQS3AZB2/X238UOYN3AZB2/X238USQS3AZB2",
+            "md5": "8eaf81acebd665b3981c9fa1e7ccb3b0",
+            "found_at": "2026-02-11T10:53:38.831216854+00:00"
+          },
+          {
+            "firmware": "X238USQS3AZB3/X238UOYN3AZB3/X238USQS3AZB3",
+            "md5": "97e008214bab7e6de6b5ba7586fdb8c0",
+            "found_at": "2026-02-11T10:53:38.831359569+00:00"
           }
         ]
       }
@@ -37013,7 +37033,7 @@
     "name": "Galaxy Tab S9 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X518USQUADYK1/X518UOYNADYK1/X518USQUADYK1",
+        "latest_official": "X518USQSBDZA3/X518UOYNBDZA3/X518USQSBDZA3",
         "test_firmwares": [
           {
             "firmware": "X518USQSACYH2/X518UOYNACYH2/X518USQSACYH2",
@@ -37154,6 +37174,11 @@
             "firmware": "X518USQUCDZB1/X518UOYNCDZB1/X518USQUCDZB1",
             "md5": "6f5abef739c0380d87c7b0edf07e1c5b",
             "found_at": "2026-02-09T09:03:45.089992916+00:00"
+          },
+          {
+            "firmware": "X518USQSCDZB4/X518UOYNCDZB4/X518USQSCDZB4",
+            "md5": "4651cb443e6d968e9c3355c5aa1fb086",
+            "found_at": "2026-02-11T10:55:52.649535083+00:00"
           }
         ]
       }

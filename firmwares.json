@@ -17684,6 +17684,11 @@
             "firmware": "R8950ZCU2JZB4/R8950CHC2JZB4/R8950ZCU2JZB4",
             "md5": "5e93f472cfdd0d5e6626dbcc92546ebf",
             "found_at": "2026-02-09T20:42:49.469098586+00:00"
+          },
+          {
+            "firmware": "R8950ZCU2JZB5/R8950CHC2JZB5/R8950ZCU2JZB5",
+            "md5": "96cfec2ddd27048d0b169f7490106eea",
+            "found_at": "2026-02-11T05:43:03.345853135+00:00"
           }
         ]
       }

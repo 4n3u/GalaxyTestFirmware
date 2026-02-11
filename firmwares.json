@@ -40144,6 +40144,11 @@
             "firmware": "X828USQU6DZB1/X828UOYN6DZB1/X828USQU6DZB1",
             "md5": "fc0f3537732fdfbfeaa97e4e48b78f4d",
             "found_at": "2026-02-06T10:42:31.944457885+00:00"
+          },
+          {
+            "firmware": "X828USQS7CZB2/X828UOYN7CZB2/X828USQS7CZB2",
+            "md5": "95a9f2ec43aaa9e536d9149077a0f866",
+            "found_at": "2026-02-11T19:11:33.741406231+00:00"
           }
         ]
       }

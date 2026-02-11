@@ -19744,6 +19744,11 @@
             "firmware": "S731USQS5AYLB/S731UOYN5AYLB/S731USQS5AYLB",
             "md5": "b7bd445b8a156967b201a061062b5cd0",
             "found_at": "2026-02-05T02:12:53.526176271+00:00"
+          },
+          {
+            "firmware": "S731USQS5AYLD/S731UOYN5AYLD/S731USQS5AYLD",
+            "md5": "753ff0045fa09c05c4955706f02679f4",
+            "found_at": "2026-02-11T08:57:16.261187099+00:00"
           }
         ]
       }

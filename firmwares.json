@@ -10554,6 +10554,11 @@
             "firmware": "F766USQS8AZB3/F766UOYN8AZB3/F766USQS8AZB3",
             "md5": "75f198a3819d43ab4331d4c4ee6258f8",
             "found_at": "2026-02-11T10:59:24.650729073+00:00"
+          },
+          {
+            "firmware": "F766USQU8BZB5/F766UOYN8BZB5/F766USQU8BZB5",
+            "md5": "64b9cfaaf2670bccf7dedf1c6e72008f",
+            "found_at": "2026-02-12T02:20:43.185078374+00:00"
           }
         ]
       }
@@ -32449,6 +32454,11 @@
             "firmware": "S937USQS5BYLT/S937UOYN5BYLT/S937USQS5BYLT",
             "md5": "59c1a35e364f58feb8d23d3fdc11e5e3",
             "found_at": "2026-02-05T05:26:51.961452071+00:00"
+          },
+          {
+            "firmware": "S937USQS5BYLV/S937UOYN5BYLV/S937USQS5BYLV",
+            "md5": "43e70776de7b434b8fea5ee9ee0d4607",
+            "found_at": "2026-02-12T02:19:26.711351918+00:00"
           }
         ]
       }

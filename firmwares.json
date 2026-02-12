@@ -36004,6 +36004,11 @@
             "firmware": "X135FXXU4BZB1/X135FOXM4BZB1/X135FXXU4BZB1",
             "md5": "541dba9f308da5112d00a58232fe0579",
             "found_at": "2026-02-05T22:35:27.938132631+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZB5/X135FOXM4BZB5/X135FXXU4BZB5",
+            "md5": "722d0f7afe375dd6a55949593962c6ee",
+            "found_at": "2026-02-12T22:41:40.162014166+00:00"
           }
         ]
       }
@@ -37389,6 +37394,11 @@
             "firmware": "X406BXXU4CZB3/X406BOXM4CZB3/X406BXXU4CZB3",
             "md5": "67bf2e27ae2a2c72e0429b7dc1daef55",
             "found_at": "2026-02-05T20:36:32.209633299+00:00"
+          },
+          {
+            "firmware": "X406BXXU4CZB6/X406BOXM4CZB6/X406BXXU4CZB6",
+            "md5": "cfd4c5ea19da6cb9f216a1d61f9791bd",
+            "found_at": "2026-02-12T22:40:32.317915426+00:00"
           }
         ]
       }

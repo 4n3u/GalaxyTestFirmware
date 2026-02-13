@@ -2519,6 +2519,11 @@
             "firmware": "A176BXXS5BZB7/A176BOXM5BZB7/A176BXXS5BZB7",
             "md5": "01992a03baee58f14251c3e9f131df55",
             "found_at": "2026-02-06T18:55:47.549133719+00:00"
+          },
+          {
+            "firmware": "A176BXXU4CZBD/A176BOXM4CZBD/A176BXXU4CZBD",
+            "md5": "1e2954b25af390b523cbb9282cf1fcb7",
+            "found_at": "2026-02-13T02:16:13.471222293+00:00"
           }
         ]
       }
@@ -19694,6 +19699,11 @@
             "firmware": "S731BXXS5AZB2/S731BOXM5AZB2/S731BXXS5AZB2",
             "md5": "6aa9d813773c91bb4959ee212c50be62",
             "found_at": "2026-02-06T07:01:32.470432344+00:00"
+          },
+          {
+            "firmware": "S731BXXU5BZB5/S731BOXM5BZB5/S731BXXU5BZB5",
+            "md5": "1f0826d27817f72cb740ce3baa2384e7",
+            "found_at": "2026-02-13T02:18:51.340814691+00:00"
           }
         ]
       }
@@ -19864,6 +19874,11 @@
             "firmware": "S731NKSS5AZB1/S731NOKR5AZB1/S731NKSS5AZB1",
             "md5": "096ef03d754c1c1cfb03e639e14c7978",
             "found_at": "2026-02-05T08:49:20.498836013+00:00"
+          },
+          {
+            "firmware": "S731NKSU5BZB5/S731NOKR5BZB5/S731NKSU5BZB5",
+            "md5": "b60a776d7521d39b78816664cd0239c2",
+            "found_at": "2026-02-13T02:18:55.379441247+00:00"
           }
         ]
       }
@@ -20059,6 +20074,16 @@
             "firmware": "S731USQS5AYLD/S731UOYN5AYLD/S731USQS5AYLD",
             "md5": "753ff0045fa09c05c4955706f02679f4",
             "found_at": "2026-02-11T08:57:16.261187099+00:00"
+          },
+          {
+            "firmware": "S731USQU5BZB3/S731UOYN5BZB3/S731USQU5BZB3",
+            "md5": "d422601d8cebd9beb73c4701d4c26bc1",
+            "found_at": "2026-02-13T02:19:01.073522097+00:00"
+          },
+          {
+            "firmware": "S731USQU5BZB5/S731UOYN5BZB5/S731USQU5BZB5",
+            "md5": "9173a7a06ba425ad3922eb1b2d7f604c",
+            "found_at": "2026-02-13T02:19:01.073851642+00:00"
           }
         ]
       }

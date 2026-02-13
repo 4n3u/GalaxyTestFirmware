@@ -1554,6 +1554,11 @@
             "firmware": "A165FXXU8DZB5/A165FOXM8DZB5/A165FXXU8DZB5",
             "md5": "ca8187727b5979811f23ab2d7f0d8da4",
             "found_at": "2026-02-06T05:19:10.349002909+00:00"
+          },
+          {
+            "firmware": "A165FXXU8DZB6/A165FOXM8DZB6/A165FXXU8DZB6",
+            "md5": "6929f26cbf1a4b2845f6b3f758b27ab1",
+            "found_at": "2026-02-13T05:25:09.189802117+00:00"
           }
         ]
       }
@@ -2879,6 +2884,11 @@
             "firmware": "A245NKSS9EZB3/A245NOKR9EZB3/A245NKSS9EZB3",
             "md5": "07d0e09b3cbe71c4f406b567ba40c2ea",
             "found_at": "2026-02-09T08:58:56.931055155+00:00"
+          },
+          {
+            "firmware": "A245NKSU9FZB4/A245NOKR9FZB4/A245NKSU9FZB4",
+            "md5": "d521367281dd0dbbd7c07c9e289a4d38",
+            "found_at": "2026-02-13T05:26:57.297454059+00:00"
           }
         ]
       }

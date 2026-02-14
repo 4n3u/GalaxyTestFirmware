@@ -38049,6 +38049,11 @@
             "firmware": "X306BXXSACZB3/X306BOXMACZB3/X306BXXSACZB3",
             "md5": "ecd09d8798c0325f8019c1ebb3ff8fd2",
             "found_at": "2026-02-13T14:42:31.974985322+00:00"
+          },
+          {
+            "firmware": "X306BXXSACZB6/X306BOXMACZB6/X306BXXSACZB3",
+            "md5": "25fd2765f19797b75bf5620f0e0019e9",
+            "found_at": "2026-02-14T10:35:59.131120171+00:00"
           }
         ]
       }

@@ -648,7 +648,7 @@
         ]
       },
       "TGY": {
-        "latest_official": "A146PZHSDEYK3/A146POZSDEYK3/A146PZHSDEYK3",
+        "latest_official": "A146PZHSEEZA1/A146POZSEEZA1/A146PZHSEEZA1",
         "test_firmwares": [
           {
             "firmware": "A146PZHSBEYG1/A146POZSBEYG1/A146PZHSBEYG1",
@@ -679,6 +679,11 @@
             "firmware": "A146PZHUFEZA3/A146POZSFEZA3/A146PZHUFEZA3",
             "md5": "76a81c77df164454676536fd1a9c739f",
             "found_at": "2026-01-23T08:34:08.342901397+00:00"
+          },
+          {
+            "firmware": "A146PZHUFEZB1/A146POZSFEZB1/A146PZHUFEZB1",
+            "md5": "3cca4924cfd4f4f56186d023b9af40b3",
+            "found_at": "2026-02-14T08:36:07.840205682+00:00"
           }
         ]
       }
@@ -37789,6 +37794,11 @@
             "firmware": "X236CZCS3AZB3/X236CCHC3AZB3/X236CZCS3AZB4",
             "md5": "54e63d9eb44ac634926ac7b3d76fa67b",
             "found_at": "2026-02-14T06:45:52.306011924+00:00"
+          },
+          {
+            "firmware": "X236CZCU3BZB5/X236CCHC3BZB5/X236CZCU3BZB5",
+            "md5": "eb2fc3e7bc62a2048d7fc21ff69d4d2e",
+            "found_at": "2026-02-14T08:34:31.183931285+00:00"
           }
         ]
       }
@@ -38619,6 +38629,11 @@
             "firmware": "X406BXXS4BZB7/X406BOXM4BZB7/X406BXXS4BZB4",
             "md5": "eaaf1c48caf1dbb70da20ecfd8dd22b9",
             "found_at": "2026-02-14T06:46:55.534180284+00:00"
+          },
+          {
+            "firmware": "X406BXXS4BZB2/X406BOXM4BZB2/X406BXXS4BZB4",
+            "md5": "b4d91a5646cd1748928807e456645f34",
+            "found_at": "2026-02-14T08:35:41.021595313+00:00"
           }
         ]
       }

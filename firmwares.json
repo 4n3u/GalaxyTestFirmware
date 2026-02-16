@@ -2749,6 +2749,11 @@
             "firmware": "A176U1UES3AZB9/A176U1OYM3AZB9/A176U1UES3AZB9",
             "md5": "db13686ae653e6117837ca5d03218b2e",
             "found_at": "2026-02-13T20:42:01.042727882+00:00"
+          },
+          {
+            "firmware": "A176U1UEU3BZBD/A176U1OYM3BZBD/A176U1UEU3BZBD",
+            "md5": "bc40d5e08e78524d599663e61cd2ae3e",
+            "found_at": "2026-02-16T16:47:14.110039776+00:00"
           }
         ]
       }

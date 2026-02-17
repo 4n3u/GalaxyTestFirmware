@@ -16504,6 +16504,11 @@
             "firmware": "G766U1UES6BZB4/G766U1OYM6BZB4/G766U1UES6BZB4",
             "md5": "b83c1a38140f185fc3444f8192fcf53a",
             "found_at": "2026-02-14T06:52:24.351126139+00:00"
+          },
+          {
+            "firmware": "G766U1UEU6CZB5/G766U1OYM6CZB5/G766U1UEU6CZB5",
+            "md5": "46dc868dd7e5962eb464e5fc580f61c8",
+            "found_at": "2026-02-17T13:13:10.513929260+00:00"
           }
         ]
       }

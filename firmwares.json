@@ -39154,6 +39154,11 @@
             "firmware": "X518USQSCDZB8/X518UOYNCDZB8/X518USQSCDZB8",
             "md5": "353f35eff103247911dd3a94b1e4b6ef",
             "found_at": "2026-02-16T11:01:43.580614045+00:00"
+          },
+          {
+            "firmware": "X518USQSCDZB9/X518UOYNCDZB9/X518USQSCDZB9",
+            "md5": "5297c9e5c32f9aee2511e46ce6b30605",
+            "found_at": "2026-02-17T14:54:26.717407390+00:00"
           }
         ]
       }

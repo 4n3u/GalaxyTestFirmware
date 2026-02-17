@@ -30804,6 +30804,11 @@
             "firmware": "S931USQU8CZB5/S931UOYN8CZB5/S931USQU8CZB5",
             "md5": "341719c882bd460110749c952452c151",
             "found_at": "2026-02-12T05:33:48.956990307+00:00"
+          },
+          {
+            "firmware": "S931USQS8BYLX/S931UOYN8BYLX/S931USQS8BYLX",
+            "md5": "cdee7ff1a2969f3dcacc996184001c90",
+            "found_at": "2026-02-17T22:38:23.383419301+00:00"
           }
         ]
       }

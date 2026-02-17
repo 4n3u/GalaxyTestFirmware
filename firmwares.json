@@ -749,6 +749,11 @@
             "firmware": "A146U1UEUJEZA3/A146U1OYMJEZA3/A146U1UEUJEZA3",
             "md5": "ad304a625bf0cbc28790b96ff0a0c23f",
             "found_at": "2026-02-03T13:03:09.389240012+00:00"
+          },
+          {
+            "firmware": "A146U1UEUJEZB1/A146U1OYMJEZB1/A146U1UEUJEZB1",
+            "md5": "d7d8626e1904f0110855e1b375824ef2",
+            "found_at": "2026-02-17T07:02:59.564395161+00:00"
           }
         ]
       }

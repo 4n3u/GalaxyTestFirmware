@@ -3394,6 +3394,11 @@
             "firmware": "A266BXXU8CZB5/A266BOXM8CZB5/A266BXXU8CZB5",
             "md5": "e7aa3304a76fe6c5dcf25c443c406078",
             "found_at": "2026-02-06T05:21:30.884324152+00:00"
+          },
+          {
+            "firmware": "A266BXXS8BZB6/A266BOXM8BZB6/A266BXXS8BZB6",
+            "md5": "49cd9dc88ad0401d1a93db3384027b7c",
+            "found_at": "2026-02-19T02:13:39.622337958+00:00"
           }
         ]
       }
@@ -3999,6 +4004,11 @@
             "firmware": "A346BXXSEEZB6/A346BOXMEEZB6/A346BXXSEEZB6",
             "md5": "50b8ece0bd4d32fcda45e66a5b33bea9",
             "found_at": "2026-02-13T07:07:25.338337268+00:00"
+          },
+          {
+            "firmware": "A346BXXSEEZB7/A346BOXMEEZB7/A346BXXSEEZB7",
+            "md5": "f3d9de7058732d67567b4c90b27f2c6a",
+            "found_at": "2026-02-19T02:15:10.269254032+00:00"
           }
         ]
       }

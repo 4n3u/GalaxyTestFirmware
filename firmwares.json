@@ -20884,6 +20884,11 @@
             "firmware": "S731USQS5AYLX/S731UOYN5AYLX/S731USQS5AYLX",
             "md5": "9b76050faafa71093924c339f61ae7e6",
             "found_at": "2026-02-13T20:46:21.178715973+00:00"
+          },
+          {
+            "firmware": "S731USQU5BZB7/S731UOYN5BZB7/S731USQU5BZB7",
+            "md5": "4f918694d07d8eefb2fe34aacc9c39c7",
+            "found_at": "2026-02-20T08:46:46.371067578+00:00"
           }
         ]
       }
@@ -25399,6 +25404,11 @@
             "firmware": "S916BXXS9EZB6/S916BOXM9EZB6/S916BXXS9EZB6",
             "md5": "c561ec47c28a002ed813fa85dd02bdab",
             "found_at": "2026-02-13T13:01:23.079009459+00:00"
+          },
+          {
+            "firmware": "S916BXXU9FZB7/S916BOXM9FZB7/S916BXXU9FZB7",
+            "md5": "88a3ae6b1b1bcbb780df2dfd9ce71432",
+            "found_at": "2026-02-20T08:47:48.116320932+00:00"
           }
         ]
       }
@@ -30049,6 +30059,11 @@
             "firmware": "S931BXXS8BZB5/S931BOXM8BZB5/S931BXXS8BZB5",
             "md5": "7b2c9edb0f45e9ee88d604c178b7a6ee",
             "found_at": "2026-02-13T14:42:30.103322332+00:00"
+          },
+          {
+            "firmware": "S931BXXS8BZB8/S931BOXM8BZB8/S931BXXS8BZB5",
+            "md5": "70a983efac9e324d0cfcaa909ecf5d92",
+            "found_at": "2026-02-20T08:48:41.316153388+00:00"
           }
         ]
       }

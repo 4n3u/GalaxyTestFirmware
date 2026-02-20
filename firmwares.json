@@ -40979,6 +40979,11 @@
             "firmware": "X736BXXS5AZB8/X736BOXM5AZB8/X736BXXS5AZB8",
             "md5": "7ba9dbca088123b3a88edf814a80c063",
             "found_at": "2026-02-13T22:35:57.317928519+00:00"
+          },
+          {
+            "firmware": "X736BXXU5AZBC/X736BOXM5AZBC/X736BXXU5AZBC",
+            "md5": "fd9727be229cb8d37b1eb9d2e909b2b7",
+            "found_at": "2026-02-20T05:19:07.488800995+00:00"
           }
         ]
       }
@@ -43504,6 +43509,11 @@
             "firmware": "X936BXXS5AZB8/X936BOXM5AZB8/X936BXXS5AZB8",
             "md5": "2b300ae5840c2d6b1d07dbb9673877eb",
             "found_at": "2026-02-13T22:36:03.274960920+00:00"
+          },
+          {
+            "firmware": "X936BXXU5AZBC/X936BOXM5AZBC/X936BXXU5AZBC",
+            "md5": "dfd21159fdc42e75c24dcc51f7476fa5",
+            "found_at": "2026-02-20T05:19:13.630784030+00:00"
           }
         ]
       }

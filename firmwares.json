@@ -11644,6 +11644,11 @@
             "firmware": "F926BXXSHJZB7/F926BOXMHJZB7/F926BXXSHJZB7",
             "md5": "394872ca0f8bc3e549cde7ecf29622b0",
             "found_at": "2026-02-14T02:05:21.087124406+00:00"
+          },
+          {
+            "firmware": "F926BXXSHJZB8/F926BOXMHJZB8/F926BXXSHJZB8",
+            "md5": "95cdaccb05cf43f2454c1d0e25eaefac",
+            "found_at": "2026-02-23T14:53:48.233867597+00:00"
           }
         ]
       }
@@ -40764,6 +40769,11 @@
             "firmware": "X626BXXS7BZB7/X626BOXM7BZB7/X626BXXS7BZB7",
             "md5": "0f7c03b7a8df458dd3a3442af5b61326",
             "found_at": "2026-02-13T13:03:03.573370885+00:00"
+          },
+          {
+            "firmware": "X626BXXU7CZBC/X626BOXM7CZBC/X626BXXU7CZBC",
+            "md5": "8d0e560dc5bba685618105c5e529908b",
+            "found_at": "2026-02-23T14:48:57.080437926+00:00"
           }
         ]
       }

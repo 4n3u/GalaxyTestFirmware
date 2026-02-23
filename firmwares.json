@@ -42834,6 +42834,11 @@
             "firmware": "X828USQS7CZB5/X828UOYN7CZB5/X828USQS7CZB5",
             "md5": "ebdc6401f99d82036fcc55021390c020",
             "found_at": "2026-02-13T20:41:04.477704830+00:00"
+          },
+          {
+            "firmware": "X828USQU7DZB6/X828UOYN7DZB6/X828USQU7DZB6",
+            "md5": "f1754c69e7676ac8bfeb1cc61f3035a9",
+            "found_at": "2026-02-23T05:34:53.454952506+00:00"
           }
         ]
       }

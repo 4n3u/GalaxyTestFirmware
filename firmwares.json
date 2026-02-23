@@ -3209,6 +3209,11 @@
             "firmware": "A256BXXSBDZB2/A256BOXMBDZB2/A256BXXSBDZB2",
             "md5": "8827fc5577055486e4508b8197eef825",
             "found_at": "2026-02-13T10:45:59.177982129+00:00"
+          },
+          {
+            "firmware": "A256BXXUBEZB7/A256BOXMBEZB7/A256BXXUBEZB7",
+            "md5": "c675e3fcc6e6013f618ee7ae22e0f3dc",
+            "found_at": "2026-02-23T19:07:01.573566457+00:00"
           }
         ]
       }

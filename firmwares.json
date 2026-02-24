@@ -5609,6 +5609,11 @@
             "firmware": "A536USQSKGZB6/A536UOYNKGZB6/A536USQSKGZB6",
             "md5": "ee335ea1a562263dce8a0f9f59d257da",
             "found_at": "2026-02-13T13:09:54.092874953+00:00"
+          },
+          {
+            "firmware": "A536USQUKHZB7/A536UOYNKHZB7/A536USQUKHZB7",
+            "md5": "bf4c85593b5552bcaedc77ea5d072cdf",
+            "found_at": "2026-02-24T07:07:40.267470536+00:00"
           }
         ]
       }
@@ -6039,6 +6044,11 @@
             "firmware": "A546U1UESIEZB7/A546U1OYMIEZB7/A546U1UESIEZB7",
             "md5": "00caed4b249ca51db33eb8ef05ebe5b7",
             "found_at": "2026-02-13T18:54:31.748157241+00:00"
+          },
+          {
+            "firmware": "A546U1UEUIFZB9/A546U1OYMIFZB9/A546U1UEUIFZB9",
+            "md5": "5830e98debfbdf0529fe6dbdac564967",
+            "found_at": "2026-02-24T07:07:00.392835615+00:00"
           }
         ]
       }

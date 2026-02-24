@@ -16574,6 +16574,11 @@
             "firmware": "G766BXXS6BZB5/G766BOXM6BZB5/G766BXXS6BZB3",
             "md5": "c235d4fc3cb574b3807e204f31c746aa",
             "found_at": "2026-02-13T10:49:16.932430003+00:00"
+          },
+          {
+            "firmware": "G766BXXU6CZB6/G766BOXM6CZB6/G766BXXU6CZB6",
+            "md5": "962d73674a52049d365e848d30079010",
+            "found_at": "2026-02-24T15:00:57.388686727+00:00"
           }
         ]
       }
@@ -16689,6 +16694,11 @@
             "firmware": "G766USQU6CZB5/G766UOYN6CZB5/G766USQU6CZB5",
             "md5": "34742940d17a16a4f28c21fb7eb6411f",
             "found_at": "2026-02-13T16:48:10.629049334+00:00"
+          },
+          {
+            "firmware": "G766USQU6CZB6/G766UOYN6CZB6/G766USQU6CZB6",
+            "md5": "1eee3be0b1fd746820f109378864ec71",
+            "found_at": "2026-02-24T15:01:00.617558353+00:00"
           }
         ]
       }
@@ -16799,6 +16809,11 @@
             "firmware": "G766U1UEU6CZB5/G766U1OYM6CZB5/G766U1UEU6CZB5",
             "md5": "46dc868dd7e5962eb464e5fc580f61c8",
             "found_at": "2026-02-17T13:13:10.513929260+00:00"
+          },
+          {
+            "firmware": "G766U1UEU6CZB6/G766U1OYM6CZB6/G766U1UEU6CZB6",
+            "md5": "3f34782f5fec190e6494f3c258be25f9",
+            "found_at": "2026-02-24T15:01:03.350878418+00:00"
           }
         ]
       }

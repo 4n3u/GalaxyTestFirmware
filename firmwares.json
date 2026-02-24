@@ -17824,6 +17824,11 @@
             "firmware": "M135FXXSDEZB7/M135FOXMDEZB7/M135FXXSDEZB5",
             "md5": "3548ee55bf2ef2dc50c7a8c25f0c18b4",
             "found_at": "2026-02-23T13:05:28.019485425+00:00"
+          },
+          {
+            "firmware": "M135FXXSDEZB9/M135FOXMDEZB9/M135FXXSDEZB5",
+            "md5": "8c56400259d1cd178be1526bacc1b8ac",
+            "found_at": "2026-02-24T05:22:29.487996426+00:00"
           }
         ]
       }

@@ -3564,6 +3564,11 @@
             "firmware": "A266U1UES7BZB6/A266U1OYM7BZB6/A266U1UES7BZB6",
             "md5": "f750f1dacc46915019f8798233f2d174",
             "found_at": "2026-02-13T18:55:52.753101249+00:00"
+          },
+          {
+            "firmware": "A266U1UEU7CZB7/A266U1OYM7CZB7/A266U1UEU7CZB7",
+            "md5": "93d901b393d7db3c693594049f4b345e",
+            "found_at": "2026-02-24T13:11:53.751886907+00:00"
           }
         ]
       }
@@ -5709,6 +5714,11 @@
             "firmware": "A536U1UESKGZB6/A536U1OYMKGZB6/A536U1UESKGZB6",
             "md5": "880143a13c45cc77f3b92262ea5e80d8",
             "found_at": "2026-02-13T18:54:21.272323674+00:00"
+          },
+          {
+            "firmware": "A536U1UEUKHZB7/A536U1OYMKHZB7/A536U1UEUKHZB7",
+            "md5": "1e7dcc55f5ec0914ed8adbda17954f12",
+            "found_at": "2026-02-24T13:13:47.542882907+00:00"
           }
         ]
       }
@@ -18444,6 +18454,11 @@
             "firmware": "M356BXXU7DZB5/M356BOXM7DZB5/M356BXXU7DZB5",
             "md5": "4e7fcbb39f6c3eb5b931758436437f60",
             "found_at": "2026-02-23T13:06:35.201805963+00:00"
+          },
+          {
+            "firmware": "M356BXXU7DZB7/M356BOXM7DZB7/M356BXXU7DZB7",
+            "md5": "96f18c666b1d7aac6e12a6f79d649e12",
+            "found_at": "2026-02-24T13:07:57.465197951+00:00"
           }
         ]
       }
@@ -19614,6 +19629,11 @@
             "firmware": "S711USQU7FZB5/S711UOYN7FZB5/S711USQU7FZB5",
             "md5": "4705ba53201cc2c57d907daa4cd9b7c3",
             "found_at": "2026-02-17T08:52:29.696011003+00:00"
+          },
+          {
+            "firmware": "S711USQU7FZB7/S711UOYN7FZB7/S711USQU7FZB7",
+            "md5": "705419d356696e73bdde7aaa1cc88338",
+            "found_at": "2026-02-24T13:13:31.591681806+00:00"
           }
         ]
       }
@@ -20499,6 +20519,11 @@
             "firmware": "S721USQSACZB6/S721UOYNACZB6/S721USQSACZB6",
             "md5": "319049035544d0915c5035c8614ca66c",
             "found_at": "2026-02-14T06:51:52.091241010+00:00"
+          },
+          {
+            "firmware": "S721USQUADZB7/S721UOYNADZB7/S721USQUADZB7",
+            "md5": "d11fdd86114cad41b5666e9b5b74db16",
+            "found_at": "2026-02-24T13:14:21.583917196+00:00"
           }
         ]
       }

@@ -1039,6 +1039,11 @@
             "firmware": "A155NKSS9CZB4/A155NOKR9CZB4/A155NKSS9CZB4",
             "md5": "64d1b9bb9a497c5000ce23df7b8226c1",
             "found_at": "2026-02-13T10:43:35.593604105+00:00"
+          },
+          {
+            "firmware": "A155NKSU9DZB7/A155NOKR9DZB7/A155NKSU9DZB7",
+            "md5": "2d98988c589f0c12ff99afb00995d95c",
+            "found_at": "2026-02-24T02:08:53.256086239+00:00"
           }
         ]
       }
@@ -3094,6 +3099,11 @@
             "firmware": "A245NKSS9EZB5/A245NOKR9EZB5/A245NKSS9EZB5",
             "md5": "66e111ec8b154a6bee9f038f1ec7a240",
             "found_at": "2026-02-13T10:45:51.176050150+00:00"
+          },
+          {
+            "firmware": "A245NKSU9FZB6/A245NOKR9FZB6/A245NKSU9FZB6",
+            "md5": "43609c955789c8b5e3e3f8df4923b7d9",
+            "found_at": "2026-02-24T02:10:54.987473193+00:00"
           }
         ]
       }

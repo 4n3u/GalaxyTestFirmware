@@ -21204,6 +21204,11 @@
             "firmware": "S731USQU5BZB7/S731UOYN5BZB7/S731USQU5BZB7",
             "md5": "4f918694d07d8eefb2fe34aacc9c39c7",
             "found_at": "2026-02-20T08:46:46.371067578+00:00"
+          },
+          {
+            "firmware": "S731USQS5AYLY/S731UOYN5AYLY/S731USQS5AYLY",
+            "md5": "e7aed4df3fed87e3e6e7e5c1dadb7910",
+            "found_at": "2026-02-24T10:58:43.325212508+00:00"
           }
         ]
       }
@@ -42774,6 +42779,11 @@
             "firmware": "X818USQS7DZB6/X818UOYN7DZB6/X818USQS7DZB6",
             "md5": "73855b145e51e4f1ceafababbfc36650",
             "found_at": "2026-02-14T06:48:10.384941837+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZB7/X818UOYN7EZB7/X818USQU7EZB7",
+            "md5": "4b6dbb735cbc1ce09e2b5e9bb32d2997",
+            "found_at": "2026-02-24T11:02:06.091634575+00:00"
           }
         ]
       }

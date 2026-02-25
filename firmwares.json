@@ -1774,6 +1774,11 @@
             "firmware": "A165NKSS6CZB4/A165NOKR6CZB4/A165NKSS6CZB1",
             "md5": "fb01dad796048d5f4603ee362dbdd3dc",
             "found_at": "2026-02-13T22:36:36.401159320+00:00"
+          },
+          {
+            "firmware": "A165NKSU6DZB7/A165NOKR6DZB7/A165NKSU6DZB7",
+            "md5": "a4aa115e1a259fafb17df55387629fb7",
+            "found_at": "2026-02-25T05:26:54.499297457+00:00"
           }
         ]
       }
@@ -5944,6 +5949,11 @@
             "firmware": "A546BXXSIEZB7/A546BOXMIEZB7/A546BXXSIEZB1",
             "md5": "57b9454a9799437021bb99a2ac061eba",
             "found_at": "2026-02-13T08:52:34.345267767+00:00"
+          },
+          {
+            "firmware": "A546BXXUIFZB9/A546BOXMIFZB9/A546BXXUIFZB9",
+            "md5": "9d46c8bc713a48f9650de00aa5fe509d",
+            "found_at": "2026-02-25T05:33:52.264923604+00:00"
           }
         ]
       }
@@ -17668,7 +17678,7 @@
     "name": "Galaxy S21 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G991U1UESIHYL1/G991U1OYMIHYL1/G991U1UESIHYL1",
+        "latest_official": "G991U1UESJHZAA/G991U1OYMJHZAA/G991U1UESJHZAA",
         "test_firmwares": [
           {
             "firmware": "G991U1UESHHYI1/G991U1OYMHHYI1/G991U1UESHHYI1",
@@ -17694,6 +17704,11 @@
             "firmware": "G991U1UESJHZAA/G991U1OYMJHZAA/G991U1UESJHZAA",
             "md5": "f070b794a2b2ec7018415ca090751d69",
             "found_at": "2026-01-20T06:42:23.997554232+00:00"
+          },
+          {
+            "firmware": "G991U1UESJHZB1/G991U1OYMJHZB1/G991U1UESJHZB1",
+            "md5": "067ffc678497a57bf20e2906e7fa4f98",
+            "found_at": "2026-02-25T05:28:44.155952705+00:00"
           }
         ]
       }
@@ -17728,7 +17743,7 @@
     "name": "Galaxy S21+ 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G996U1UESIHYL1/G996U1OYMIHYL1/G996U1UESIHYL1",
+        "latest_official": "G996U1UESJHZAA/G996U1OYMJHZAA/G996U1UESJHZAA",
         "test_firmwares": [
           {
             "firmware": "G996U1UESHHYI1/G996U1OYMHHYI1/G996U1UESHHYI1",
@@ -17754,6 +17769,11 @@
             "firmware": "G996U1UESJHZAA/G996U1OYMJHZAA/G996U1UESJHZAA",
             "md5": "c8044f45d9e8d1401e6502d75025137a",
             "found_at": "2026-01-20T06:43:51.651824065+00:00"
+          },
+          {
+            "firmware": "G996U1UESJHZB1/G996U1OYMJHZB1/G996U1UESJHZB1",
+            "md5": "8d07c87b8e645172d2ae01c687c5be84",
+            "found_at": "2026-02-25T05:29:34.284741562+00:00"
           }
         ]
       }
@@ -17788,7 +17808,7 @@
     "name": "Galaxy S21 Ultra 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G998U1UESIHYL1/G998U1OYMIHYL1/G998U1UESIHYL1",
+        "latest_official": "G998U1UESJHZAA/G998U1OYMJHZAA/G998U1UESJHZAA",
         "test_firmwares": [
           {
             "firmware": "G998U1UESHHYI1/G998U1OYMHHYI1/G998U1UESHHYI1",
@@ -17814,6 +17834,11 @@
             "firmware": "G998U1UESJHZAA/G998U1OYMJHZAA/G998U1UESJHZAA",
             "md5": "ae6560c7350f6b1b9acd9f01c32dc6b6",
             "found_at": "2026-01-20T06:43:26.987964333+00:00"
+          },
+          {
+            "firmware": "G998U1UESJHZB1/G998U1OYMJHZB1/G998U1UESJHZB1",
+            "md5": "f059ab1662efd103d00c50baf153ca3d",
+            "found_at": "2026-02-25T05:29:18.196242866+00:00"
           }
         ]
       }

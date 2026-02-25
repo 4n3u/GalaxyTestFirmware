@@ -6319,6 +6319,11 @@
             "firmware": "A556BXXSDCZB5/A556BOXMDCZB5/A556BXXSDCZB5",
             "md5": "ce4c00ad3ebfd5e033b06c8b6b0be6e7",
             "found_at": "2026-02-13T08:52:46.234388156+00:00"
+          },
+          {
+            "firmware": "A556BXXUDDZB7/A556BOXMDDZB7/A556BXXUDDZB7",
+            "md5": "74a72a1bd2c052e2e148e5e8f6ba61c2",
+            "found_at": "2026-02-25T13:12:29.589798859+00:00"
           }
         ]
       }
@@ -17904,6 +17909,11 @@
             "firmware": "M135FXXSDEZB9/M135FOXMDEZB9/M135FXXSDEZB5",
             "md5": "8c56400259d1cd178be1526bacc1b8ac",
             "found_at": "2026-02-24T05:22:29.487996426+00:00"
+          },
+          {
+            "firmware": "M135FXXSDEZBA/M135FOXMDEZBA/M135FXXSDEZB5",
+            "md5": "c9b75766292c74b3f505787c6d55afa2",
+            "found_at": "2026-02-25T13:05:31.049148540+00:00"
           }
         ]
       }

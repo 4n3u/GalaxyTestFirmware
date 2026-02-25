@@ -19964,6 +19964,11 @@
             "firmware": "S711U1UEU7FZB5/S711U1OYM7FZB5/S711U1UEU7FZB5",
             "md5": "ad09e1e9c25e428bc083b68476e433eb",
             "found_at": "2026-02-17T16:58:39.361975300+00:00"
+          },
+          {
+            "firmware": "S711U1UEU7FZB7/S711U1OYM7FZB7/S711U1UEU7FZB7",
+            "md5": "1a198b88075bc5a4f68b137508d4543f",
+            "found_at": "2026-02-25T08:57:22.545064403+00:00"
           }
         ]
       }

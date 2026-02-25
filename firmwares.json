@@ -11719,6 +11719,11 @@
             "firmware": "F926BXXSHJZB8/F926BOXMHJZB8/F926BXXSHJZB8",
             "md5": "95cdaccb05cf43f2454c1d0e25eaefac",
             "found_at": "2026-02-23T14:53:48.233867597+00:00"
+          },
+          {
+            "firmware": "F926BXXSHJZB9/F926BOXMHJZB9/F926BXXSHJZB8",
+            "md5": "c46d7a2a007780396227cca2c2e05a87",
+            "found_at": "2026-02-25T17:18:03.285377896+00:00"
           }
         ]
       }

@@ -10209,6 +10209,11 @@
             "firmware": "F7610ZCU8BZB7/F7610CHC8BZB7/F7610ZCU8BZB5",
             "md5": "053c41722de782be2227945d100bc149",
             "found_at": "2026-02-20T10:49:07.210105237+00:00"
+          },
+          {
+            "firmware": "F7610ZCU8BZB9/F7610CHC8BZB9/F7610ZCU8BZB5",
+            "md5": "15cd07bb75b609d6a6457832382679d5",
+            "found_at": "2026-02-26T02:16:16.466569300+00:00"
           }
         ]
       }
@@ -20918,7 +20923,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S731NKSS4AYL3/S731NOKR4AYL3/S731NKSS4AYL3",
+        "latest_official": "S731NKSS5AZB2/S731NOKR5AZB2/S731NKSS5AZB1",
         "test_firmwares": [
           {
             "firmware": "S731NKSS1AYID/S731NOKR1AYID/S731NKSU1AYI5",
@@ -21094,6 +21099,11 @@
             "firmware": "S731NKSU5BZB7/S731NOKR5BZB7/S731NKSU5BZB7",
             "md5": "3656a3fa53bc598b16326df7c51a5868",
             "found_at": "2026-02-20T13:08:10.353778543+00:00"
+          },
+          {
+            "firmware": "S731NKSU5BZB9/S731NOKR5BZB9/S731NKSU5BZB9",
+            "md5": "398c8f5ec0f15ff129ab1e38c10e00aa",
+            "found_at": "2026-02-26T02:14:55.955419844+00:00"
           }
         ]
       }
@@ -31459,6 +31469,11 @@
             "firmware": "S931USQU8ZZAO/S931UOYN8ZZAO/S931USQU8CZAO",
             "md5": "1bd747402efd7afa122df044f0d5f200",
             "found_at": "2026-02-20T14:48:21.935838191+00:00"
+          },
+          {
+            "firmware": "S931USQU8ZZB9/S931UOYN8ZZB9/S931USQU8CZB9",
+            "md5": "86a2b7e73a657a3b9bd444704de62c65",
+            "found_at": "2026-02-26T02:14:18.583997757+00:00"
           }
         ]
       }
@@ -34268,7 +34283,7 @@
     "name": "Galaxy S25 Edge",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S937NKSS5BYLR/S937NOKR5BYLR/S937NKSS5BYLP",
+        "latest_official": "S937NKSS6BZB2/S937NOKR6BZB2/S937NKSS6BZB1",
         "test_firmwares": [
           {
             "firmware": "S937NKSS2BYI9/S937NOKR2BYI9/S937NKSU2BYI3",
@@ -34569,6 +34584,11 @@
             "firmware": "S937NKSU6CZB7/S937NOKR6CZB7/S937NKSU6CZB7",
             "md5": "632965fcaee3811752b224a1cc73fc63",
             "found_at": "2026-02-20T10:45:47.941142657+00:00"
+          },
+          {
+            "firmware": "S937NKSU6CZB9/S937NOKR6CZB9/S937NKSU6CZB7",
+            "md5": "8d1ed1ba745a0aa8e54d2e8f4966f90c",
+            "found_at": "2026-02-26T02:14:37.647123778+00:00"
           }
         ]
       }
@@ -36654,6 +36674,11 @@
             "firmware": "S938USQU8ZZAO/S938UOYN8ZZAO/S938USQU8CZAO",
             "md5": "cd590b7080a83be2be94c4cda4b4438a",
             "found_at": "2026-02-20T14:49:35.024479476+00:00"
+          },
+          {
+            "firmware": "S938USQU8ZZB9/S938UOYN8ZZB9/S938USQU8CZB9",
+            "md5": "ba14cad82c25685cb5150de8cd42d484",
+            "found_at": "2026-02-26T02:15:27.979897895+00:00"
           }
         ]
       }
@@ -41844,6 +41869,11 @@
             "firmware": "X736BXXU5AZBC/X736BOXM5AZBC/X736BXXU5AZBC",
             "md5": "fd9727be229cb8d37b1eb9d2e909b2b7",
             "found_at": "2026-02-20T05:19:07.488800995+00:00"
+          },
+          {
+            "firmware": "X736BXXU5AZBD/X736BOXM5AZBD/X736BXXU5AZBD",
+            "md5": "bb49292cf776d7734957b733d2c83da9",
+            "found_at": "2026-02-26T02:06:58.876794659+00:00"
           }
         ]
       }
@@ -44424,6 +44454,11 @@
             "firmware": "X936BXXU5AZBC/X936BOXM5AZBC/X936BXXU5AZBC",
             "md5": "dfd21159fdc42e75c24dcc51f7476fa5",
             "found_at": "2026-02-20T05:19:13.630784030+00:00"
+          },
+          {
+            "firmware": "X936BXXU5AZBD/X936BOXM5AZBD/X936BXXU5AZBD",
+            "md5": "57c64cef8f04e7067d35a23176266dbe",
+            "found_at": "2026-02-26T02:07:07.229509337+00:00"
           }
         ]
       }

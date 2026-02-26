@@ -39549,6 +39549,11 @@
             "firmware": "X306BXXSACZB6/X306BOXMACZB6/X306BXXSACZB3",
             "md5": "25fd2765f19797b75bf5620f0e0019e9",
             "found_at": "2026-02-14T10:35:59.131120171+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZB5/X306BOXMADZB5/X306BXXUADZB5",
+            "md5": "2164164617c1e0e8b9b9f7e61db57a72",
+            "found_at": "2026-02-26T17:00:34.522030006+00:00"
           }
         ]
       }
@@ -39959,6 +39964,11 @@
             "firmware": "X358UUES6BZB5/X358UOYM6BZB5/X358UUES6BZB5",
             "md5": "c733f19574ae37336aeb314c891179c3",
             "found_at": "2026-02-14T04:19:15.472362623+00:00"
+          },
+          {
+            "firmware": "X358UUEU6CZB7/X358UOYM6CZB7/X358UUEU6CZB7",
+            "md5": "957bdb479d5188831a788d399d195ef1",
+            "found_at": "2026-02-26T17:00:45.493610891+00:00"
           }
         ]
       }
@@ -43954,6 +43964,11 @@
             "firmware": "X828USQU7DZB6/X828UOYN7DZB6/X828USQU7DZB6",
             "md5": "f1754c69e7676ac8bfeb1cc61f3035a9",
             "found_at": "2026-02-23T05:34:53.454952506+00:00"
+          },
+          {
+            "firmware": "X828USQU7DZB7/X828UOYN7DZB7/X828USQU7DZB7",
+            "md5": "cd31f6676bbdddf2167e5c7f7aeb8e61",
+            "found_at": "2026-02-26T17:01:16.031220418+00:00"
           }
         ]
       }

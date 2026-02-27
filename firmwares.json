@@ -2174,6 +2174,11 @@
             "firmware": "A166USQU6DZB7/A166UOYN6DZB7/A166USQU6DZB7",
             "md5": "5791b7636597dc63df57325a19e2bdf7",
             "found_at": "2026-02-23T10:55:36.418180123+00:00"
+          },
+          {
+            "firmware": "A166USQU6DZB9/A166UOYN6DZB9/A166USQU6DZB9",
+            "md5": "1324f794311e3bac6862bf4eb20362bc",
+            "found_at": "2026-02-27T13:03:07.384919634+00:00"
           }
         ]
       }
@@ -16838,7 +16843,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G766BXXS5BZA1/G766BOXM5BZA1/G766BXXS5BZA1",
+        "latest_official": "G766BXXS6BZB5/G766BOXM6BZB5/G766BXXS6BZB3",
         "test_firmwares": [
           {
             "firmware": "G766BXXS3AYI1/G766BOXM3AYI1/G766BXXS3AYI1",
@@ -16959,6 +16964,11 @@
             "firmware": "G766BXXU6CZB6/G766BOXM6CZB6/G766BXXU6CZB6",
             "md5": "962d73674a52049d365e848d30079010",
             "found_at": "2026-02-24T15:00:57.388686727+00:00"
+          },
+          {
+            "firmware": "G766BXXU6CZB7/G766BOXM6CZB7/G766BXXU6CZB7",
+            "md5": "334083cba87917421273867cd46bdbee",
+            "found_at": "2026-02-27T13:08:23.011965621+00:00"
           }
         ]
       }
@@ -20773,7 +20783,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S721USQS9CZA2/S721UOYN9CZA2/S721USQS9CZA2",
+        "latest_official": "S721USQSACZB4/S721UOYNACZB4/S721USQSACZB4",
         "test_firmwares": [
           {
             "firmware": "S721USQS7CYJ2/S721UOYN7CYJ2/S721USQS7CYJ2",
@@ -20989,6 +20999,11 @@
             "firmware": "S721USQUADZB7/S721UOYNADZB7/S721USQUADZB7",
             "md5": "d11fdd86114cad41b5666e9b5b74db16",
             "found_at": "2026-02-24T13:14:21.583917196+00:00"
+          },
+          {
+            "firmware": "S721USQUADZB9/S721UOYNADZB9/S721USQUADZB9",
+            "md5": "f39a594f6a3fb58752398e952e2e8af3",
+            "found_at": "2026-02-27T13:07:23.079768938+00:00"
           }
         ]
       }
@@ -20998,7 +21013,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S721U1UES9CZA2/S721U1OYM9CZA2/S721U1UES9CZA2",
+        "latest_official": "S721U1UESACZB4/S721U1OYMACZB4/S721U1UESACZB4",
         "test_firmwares": [
           {
             "firmware": "S721U1UES7CYJ2/S721U1OYM7CYJ2/S721U1UES7CYJ2",
@@ -21119,6 +21134,11 @@
             "firmware": "S721U1UEUADZB7/S721U1OYMADZB7/S721U1UEUADZB7",
             "md5": "4a6907af55774776f7bf22da4b0688a9",
             "found_at": "2026-02-25T07:04:16.511508201+00:00"
+          },
+          {
+            "firmware": "S721U1UEUADZB9/S721U1OYMADZB9/S721U1UEUADZB9",
+            "md5": "888f850e8f66e06fbd919b81b91f4310",
+            "found_at": "2026-02-27T13:07:27.136467286+00:00"
           }
         ]
       }

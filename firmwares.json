@@ -154,6 +154,11 @@
             "firmware": "A057GXXUADZB5/A057GOXMADZB5/A057GXXUADZB5",
             "md5": "e8cae1500a8aa40e10d12266b94a118c",
             "found_at": "2026-02-25T14:49:44.253994071+00:00"
+          },
+          {
+            "firmware": "A057GXXUADZB6/A057GOXMADZB6/A057GXXUADZB6",
+            "md5": "f05620a733d205004ee2bda5e0c8b2af",
+            "found_at": "2026-02-27T14:39:31.124664399+00:00"
           }
         ]
       }
@@ -2314,6 +2319,11 @@
             "firmware": "A166U1UEU6DZB7/A166U1OYM6DZB7/A166U1UEU6DZB7",
             "md5": "e3507b5a1779256f9ad38635258ed1bf",
             "found_at": "2026-02-23T10:55:39.562268200+00:00"
+          },
+          {
+            "firmware": "A166U1UEU6DZB9/A166U1OYM6DZB9/A166U1UEU6DZB9",
+            "md5": "b58331f1ecc0be9527c941a8a1b760b1",
+            "found_at": "2026-02-27T14:42:28.547439713+00:00"
           }
         ]
       }

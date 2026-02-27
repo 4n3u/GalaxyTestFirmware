@@ -42634,6 +42634,11 @@
             "firmware": "X736CZCS5AZB9/X736CCHC5AZB9/X736CZCS5AZB2",
             "md5": "9ad6c0cb2f962965f35200ee1a217e45",
             "found_at": "2026-02-24T08:53:01.700837610+00:00"
+          },
+          {
+            "firmware": "X736CZCU5AZBD/X736CCHC5AZBD/X736CZCU5AZBD",
+            "md5": "7be36b18e555ae06811af615d13875b4",
+            "found_at": "2026-02-27T02:05:39.621130021+00:00"
           }
         ]
       }
@@ -45254,6 +45259,11 @@
             "firmware": "X936CZCS5AZB8/X936CCHC5AZB8/X936CZCS5AZB2",
             "md5": "ba78e1b79a15da9655cade364947cfd2",
             "found_at": "2026-02-14T04:19:57.848507457+00:00"
+          },
+          {
+            "firmware": "X936CZCU5AZBD/X936CCHC5AZBD/X936CZCU5AZBD",
+            "md5": "f62c877bbca5d319651299728881df5e",
+            "found_at": "2026-02-27T02:05:46.714572373+00:00"
           }
         ]
       }

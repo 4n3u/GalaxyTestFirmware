@@ -1889,6 +1889,11 @@
             "firmware": "A1660ZHS7CZB6/A1660OZS7CZB6/A1660ZHS7CZB4",
             "md5": "eb6491a667b68e4741f65cf77e88e979",
             "found_at": "2026-02-14T06:47:48.572138580+00:00"
+          },
+          {
+            "firmware": "A1660ZHU7DZB9/A1660OZS7DZB9/A1660ZHU7DZB9",
+            "md5": "3052f261e8bc1869befb4ed6728ed6d4",
+            "found_at": "2026-02-27T10:42:42.097575673+00:00"
           }
         ]
       }
@@ -2589,6 +2594,11 @@
             "firmware": "A1760ZHS5BZBE/A1760OZS5BZBE/A1760ZHS5BZB7",
             "md5": "6bef3e16aac56dffefeb3c11bcf0e86c",
             "found_at": "2026-02-14T04:20:45.340947434+00:00"
+          },
+          {
+            "firmware": "A1760ZHU5CZBG/A1760OZS5CZBG/A1760ZHU5CZBG",
+            "md5": "fecd4d0d6ffa40ba20d0feacf643d13f",
+            "found_at": "2026-02-27T10:42:59.768711513+00:00"
           }
         ]
       }
@@ -5604,6 +5614,11 @@
             "firmware": "A536BXXUKHZB7/A536BOXMKHZB7/A536BXXUKHZB7",
             "md5": "05d93e35b53c6265521f933b9152f4fc",
             "found_at": "2026-02-23T13:14:31.983678890+00:00"
+          },
+          {
+            "firmware": "A536BXXUKHZB8/A536BOXMKHZB8/A536BXXUKHZB8",
+            "md5": "c4ece9c58ac301beaf735e778bff9bdb",
+            "found_at": "2026-02-27T10:46:07.547219996+00:00"
           }
         ]
       }
@@ -18659,6 +18674,11 @@
             "firmware": "M336BZHSGGZB3/M336BOZSGGZB3/M336BZHSGGZB1",
             "md5": "ace7c79672edd6c25a2cfd105c9dfccc",
             "found_at": "2026-02-14T06:46:04.601796420+00:00"
+          },
+          {
+            "firmware": "M336BZHUGGZB7/M336BOZSGGZB7/M336BZHUGGZB7",
+            "md5": "78a6714b469e97e806c4c7caf96a6437",
+            "found_at": "2026-02-27T10:40:07.367569107+00:00"
           }
         ]
       }
@@ -18734,6 +18754,11 @@
             "firmware": "M346B2ZHSBEZB3/M346B2OZSBEZB3/M346B2ZHSBEZB1",
             "md5": "1410c47ac46833b3c20da0b30bbdacc3",
             "found_at": "2026-02-14T06:46:10.314346741+00:00"
+          },
+          {
+            "firmware": "M346B2ZHUBFZB7/M346B2OZSBFZB7/M346B2ZHUBFZB7",
+            "md5": "d2083cea4fba2d852e4f3ff407bfd496",
+            "found_at": "2026-02-27T10:40:15.245201360+00:00"
           }
         ]
       }
@@ -22084,6 +22109,11 @@
             "firmware": "S9010ZCSAGZB4/S9010CHCAGZB4/S9010ZCSAGZB1",
             "md5": "95d1c7e881067249599733d0c5649f91",
             "found_at": "2026-02-14T04:23:08.836853056+00:00"
+          },
+          {
+            "firmware": "S9010ZCUAHZB9/S9010CHCAHZB9/S9010ZCUAHZB9",
+            "md5": "ad5d2b79a229542e1bd0082492af7ba3",
+            "found_at": "2026-02-27T10:45:37.428434417+00:00"
           }
         ]
       }
@@ -23104,6 +23134,11 @@
             "firmware": "S9060ZCSAGZB4/S9060CHCAGZB4/S9060ZCSAGZB1",
             "md5": "5d584a6958d326c1cde7c3ca1618c729",
             "found_at": "2026-02-14T04:23:30.718836221+00:00"
+          },
+          {
+            "firmware": "S9060ZCUAHZB9/S9060CHCAHZB9/S9060ZCUAHZB9",
+            "md5": "186e3c777da8e50b620aeaeb4e73a4d8",
+            "found_at": "2026-02-27T10:46:00.435507641+00:00"
           }
         ]
       }
@@ -24124,6 +24159,11 @@
             "firmware": "S9080ZCSAGZB4/S9080CHCAGZB4/S9080ZCSAGZB1",
             "md5": "3da210bb5caa97de5dd98b3f364c7f1e",
             "found_at": "2026-02-14T04:23:20.061828630+00:00"
+          },
+          {
+            "firmware": "S9080ZCUAHZB9/S9080CHCAHZB9/S9080ZCUAHZB9",
+            "md5": "c50a42671266a58c3666163af7ba7dff",
+            "found_at": "2026-02-27T10:45:48.620050085+00:00"
           }
         ]
       }
@@ -39794,6 +39834,11 @@
             "firmware": "X308UUEUADZB4/X308UOYMADZB4/X308UUEUADZB4",
             "md5": "886a8edae70be6f351c67cab2243790f",
             "found_at": "2026-02-16T13:14:20.386302602+00:00"
+          },
+          {
+            "firmware": "X308UUEUADZB5/X308UOYMADZB5/X308UUEUADZB5",
+            "md5": "5eb2514fca80f240c91b1c0679f293a8",
+            "found_at": "2026-02-27T10:48:22.312191094+00:00"
           }
         ]
       }

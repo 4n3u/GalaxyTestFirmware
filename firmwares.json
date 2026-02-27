@@ -3144,6 +3144,11 @@
             "firmware": "A245NKSU9FZB6/A245NOKR9FZB6/A245NKSU9FZB6",
             "md5": "43609c955789c8b5e3e3f8df4923b7d9",
             "found_at": "2026-02-24T02:10:54.987473193+00:00"
+          },
+          {
+            "firmware": "A245NKSU9FZB7/A245NOKR9FZB7/A245NKSU9FZB7",
+            "md5": "c1e392ed088cd809ac9ef7ffc6e2ea9f",
+            "found_at": "2026-02-27T06:59:40.620542730+00:00"
           }
         ]
       }
@@ -39159,6 +39164,11 @@
             "firmware": "X218USQSBEZBE/X218UOYNBEZBE/X218USQSBEZBE",
             "md5": "75e347258750e0c94ee1a65fed89e181",
             "found_at": "2026-02-14T02:02:51.730599990+00:00"
+          },
+          {
+            "firmware": "X218USQUBFZBH/X218UOYNBFZBH/X218USQUBFZBH",
+            "md5": "6ec3fd3f7f7c33b13d94791afbcc1341",
+            "found_at": "2026-02-27T06:56:44.796095224+00:00"
           }
         ]
       }
@@ -39279,6 +39289,11 @@
             "firmware": "X236CZCU3BZB5/X236CCHC3BZB5/X236CZCU3BZB5",
             "md5": "eb2fc3e7bc62a2048d7fc21ff69d4d2e",
             "found_at": "2026-02-14T08:34:31.183931285+00:00"
+          },
+          {
+            "firmware": "X236CZCU3BZB9/X236CCHC3BZB9/X236CZCU3BZB9",
+            "md5": "898c1ce11a3fd98e5b5e5b34ee37fc7c",
+            "found_at": "2026-02-27T06:56:12.264421092+00:00"
           }
         ]
       }

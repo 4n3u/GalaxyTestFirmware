@@ -20403,7 +20403,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "S7210ZHS9CZA2/S7210OZS9CZA2/S7210ZHS9CZA2",
+        "latest_official": "S7210ZHSACZB4/S7210OZSACZB4/S7210ZHSACZB1",
         "test_firmwares": [
           {
             "firmware": "S7210ZHS8CYJ2/S7210OZS8CYJ2/S7210ZHS8CYJ2",
@@ -20494,6 +20494,11 @@
             "firmware": "S7210ZHSACZB4/S7210OZSACZB4/S7210ZHSACZB1",
             "md5": "e74cd0ea6e44e9c4b3460e9b7d222507",
             "found_at": "2026-02-13T16:53:41.548828917+00:00"
+          },
+          {
+            "firmware": "S7210ZHUADZB9/S7210OZSADZB9/S7210ZHUADZB9",
+            "md5": "bc6d97ce86d762975cf03d78c993d058",
+            "found_at": "2026-02-28T05:03:17.260453255+00:00"
           }
         ]
       }

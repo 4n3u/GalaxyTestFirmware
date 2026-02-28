@@ -1154,6 +1154,11 @@
             "firmware": "A1560ZHS9DZB3/A1560OZS9DZB3/A1560ZHS9DZB1",
             "md5": "fd4d0988182f4de5f9a16de82681442c",
             "found_at": "2026-02-14T04:20:13.378485780+00:00"
+          },
+          {
+            "firmware": "A1560ZHU9EZB5/A1560OZS9EZB5/A1560ZHU9EZB5",
+            "md5": "b27b7454546c22f9a78645d67a114cf1",
+            "found_at": "2026-02-28T08:33:03.666750453+00:00"
           }
         ]
       }
@@ -4259,6 +4264,11 @@
             "firmware": "A3560ZHS8CZB6/A3560OZS8CZB6/A3560ZHS8CZB1",
             "md5": "e2ef01972fc7e31fb086bcf4347b70c3",
             "found_at": "2026-02-14T04:24:01.545101868+00:00"
+          },
+          {
+            "firmware": "A3560ZHU8DZB7/A3560OZS8DZB7/A3560ZHU8DZB7",
+            "md5": "dda576118067b58faf4ae0f23ee9880e",
+            "found_at": "2026-02-28T08:36:23.145002189+00:00"
           }
         ]
       }
@@ -19674,6 +19684,11 @@
             "firmware": "S7110ZCS7FZB6/S7110CHC7FZB6/S7110ZCS7FZB4",
             "md5": "21eeb48bff260d7070fb75b8205bd3f1",
             "found_at": "2026-02-14T04:23:51.912617744+00:00"
+          },
+          {
+            "firmware": "S7110ZCU7FZB9/S7110CHC7FZB9/S7110ZCU7FZB9",
+            "md5": "62f601bb02ad02d56da6a9bd7e5b7796",
+            "found_at": "2026-02-28T08:36:42.801813937+00:00"
           }
         ]
       }

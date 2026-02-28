@@ -5474,6 +5474,11 @@
             "firmware": "A5360ZCSKGZB6/A5360CHCKGZB6/A5360ZCSKGZB1",
             "md5": "c5a3fcd490088eff1e2bc88b09c64097",
             "found_at": "2026-02-13T16:55:34.628061110+00:00"
+          },
+          {
+            "firmware": "A5360ZCUKHZB8/A5360CHCKHZB8/A5360ZCUKHZB8",
+            "md5": "392cdc92519d313cfdad2f3f3b506905",
+            "found_at": "2026-02-28T06:50:07.954658138+00:00"
           }
         ]
       }

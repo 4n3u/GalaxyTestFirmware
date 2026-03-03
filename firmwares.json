@@ -43604,6 +43604,11 @@
             "firmware": "X806EXXUAEZB8/X806EOXMAEZB8/X806EXXUAEZB8",
             "md5": "0a745ad56204329310975bb141106918",
             "found_at": "2026-02-23T13:08:14.431240901+00:00"
+          },
+          {
+            "firmware": "X806EXXUAEZB9/X806EOXMAEZB9/X806EXXUAEZB9",
+            "md5": "e10046fdb3459135afc3fc70e5ac03a2",
+            "found_at": "2026-03-03T05:18:29.454840704+00:00"
           }
         ]
       }

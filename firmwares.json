@@ -18084,6 +18084,11 @@
             "firmware": "G9910ZCSGHZAA/G9910CHCGHZAA/G9910ZCSGHZAA",
             "md5": "abd276777b3da1b9e68d708b19d3292f",
             "found_at": "2026-02-10T13:19:53.803452283+00:00"
+          },
+          {
+            "firmware": "G9910ZCSGHZB1/G9910CHCGHZB1/G9910ZCSGHZB1",
+            "md5": "5878619dff108895e296ee46accac2ee",
+            "found_at": "2026-03-03T10:44:43.457128701+00:00"
           }
         ]
       }
@@ -18149,6 +18154,11 @@
             "firmware": "G9960ZCSGHZAA/G9960CHCGHZAA/G9960ZCSGHZAA",
             "md5": "d356cc60fa697e22bc2cf2e7cd6eefdf",
             "found_at": "2026-02-10T13:20:45.780152160+00:00"
+          },
+          {
+            "firmware": "G9960ZCSGHZB1/G9960CHCGHZB1/G9960ZCSGHZB1",
+            "md5": "8b07b120e04675bb8b6a28b692c72cbb",
+            "found_at": "2026-03-03T10:45:39.884867948+00:00"
           }
         ]
       }
@@ -18214,6 +18224,11 @@
             "firmware": "G9980ZCSGHZAA/G9980CHCGHZAA/G9980ZCSGHZAA",
             "md5": "cb67e38ff825ffd00cc2693468ace93e",
             "found_at": "2026-02-10T13:20:29.052281233+00:00"
+          },
+          {
+            "firmware": "G9980ZCSGHZB1/G9980CHCGHZB1/G9980ZCSGHZB1",
+            "md5": "8e191a838a688b3586ec6a2eb62f5843",
+            "found_at": "2026-03-03T10:45:20.702740082+00:00"
           }
         ]
       }

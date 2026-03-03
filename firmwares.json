@@ -5743,7 +5743,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A536U1UESJGZA3/A536U1OYMJGZA3/A536U1UESJGZA3",
+        "latest_official": "A536U1UESKGZB6/A536U1OYMKGZB6/A536U1UESKGZB6",
         "test_firmwares": [
           {
             "firmware": "A536U1UESHFYI1/A536U1OYMHFYI1/A536U1UESHFYI1",
@@ -5829,6 +5829,11 @@
             "firmware": "A536U1UEUKHZB7/A536U1OYMKHZB7/A536U1UEUKHZB7",
             "md5": "1e7dcc55f5ec0914ed8adbda17954f12",
             "found_at": "2026-02-24T13:13:47.542882907+00:00"
+          },
+          {
+            "firmware": "A536U1UEUKHZB8/A536U1OYMKHZB8/A536U1UEUKHZB8",
+            "md5": "8f0c08dbb326517f0b9563ff8b11e07e",
+            "found_at": "2026-03-03T20:46:33.091230625+00:00"
           }
         ]
       }

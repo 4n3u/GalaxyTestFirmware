@@ -40663,7 +40663,7 @@
     "name": "Galaxy Tab Active5 Pro 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X358UUES5BZA2/X358UOYM5BZA2/X358UUES5BZA2",
+        "latest_official": "X358UUES6BZB5/X358UOYM6BZB5/X358UUES6BZB5",
         "test_firmwares": [
           {
             "firmware": "X358UUES3AYI1/X358UOYM3AYI1/X358UUES3AYI1",
@@ -40774,6 +40774,11 @@
             "firmware": "X358UUEU6CZB7/X358UOYM6CZB7/X358UUEU6CZB7",
             "md5": "957bdb479d5188831a788d399d195ef1",
             "found_at": "2026-02-26T17:00:45.493610891+00:00"
+          },
+          {
+            "firmware": "X358UUEU6CZC1/X358UOYM6CZC1/X358UUEU6CZC1",
+            "md5": "83c2f7cf869fe7e54592c2368db7612d",
+            "found_at": "2026-03-05T20:40:14.755644311+00:00"
           }
         ]
       }
@@ -44648,7 +44653,7 @@
     "name": "Galaxy Tab S10+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X828USQS6CZA3/X828UOYN6CZA3/X828USQS6CZA3",
+        "latest_official": "X828USQS7CZB5/X828UOYN7CZB5/X828USQS7CZB5",
         "test_firmwares": [
           {
             "firmware": "X828USQU4CYG3/X828UOYN4CYG3/X828USQU4CYG3",
@@ -44804,6 +44809,11 @@
             "firmware": "X828USQU7DZB7/X828UOYN7DZB7/X828USQU7DZB7",
             "md5": "cd31f6676bbdddf2167e5c7f7aeb8e61",
             "found_at": "2026-02-26T17:01:16.031220418+00:00"
+          },
+          {
+            "firmware": "X828USQU7DZC1/X828UOYN7DZC1/X828USQU7DZC1",
+            "md5": "d6243893681e5fed8e88e443d1f06869",
+            "found_at": "2026-03-05T20:40:50.214345728+00:00"
           }
         ]
       }

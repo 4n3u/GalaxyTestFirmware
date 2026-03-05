@@ -6738,7 +6738,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A566U1UES5BZA7/A566U1OYM5BZA7/A566U1UES5BZA7",
+        "latest_official": "A566U1UES6BZB7/A566U1OYM6BZB7/A566U1UES6BZB7",
         "test_firmwares": [
           {
             "firmware": "A566U1UES3BYJ1/A566U1OYM3BYJ1/A566U1UES3BYJ1",
@@ -6884,6 +6884,11 @@
             "firmware": "A566U1UEU6CZB9/A566U1OYM6CZB9/A566U1UEU6CZB9",
             "md5": "288aea864561ea8d73a8d6998234f5ad",
             "found_at": "2026-02-26T14:58:47.937914314+00:00"
+          },
+          {
+            "firmware": "A566U1UEU6CZC3/A566U1OYM6CZC3/A566U1UEU6CZC3",
+            "md5": "5b0d3bb8c8a13e56940e42d3ee2ee615",
+            "found_at": "2026-03-05T10:50:46.616804471+00:00"
           }
         ]
       }
@@ -7503,7 +7508,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F721BXXSAIZA1/F721BOXMAIYIF/F721BXXUAIYIF",
+        "latest_official": "F721BXXSBIZB6/F721BOXMBIZB6/F721BXXSBIZB6",
         "test_firmwares": [
           {
             "firmware": "F721BXXUAIYG3/F721BOXMAIYG3/F721BXXUAIYG3",
@@ -7674,6 +7679,11 @@
             "firmware": "F721BXXUBJZB9/F721BOXMBJZB9/F721BXXUBJZB9",
             "md5": "8e8ab5b0b2765c1bb761e68010a4a663",
             "found_at": "2026-02-26T10:52:36.669948396+00:00"
+          },
+          {
+            "firmware": "F721BXXUBJZC3/F721BOXMBJZC3/F721BXXUBJZC3",
+            "md5": "4d8427323f14b2f37dfb92a9b99ef0e2",
+            "found_at": "2026-03-05T10:49:22.275593541+00:00"
           }
         ]
       }
@@ -8863,7 +8873,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F731U1UES6FZA1/F731U1OYM6FZA1/F731U1UES6FZA1",
+        "latest_official": "F731U1UES7FZB6/F731U1OYM7FZB6/F731U1UES7FZB6",
         "test_firmwares": [
           {
             "firmware": "F731U1UES6FYJ1/F731U1OYM6FYJ1/F731U1UES6FYJ1",
@@ -9034,6 +9044,11 @@
             "firmware": "F731U1UEU7GZB9/F731U1OYM7GZB9/F731U1UEU7GZB9",
             "md5": "f3709bfe15e662dd3dc09d6882a86598",
             "found_at": "2026-02-26T09:01:31.859249531+00:00"
+          },
+          {
+            "firmware": "F731U1UEU7GZC3/F731U1OYM7GZC3/F731U1UEU7GZC3",
+            "md5": "a04ed44458d9b189c1493d0e4303112f",
+            "found_at": "2026-03-05T10:49:40.209610817+00:00"
           }
         ]
       }
@@ -12343,7 +12358,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F936BXXSAIZA1/F936BOXMAIYIF/F936BXXUAIYIF",
+        "latest_official": "F936BXXSBIZB6/F936BOXMBIZB6/F936BXXSBIZB6",
         "test_firmwares": [
           {
             "firmware": "F936BXXUAIYG3/F936BOXMAIYG3/F936BXXUAIYG3",
@@ -12514,6 +12529,11 @@
             "firmware": "F936BXXUBJZB9/F936BOXMBJZB9/F936BXXUBJZB9",
             "md5": "dc71b2dcf2511c9d832f14f1e7cc0978",
             "found_at": "2026-02-26T10:54:17.880731810+00:00"
+          },
+          {
+            "firmware": "F936BXXUBJZC3/F936BOXMBJZC3/F936BXXUBJZC3",
+            "md5": "06a2394b80d6a1322472e3efec4ddc81",
+            "found_at": "2026-03-05T10:50:52.479460292+00:00"
           }
         ]
       }
@@ -12768,7 +12788,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F936USQS8IZA1/F936UOYN8IZA1/F936USQS8IZA1",
+        "latest_official": "F936USQS9IZB6/F936UOYN9IZB6/F936USQS9IZB6",
         "test_firmwares": [
           {
             "firmware": "F936USQS8IYK1/F936UOYN8IYK1/F936USQS8IYK1",
@@ -12964,6 +12984,11 @@
             "firmware": "F936USQU9JZB9/F936UOYN9JZB9/F936USQU9JZB9",
             "md5": "cd3fc50b38a3e68730da2d46bc39879b",
             "found_at": "2026-02-26T09:01:55.939259282+00:00"
+          },
+          {
+            "firmware": "F936USQU9JZC3/F936UOYN9JZC3/F936USQU9JZC3",
+            "md5": "b652b3267f2dc42ed4a0335b846b1428",
+            "found_at": "2026-03-05T10:50:55.909760392+00:00"
           }
         ]
       }
@@ -19479,6 +19504,11 @@
             "firmware": "M556EXXU5DZB7/M556EOXM5DZB7/M556EXXU5DZB7",
             "md5": "758c8e922046c19a269f3f56f1971d74",
             "found_at": "2026-02-26T13:08:38.742126157+00:00"
+          },
+          {
+            "firmware": "M556EXXU5DZC1/M556EOXM5DZC1/M556EXXU5DZC1",
+            "md5": "6fc81307145295f00a9384299f18b973",
+            "found_at": "2026-03-05T10:40:36.766313667+00:00"
           }
         ]
       }
@@ -24618,7 +24648,7 @@
     "name": "Galaxy S22 Ultra",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S908NKSS7GZA1/S908NOKR7GZA1/S908NKSU7GYI7",
+        "latest_official": "S908NKSS8GZB2/S908NOKR8GZB2/S908NKSS8GZB1",
         "test_firmwares": [
           {
             "firmware": "S908NKSS7FYF1/S908NOKR7FYF1/S908NKSS7FYF1",
@@ -24849,6 +24879,11 @@
             "firmware": "S908NKSU8HZB9/S908NOKR8HZB9/S908NKSU8HZB9",
             "md5": "e3390e9798a1850ecdb1dcf7ad6ab71d",
             "found_at": "2026-02-26T07:08:45.357801204+00:00"
+          },
+          {
+            "firmware": "S908NKSU8HZC3/S908NOKR8HZC3/S908NKSU8HZB9",
+            "md5": "9e756ae256ff7b6b45f48656db52748d",
+            "found_at": "2026-03-05T10:45:20.953923924+00:00"
           }
         ]
       }
@@ -44323,7 +44358,7 @@
     "name": "Galaxy Tab S10+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X826BXXS6CZA3/X826BOXM6CZA3/X826BXXS6CZA3",
+        "latest_official": "X826BXXS7CZB5/X826BOXM7CZB5/X826BXXS7CZB5",
         "test_firmwares": [
           {
             "firmware": "X826BXXU4CYH1/X826BOXM4CYH1/X826BXXU4CYH1",
@@ -44454,6 +44489,11 @@
             "firmware": "X826BXXU7DZB7/X826BOXM7DZB7/X826BXXU7DZB7",
             "md5": "7000bb4012d1e23278f1d066a45edaa8",
             "found_at": "2026-02-26T13:09:58.680355479+00:00"
+          },
+          {
+            "firmware": "X826BXXU7DZC1/X826BOXM7DZC1/X826BXXU7DZC1",
+            "md5": "6caef57b718d732404e15f3c0c3727a7",
+            "found_at": "2026-03-05T10:41:53.727967085+00:00"
           }
         ]
       }

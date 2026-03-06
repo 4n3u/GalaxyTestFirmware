@@ -6774,6 +6774,11 @@
             "firmware": "A566BXXU9CZC3/A566BOXM9CZC3/A566BXXU9CZC3",
             "md5": "515f84df30a564bb07f77e6aa6a36f13",
             "found_at": "2026-03-05T07:04:48.630450680+00:00"
+          },
+          {
+            "firmware": "A566BXXU9BZC4/A566BOXM9BZC4/A566BXXU9BZC4",
+            "md5": "baf44e6a4bea400af1725a590e16e2ac",
+            "found_at": "2026-03-06T08:49:08.051779298+00:00"
           }
         ]
       }
@@ -20834,6 +20839,11 @@
             "firmware": "S7210ZHUADZB9/S7210OZSADZB9/S7210ZHUADZB9",
             "md5": "bc6d97ce86d762975cf03d78c993d058",
             "found_at": "2026-02-28T05:03:17.260453255+00:00"
+          },
+          {
+            "firmware": "S7210ZHUADZC3/S7210OZSADZC3/S7210ZHUADZC3",
+            "md5": "1af506f790a2dc0f5600f158688bcaf2",
+            "found_at": "2026-03-06T08:45:57.825449316+00:00"
           }
         ]
       }
@@ -34144,6 +34154,11 @@
             "firmware": "S936NKSU8ZZC3/S936NOKR8ZZC3/S936NKSU8CZC3",
             "md5": "612657775b2dc5d816ba2a51618688b4",
             "found_at": "2026-03-05T05:21:18.798747259+00:00"
+          },
+          {
+            "firmware": "S936NKSS8BZC1/S936NOKR8BZC1/S936NKSS8BZB1",
+            "md5": "e1afac8e0421d10f271f368bc8bc2c6e",
+            "found_at": "2026-03-06T08:47:56.882977942+00:00"
           }
         ]
       }

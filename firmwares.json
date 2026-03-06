@@ -6228,7 +6228,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5560ZCSCCZA1/A5560CHCCCZA1/A5560ZCSCCZA1",
+        "latest_official": "A5560ZCSDCZB5/A5560CHCDCZB5/A5560ZCSDCZB1",
         "test_firmwares": [
           {
             "firmware": "A5560ZCSBCYJ1/A5560CHCBCYJ1/A5560ZCSBCYJ1",
@@ -6319,6 +6319,11 @@
             "firmware": "A5560ZCUDDZB7/A5560CHCDDZB7/A5560ZCUDDZB7",
             "md5": "9f328e0b027ab681591f62c77705cf91",
             "found_at": "2026-02-27T08:47:37.572287336+00:00"
+          },
+          {
+            "firmware": "A5560ZCUDDZC3/A5560CHCDDZC3/A5560ZCUDDZC3",
+            "md5": "ea88e6319f66d546d9b86cb0f40b4252",
+            "found_at": "2026-03-06T06:59:00.216362803+00:00"
           }
         ]
       }

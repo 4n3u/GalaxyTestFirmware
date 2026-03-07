@@ -9829,6 +9829,11 @@
             "firmware": "F741NKSU3DZC3/F741NOKR3DZC3/F741NKSU3DZB9",
             "md5": "24d0e8fc1a9a3ddcd161b0b859daf5b6",
             "found_at": "2026-03-05T05:22:07.676612968+00:00"
+          },
+          {
+            "firmware": "F741NKSS3CZC1/F741NOKR3CZC1/F741NKSS3CZB1",
+            "md5": "a43cdadcf20120a69bb441ab68485f79",
+            "found_at": "2026-03-07T04:07:58.137949149+00:00"
           }
         ]
       }
@@ -15659,6 +15664,11 @@
             "firmware": "F958NKSU3DZC3/F958NOKR3DZC3/F958NKSU3DZB9",
             "md5": "2e309e20e4ddf2e079041e6749f3e386",
             "found_at": "2026-03-05T05:22:36.169770745+00:00"
+          },
+          {
+            "firmware": "F958NKSS3CZC1/F958NOKR3CZC1/F958NKSS3CZB1",
+            "md5": "97809f694baf6e6c9ff0fce1337af7a1",
+            "found_at": "2026-03-07T04:08:26.509729930+00:00"
           }
         ]
       }

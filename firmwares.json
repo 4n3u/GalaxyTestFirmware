@@ -14814,6 +14814,11 @@
             "firmware": "F956NKSU3DZC3/F956NOKR3DZC3/F956NKSU3DZB9",
             "md5": "6fa029379e14dfbb0e58bb1d395fcc0c",
             "found_at": "2026-03-05T05:23:35.842658677+00:00"
+          },
+          {
+            "firmware": "F956NKSS3CZC1/F956NOKR3CZC1/F956NKSS3CZB1",
+            "md5": "d25cff3980f07cbef77161d6e9b33ca6",
+            "found_at": "2026-03-07T02:00:57.786070155+00:00"
           }
         ]
       }

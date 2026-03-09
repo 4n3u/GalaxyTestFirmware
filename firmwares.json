@@ -2638,7 +2638,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A176BXXS4BZA5/A176BOXM4BZA5/A176BXXS4BZA5",
+        "latest_official": "A176BXXS5BZBE/A176BOXM5BZBE/A176BXXS5BZBE",
         "test_firmwares": [
           {
             "firmware": "A176BXXU2BYI1/A176BOXM2BYI1/A176BXXU2BYI1",
@@ -2779,6 +2779,11 @@
             "firmware": "A176BXXU5CZBG/A176BOXM5CZBG/A176BXXU5CZBG",
             "md5": "8c6f7b9b8d072998bcafcaaf57c9fded",
             "found_at": "2026-02-26T07:04:54.607756680+00:00"
+          },
+          {
+            "firmware": "A176BXXU5CZC3/A176BOXM5CZC3/A176BXXU5CZC3",
+            "md5": "b0c328ffb137e1a2c2c012b4753d9227",
+            "found_at": "2026-03-09T08:47:30.851569673+00:00"
           }
         ]
       }
@@ -3448,7 +3453,7 @@
     "name": "Galaxy A26 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A266BXXS7BZA3/A266BOXM7BZA3/A266BXXS7BZA3",
+        "latest_official": "A266BXXS8BZB6/A266BOXM8BZB6/A266BXXS8BZB6",
         "test_firmwares": [
           {
             "firmware": "A266BXXU4BYH1/A266BOXM4BYH1/A266BXXU4BYH1",
@@ -3554,6 +3559,11 @@
             "firmware": "A266BXXU8CZB7/A266BOXM8CZB7/A266BXXU8CZB7",
             "md5": "3e584b1e38e483431353e9575ce0de2b",
             "found_at": "2026-02-23T02:13:37.683169822+00:00"
+          },
+          {
+            "firmware": "A266BXXU8CZC1/A266BOXM8CZC1/A266BXXU8CZC1",
+            "md5": "9d071714c6f0a2f55cf5c4e7d7c7b9f3",
+            "found_at": "2026-03-09T08:49:05.732528054+00:00"
           }
         ]
       }
@@ -12949,6 +12959,11 @@
             "firmware": "F936NKSU7JZC3/F936NOKR7JZC3/F936NKSU7JZC3",
             "md5": "447911e0c8635c9f38555cc996d41565",
             "found_at": "2026-03-05T14:55:01.542625982+00:00"
+          },
+          {
+            "firmware": "F936NKSS7IZC1/F936NOKR7IZC1/F936NKSS7IZB1",
+            "md5": "d2ec6843f65c5215e533aeaa94c3cdff",
+            "found_at": "2026-03-09T08:54:05.780713534+00:00"
           }
         ]
       }
@@ -22763,7 +22778,7 @@
     "name": "Galaxy S22",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S901BXXSLGZA1/S901BOXMLGZA1/S901BXXSLGZA1",
+        "latest_official": "S901BXXSMGZB2/S901BOXMMGZB2/S901BXXSMGZB2",
         "test_firmwares": [
           {
             "firmware": "S901BXXSJGYJ1/S901BOXMJGYJ1/S901BXXSJGYJ1",
@@ -22884,6 +22899,11 @@
             "firmware": "S901BXXUMHZB9/S901BOXMMHZB9/S901BXXUMHZB9",
             "md5": "f01318592405b119b39693e65e8503c2",
             "found_at": "2026-02-26T07:08:36.857030854+00:00"
+          },
+          {
+            "firmware": "S901BXXUMHZC3/S901BOXMMHZC3/S901BXXUMHZC3",
+            "md5": "e22db3ddbd5cc9f24e79d8ed8a5cfb5c",
+            "found_at": "2026-03-09T08:49:55.239204206+00:00"
           }
         ]
       }
@@ -26434,6 +26454,11 @@
             "firmware": "S911NKSU7FZC3/S911NOKR7FZC3/S911NKSU7FZC3",
             "md5": "f9048df5c734cffd858321e19cabd0cd",
             "found_at": "2026-03-05T05:18:42.601452212+00:00"
+          },
+          {
+            "firmware": "S911NKSS7EZC1/S911NOKR7EZC1/S911NKSS7EZB1",
+            "md5": "fc05a1108c6a7a8e4ae36ce625f68e20",
+            "found_at": "2026-03-09T08:50:24.028260959+00:00"
           }
         ]
       }
@@ -27379,6 +27404,11 @@
             "firmware": "S916NKSU7FZC3/S916NOKR7FZC3/S916NKSU7FZC3",
             "md5": "20e9accda5142a1cd34592852b5fb18c",
             "found_at": "2026-03-05T05:19:11.533445696+00:00"
+          },
+          {
+            "firmware": "S916NKSS7EZC1/S916NOKR7EZC1/S916NKSS7EZB1",
+            "md5": "c69276b852f32b7c38d89eaff19bad12",
+            "found_at": "2026-03-09T08:50:56.654180987+00:00"
           }
         ]
       }
@@ -28324,6 +28354,11 @@
             "firmware": "S918NKSU7FZC3/S918NOKR7FZC3/S918NKSU7FZC3",
             "md5": "4321318fc857cd09b5d06a5b404e5486",
             "found_at": "2026-03-05T05:19:01.117895516+00:00"
+          },
+          {
+            "firmware": "S918NKSS7EZC1/S918NOKR7EZC1/S918NKSS7EZB1",
+            "md5": "48664a4dcd5501299a0db7e559aa6db6",
+            "found_at": "2026-03-09T08:50:44.605476081+00:00"
           }
         ]
       }

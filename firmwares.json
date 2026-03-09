@@ -21324,6 +21324,11 @@
             "firmware": "S721NKSUADZC3/S721NOKRADZC3/S721NKSUADZC3",
             "md5": "aef39f1f3fe575386077102dc03a68c3",
             "found_at": "2026-03-05T05:19:33.511174442+00:00"
+          },
+          {
+            "firmware": "S721NKSSACZC1/S721NOKRACZC1/S721NKSSACZC1",
+            "md5": "5fd02133a59050a753551d4b53a2e8c6",
+            "found_at": "2026-03-09T02:07:49.323128446+00:00"
           }
         ]
       }

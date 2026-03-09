@@ -2363,7 +2363,7 @@
     "name": "Galaxy A17",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A175FXXS3BZA5/A175FOXM3BZA5/A175FXXS3BZA5",
+        "latest_official": "A175FXXS4BZB5/A175FOXM4BZB5/A175FXXS4BZB5",
         "test_firmwares": [
           {
             "firmware": "A175FXXU1BYI1/A175FOXM1BYI1/A175FXXU1BYI1",
@@ -2559,6 +2559,11 @@
             "firmware": "A175FXXU4CZBA/A175FOXM4CZBA/A175FXXU4CZBA",
             "md5": "b294af35135500aa0e1484a96e1c16db",
             "found_at": "2026-02-26T08:53:46.799941169+00:00"
+          },
+          {
+            "firmware": "A175FXXU4CZC1/A175FOXM4CZC1/A175FXXU4CZC1",
+            "md5": "7de3a71a55382bc0ea48c16a0e51216a",
+            "found_at": "2026-03-09T14:54:58.781319551+00:00"
           }
         ]
       }
@@ -11954,6 +11959,11 @@
             "firmware": "F766USQU8BZC4/F766UOYN8BZC4/F766USQU8BZC4",
             "md5": "66502a7b4da0706205736e83dc268ff9",
             "found_at": "2026-03-06T16:51:42.099237049+00:00"
+          },
+          {
+            "firmware": "F766USQS8AZC2/F766UOYN8AZC2/F766USQS8AZC2",
+            "md5": "2f4fe162651e3b154cd80f19e2df02d2",
+            "found_at": "2026-03-09T15:00:42.958413841+00:00"
           }
         ]
       }
@@ -17669,6 +17679,11 @@
             "firmware": "G766USQS6BZC1/G766UOYN6BZC1/G766USQS6BZC1",
             "md5": "c8ce35993c372c8caa90a8ae53f37a8a",
             "found_at": "2026-03-06T14:49:04.421968591+00:00"
+          },
+          {
+            "firmware": "G766USQU6CZC2/G766UOYN6CZC2/G766USQU6CZC2",
+            "md5": "6db7f72bd0459ea09fbb8565709722e1",
+            "found_at": "2026-03-09T14:58:51.837832790+00:00"
           }
         ]
       }
@@ -41738,7 +41753,7 @@
     "name": "Galaxy Tab S10 Lite 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X406BXXS3BZA3/X406BOXM3BZA3/X406BXXS3BZA3",
+        "latest_official": "X406BXXS4BZB7/X406BOXM4BZB7/X406BXXS4BZB7",
         "test_firmwares": [
           {
             "firmware": "X406BXXU1BYH1/X406BOXM1BYH1/X406BXXU1BYH1",
@@ -41919,6 +41934,11 @@
             "firmware": "X406BXXU4CZB9/X406BOXM4CZB9/X406BXXU4CZB9",
             "md5": "679e0e468d1d423063315ec48e933a56",
             "found_at": "2026-02-26T13:09:45.502986649+00:00"
+          },
+          {
+            "firmware": "X406BXXU4CZC1/X406BOXM4CZC1/X406BXXU4CZC1",
+            "md5": "4046644ab420dba2db44f14841017727",
+            "found_at": "2026-03-09T14:54:02.193829187+00:00"
           }
         ]
       }
@@ -41928,7 +41948,7 @@
     "name": "Galaxy Tab S9 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X516BXXSADZA3/X516BOXMADZA3/X516BXXSADZA3",
+        "latest_official": "X516BXXSBDZB4/X516BOXMBDZB4/X516BXXSBDZB4",
         "test_firmwares": [
           {
             "firmware": "X516BXXS8CYF1/X516BOXM8CYF1/X516BXXS8CYF1",
@@ -42099,6 +42119,11 @@
             "firmware": "X516BXXUBDZBD/X516BOXMBDZBD/X516BXXUBDZBD",
             "md5": "5982964bed6a31be10f8f8386a7fcb4c",
             "found_at": "2026-02-26T13:10:50.705161538+00:00"
+          },
+          {
+            "firmware": "X516BXXUBDZC1/X516BOXMBDZC1/X516BXXUBDZC1",
+            "md5": "6923cd8e2752f7a30e99b18dda450c66",
+            "found_at": "2026-03-09T14:54:57.962726708+00:00"
           }
         ]
       }
@@ -42433,7 +42458,7 @@
     "name": "Galaxy Tab S10 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X526BXXS6BZA3/X526BOXM6BZA3/X526BXXS6BZA3",
+        "latest_official": "X526BXXS7BZB7/X526BOXM7BZB7/X526BXXS7BZB7",
         "test_firmwares": [
           {
             "firmware": "X526BXXU4BYG2/X526BOXM4BYG2/X526BXXU4BYG2",
@@ -42594,6 +42619,16 @@
             "firmware": "X526BXXU7CZBD/X526BOXM7CZBD/X526BXXU7CZBD",
             "md5": "867076135ccbd2fd32c9bf90a8db0efa",
             "found_at": "2026-02-26T13:09:26.516727933+00:00"
+          },
+          {
+            "firmware": "X526BXXS7BZC2/X526BOXM7BZC2/X526BXXS7BZC2",
+            "md5": "3330a50b3b172aded95f96c532e287d4",
+            "found_at": "2026-03-09T14:53:46.231550528+00:00"
+          },
+          {
+            "firmware": "X526BXXU7CZC1/X526BOXM7CZC1/X526BXXU7CZC1",
+            "md5": "0107c5ca2aa77461996f3c0d9329d827",
+            "found_at": "2026-03-09T14:53:46.407904656+00:00"
           }
         ]
       }
@@ -42718,7 +42753,7 @@
     "name": "Galaxy Tab S10 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X526EXXS6BZA3/X526EOXM6BZA3/X526EXXS6BZA3",
+        "latest_official": "X526EXXS7BZB7/X526EOXM7BZB7/X526EXXS7BZB7",
         "test_firmwares": [
           {
             "firmware": "X526EXXU4BYG3/X526EOXM4BYG3/X526EXXU4BYG3",
@@ -42874,6 +42909,11 @@
             "firmware": "X526EXXU7CZBD/X526EOXM7CZBD/X526EXXU7CZBD",
             "md5": "516d144ffbbb48ab53d535a5617fea8b",
             "found_at": "2026-02-26T10:48:24.058531267+00:00"
+          },
+          {
+            "firmware": "X526EXXU7CZC1/X526EOXM7CZC1/X526EXXU7CZC1",
+            "md5": "89cef1fb227020f32c85a9fb7983d990",
+            "found_at": "2026-03-09T14:53:49.822842361+00:00"
           }
         ]
       }
@@ -44083,7 +44123,7 @@
     "name": "Galaxy Tab S9 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X716BXXS5DZA1/X716BOXM5DZA1/X716BXXS5DZA1",
+        "latest_official": "X716BXXS6DZB6/X716BOXM6DZB6/X716BXXS6DZB6",
         "test_firmwares": [
           {
             "firmware": "X716BXXU5DYG1/X716BOXM5DYG1/X716BXXU5DYG1",
@@ -44219,6 +44259,11 @@
             "firmware": "X716BXXU6EZB8/X716BOXM6EZB8/X716BXXU6EZB8",
             "md5": "dd0227321d131d765d9f40b11134765b",
             "found_at": "2026-02-26T07:12:33.658136301+00:00"
+          },
+          {
+            "firmware": "X716BXXU6EZC1/X716BOXM6EZC1/X716BXXU6EZC1",
+            "md5": "4f2f85593062ec23cb82554e9b6504f2",
+            "found_at": "2026-03-09T14:54:53.404903823+00:00"
           }
         ]
       }
@@ -44418,7 +44463,7 @@
     "name": "Galaxy Tab S8+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X806BXXS9EZA3/X806BOXM9EZA3/X806BXXS9EZA3",
+        "latest_official": "X806BXXSAEZB6/X806BOXMAEZB6/X806BXXSAEZB6",
         "test_firmwares": [
           {
             "firmware": "X806BXXS9DYF1/X806BOXM9DYF1/X806BXXS9DYF1",
@@ -44684,6 +44729,11 @@
             "firmware": "X806BXXUAEZB9/X806BOXMAEZB9/X806BXXUAEZB9",
             "md5": "03eb8ad0507d3e071fa5feb02e30f2eb",
             "found_at": "2026-02-26T08:59:54.034448537+00:00"
+          },
+          {
+            "firmware": "X806BXXUAEZC1/X806BOXMAEZC1/X806BXXUAEZC1",
+            "md5": "7a214ae7c03884ae534a523ac09235dc",
+            "found_at": "2026-03-09T14:54:43.961156071+00:00"
           }
         ]
       }
@@ -44903,7 +44953,7 @@
     "name": "Galaxy Tab S8+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X806EXXS9EZA3/X806EOXM9EZA3/X806EXXS9EZA3",
+        "latest_official": "X806EXXSAEZB6/X806EOXMAEZB6/X806EXXSAEZB6",
         "test_firmwares": [
           {
             "firmware": "X806EXXS9DYF1/X806EOXM9DYF1/X806EXXS9DYF1",
@@ -45159,6 +45209,11 @@
             "firmware": "X806EXXUAEZB9/X806EOXMAEZB9/X806EXXUAEZB9",
             "md5": "e10046fdb3459135afc3fc70e5ac03a2",
             "found_at": "2026-03-03T05:18:29.454840704+00:00"
+          },
+          {
+            "firmware": "X806EXXUAEZC1/X806EOXMAEZC1/X806EXXUAEZC1",
+            "md5": "7b2d8a51e8c582c806162a665d66e3a0",
+            "found_at": "2026-03-09T14:54:47.271747309+00:00"
           }
         ]
       }

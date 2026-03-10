@@ -11739,6 +11739,11 @@
             "firmware": "F766NKSU8ZZC4/F766NOKR8ZZC4/F766NKSU8BZC3",
             "md5": "a082aecd72b63d10cdff1a4b1fe71f84",
             "found_at": "2026-03-06T16:51:39.441613364+00:00"
+          },
+          {
+            "firmware": "F766NKSS8AZC2/F766NOKR8AZC2/F766NKSS8AZB1",
+            "md5": "1c3a46a505642441cee4ca4366d96da6",
+            "found_at": "2026-03-10T04:25:06.519211889+00:00"
           }
         ]
       }
@@ -40908,7 +40913,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X236BXXU2AZA4/X236BOXM2AZA4/X236BXXU2AZA4",
+        "latest_official": "X236BXXS3AZB7/X236BOXM3AZB7/X236BXXS3AZB7",
         "test_firmwares": [
           {
             "firmware": "X236BXXU2AZA4/X236BOXM2AZA4/X236BXXU2AZA4",
@@ -40974,6 +40979,11 @@
             "firmware": "X236BXXU3BZB9/X236BOXM3BZB9/X236BXXU3BZB9",
             "md5": "8b8fa51036a5e2a4db9cedb892809245",
             "found_at": "2026-02-26T08:57:53.514045755+00:00"
+          },
+          {
+            "firmware": "X236BXXU3BZC1/X236BOXM3BZC1/X236BXXU3BZC1",
+            "md5": "a91c58849623b39e7f4967ef7979986d",
+            "found_at": "2026-03-10T04:17:25.498384802+00:00"
           }
         ]
       }
@@ -47028,7 +47038,7 @@
     "name": "Galaxy Tab S11 Ultra 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X936BXXU4AZA7/X936BOXM4AZA7/X936BXXU4AZA7",
+        "latest_official": "X936BXXS5AZB8/X936BOXM5AZB8/X936BXXS5AZB8",
         "test_firmwares": [
           {
             "firmware": "X936BXXU2AYI2/X936BOXM2AYI2/X936BXXU2AYI2",
@@ -47124,6 +47134,11 @@
             "firmware": "X936BXXU5AZBD/X936BOXM5AZBD/X936BXXU5AZBD",
             "md5": "57c64cef8f04e7067d35a23176266dbe",
             "found_at": "2026-02-26T02:07:07.229509337+00:00"
+          },
+          {
+            "firmware": "X936BXXU5AZC1/X936BOXM5AZC1/X936BXXU5AZC1",
+            "md5": "269d328e005d768f703ac1a95952391f",
+            "found_at": "2026-03-10T04:19:00.049431912+00:00"
           }
         ]
       }

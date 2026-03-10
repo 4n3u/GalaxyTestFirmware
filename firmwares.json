@@ -12204,6 +12204,11 @@
             "firmware": "F766U1UES8AZC3/F766U1OYM8AZC3/F766U1UES8AZC3",
             "md5": "3492c229eac000ab294b9107f7fced01",
             "found_at": "2026-03-10T07:01:00.355694221+00:00"
+          },
+          {
+            "firmware": "F766U1UEU8ZZC5/F766U1OYM8ZZC5/F766U1UEU8BZC5",
+            "md5": "df2729959eda87a3bd658c40b840333a",
+            "found_at": "2026-03-10T17:06:04.266553900+00:00"
           }
         ]
       }
@@ -16749,6 +16754,11 @@
             "firmware": "F966U1UES8AZC1/F966U1OYM8AZC1/F966U1UES8AZC1",
             "md5": "e787a6882325e8507913d4fe04943623",
             "found_at": "2026-03-06T13:03:05.477359257+00:00"
+          },
+          {
+            "firmware": "F966U1UEU8ZZC5/F966U1OYM8ZZC5/F966U1UEU8BZC5",
+            "md5": "c3db0d109944d8ea87d394195961cd41",
+            "found_at": "2026-03-10T17:06:51.661857500+00:00"
           }
         ]
       }
@@ -17338,7 +17348,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G736U1UESAGZA1/G736U1OYMAGZA1/G736U1UESAGZA1",
+        "latest_official": "G736U1UESBGZB2/G736U1OYMBGZB2/G736U1UESBGZB2",
         "test_firmwares": [
           {
             "firmware": "G736U1UESAFYF2/G736U1OYMAFYF2/G736U1UESAFYF2",
@@ -17499,6 +17509,11 @@
             "firmware": "G736U1UESBGZB2/G736U1OYMBGZB2/G736U1UESBGZB2",
             "md5": "ca63f606a1d92e6e631bf434067686cf",
             "found_at": "2026-02-14T06:52:15.291196818+00:00"
+          },
+          {
+            "firmware": "G736U1UESBGZC2/G736U1OYMBGZC2/G736U1UESBGZC2",
+            "md5": "626e5c342754845f5b73b4feba1d4169",
+            "found_at": "2026-03-10T17:05:55.417764963+00:00"
           }
         ]
       }

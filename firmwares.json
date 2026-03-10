@@ -11384,6 +11384,11 @@
             "firmware": "F7660ZCS8AZC1/F7660CHC8AZC1/F7660ZCS8AZB1",
             "md5": "e75d1183b9454f26fbbb9095ef8d3390",
             "found_at": "2026-03-06T13:01:03.748029083+00:00"
+          },
+          {
+            "firmware": "F7660ZCS8AZC3/F7660CHC8AZC3/F7660ZCS8AZB1",
+            "md5": "61d9b5731d5f2cd4019533ade9d9068b",
+            "found_at": "2026-03-10T07:00:52.473252569+00:00"
           }
         ]
       }
@@ -11984,6 +11989,11 @@
             "firmware": "F766USQS8AZC2/F766UOYN8AZC2/F766USQS8AZC2",
             "md5": "2f4fe162651e3b154cd80f19e2df02d2",
             "found_at": "2026-03-09T15:00:42.958413841+00:00"
+          },
+          {
+            "firmware": "F766USQS8AZC3/F766UOYN8AZC3/F766USQS8AZC3",
+            "md5": "1ed3acd85fb7e650c71f20d2421cc03b",
+            "found_at": "2026-03-10T07:00:58.895684983+00:00"
           }
         ]
       }
@@ -12144,6 +12154,11 @@
             "firmware": "F766U1UES8AZC1/F766U1OYM8AZC1/F766U1UES8AZC1",
             "md5": "079c8cbbeddcf312e06928af1f3461bd",
             "found_at": "2026-03-06T13:01:14.126591485+00:00"
+          },
+          {
+            "firmware": "F766U1UES8AZC3/F766U1OYM8AZC3/F766U1UES8AZC3",
+            "md5": "3492c229eac000ab294b9107f7fced01",
+            "found_at": "2026-03-10T07:01:00.355694221+00:00"
           }
         ]
       }
@@ -20459,6 +20474,11 @@
             "firmware": "S711BXXUEGZC3/S711BOXMEGZC3/S711BXXUEGZC3",
             "md5": "97b9aead2564b0547ae790d31fd8655d",
             "found_at": "2026-03-05T18:10:14.022987037+00:00"
+          },
+          {
+            "firmware": "S711BXXSEFZC1/S711BOXMEFZC1/S711BXXSEFZC1",
+            "md5": "87526be55f028434d4452322b65a3539",
+            "found_at": "2026-03-10T06:57:50.381765597+00:00"
           }
         ]
       }
@@ -20773,7 +20793,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S711U1UES6EZA1/S711U1OYM6EZA1/S711U1UES6EZA1",
+        "latest_official": "S711U1UES7EZB6/S711U1OYM7EZB6/S711U1UES7EZB6",
         "test_firmwares": [
           {
             "firmware": "S711U1UES6DYE1/S711U1OYM6DYE1/S711U1UES6DYE1",
@@ -21054,6 +21074,11 @@
             "firmware": "S711U1UEU7FZB9/S711U1OYM7FZB9/S711U1UEU7FZB9",
             "md5": "a477326e03b83cf18434b8f34f316605",
             "found_at": "2026-03-02T10:50:28.137365169+00:00"
+          },
+          {
+            "firmware": "S711U1UES7EZC1/S711U1OYM7EZC1/S711U1UES7EZC1",
+            "md5": "af4ee4809024e9cbce15d0ebde9394a7",
+            "found_at": "2026-03-10T06:57:46.626645624+00:00"
           }
         ]
       }
@@ -26594,6 +26619,11 @@
             "firmware": "S911NKSS7EZC1/S911NOKR7EZC1/S911NKSS7EZB1",
             "md5": "fc05a1108c6a7a8e4ae36ce625f68e20",
             "found_at": "2026-03-09T08:50:24.028260959+00:00"
+          },
+          {
+            "firmware": "S911NKSS7EZC2/S911NOKR7EZC2/S911NKSS7EZC2",
+            "md5": "8abdf5fa60ac57533945c016af246bdc",
+            "found_at": "2026-03-10T06:57:36.864860186+00:00"
           }
         ]
       }
@@ -27549,6 +27579,11 @@
             "firmware": "S916NKSS7EZC1/S916NOKR7EZC1/S916NKSS7EZB1",
             "md5": "c69276b852f32b7c38d89eaff19bad12",
             "found_at": "2026-03-09T08:50:56.654180987+00:00"
+          },
+          {
+            "firmware": "S916NKSS7EZC2/S916NOKR7EZC2/S916NKSS7EZC2",
+            "md5": "d22e3b1441cb57d1f48bd0d7ddb5ab97",
+            "found_at": "2026-03-10T06:58:09.116203229+00:00"
           }
         ]
       }
@@ -28504,6 +28539,11 @@
             "firmware": "S918NKSS7EZC1/S918NOKR7EZC1/S918NKSS7EZB1",
             "md5": "48664a4dcd5501299a0db7e559aa6db6",
             "found_at": "2026-03-09T08:50:44.605476081+00:00"
+          },
+          {
+            "firmware": "S918NKSS7EZC2/S918NOKR7EZC2/S918NKSS7EZC2",
+            "md5": "064e6cf257580b97d7ba4c841b24ca47",
+            "found_at": "2026-03-10T06:57:57.095596903+00:00"
           }
         ]
       }
@@ -41659,6 +41699,11 @@
             "firmware": "X356BXXU6CZC1/X356BOXM6CZC1/X356BXXU6CZC1",
             "md5": "af61bbdc768953208e94b30fb90e40fb",
             "found_at": "2026-03-05T06:55:31.911345138+00:00"
+          },
+          {
+            "firmware": "X356BXXS6BZC2/X356BOXM6BZC2/X356BXXS6BZC2",
+            "md5": "3a40baff6634b317fa00381b570ffd08",
+            "found_at": "2026-03-10T06:59:41.061780507+00:00"
           }
         ]
       }

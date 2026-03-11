@@ -5038,7 +5038,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A366USQS5BZA1/A366UOYN5BZA1/A366USQS5BZA1",
+        "latest_official": "A366USQS6BZB6/A366UOYN6BZB6/A366USQS6BZB6",
         "test_firmwares": [
           {
             "firmware": "A366USQU3BYG1/A366UOYN3BYG1/A366USQU3BYG1",
@@ -5174,6 +5174,11 @@
             "firmware": "A366USQU6CZB8/A366UOYN6CZB8/A366USQU6CZB8",
             "md5": "d8c8b47f80bdf9e8427de6243a68fca3",
             "found_at": "2026-02-23T10:59:37.627086164+00:00"
+          },
+          {
+            "firmware": "A366USQU6CZC1/A366UOYN6CZC1/A366USQU6CZC1",
+            "md5": "3286087fdbe76cfebda9bb936af2f460",
+            "found_at": "2026-03-11T08:48:18.325489718+00:00"
           }
         ]
       }
@@ -12408,7 +12413,7 @@
     "name": "Galaxy Z Fold3 5G",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F926NKSSBKYK1/F926NOKRBKYK1/F926NKSSBKYK1",
+        "latest_official": "F926NKSSCKZB2/F926NOKRCKZB2/F926NKSSCKZB1",
         "test_firmwares": [
           {
             "firmware": "F926NKSSAKYG1/F926NOKRAKYG1/F926NKSSAKYG1",
@@ -12434,6 +12439,11 @@
             "firmware": "F926NKSSCKZB2/F926NOKRCKZB2/F926NKSSCKZB1",
             "md5": "adf7335d4b2507884fa65466d0e8a370",
             "found_at": "2026-02-14T02:05:27.006957551+00:00"
+          },
+          {
+            "firmware": "F926NKSSCKZB3/F926NOKRCKZB3/F926NKSSCKZB1",
+            "md5": "301ead88374b679f38a48dc0c8714b54",
+            "found_at": "2026-03-11T08:50:51.156574255+00:00"
           }
         ]
       }
@@ -16054,6 +16064,11 @@
             "firmware": "F9660ZCS8AZC1/F9660CHC8AZC1/F9660ZCS8AZB1",
             "md5": "d3c1356ac63f8ee7403f8fec1d8e9259",
             "found_at": "2026-03-06T14:50:10.763161102+00:00"
+          },
+          {
+            "firmware": "F9660ZCS8AZC4/F9660CHC8AZC4/F9660ZCS8AZB1",
+            "md5": "edd69f37261a3b3634c75e3c87cf5614",
+            "found_at": "2026-03-11T08:51:29.706398775+00:00"
           }
         ]
       }
@@ -16909,6 +16924,11 @@
             "firmware": "F9680ZCS3AZC1/F9680CHC3AZC1/F9680ZCS3AZB1",
             "md5": "f2a8b0c88625575dd3f027df2c4c6465",
             "found_at": "2026-03-06T16:52:45.388493309+00:00"
+          },
+          {
+            "firmware": "F9680ZCS3AZC4/F9680CHC3AZC4/F9680ZCS3AZB1",
+            "md5": "998419350ff4a3bd77dfd6afa69b939b",
+            "found_at": "2026-03-11T08:51:42.764263991+00:00"
           }
         ]
       }
@@ -21844,6 +21864,11 @@
             "firmware": "S721USQSACZC1/S721UOYNACZC1/S721USQSACZC1",
             "md5": "544391f9ba3cc5d8670ff55da9514d23",
             "found_at": "2026-03-10T13:09:25.060578505+00:00"
+          },
+          {
+            "firmware": "S721USQSACZC2/S721UOYNACZC2/S721USQSACZC2",
+            "md5": "9b1ede0da7b20d302b52f02074e104cf",
+            "found_at": "2026-03-11T08:48:37.861928176+00:00"
           }
         ]
       }
@@ -44024,6 +44049,11 @@
             "firmware": "X526BXXU7CZC1/X526BOXM7CZC1/X526BXXU7CZC1",
             "md5": "0107c5ca2aa77461996f3c0d9329d827",
             "found_at": "2026-03-09T14:53:46.407904656+00:00"
+          },
+          {
+            "firmware": "X526BXXS7BZC3/X526BOXM7BZC3/X526BXXS7BZC2",
+            "md5": "f35dca0804bf6246936f7f004986aa22",
+            "found_at": "2026-03-11T08:43:40.370443682+00:00"
           }
         ]
       }

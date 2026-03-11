@@ -7704,6 +7704,11 @@
             "firmware": "F7210ZCU9JZC3/F7210CHC9JZC3/F7210ZCU9JZC3",
             "md5": "e17a8db1f1fb2f5d0fef55f32a0a1c9b",
             "found_at": "2026-03-05T18:06:55.620291415+00:00"
+          },
+          {
+            "firmware": "F7210ZCS9IZC1/F7210CHC9IZC1/F7210ZCS9IZC1",
+            "md5": "3c7d883977b1d16be13e51536ae1c3dd",
+            "found_at": "2026-03-11T14:57:59.913715500+00:00"
           }
         ]
       }
@@ -12478,7 +12483,7 @@
     "name": "Galaxy Z Fold3 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F926U1UESEKYK1/F926U1OYMEKYK1/F926U1UESEKYK1",
+        "latest_official": "F926U1UESFKZB6/F926U1OYMFKZB6/F926U1UESFKZB6",
         "test_firmwares": [
           {
             "firmware": "F926U1UESEKYK1/F926U1OYMEKYK1/F926U1UESEKYK1",
@@ -12494,6 +12499,11 @@
             "firmware": "F926U1UESFKZB6/F926U1OYMFKZB6/F926U1UESFKZB6",
             "md5": "e3fa21afce4d3fd5a48bf6f4a4c62f67",
             "found_at": "2026-02-13T13:08:32.214095993+00:00"
+          },
+          {
+            "firmware": "F926U1UESFKZB7/F926U1OYMFKZB7/F926U1UESFKZB7",
+            "md5": "4306035fc439903cefe81efdbbbb7a60",
+            "found_at": "2026-03-11T14:59:07.750327421+00:00"
           }
         ]
       }
@@ -12724,6 +12734,11 @@
             "firmware": "F9360ZCU9JZC3/F9360CHC9JZC3/F9360ZCU9JZC3",
             "md5": "946dda5aeef8c2adccaae96359652ef8",
             "found_at": "2026-03-05T14:54:57.371217850+00:00"
+          },
+          {
+            "firmware": "F9360ZCS9IZC1/F9360CHC9IZC1/F9360ZCS9IZC1",
+            "md5": "0b13f4ca4a5ff55f1a333cbf6be47db0",
+            "found_at": "2026-03-11T14:58:28.545237934+00:00"
           }
         ]
       }
@@ -41034,6 +41049,11 @@
             "firmware": "W7023ZCU9JZC3/W7023CHC9JZC3/W7023ZCU9JZC3",
             "md5": "0a1cedad2342b765d4280a93f5b34b9d",
             "found_at": "2026-03-05T18:09:22.586639314+00:00"
+          },
+          {
+            "firmware": "W7023ZCS9IZC1/W7023CHC9IZC1/W7023ZCS9IZC1",
+            "md5": "9ca60ac85b80d2ca93b4ee1b7b1bcab1",
+            "found_at": "2026-03-11T14:58:52.905753964+00:00"
           }
         ]
       }
@@ -41274,6 +41294,11 @@
             "firmware": "W9023ZCU9JZC3/W9023CHC9JZC3/W9023ZCU9JZC3",
             "md5": "3021b7da2d629188b0fafeae934cc70f",
             "found_at": "2026-03-05T18:09:20.898015742+00:00"
+          },
+          {
+            "firmware": "W9023ZCS9IZC1/W9023CHC9IZC1/W9023ZCS9IZC1",
+            "md5": "a9169ab07948dee19e9189262ba941c4",
+            "found_at": "2026-03-11T14:58:50.850007017+00:00"
           }
         ]
       }

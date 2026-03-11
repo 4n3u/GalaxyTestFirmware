@@ -2888,7 +2888,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A176U1UES2AZA3/A176U1OYM2AZA3/A176U1UES2AZA3",
+        "latest_official": "A176U1UES3AZB9/A176U1OYM3AZB9/A176U1UES3AZB9",
         "test_firmwares": [
           {
             "firmware": "A176U1UES2AZA3/A176U1OYM2AZA3/A176U1UES2AZA3",
@@ -2929,6 +2929,11 @@
             "firmware": "A176U1UEU3BZBG/A176U1OYM3BZBG/A176U1UEU3BZBG",
             "md5": "cec8ff85f814adc317dc69ee749d3fab",
             "found_at": "2026-02-26T14:53:21.306224926+00:00"
+          },
+          {
+            "firmware": "A176U1UEU3BZC3/A176U1OYM3BZC3/A176U1UEU3BZC3",
+            "md5": "b61f9b46e11bfd04b45c1e88818b63fb",
+            "found_at": "2026-03-11T10:43:20.124540878+00:00"
           }
         ]
       }

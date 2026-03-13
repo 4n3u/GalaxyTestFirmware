@@ -939,6 +939,11 @@
             "firmware": "A155FXXUAEZC1/A155FOXMAEZC1/A155FXXUAEZC1",
             "md5": "696d60a7f99dcdc489060a17d72ca2c9",
             "found_at": "2026-03-09T16:59:31.550392605+00:00"
+          },
+          {
+            "firmware": "A155FXXUAEZC2/A155FOXMAEZC2/A155FXXUAEZC2",
+            "md5": "cd8e211952e09a00c4f8f0ffbb2e5e62",
+            "found_at": "2026-03-13T02:05:54.159883825+00:00"
           }
         ]
       }
@@ -3669,6 +3674,11 @@
             "firmware": "A266BXXU8CZC1/A266BOXM8CZC1/A266BXXU8CZC1",
             "md5": "9d071714c6f0a2f55cf5c4e7d7c7b9f3",
             "found_at": "2026-03-09T08:49:05.732528054+00:00"
+          },
+          {
+            "firmware": "A266BXXU8CZC2/A266BOXM8CZC2/A266BXXU8CZC2",
+            "md5": "a46c4fe9cbedb84ef74934a45a8f45b6",
+            "found_at": "2026-03-13T02:08:05.780058066+00:00"
           }
         ]
       }
@@ -46308,7 +46318,7 @@
     "name": "Galaxy Tab S8 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X706CZCS9EZA3/X706CCHC9EZA3/X706CZCS9EZA3",
+        "latest_official": "X706CZCSAEZB6/X706CCHCAEZB6/X706CZCSAEZB2",
         "test_firmwares": [
           {
             "firmware": "X706CZCS9DYF4/X706CCHC9DYF4/X706CZCS9DYF4",
@@ -46509,6 +46519,11 @@
             "firmware": "X706CZCUAEZB9/X706CCHCAEZB9/X706CZCUAEZB9",
             "md5": "7bdc7b7835251abfa5640603d53824b6",
             "found_at": "2026-02-27T08:50:08.533512748+00:00"
+          },
+          {
+            "firmware": "X706CZCUAEZC2/X706CCHCAEZC2/X706CZCUAEZC2",
+            "md5": "1043054306011333721990f2ebe53563",
+            "found_at": "2026-03-13T02:12:17.374784754+00:00"
           }
         ]
       }
@@ -47163,7 +47178,7 @@
     "name": "Galaxy Tab S8+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X806CZCS9EZA3/X806CCHC9EZA3/X806CZCS9EZA3",
+        "latest_official": "X806CZCSAEZB6/X806CCHCAEZB6/X806CZCSAEZB2",
         "test_firmwares": [
           {
             "firmware": "X806CZCS9DYF4/X806CCHC9DYF4/X806CZCS9DYF4",
@@ -47364,6 +47379,11 @@
             "firmware": "X806CZCUAEZB9/X806CCHCAEZB9/X806CZCUAEZB9",
             "md5": "fa380187b4808103144fbbb78494eef7",
             "found_at": "2026-02-27T08:50:22.249531907+00:00"
+          },
+          {
+            "firmware": "X806CZCUAEZC2/X806CCHCAEZC2/X806CZCUAEZC2",
+            "md5": "1516e64d14e9df089a9af9984b0c733e",
+            "found_at": "2026-03-13T02:12:29.185507415+00:00"
           }
         ]
       }
@@ -48573,7 +48593,7 @@
     "name": "Galaxy Tab S8 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X906CZCS9EZA3/X906CCHC9EZA3/X906CZCS9EZA3",
+        "latest_official": "X906CZCSAEZB6/X906CCHCAEZB6/X906CZCSAEZB2",
         "test_firmwares": [
           {
             "firmware": "X906CZCS9DYF4/X906CCHC9DYF4/X906CZCS9DYF4",
@@ -48774,6 +48794,11 @@
             "firmware": "X906CZCUAEZB9/X906CCHCAEZB9/X906CZCUAEZB9",
             "md5": "f796aedba20a8d7a6f3b7ecca90ff8df",
             "found_at": "2026-02-27T08:50:15.575704944+00:00"
+          },
+          {
+            "firmware": "X906CZCUAEZC2/X906CCHCAEZC2/X906CZCUAEZC2",
+            "md5": "c0fb4ba10c72f88e49860aa7fd0fa522",
+            "found_at": "2026-03-13T02:12:23.234930929+00:00"
           }
         ]
       }
@@ -49328,7 +49353,7 @@
     "name": "Galaxy Tab S10 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X926CZCS6CZA3/X926CCHC6CZA3/X926CZCS6CZA3",
+        "latest_official": "X926CZCS7CZB5/X926CCHC7CZB5/X926CZCS7CZB2",
         "test_firmwares": [
           {
             "firmware": "X926CZCU4CYH2/X926CCHC4CYH2/X926CZCU4CYH2",
@@ -49419,6 +49444,11 @@
             "firmware": "X926CZCU7DZB7/X926CCHC7DZB7/X926CZCU7DZB7",
             "md5": "6ab7530d8fb04e15ab43fe99b747604b",
             "found_at": "2026-02-27T05:23:47.950222604+00:00"
+          },
+          {
+            "firmware": "X926CZCU7DZC2/X926CCHC7DZC2/X926CZCU7DZC2",
+            "md5": "bc1e87b346eb32a7d0b0cd8b96e2d940",
+            "found_at": "2026-03-13T02:11:52.211851124+00:00"
           }
         ]
       }

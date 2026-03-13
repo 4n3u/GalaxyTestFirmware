@@ -43488,7 +43488,7 @@
     "name": "Galaxy Tab Active5 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X306BXXS9CZB1/X306BOXM9CZB1/X306BXXS9CZB1",
+        "latest_official": "X306BXXSACZB3/X306BOXMACZB3/X306BXXSACZB3",
         "test_firmwares": [
           {
             "firmware": "X306BXXS7BYI1/X306BOXM7BYI1/X306BXXS7BYI1",
@@ -43664,6 +43664,11 @@
             "firmware": "X306BXXUADZC1/X306BOXMADZC1/X306BXXUADZC1",
             "md5": "1378bf0508d39935441a574f0c474448",
             "found_at": "2026-03-06T12:59:08.950548845+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZC3/X306BOXMADZC3/X306BXXUADZC3",
+            "md5": "b281c3bca68a26d1d4fb74024acc9bc8",
+            "found_at": "2026-03-13T08:48:54.373299639+00:00"
           }
         ]
       }

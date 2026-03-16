@@ -6143,7 +6143,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5460ZCSHEZA3/A5460CHCHEZA3/A5460ZCSHEZA3",
+        "latest_official": "A5460ZCSIEZB7/A5460CHCIEZB7/A5460ZCSIEZB3",
         "test_firmwares": [
           {
             "firmware": "A5460ZCUFEYH2/A5460CHCFEYH2/A5460ZCUFEYH2",
@@ -6219,6 +6219,11 @@
             "firmware": "A5460ZCUIFZB9/A5460CHCIFZB9/A5460ZCUIFZB9",
             "md5": "ba4e1ce3d965e1b37f9b3f256274f84b",
             "found_at": "2026-02-26T13:18:50.463440405+00:00"
+          },
+          {
+            "firmware": "A5460ZCSIEZC3/A5460CHCIEZC3/A5460ZCSIEZC3",
+            "md5": "69529f0c35df3a5b9b9160151e82c4d9",
+            "found_at": "2026-03-16T09:07:03.115933459+00:00"
           }
         ]
       }
@@ -29729,6 +29734,11 @@
             "firmware": "S9210ZCU5DZC9/S9210CHC5DZC9/S9210ZCU5DZC9",
             "md5": "0ec897296416b3e850b3c81a13db7f78",
             "found_at": "2026-03-12T17:05:19.437409515+00:00"
+          },
+          {
+            "firmware": "S9210ZCS5CZC1/S9210CHC5CZC1/S9210ZCS5CZC1",
+            "md5": "e0b752b0b0afc3a8905da99d137a3480",
+            "found_at": "2026-03-16T09:04:17.799690125+00:00"
           }
         ]
       }
@@ -30689,6 +30699,11 @@
             "firmware": "S9260ZCU5DZC9/S9260CHC5DZC9/S9260ZCU5DZC9",
             "md5": "e9167c2cc322566711e7a26e8b5fa3cc",
             "found_at": "2026-03-12T17:05:55.322966179+00:00"
+          },
+          {
+            "firmware": "S9260ZCS5CZC1/S9260CHC5CZC1/S9260ZCS5CZC1",
+            "md5": "68e24cfae3e3a58793bbf252a12a35f1",
+            "found_at": "2026-03-16T09:04:52.574403279+00:00"
           }
         ]
       }
@@ -31634,6 +31649,11 @@
             "firmware": "S9280ZCU5DZC9/S9280CHC5DZC9/S9280ZCU5DZC9",
             "md5": "f520331ee4d218764e096cb011541dc1",
             "found_at": "2026-03-12T17:05:43.372939908+00:00"
+          },
+          {
+            "firmware": "S9280ZCS5CZC1/S9280CHC5CZC1/S9280ZCS5CZC1",
+            "md5": "324b40ba8745eb822586ceef961dd03e",
+            "found_at": "2026-03-16T09:04:41.404699201+00:00"
           }
         ]
       }

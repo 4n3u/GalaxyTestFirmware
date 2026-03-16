@@ -1093,7 +1093,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A1560ZHS8DZA1/A1560OZS8DZA1/A1560ZHS8DZA1",
+        "latest_official": "A1560ZHS9DZB3/A1560OZS9DZB3/A1560ZHS9DZB1",
         "test_firmwares": [
           {
             "firmware": "A1560ZHU6DYH3/A1560OZS6DYH3/A1560ZHU6DYH3",
@@ -1184,6 +1184,11 @@
             "firmware": "A1560ZHU9EZB5/A1560OZS9EZB5/A1560ZHU9EZB5",
             "md5": "b27b7454546c22f9a78645d67a114cf1",
             "found_at": "2026-02-28T08:33:03.666750453+00:00"
+          },
+          {
+            "firmware": "A1560ZHU9EZC3/A1560OZS9EZC3/A1560ZHU9EZC3",
+            "md5": "8ade14a2cd8ed6a6038933cb2242efcb",
+            "found_at": "2026-03-16T05:52:23.914206817+00:00"
           }
         ]
       }
@@ -26358,7 +26363,7 @@
     "name": "Galaxy S22 Ultra",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S908U1UES8GZA1/S908U1OYM8GZA1/S908U1UES8GZA1",
+        "latest_official": "S908U1UES9GZB4/S908U1OYM9GZB4/S908U1UES9GZB4",
         "test_firmwares": [
           {
             "firmware": "S908U1UES8FYE1/S908U1OYM8FYE1/S908U1UES8FYE1",
@@ -26614,6 +26619,16 @@
             "firmware": "S908U1UEU9HZB9/S908U1OYM9HZB9/S908U1UEU9HZB9",
             "md5": "a87db5e6bb6d6a3ebdc11b0c731b5b1b",
             "found_at": "2026-02-27T08:46:59.908074609+00:00"
+          },
+          {
+            "firmware": "S908U1UEU9HZC3/S908U1OYM9HZC3/S908U1UEU9HZC3",
+            "md5": "1ebc7eeb36c5aea6e19285f7ec3dee75",
+            "found_at": "2026-03-16T05:55:40.846935593+00:00"
+          },
+          {
+            "firmware": "S908U1UEU9HZC9/S908U1OYM9HZC9/S908U1UEU9HZC9",
+            "md5": "0ce998eb79047042c27f4a1902a8127c",
+            "found_at": "2026-03-16T05:55:40.848534629+00:00"
           }
         ]
       }
@@ -48168,7 +48183,7 @@
     "name": "Galaxy Tab S9+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X818USQS6DZA1/X818UOYN6DZA1/X818USQS6DZA1",
+        "latest_official": "X818USQS7DZB6/X818UOYN7DZB6/X818USQS7DZB6",
         "test_firmwares": [
           {
             "firmware": "X818USQS6CYF1/X818UOYN6CYF1/X818USQS6CYF1",
@@ -48304,6 +48319,16 @@
             "firmware": "X818USQU7EZB8/X818UOYN7EZB8/X818USQU7EZB8",
             "md5": "0f747a9aad9248635259d91c0da420d4",
             "found_at": "2026-02-27T05:25:07.811524059+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZC1/X818UOYN7EZC1/X818USQU7EZC1",
+            "md5": "36bfc3255ea5cfd56dc12936c3f3d8fe",
+            "found_at": "2026-03-16T05:53:44.038209095+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZC2/X818UOYN7EZC2/X818USQU7EZC2",
+            "md5": "e4c011f06c463eb70ef308776475aaee",
+            "found_at": "2026-03-16T05:53:44.038503643+00:00"
           }
         ]
       }

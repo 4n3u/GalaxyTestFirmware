@@ -25283,7 +25283,7 @@
     "name": "Galaxy S22+",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S906U1UES8GZA1/S906U1OYM8GZA1/S906U1UES8GZA1",
+        "latest_official": "S906U1UES9GZB4/S906U1OYM9GZB4/S906U1UES9GZB4",
         "test_firmwares": [
           {
             "firmware": "S906U1UES8FYE1/S906U1OYM8FYE1/S906U1UES8FYE1",
@@ -25539,6 +25539,16 @@
             "firmware": "S906U1UEU9HZB9/S906U1OYM9HZB9/S906U1UEU9HZB9",
             "md5": "286de8cce83bc6b7dc9ba3dbfa421c5e",
             "found_at": "2026-02-27T08:47:11.928920975+00:00"
+          },
+          {
+            "firmware": "S906U1UEU9HZC3/S906U1OYM9HZC3/S906U1UEU9HZC3",
+            "md5": "f850821c52820081cff22e4b13e90d76",
+            "found_at": "2026-03-16T07:24:06.180273167+00:00"
+          },
+          {
+            "firmware": "S906U1UEU9HZC9/S906U1OYM9HZC9/S906U1UEU9HZC9",
+            "md5": "b010fdd788a7f63507e025e5ca71d220",
+            "found_at": "2026-03-16T07:24:06.182148888+00:00"
           }
         ]
       }
@@ -43628,7 +43638,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X238USQU3AZA5/X238UOYN3AZA5/X238USQU3AZA5",
+        "latest_official": "X238USQS4AZB7/X238UOYN4AZB7/X238USQS4AZB7",
         "test_firmwares": [
           {
             "firmware": "X238USQU3AZA5/X238UOYN3AZA5/X238USQU3AZA5",
@@ -43704,6 +43714,21 @@
             "firmware": "X238USQU4BZB9/X238UOYN4BZB9/X238USQU4BZB9",
             "md5": "2bbc1996d365564e8d5f725b3b89e6eb",
             "found_at": "2026-02-26T10:47:22.969043033+00:00"
+          },
+          {
+            "firmware": "X238USQS4AZC1/X238UOYN4AZC1/X238USQS4AZC1",
+            "md5": "2bd62ec35a49d07128754bb3d8c34ab2",
+            "found_at": "2026-03-16T07:25:29.926908058+00:00"
+          },
+          {
+            "firmware": "X238USQU4BZC1/X238UOYN4BZC1/X238USQU4BZC1",
+            "md5": "fb0c6e0879ae943535a1f69200957e85",
+            "found_at": "2026-03-16T07:25:30.066910552+00:00"
+          },
+          {
+            "firmware": "X238USQU4BZC2/X238UOYN4BZC2/X238USQU4BZC2",
+            "md5": "de198d823605d46d903a097d4b2bcb45",
+            "found_at": "2026-03-16T07:25:30.067186077+00:00"
           }
         ]
       }

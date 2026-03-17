@@ -43888,7 +43888,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X238U1UEU3AZA5/X238U1OYM3AZA5/X238U1UEU3AZA5",
+        "latest_official": "X238U1UES4AZB7/X238U1OYM4AZB7/X238U1UES4AZB7",
         "test_firmwares": [
           {
             "firmware": "X238U1UES3AZB2/X238U1OYM3AZB2/X238U1UES3AZB2",
@@ -43929,6 +43929,16 @@
             "firmware": "X238U1UEU4BZB9/X238U1OYM4BZB9/X238U1UEU4BZB9",
             "md5": "b3d6f521a7efcff7b62951601242560a",
             "found_at": "2026-02-26T13:08:29.523599045+00:00"
+          },
+          {
+            "firmware": "X238U1UEU4BZC1/X238U1OYM4BZC1/X238U1UEU4BZC1",
+            "md5": "2fd7b1e24162e4d55a412972c52e0e05",
+            "found_at": "2026-03-17T10:54:23.308046991+00:00"
+          },
+          {
+            "firmware": "X238U1UEU4BZC2/X238U1OYM4BZC2/X238U1UEU4BZC2",
+            "md5": "2660b4baa748ac7ca2f212f40662e081",
+            "found_at": "2026-03-17T10:54:23.312006837+00:00"
           }
         ]
       }

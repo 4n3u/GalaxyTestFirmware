@@ -6219,6 +6219,11 @@
             "firmware": "A536U1UEUKHZC3/A536U1OYMKHZC3/A536U1UEUKHZC3",
             "md5": "42495cf162c1cb10204bf29bcb0ca57d",
             "found_at": "2026-03-10T14:58:19.957911560+00:00"
+          },
+          {
+            "firmware": "A536U1UEUKHZC5/A536U1OYMKHZC5/A536U1UEUKHZC5",
+            "md5": "9b9e16ffccbee261efd7ea3fc1c06ebf",
+            "found_at": "2026-03-17T15:07:00.188290818+00:00"
           }
         ]
       }

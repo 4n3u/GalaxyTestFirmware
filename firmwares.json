@@ -4944,6 +4944,11 @@
             "firmware": "A356U1UEU9DZC1/A356U1OYM9DZC1/A356U1UEU9DZC1",
             "md5": "1ea3079cd25e22c0be21ec9f980c4cfa",
             "found_at": "2026-03-16T13:12:41.274211877+00:00"
+          },
+          {
+            "firmware": "A356U1UEU9DZC2/A356U1OYM9DZC2/A356U1UEU9DZC2",
+            "md5": "dd2313cab1ac785aa4041d34c9203f46",
+            "found_at": "2026-03-17T13:19:01.334179104+00:00"
           }
         ]
       }
@@ -6099,6 +6104,11 @@
             "firmware": "A536USQUKHZC3/A536UOYNKHZC3/A536USQUKHZC3",
             "md5": "10a1830203e6bdecefcb521406522fc1",
             "found_at": "2026-03-10T14:58:18.508498303+00:00"
+          },
+          {
+            "firmware": "A536USQUKHZC5/A536UOYNKHZC5/A536USQUKHZC5",
+            "md5": "21bd8f7cca78864b8c7a880a8759205c",
+            "found_at": "2026-03-17T13:19:20.894692591+00:00"
           }
         ]
       }

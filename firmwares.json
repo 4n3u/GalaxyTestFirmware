@@ -40474,6 +40474,11 @@
             "firmware": "S9420ZCU1AZCF/S9420CHC1AZCF/S9420ZCU1AZCF",
             "md5": "1ddd0e9d59723a09f084257f62ae3bc9",
             "found_at": "2026-03-15T13:05:29.183725391+00:00"
+          },
+          {
+            "firmware": "S9420ZCU1AZCG/S9420CHC1AZCG/S9420ZCU1AZCG",
+            "md5": "4a9cb7fa017303be22f6e3cad7b3dc20",
+            "found_at": "2026-03-17T19:07:18.915008120+00:00"
           }
         ]
       }
@@ -41059,6 +41064,11 @@
             "firmware": "S9470ZCU1AZCF/S9470CHC1AZCF/S9470ZCU1AZCF",
             "md5": "ba0a0cb27ccfc85ca5bf35d08abf429f",
             "found_at": "2026-03-15T13:06:07.163468623+00:00"
+          },
+          {
+            "firmware": "S9470ZCU1AZCG/S9470CHC1AZCG/S9470ZCU1AZCG",
+            "md5": "8051711fcf318e1d9dddd7eb0676d8fa",
+            "found_at": "2026-03-17T19:07:45.901895296+00:00"
           }
         ]
       }
@@ -41644,6 +41654,11 @@
             "firmware": "S9480ZCU1AZCF/S9480CHC1AZCF/S9480ZCU1AZCF",
             "md5": "0d2c8cebc08b017f4ca03fd8df726016",
             "found_at": "2026-03-15T13:05:47.667643891+00:00"
+          },
+          {
+            "firmware": "S9480ZCU1AZCG/S9480CHC1AZCG/S9480ZCU1AZCG",
+            "md5": "2617208da5bc93bfc903cd0fe22a1e09",
+            "found_at": "2026-03-17T19:07:32.493178188+00:00"
           }
         ]
       }

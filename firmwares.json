@@ -4943,7 +4943,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3660ZHS5BZA1/A3660OZS5BZA1/A3660ZHS5BZA1",
+        "latest_official": "A3660ZHS6BZB6/A3660OZS6BZB6/A3660ZHS6BZB3",
         "test_firmwares": [
           {
             "firmware": "A3660ZHU3BYG2/A3660OZS3BYG2/A3660ZHU3BYG2",
@@ -5044,6 +5044,11 @@
             "firmware": "A3660ZHU6CZB8/A3660OZS6CZB8/A3660ZHU6CZB8",
             "md5": "ce7edc3a451a67c9902f0c223bcbb129",
             "found_at": "2026-02-27T05:22:08.352144417+00:00"
+          },
+          {
+            "firmware": "A3660ZHU6CZC1/A3660OZS6CZC1/A3660ZHU6CZC1",
+            "md5": "ea99b88a52dba87fd5a93603633353af",
+            "found_at": "2026-03-17T02:12:20.973194980+00:00"
           }
         ]
       }

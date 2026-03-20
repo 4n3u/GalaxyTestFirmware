@@ -3819,6 +3819,11 @@
             "firmware": "A266BXXU8CZC2/A266BOXM8CZC2/A266BXXU8CZC2",
             "md5": "a46c4fe9cbedb84ef74934a45a8f45b6",
             "found_at": "2026-03-13T02:08:05.780058066+00:00"
+          },
+          {
+            "firmware": "A266BXXU8CZC4/A266BOXM8CZC4/A266BXXU8CZC4",
+            "md5": "1c72b757e0e1de23646b4fd89b7cba03",
+            "found_at": "2026-03-20T07:01:43.292830278+00:00"
           }
         ]
       }
@@ -18074,6 +18079,11 @@
             "firmware": "G556BXXUEEZC9/G556BOXMEEZC9/G556BXXUEEZC9",
             "md5": "d2a71d48dee8217a6bfadaf931d379ed",
             "found_at": "2026-03-15T08:43:48.341588683+00:00"
+          },
+          {
+            "firmware": "G556BXXUEEZCB/G556BOXMEEZCB/G556BXXUEEZCB",
+            "md5": "c2f2841f98c62f807e778737dd111005",
+            "found_at": "2026-03-20T07:04:18.299996479+00:00"
           }
         ]
       }
@@ -19203,7 +19213,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "G9900ZCU1AUI1/G9900CHC1AUI1/G9900ZCU1AUI1",
+        "latest_official": "G9900ZCSJIZB2/G9900CHCJIZB2/G9900ZCSJIZB1",
         "test_firmwares": [
           {
             "firmware": "G9900ZCSGHYI3/G9900CHCGHYI3/G9900ZCSGHYI3",
@@ -19324,6 +19334,16 @@
             "firmware": "G9900ZCU1BUJ3/G9900CHC1BUJ3/G9900ZCU1BUJ3",
             "md5": "2d0d3de41605a9f80e99d74315f87db0",
             "found_at": "2026-01-29T06:53:03.889822619+00:00"
+          },
+          {
+            "firmware": "G9900ZCSJIZB1/G9900CHCJIZB1/G9900ZCSJIZB1",
+            "md5": "a448aba6d984930f2bf3a03839f433ce",
+            "found_at": "2026-03-20T07:01:29.214311583+00:00"
+          },
+          {
+            "firmware": "G9900ZCSJIZB2/G9900CHCJIZB2/G9900ZCSJIZB1",
+            "md5": "dca3796f1cf6d4c7271fb84289e65952",
+            "found_at": "2026-03-20T07:01:29.214529699+00:00"
           }
         ]
       },
@@ -21404,6 +21424,11 @@
             "firmware": "S7110ZCS7FZC1/S7110CHC7FZC1/S7110ZCS7FZC1",
             "md5": "18624bb7e36233e26b9ac6392d9b46ce",
             "found_at": "2026-03-17T05:27:46.539436017+00:00"
+          },
+          {
+            "firmware": "S7110ZCU7GZCB/S7110CHC7GZCB/S7110ZCU7GZCB",
+            "md5": "e897d62001a587c8d87acdf23907f255",
+            "found_at": "2026-03-20T07:03:15.532493590+00:00"
           }
         ]
       }
@@ -23049,6 +23074,11 @@
             "firmware": "S721U1UEUADZC9/S721U1OYMADZC9/S721U1UEUADZC9",
             "md5": "37d60c127b8c4588f53669cac4cb1cce",
             "found_at": "2026-03-16T11:01:07.994189387+00:00"
+          },
+          {
+            "firmware": "S721U1UEUADZCB/S721U1OYMADZCB/S721U1UEUADZCB",
+            "md5": "9100eacca0e5411150e447c60adde056",
+            "found_at": "2026-03-20T07:04:16.142196099+00:00"
           }
         ]
       }
@@ -34119,6 +34149,11 @@
             "firmware": "S931BXXU8ZZCB/S931BOXM8ZZCB/S931BXXU8CZCB",
             "md5": "42d89fc3688da994c8fac6cc16887dc2",
             "found_at": "2026-03-19T05:30:49.523817101+00:00"
+          },
+          {
+            "firmware": "S931BXXS8BZCC/S931BOXM8BZCC/S931BXXS8BZCC",
+            "md5": "2941509a7a3318f385acf9b26282d4e8",
+            "found_at": "2026-03-20T07:04:46.787537790+00:00"
           }
         ]
       }
@@ -44908,7 +44943,7 @@
     "name": "Galaxy Tab Active5 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X308UUES9CZA3/X308UOYM9CZA3/X308UUES9CZA3",
+        "latest_official": "X308UUESACZB5/X308UOYMACZB5/X308UUESACZB5",
         "test_firmwares": [
           {
             "firmware": "X308UUES7BYI1/X308UOYM7BYI1/X308UUES7BYI1",
@@ -45039,6 +45074,16 @@
             "firmware": "X308UUEUADZB5/X308UOYMADZB5/X308UUEUADZB5",
             "md5": "5eb2514fca80f240c91b1c0679f293a8",
             "found_at": "2026-02-27T10:48:22.312191094+00:00"
+          },
+          {
+            "firmware": "X308UUEUADZC1/X308UOYMADZC1/X308UUEUADZC1",
+            "md5": "040a01484cb0ea4c5e80c374e75a85c9",
+            "found_at": "2026-03-20T06:58:32.419703280+00:00"
+          },
+          {
+            "firmware": "X308UUEUADZC3/X308UOYMADZC3/X308UUEUADZC3",
+            "md5": "68d573c73844c7b1bab040c168f81291",
+            "found_at": "2026-03-20T06:58:32.420647651+00:00"
           }
         ]
       }

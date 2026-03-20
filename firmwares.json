@@ -20704,6 +20704,11 @@
             "firmware": "M356BXXU7DZC2/M356BOXM7DZC2/M356BXXU7DZC2",
             "md5": "8bd56101dd648b2a23747ebc60d36b74",
             "found_at": "2026-03-13T13:00:12.467902768+00:00"
+          },
+          {
+            "firmware": "M356BXXU7DZC4/M356BOXM7DZC4/M356BXXU7DZC4",
+            "md5": "046947142e95ee3cd2558f14bbde07ef",
+            "found_at": "2026-03-20T14:43:12.495931747+00:00"
           }
         ]
       }

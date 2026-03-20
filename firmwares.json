@@ -2024,6 +2024,11 @@
             "firmware": "A1660ZHU7DZC3/A1660OZS7DZC3/A1660ZHU7DZC3",
             "md5": "f920c805ed9f8a23cb896ff8ed159434",
             "found_at": "2026-03-12T08:45:38.773728424+00:00"
+          },
+          {
+            "firmware": "A1660ZHU7DZCB/A1660OZS7DZCB/A1660ZHU7DZCB",
+            "md5": "4b9f499530b4b1b4a53acbb838c22360",
+            "found_at": "2026-03-20T05:19:30.852003732+00:00"
           }
         ]
       }
@@ -44889,6 +44894,11 @@
             "firmware": "X306BXXUADZC3/X306BOXMADZC3/X306BXXUADZC3",
             "md5": "b281c3bca68a26d1d4fb74024acc9bc8",
             "found_at": "2026-03-13T08:48:54.373299639+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZC4/X306BOXMADZC4/X306BXXUADZC4",
+            "md5": "372bc4eee14fd0c83267af69d7e3e1d0",
+            "found_at": "2026-03-20T05:18:26.602397993+00:00"
           }
         ]
       }

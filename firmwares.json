@@ -45899,6 +45899,11 @@
             "firmware": "X516CZCUBDZC2/X516CCHCBDZC2/X516CZCUBDZC2",
             "md5": "6c7bf5f0c2c996c746461376f37fb3a8",
             "found_at": "2026-03-13T05:16:44.491996189+00:00"
+          },
+          {
+            "firmware": "X516CZCUBDZC3/X516CCHCBDZC3/X516CZCUBDZC3",
+            "md5": "2ed231ad3c0ad6f02f47554063a13693",
+            "found_at": "2026-03-20T02:08:55.987589292+00:00"
           }
         ]
       }
@@ -47069,6 +47074,11 @@
             "firmware": "X616CZCUBDZC2/X616CCHCBDZC2/X616CZCUBDZC2",
             "md5": "7a7b3e62b1ec380016753110a41523d2",
             "found_at": "2026-03-13T05:16:52.508363512+00:00"
+          },
+          {
+            "firmware": "X616CZCUBDZC3/X616CCHCBDZC3/X616CZCUBDZC3",
+            "md5": "c80c07303a32dc289a1a1570e09b2ffa",
+            "found_at": "2026-03-20T02:09:04.601253228+00:00"
           }
         ]
       }

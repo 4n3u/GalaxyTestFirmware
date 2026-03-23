@@ -2734,6 +2734,11 @@
             "firmware": "A175FXXU4CZC5/A175FOXM4CZC5/A175FXXU4CZC5",
             "md5": "548223b098fa5f51a75bfa8d5e4a7bd1",
             "found_at": "2026-03-19T17:01:35.219713155+00:00"
+          },
+          {
+            "firmware": "A175FXXS5BZC6/A175FOXM5BZC6/A175FXXS5BZC6",
+            "md5": "1cba06d87ab969e029b699be29b48210",
+            "found_at": "2026-03-23T14:58:58.971213689+00:00"
           }
         ]
       }

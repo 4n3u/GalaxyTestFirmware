@@ -1789,6 +1789,11 @@
             "firmware": "A165FXXU9DZC5/A165FOXM9DZC5/A165FXXU9DZC5",
             "md5": "b7503d8c6a828f3cba94c02b115d38f1",
             "found_at": "2026-03-19T19:01:08.045767430+00:00"
+          },
+          {
+            "firmware": "A165FXXS9CZC4/A165FOXM9CZC4/A165FXXS9CZC4",
+            "md5": "f4be70c15742cb2d8304f50146c3dd6f",
+            "found_at": "2026-03-23T10:55:43.806580200+00:00"
           }
         ]
       }
@@ -3974,6 +3979,11 @@
             "firmware": "A266U1UEU7CZC2/A266U1OYM7CZC2/A266U1UEU7CZC2",
             "md5": "398d8db6fdf2b550bfe9587a5b9cdc52",
             "found_at": "2026-03-18T07:06:53.460346791+00:00"
+          },
+          {
+            "firmware": "A266U1UEU7CZC4/A266U1OYM7CZC4/A266U1UEU7CZC4",
+            "md5": "a5d39cd5878c593d400932238f658814",
+            "found_at": "2026-03-23T10:57:47.495302356+00:00"
           }
         ]
       }

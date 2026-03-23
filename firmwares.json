@@ -3444,6 +3444,11 @@
             "firmware": "A245NKSU9FZC2/A245NOKR9FZC2/A245NKSU9FZC2",
             "md5": "1b86a5f5a99a1a2253ef57563ffa893f",
             "found_at": "2026-03-13T05:17:44.933267581+00:00"
+          },
+          {
+            "firmware": "A245NKSS9EZC3/A245NOKR9EZC3/A245NKSS9EZC3",
+            "md5": "eeb8cefa1f6eca405c37d579f27b8aed",
+            "found_at": "2026-03-23T02:16:34.136128418+00:00"
           }
         ]
       }
@@ -20503,7 +20508,7 @@
     "name": "Galaxy M34 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "M346B2ZHSAEZA2/M346B2OZSAEZA2/M346B2ZHSAEZA2",
+        "latest_official": "M346B2ZHSBEZB3/M346B2OZSBEZB3/M346B2ZHSBEZB1",
         "test_firmwares": [
           {
             "firmware": "M346B2ZHS8DYH1/M346B2OZS8DYH1/M346B2ZHS8DYH1",
@@ -20574,6 +20579,11 @@
             "firmware": "M346B2ZHUBFZB7/M346B2OZSBFZB7/M346B2ZHUBFZB7",
             "md5": "d2083cea4fba2d852e4f3ff407bfd496",
             "found_at": "2026-02-27T10:40:15.245201360+00:00"
+          },
+          {
+            "firmware": "M346B2ZHUBFZC1/M346B2OZSBFZC1/M346B2ZHUBFZC1",
+            "md5": "b1e480824052e3b6b8a4dbf6791176cf",
+            "found_at": "2026-03-23T02:13:11.885620066+00:00"
           }
         ]
       }
@@ -22628,7 +22638,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S721NKSSACZB2/S721NOKRACZB2/S721NKSSACZB1",
+        "latest_official": "S721NKSSACZC1/S721NOKRACZC1/S721NKSSACZC1",
         "test_firmwares": [
           {
             "firmware": "S721NKSS6BYG1/S721NOKR6BYG1/S721NKSS6BYG1",
@@ -22769,6 +22779,11 @@
             "firmware": "S721NKSUAZZCB/S721NOKRAZZCB/S721NKSUADZC9",
             "md5": "7f72661ce48d27bc51684576a8901dfb",
             "found_at": "2026-03-19T07:06:04.942270427+00:00"
+          },
+          {
+            "firmware": "S721NKSSACZD1/S721NOKRACZD1/S721NKSSACZC1",
+            "md5": "cbc37319cc7509a805e4412b535d8867",
+            "found_at": "2026-03-23T02:18:58.149902415+00:00"
           }
         ]
       }

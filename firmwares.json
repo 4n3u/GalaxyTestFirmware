@@ -2499,6 +2499,11 @@
             "firmware": "A166U1UEU6DZC9/A166U1OYM6DZC9/A166U1UEU6DZC9",
             "md5": "3941138d413772e8621759494035c0e9",
             "found_at": "2026-03-16T10:57:02.486345923+00:00"
+          },
+          {
+            "firmware": "A166U1UEU6DZCB/A166U1OYM6DZCB/A166U1UEU6DZCB",
+            "md5": "59f5928bb016d335df4fdad423b4a638",
+            "found_at": "2026-03-23T05:43:04.739168853+00:00"
           }
         ]
       }
@@ -4644,6 +4649,11 @@
             "firmware": "A3560ZHU8DZC1/A3560OZS8DZC1/A3560ZHU8DZC1",
             "md5": "e6410e771d7c5b4b2bfb84841c9fdb8b",
             "found_at": "2026-03-12T08:49:22.485312655+00:00"
+          },
+          {
+            "firmware": "A3560ZHU8DZC4/A3560OZS8DZC4/A3560ZHU8DZC4",
+            "md5": "02bb622d1c8932f01365bd7c9e8c46dd",
+            "found_at": "2026-03-23T05:46:33.113891838+00:00"
           }
         ]
       }

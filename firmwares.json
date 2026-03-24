@@ -12558,7 +12558,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F766USQS8AZB6/F766UOYN8AZB6/F766USQS8AZB6",
+        "latest_official": "F766USQS8AZC3/F766UOYN8AZC3/F766USQS8AZC3",
         "test_firmwares": [
           {
             "firmware": "F766USQS4AYI2/F766UOYN4AYI2/F766USQS4AYI2",
@@ -12804,6 +12804,11 @@
             "firmware": "F766USQS8AZC6/F766UOYN8AZC6/F766USQS8AZC6",
             "md5": "7654533bab2c88037904cefc97355eee",
             "found_at": "2026-03-18T10:57:03.910959106+00:00"
+          },
+          {
+            "firmware": "F766USQS8AZC7/F766UOYN8AZC7/F766USQS8AZC7",
+            "md5": "a45ca3581c27e7ee6d01689185730fa1",
+            "found_at": "2026-03-24T02:11:07.593677082+00:00"
           }
         ]
       }
@@ -34774,6 +34779,11 @@
             "firmware": "S931NKSU8ZZCB/S931NOKR8ZZCB/S931NKSU8CZCB",
             "md5": "d257de642b94736b44c18f68256efe66",
             "found_at": "2026-03-19T05:30:51.096507349+00:00"
+          },
+          {
+            "firmware": "S931NKSU8ZZCD/S931NOKR8ZZCD/S931NKSU8CZCB",
+            "md5": "6a161215eeec919f5445c61c29253a73",
+            "found_at": "2026-03-24T02:06:15.405690005+00:00"
           }
         ]
       }

@@ -10073,7 +10073,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F741BXXS3CZB6/F741BOXM3CZB6/F741BXXS3CZB6",
+        "latest_official": "F741BXXS3CZC1/F741BOXM3CZB6/F741BXXS3CZB6",
         "test_firmwares": [
           {
             "firmware": "F741BXXU2CYB7/F741BOXM2CYB7/F741BXXU2CYB7",
@@ -10359,6 +10359,11 @@
             "firmware": "F741BXXU3ZZCB/F741BOXM3ZZCB/F741BXXU3DZCB",
             "md5": "b9cd1416ec5cd6cf0a016cc8b0b028f2",
             "found_at": "2026-03-19T05:32:03.848598633+00:00"
+          },
+          {
+            "firmware": "F741BXXU3ZZCD/F741BOXM3ZZCD/F741BXXU3DZCB",
+            "md5": "da9d7c96d0accb1491854b3e460beed1",
+            "found_at": "2026-03-24T17:04:53.496116025+00:00"
           }
         ]
       }
@@ -10639,6 +10644,11 @@
             "firmware": "F741NKSU3ZZCB/F741NOKR3ZZCB/F741NKSU3DZCB",
             "md5": "dbde9d42def5d963218cb8b2fd748c0a",
             "found_at": "2026-03-19T07:09:38.159550452+00:00"
+          },
+          {
+            "firmware": "F741NKSU3ZZCD/F741NOKR3ZZCD/F741NKSU3DZCB",
+            "md5": "87e99d0be16a4bf6566ee5d0e1bdbdac",
+            "found_at": "2026-03-24T17:04:56.126627066+00:00"
           }
         ]
       }
@@ -15348,7 +15358,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F956BXXS3CZB6/F956BOXM3CZB6/F956BXXS3CZB6",
+        "latest_official": "F956BXXS3CZC1/F956BOXM3CZB6/F956BXXS3CZB6",
         "test_firmwares": [
           {
             "firmware": "F956BXXU2CYB5/F956BOXM2CYB5/F956BXXU2CYB5",
@@ -15649,6 +15659,11 @@
             "firmware": "F956BXXU3ZZCB/F956BOXM3ZZCB/F956BXXU3DZCB",
             "md5": "40fced6def0182d17ed03dccaec41cd0",
             "found_at": "2026-03-19T05:33:31.818215377+00:00"
+          },
+          {
+            "firmware": "F956BXXU3ZZCD/F956BOXM3ZZCD/F956BXXU3DZCB",
+            "md5": "7fbb3f17086b11d4c1293ebf9e27fc77",
+            "found_at": "2026-03-24T17:06:07.680214954+00:00"
           }
         ]
       }
@@ -15939,6 +15954,11 @@
             "firmware": "F956NKSU3ZZCB/F956NOKR3ZZCB/F956NKSU3DZCB",
             "md5": "98856a0371083aef3a2844f54ac82919",
             "found_at": "2026-03-19T07:09:56.926019880+00:00"
+          },
+          {
+            "firmware": "F956NKSU3ZZCD/F956NOKR3ZZCD/F956NKSU3DZCB",
+            "md5": "0d98b0ccb79db223ee27938e4d08c036",
+            "found_at": "2026-03-24T17:06:10.439217024+00:00"
           }
         ]
       }

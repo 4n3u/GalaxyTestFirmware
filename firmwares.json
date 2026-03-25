@@ -22889,6 +22889,11 @@
             "firmware": "S721BXXUAZZCD/S721BOXMAZZCD/S721BXXUADZCD",
             "md5": "4108a38fa076773c3844b11e7151bac0",
             "found_at": "2026-03-24T07:13:19.778389738+00:00"
+          },
+          {
+            "firmware": "S721BXXUAZZCF/S721BOXMAZZCF/S721BXXUADZCF",
+            "md5": "d52912cbb6b385367bf72cc144bd68f0",
+            "found_at": "2026-03-25T22:42:39.626112283+00:00"
           }
         ]
       }
@@ -50754,6 +50759,11 @@
             "firmware": "X828USQU7DZC3/X828UOYN7DZC3/X828USQU7DZC3",
             "md5": "d919dbbb14afd2d4a1c270368056fd98",
             "found_at": "2026-03-19T19:01:01.710828185+00:00"
+          },
+          {
+            "firmware": "X828USQU7DZC4/X828UOYN7DZC4/X828USQU7DZC4",
+            "md5": "5ee2244eed7b38fa8774ff48ccd33b46",
+            "found_at": "2026-03-25T22:44:39.950182077+00:00"
           }
         ]
       }

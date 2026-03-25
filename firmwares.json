@@ -23714,6 +23714,11 @@
             "firmware": "S731NKSU5ZZCD/S731NOKR5ZZCD/S731NKSU5BZCB",
             "md5": "14810563194b174e39e8246d16d66f4a",
             "found_at": "2026-03-24T05:31:14.914877013+00:00"
+          },
+          {
+            "firmware": "S731NKSU5ZZCF/S731NOKR5ZZCF/S731NKSU5BZCF",
+            "md5": "843964b75905a3b4751b19428fe21201",
+            "found_at": "2026-03-25T02:18:50.650886711+00:00"
           }
         ]
       }
@@ -28034,6 +28039,11 @@
             "firmware": "S911BXXU9FZCB/S911BOXM9FZCB/S911BXXU9FZCB",
             "md5": "8c3efac85dde8c73afe244781df8b16f",
             "found_at": "2026-03-19T05:29:15.652013041+00:00"
+          },
+          {
+            "firmware": "S911BXXU9FZCF/S911BOXM9FZCF/S911BXXU9FZCF",
+            "md5": "253c2b6b6d5b17ab5494135549e87599",
+            "found_at": "2026-03-25T02:16:35.480620585+00:00"
           }
         ]
       }

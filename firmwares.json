@@ -7299,6 +7299,11 @@
             "firmware": "A5660ZCU9CZCB/A5660CHC9CZCB/A5660ZCU9CZCB",
             "md5": "f84e7229657852188e2f38b3e0a84c15",
             "found_at": "2026-03-19T20:46:04.793815546+00:00"
+          },
+          {
+            "firmware": "A5660ZCU9CZCF/A5660CHC9CZCF/A5660ZCU9CZCF",
+            "md5": "37b49bf6208d36c11a5aafe7dcde522c",
+            "found_at": "2026-03-26T05:52:23.570140788+00:00"
           }
         ]
       }
@@ -21954,6 +21959,11 @@
             "firmware": "S711BXXUEGZCB/S711BOXMEGZCB/S711BXXUEGZCB",
             "md5": "8d9401687a96bdaf0c9be93fb601084e",
             "found_at": "2026-03-19T22:35:45.975054653+00:00"
+          },
+          {
+            "firmware": "S711BXXUEGZCF/S711BOXMEGZCF/S711BXXUEGZCF",
+            "md5": "c87a8d30fdd7783605ab4950bcb24f79",
+            "found_at": "2026-03-26T05:48:20.509351526+00:00"
           }
         ]
       }

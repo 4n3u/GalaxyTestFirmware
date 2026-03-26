@@ -3909,6 +3909,11 @@
             "firmware": "A266BXXU8CZC4/A266BOXM8CZC4/A266BXXU8CZC4",
             "md5": "1c72b757e0e1de23646b4fd89b7cba03",
             "found_at": "2026-03-20T07:01:43.292830278+00:00"
+          },
+          {
+            "firmware": "A266BXXU8CZC5/A266BOXM8CZC5/A266BXXU8CZC5",
+            "md5": "2c66aee9fe63481a5a2ce4b1f1454fe4",
+            "found_at": "2026-03-26T02:29:07.065614286+00:00"
           }
         ]
       }
@@ -24169,6 +24174,11 @@
             "firmware": "S731USQU5ZZCF/S731UOYN5ZZCF/S731USQU5BZCF",
             "md5": "635edc38c59657d04542b17eb1f44680",
             "found_at": "2026-03-25T09:01:04.906916810+00:00"
+          },
+          {
+            "firmware": "S731USQS6AZBG/S731UOYN6AZBG/S731USQS6AZBG",
+            "md5": "7efc54344b3fc727a306e62153b033d6",
+            "found_at": "2026-03-26T02:31:52.341348173+00:00"
           }
         ]
       }

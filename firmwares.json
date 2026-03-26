@@ -1804,6 +1804,11 @@
             "firmware": "A165FXXS9CZC4/A165FOXM9CZC4/A165FXXS9CZC4",
             "md5": "f4be70c15742cb2d8304f50146c3dd6f",
             "found_at": "2026-03-23T10:55:43.806580200+00:00"
+          },
+          {
+            "firmware": "A165FXXU9DZC7/A165FOXM9DZC7/A165FXXU9DZC7",
+            "md5": "6263ce017c0e3876b076ed255b23ebc3",
+            "found_at": "2026-03-26T09:00:12.111583146+00:00"
           }
         ]
       }
@@ -2379,6 +2384,11 @@
             "firmware": "A166USQU6DZCB/A166UOYN6DZCB/A166USQU6DZCB",
             "md5": "1515779e7f4f27b2bdd8744777c5d420",
             "found_at": "2026-03-20T13:03:40.668178764+00:00"
+          },
+          {
+            "firmware": "A166USQU6DZCF/A166UOYN6DZCF/A166USQU6DZCF",
+            "md5": "485cb9aece4a1dc3f9e55183262f3a49",
+            "found_at": "2026-03-26T09:00:23.972440811+00:00"
           }
         ]
       }
@@ -42323,7 +42333,7 @@
     "name": "Galaxy S26",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S942USQS1AZC8/S942UOYN1AZC8/S942USQS1AZC8",
+        "latest_official": "S942USQU1AZCF/S942UOYN1AZCF/S942USQU1AZCF",
         "test_firmwares": [
           {
             "firmware": "S942USQS1AZC7/S942UOYN1AZC7/S942USQS1AZC7",
@@ -42434,6 +42444,11 @@
             "firmware": "S942USQS2AZCL/S942UOYN2AZCL/S942USQS2AZCL",
             "md5": "ac837e509b690b1ce4e5e2f311f10e51",
             "found_at": "2026-03-25T13:21:02.387234474+00:00"
+          },
+          {
+            "firmware": "S942USQS2AZCM/S942UOYN2AZCM/S942USQS2AZCM",
+            "md5": "f167d5263015f47ba313c276d6dbe8ef",
+            "found_at": "2026-03-26T09:06:01.641027845+00:00"
           }
         ]
       }
@@ -42948,7 +42963,7 @@
     "name": "Galaxy S26+",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S947USQS1AZC8/S947UOYN1AZC8/S947USQS1AZC8",
+        "latest_official": "S947USQU1AZCF/S947UOYN1AZCF/S947USQU1AZCF",
         "test_firmwares": [
           {
             "firmware": "S947USQS1AZC7/S947UOYN1AZC7/S947USQS1AZC7",
@@ -43059,6 +43074,11 @@
             "firmware": "S947USQS2AZCL/S947UOYN2AZCL/S947USQS2AZCL",
             "md5": "177bd50b4b97f943107a35255af75bf6",
             "found_at": "2026-03-25T13:21:41.530983143+00:00"
+          },
+          {
+            "firmware": "S947USQS2AZCM/S947UOYN2AZCM/S947USQS2AZCM",
+            "md5": "1ef8e37f951cc2996d21826d4dfdeac5",
+            "found_at": "2026-03-26T09:06:35.391497058+00:00"
           }
         ]
       }
@@ -43478,7 +43498,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S948USQS1AZC8/S948UOYN1AZC8/S948USQS1AZC8",
+        "latest_official": "S948USQU1AZCF/S948UOYN1AZCF/S948USQU1AZCF",
         "test_firmwares": [
           {
             "firmware": "S948USQS1AZC7/S948UOYN1AZC7/S948USQS1AZC7",
@@ -43594,6 +43614,11 @@
             "firmware": "S948USQS2AZCL/S948UOYN2AZCL/S948USQS2AZCL",
             "md5": "888dcf4b2cd78bdd7a9549f6ac2d9322",
             "found_at": "2026-03-25T13:21:26.644822528+00:00"
+          },
+          {
+            "firmware": "S948USQS2AZCM/S948UOYN2AZCM/S948USQS2AZCM",
+            "md5": "7b92e96fc4103e5af54960116a4cf9a0",
+            "found_at": "2026-03-26T09:06:22.898231299+00:00"
           }
         ]
       }

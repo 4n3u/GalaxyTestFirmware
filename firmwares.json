@@ -46229,6 +46229,11 @@
             "firmware": "X308UUEUADZC4/X308UOYMADZC4/X308UUEUADZC4",
             "md5": "6a84ee7bee1425d41e55ccd9e5b21e31",
             "found_at": "2026-03-20T13:02:29.805440977+00:00"
+          },
+          {
+            "firmware": "X308UUEUADZC5/X308UOYMADZC5/X308UUEUADZC5",
+            "md5": "b9b8f4ba2c1c54ec6cd04e041f56fe38",
+            "found_at": "2026-03-26T19:07:23.023411768+00:00"
           }
         ]
       }

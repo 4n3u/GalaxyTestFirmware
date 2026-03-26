@@ -3119,6 +3119,11 @@
             "firmware": "A176USQU4BZCF/A176UOYN4BZCF/A176USQU4BZCF",
             "md5": "0c378e5dba7b5afe56ed0629a66f4526",
             "found_at": "2026-03-25T17:05:10.619178006+00:00"
+          },
+          {
+            "firmware": "A176USQU4AZC3/A176UOYN4AZC3/A176USQU4AZC3",
+            "md5": "1384104bba6f47c57c0447fdc96698f8",
+            "found_at": "2026-03-26T07:13:13.802062899+00:00"
           }
         ]
       }

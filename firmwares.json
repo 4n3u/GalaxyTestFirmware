@@ -23223,7 +23223,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S721USQSACZB4/S721UOYNACZB4/S721USQSACZB4",
+        "latest_official": "S721USQSACZC1/S721UOYNACZC1/S721USQSACZC1",
         "test_firmwares": [
           {
             "firmware": "S721USQS7CYJ2/S721UOYN7CYJ2/S721USQS7CYJ2",
@@ -23469,6 +23469,11 @@
             "firmware": "S721USQUADZCB/S721UOYNADZCB/S721USQUADZCB",
             "md5": "b355fe0bab1944f7b717940af5b3cd1c",
             "found_at": "2026-03-19T20:46:29.696665149+00:00"
+          },
+          {
+            "firmware": "S721USQUADZCF/S721UOYNADZCF/S721USQUADZCF",
+            "md5": "5fe6e2dd5770f7ae6a3d9d0a0a045272",
+            "found_at": "2026-03-27T09:01:47.701401518+00:00"
           }
         ]
       }

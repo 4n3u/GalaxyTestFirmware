@@ -17754,6 +17754,11 @@
             "firmware": "F966NKSU8ZZCF/F966NOKR8ZZCF/F966NKSU8BZB9",
             "md5": "2dcdfdfb84d462ccb0182766d04b6506",
             "found_at": "2026-03-25T11:01:28.088940736+00:00"
+          },
+          {
+            "firmware": "F966NKSS9AZCS/F966NOKR9AZCS/F966NKSS9AZCS",
+            "md5": "82bf625e91117c8a226d097e7cffede5",
+            "found_at": "2026-03-28T16:46:59.166490614+00:00"
           }
         ]
       }

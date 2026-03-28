@@ -10859,6 +10859,11 @@
             "firmware": "F741NKSU3ZZCF/F741NOKR3ZZCF/F741NKSU3DZCF",
             "md5": "10a428eb966f6bd6fc3c5f97de4783e9",
             "found_at": "2026-03-25T09:02:25.824386846+00:00"
+          },
+          {
+            "firmware": "F741NKSS3CZCS/F741NOKR3CZCS/F741NKSS3CZCS",
+            "md5": "625f254aa8817a9e4f05ec27aa158d6f",
+            "found_at": "2026-03-28T07:09:45.754960203+00:00"
           }
         ]
       }
@@ -16234,6 +16239,11 @@
             "firmware": "F956NKSU3ZZCF/F956NOKR3ZZCF/F956NKSU3DZCF",
             "md5": "53547c5c52e8a48d2baf79a95fc9391c",
             "found_at": "2026-03-25T07:14:46.520241350+00:00"
+          },
+          {
+            "firmware": "F956NKSS3CZCS/F956NOKR3CZCS/F956NKSS3CZCS",
+            "md5": "8e98883e1645ee5c461ed5346bf6e06f",
+            "found_at": "2026-03-28T07:11:24.510228108+00:00"
           }
         ]
       }
@@ -17114,6 +17124,11 @@
             "firmware": "F958NKSU3DZCF/F958NOKR3DZCF/F958NKSU3DZCF",
             "md5": "9674a2c89c221015dd3e8d4f465296da",
             "found_at": "2026-03-25T09:02:59.880989238+00:00"
+          },
+          {
+            "firmware": "F958NKSS3CZCS/F958NOKR3CZCS/F958NKSS3CZCS",
+            "md5": "01b6df67d40b14fb60d1b90377ed0496",
+            "found_at": "2026-03-28T07:10:23.685832549+00:00"
           }
         ]
       }
@@ -42369,6 +42384,11 @@
             "firmware": "S9420ZCU2AZCN/S9420CHC2AZCN/S9420ZCU2AZCN",
             "md5": "0ca20eaf8166556fc4e4da9e2b33ec09",
             "found_at": "2026-03-27T02:33:13.397536181+00:00"
+          },
+          {
+            "firmware": "S9420ZCS2AZCO/S9420CHC2AZCO/S9420ZCS2AZCO",
+            "md5": "187097034afc10cbf98987de1193c79f",
+            "found_at": "2026-03-28T07:09:22.247505716+00:00"
           }
         ]
       }
@@ -43059,6 +43079,11 @@
             "firmware": "S9470ZCU2AZCN/S9470CHC2AZCN/S9470ZCU2AZCN",
             "md5": "fd494bafccd7787704b63db9f9794cdc",
             "found_at": "2026-03-27T02:33:46.615080857+00:00"
+          },
+          {
+            "firmware": "S9470ZCS2AZCO/S9470CHC2AZCO/S9470ZCS2AZCO",
+            "md5": "277b82fc0d9f72674d5a1df8a1879d53",
+            "found_at": "2026-03-28T07:09:58.536592442+00:00"
           }
         ]
       }

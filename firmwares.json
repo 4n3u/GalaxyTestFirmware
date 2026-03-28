@@ -43764,6 +43764,11 @@
             "firmware": "S9480ZCU2AZCN/S9480CHC2AZCN/S9480ZCU2AZCN",
             "md5": "0dfef276efb467f46bc2eddf7a0238fa",
             "found_at": "2026-03-27T02:33:29.998285430+00:00"
+          },
+          {
+            "firmware": "S9480ZCS2AZCO/S9480CHC2AZCO/S9480ZCS2AZCO",
+            "md5": "9a273a2e97418405fc677c9e1015ccea",
+            "found_at": "2026-03-28T08:48:01.881779830+00:00"
           }
         ]
       }

@@ -18354,6 +18354,11 @@
             "firmware": "F968NKSU3ZZCF/F968NOKR3ZZCF/F968NKSU3BZB9",
             "md5": "cd31159ab73dade9545a4f2ef17dc0bb",
             "found_at": "2026-03-25T09:04:24.956100690+00:00"
+          },
+          {
+            "firmware": "F968NKSS4AZCS/F968NOKR4AZCS/F968NKSS4AZCS",
+            "md5": "a0b78d37da945bbcd7d04ce4ba06046f",
+            "found_at": "2026-03-28T14:44:25.274122273+00:00"
           }
         ]
       }

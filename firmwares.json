@@ -42529,6 +42529,11 @@
             "firmware": "S942BXXU2AZCN/S942BOXM2AZCN/S942BXXU2AZCN",
             "md5": "bf2544417a29c4c663997b286045aba3",
             "found_at": "2026-03-27T02:33:26.224993181+00:00"
+          },
+          {
+            "firmware": "S942BXXS2AZCO/S942BOXM2AZCO/S942BXXS2AZCO",
+            "md5": "956543535f40e6c0a33a960dcbf1b2a7",
+            "found_at": "2026-03-28T02:17:18.824159861+00:00"
           }
         ]
       }
@@ -43204,6 +43209,11 @@
             "firmware": "S947BXXU2AZCN/S947BOXM2AZCN/S947BXXU2AZCN",
             "md5": "06e83eb50f85f0c2cf6d7c667ba98ae1",
             "found_at": "2026-03-27T02:33:58.510898585+00:00"
+          },
+          {
+            "firmware": "S947BXXS2AZCO/S947BOXM2AZCO/S947BXXS2AZCO",
+            "md5": "7be2c36fb7cd6577cee0667b41a3b9e9",
+            "found_at": "2026-03-28T02:17:52.678987541+00:00"
           }
         ]
       }

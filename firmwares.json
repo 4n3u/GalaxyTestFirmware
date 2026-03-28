@@ -12049,6 +12049,11 @@
             "firmware": "F761NKSU8ZZCF/F761NOKR8ZZCF/F761NKSU8BZC9",
             "md5": "d3a20d0a29487c69ac4fc8b5c8649cf1",
             "found_at": "2026-03-25T09:02:53.541167232+00:00"
+          },
+          {
+            "firmware": "F761NKSS9AZCS/F761NOKR9AZCS/F761NKSS9AZCS",
+            "md5": "730b80054e81852cc11e5d25a5ae0752",
+            "found_at": "2026-03-28T10:42:46.892301556+00:00"
           }
         ]
       }
@@ -12834,6 +12839,11 @@
             "firmware": "F766NKSU8ZZCF/F766NOKR8ZZCF/F766NKSU8BZC9",
             "md5": "4dcb8b0c284c0912523ece7a17f1a0aa",
             "found_at": "2026-03-25T09:02:38.796172255+00:00"
+          },
+          {
+            "firmware": "F766NKSS9AZCS/F766NOKR9AZCS/F766NKSS9AZCS",
+            "md5": "c489595b0a61f81316de4bfcb40b6126",
+            "found_at": "2026-03-28T10:42:32.645129872+00:00"
           }
         ]
       }

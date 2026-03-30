@@ -6504,6 +6504,11 @@
             "firmware": "A536USQUKHZC5/A536UOYNKHZC5/A536USQUKHZC5",
             "md5": "21bd8f7cca78864b8c7a880a8759205c",
             "found_at": "2026-03-17T13:19:20.894692591+00:00"
+          },
+          {
+            "firmware": "A536USQUKHZC6/A536UOYNKHZC6/A536USQUKHZC6",
+            "md5": "8de10cfad71cc9424f05d9c319bd6cf1",
+            "found_at": "2026-03-30T13:32:30.329493134+00:00"
           }
         ]
       }
@@ -11894,6 +11899,11 @@
             "firmware": "F7610ZCU8ZZCF/F7610CHC8ZZCF/F7610ZCU8BZCF",
             "md5": "403aeb143855af71f31d5008c206b76c",
             "found_at": "2026-03-25T05:34:53.003997608+00:00"
+          },
+          {
+            "firmware": "F7610ZCS9AZC8/F7610CHC9AZC8/F7610ZCS9AZC8",
+            "md5": "9605b8fcca776cc79eb3b62619103594",
+            "found_at": "2026-03-30T13:31:41.323148606+00:00"
           }
         ]
       }
@@ -18584,6 +18594,11 @@
             "firmware": "F9680ZCU3ZZCF/F9680CHC3ZZCF/F9680ZCU3BZB5",
             "md5": "e09297da0fc74e0faa03b339683c1ed2",
             "found_at": "2026-03-25T09:04:22.052292605+00:00"
+          },
+          {
+            "firmware": "F9680ZCS4AZC8/F9680CHC4AZC8/F9680ZCS4AZC8",
+            "md5": "135db4053535a659a685069fc9eb3ec9",
+            "found_at": "2026-03-30T13:33:33.961530514+00:00"
           }
         ]
       }
@@ -22324,6 +22339,11 @@
             "firmware": "S7110ZCU7GZCB/S7110CHC7GZCB/S7110ZCU7GZCB",
             "md5": "e897d62001a587c8d87acdf23907f255",
             "found_at": "2026-03-20T07:03:15.532493590+00:00"
+          },
+          {
+            "firmware": "S7110ZCU7GZCF/S7110CHC7GZCF/S7110ZCU7GZCF",
+            "md5": "f824c733bd1c84f24f35e00e3398cf2f",
+            "found_at": "2026-03-30T13:27:37.558406891+00:00"
           }
         ]
       }
@@ -23604,6 +23624,11 @@
             "firmware": "S721NKSUAZZCD/S721NOKRAZZCD/S721NKSUADZCD",
             "md5": "35de093bf1f24bb2daa72cf610b7d585",
             "found_at": "2026-03-24T05:30:04.379395975+00:00"
+          },
+          {
+            "firmware": "S721NKSSBCZD2/S721NOKRBCZD2/S721NKSSBCZD2",
+            "md5": "0d55b28e54c0053153d620d6e9360200",
+            "found_at": "2026-03-30T13:28:43.294142555+00:00"
           }
         ]
       }
@@ -32024,6 +32049,11 @@
             "firmware": "S921NKSUDZZCF/S921NOKRDZZCF/S921NKSUDDZCF",
             "md5": "d5ddf9418a4963bdda15ed8e6cadbeab",
             "found_at": "2026-03-25T05:30:41.793468835+00:00"
+          },
+          {
+            "firmware": "S921NKSSECZCH/S921NOKRECZCH/S921NKSSECZCH",
+            "md5": "a548329fe91db45331416e34bbbc35e0",
+            "found_at": "2026-03-30T13:28:36.404365526+00:00"
           }
         ]
       }
@@ -33029,6 +33059,11 @@
             "firmware": "S926NKSUDZZCF/S926NOKRDZZCF/S926NKSUDDZCF",
             "md5": "329b4186ec76ceb3eadf22429e2f9583",
             "found_at": "2026-03-25T05:31:18.082517441+00:00"
+          },
+          {
+            "firmware": "S926NKSSECZCH/S926NOKRECZCH/S926NKSSECZCH",
+            "md5": "9978eb18908a83b3b576553cb981bbec",
+            "found_at": "2026-03-30T13:29:23.219057886+00:00"
           }
         ]
       }
@@ -34259,6 +34294,11 @@
             "firmware": "S928NKSU5ZZCF/S928NOKR5ZZCF/S928NKSU5DZCB",
             "md5": "270d3338a0d261733d86739c826b72c9",
             "found_at": "2026-03-25T05:30:59.740687643+00:00"
+          },
+          {
+            "firmware": "S928NKSS5CZCH/S928NOKR5CZCH/S928NKSS5CZCH",
+            "md5": "8d388a0a176e21b478858f5624aba336",
+            "found_at": "2026-03-30T13:29:00.882472340+00:00"
           }
         ]
       }
@@ -45714,6 +45754,11 @@
             "firmware": "X135FXXU4BZC9/X135FOXM4BZC9/X135FXXU4BZC9",
             "md5": "2c9c0ac13a48c18644606fa9f9fcd4a1",
             "found_at": "2026-03-27T05:43:47.118916709+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZC8/X135FOXM4BZC8/X135FXXU4BZC7",
+            "md5": "8786156a99579353e2f627b0256fd537",
+            "found_at": "2026-03-30T13:21:29.861153932+00:00"
           }
         ]
       }

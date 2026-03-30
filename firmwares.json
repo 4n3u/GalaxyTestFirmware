@@ -1834,6 +1834,11 @@
             "firmware": "A165FXXU9DZC7/A165FOXM9DZC7/A165FXXU9DZC7",
             "md5": "6263ce017c0e3876b076ed255b23ebc3",
             "found_at": "2026-03-26T09:00:12.111583146+00:00"
+          },
+          {
+            "firmware": "A165FXXS9CZC8/A165FOXM9CZC8/A165FXXS9CZC4",
+            "md5": "dc67a147487b05e9b4c5b3abbbc9b07f",
+            "found_at": "2026-03-30T07:57:37.266880447+00:00"
           }
         ]
       }
@@ -3844,6 +3849,11 @@
             "firmware": "A256U1UEUBEZC4/A256U1OYMBEZC4/A256U1UEUBEZC4",
             "md5": "3b32ce2f93861e0918fb31f2d4a8e549",
             "found_at": "2026-03-20T10:44:05.615681515+00:00"
+          },
+          {
+            "firmware": "A256U1UEUBEZC5/A256U1OYMBEZC5/A256U1UEUBEZC5",
+            "md5": "37f16c01d426b2de9b28cd37c17cc78a",
+            "found_at": "2026-03-30T07:59:25.849620218+00:00"
           }
         ]
       }
@@ -7814,6 +7824,186 @@
             "firmware": "A566U1UEU6CZCF/A566U1OYM6CZCF/A566U1UEU6CZCF",
             "md5": "91cabea3c626ac47db662a66b5ed7718",
             "found_at": "2026-03-25T17:11:11.478206851+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-A5760": {
+    "name": "Galaxy A57 5G",
+    "regional_firmwares": {
+      "CHC": {
+        "latest_official": "A5760ZCU1AZC2/A5760CHC1AZC2/A5760ZCU1AZC2",
+        "test_firmwares": [
+          {
+            "firmware": "A5760ZCU1AZA3/A5760CHC1AZA3/A5760ZCU1AZA3",
+            "md5": "b4725d99ed261ffe733eb40891600f55",
+            "found_at": "2026-03-30T08:04:49.996939760+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZA4/A5760CHC1AZA4/A5760ZCU1AZA4",
+            "md5": "756d858ebe1762f8e0273f878b72ef5f",
+            "found_at": "2026-03-30T08:04:49.996974254+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZA6/A5760CHC1AZA6/A5760ZCU1AZA6",
+            "md5": "764967883ba819e315477deac3477c05",
+            "found_at": "2026-03-30T08:04:49.997014814+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZA7/A5760CHC1AZA7/A5760ZCU1AZA7",
+            "md5": "749b91a181e3fad17ddbd1b5347b48bd",
+            "found_at": "2026-03-30T08:04:49.997040778+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZA8/A5760CHC1AZA8/A5760ZCU1AZA8",
+            "md5": "d0954c82a19f8214e57848f3cb0d28c3",
+            "found_at": "2026-03-30T08:04:49.997069119+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZA9/A5760CHC1AZA9/A5760ZCU1AZA9",
+            "md5": "5a6ab496b18659f34cff92d1daedf348",
+            "found_at": "2026-03-30T08:04:49.997100680+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZAA/A5760CHC1AZAA/A5760ZCU1AZAA",
+            "md5": "62b5e41d8aac58fa3f7473a16a893a0d",
+            "found_at": "2026-03-30T08:04:49.997135949+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZAB/A5760CHC1AZAB/A5760ZCU1AZAB",
+            "md5": "261163bf32f171ef33f4057c587c0a1f",
+            "found_at": "2026-03-30T08:04:49.997174040+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZAD/A5760CHC1AZAD/A5760ZCU1AZAD",
+            "md5": "8eda746c1b296399b933e6f0168d4cdc",
+            "found_at": "2026-03-30T08:04:49.997261743+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZB2/A5760CHC1AZB2/A5760ZCU1AZB2",
+            "md5": "96a96e66c4a5bbaa30539c280e31895e",
+            "found_at": "2026-03-30T08:04:49.999514361+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZB3/A5760CHC1AZB3/A5760ZCU1AZB3",
+            "md5": "fbbef8bdddd2b542820828d1fc9832bb",
+            "found_at": "2026-03-30T08:04:49.999661335+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZB4/A5760CHC1AZB4/A5760ZCU1AZB4",
+            "md5": "b1308a0767fbc08188768116ce2205c5",
+            "found_at": "2026-03-30T08:04:49.999812622+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZB5/A5760CHC1AZB5/A5760ZCU1AZB5",
+            "md5": "bd52eda9a1f68c7d0cd762f8fbdce5f9",
+            "found_at": "2026-03-30T08:04:49.999966237+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZB7/A5760CHC1AZB7/A5760ZCU1AZB7",
+            "md5": "18db5043624a5334f04924c40b521a2b",
+            "found_at": "2026-03-30T08:04:50.000424461+00:00"
+          },
+          {
+            "firmware": "A5760ZCU1AZC2/A5760CHC1AZC2/A5760ZCU1AZC2",
+            "md5": "b3b9c259c59ef47efc3ee045bf00cd07",
+            "found_at": "2026-03-30T08:04:50.007755955+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-A576B": {
+    "name": "Galaxy A57 5G",
+    "regional_firmwares": {
+      "EUX": {
+        "latest_official": "A576BXXU1AZC2/A576BOXM1AZC2/A576BXXU1AZC2",
+        "test_firmwares": [
+          {
+            "firmware": "A576BXXU1AZA2/A576BOXM1AZA2/A576BXXU1AZA2",
+            "md5": "c57a151ef2de8ac95c02712e17f03e9c",
+            "found_at": "2026-03-30T08:04:52.061349229+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZA3/A576BOXM1AZA3/A576BXXU1AZA3",
+            "md5": "b54b2da37d00a6b919d8448b98319596",
+            "found_at": "2026-03-30T08:04:52.061365375+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZA4/A576BOXM1AZA4/A576BXXU1AZA4",
+            "md5": "7d2c41088be03d17d8a8dfaa285b1c0d",
+            "found_at": "2026-03-30T08:04:52.061379741+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZA5/A576BOXM1AZA5/A576BXXU1AZA5",
+            "md5": "0fe0a62fc0e52d64f437e366629a01ce",
+            "found_at": "2026-03-30T08:04:52.061396176+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZA6/A576BOXM1AZA6/A576BXXU1AZA6",
+            "md5": "6874eb423ce828bc5c87c340674575a9",
+            "found_at": "2026-03-30T08:04:52.061415507+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZA7/A576BOXM1AZA7/A576BXXU1AZA7",
+            "md5": "35b832e0a1389e2c434f7049933b3deb",
+            "found_at": "2026-03-30T08:04:52.061439453+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZA8/A576BOXM1AZA8/A576BXXU1AZA8",
+            "md5": "27a96646c5a6341507f7e8863c1702ab",
+            "found_at": "2026-03-30T08:04:52.061468602+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZAA/A576BOXM1AZAA/A576BXXU1AZAA",
+            "md5": "8ce9b907bedf8d7ee16593ef7f98dc60",
+            "found_at": "2026-03-30T08:04:52.061534472+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZAB/A576BOXM1AZAB/A576BXXU1AZAB",
+            "md5": "8c2c1000bc564903a58071c91a05763d",
+            "found_at": "2026-03-30T08:04:52.061574797+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZB1/A576BOXM1AZB1/A576BXXU1AZB1",
+            "md5": "ffc9d46588e06e884d2b3004b0bc137f",
+            "found_at": "2026-03-30T08:04:52.063587328+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZB2/A576BOXM1AZB2/A576BXXU1AZB2",
+            "md5": "f1ef5228687b78d865ee9aa257acc762",
+            "found_at": "2026-03-30T08:04:52.063735798+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZB3/A576BOXM1AZB3/A576BXXU1AZB3",
+            "md5": "9c0540217d823b081a7da88142d93622",
+            "found_at": "2026-03-30T08:04:52.063892262+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZB4/A576BOXM1AZB4/A576BXXU1AZB4",
+            "md5": "a864b82cb757cbb9a670fee6b9808417",
+            "found_at": "2026-03-30T08:04:52.064047382+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZB5/A576BOXM1AZB5/A576BXXU1AZB5",
+            "md5": "3622527babe1c41936720071b1b1b579",
+            "found_at": "2026-03-30T08:04:52.064209458+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZB7/A576BOXM1AZB7/A576BXXU1AZB7",
+            "md5": "182d52279d7521e2e18db85289a419ab",
+            "found_at": "2026-03-30T08:04:52.064521620+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZC1/A576BOXM1AZC1/A576BXXU1AZC1",
+            "md5": "fb3ef679a16b384b06fe170309bbe833",
+            "found_at": "2026-03-30T08:04:52.070129210+00:00"
+          },
+          {
+            "firmware": "A576BXXU1AZC2/A576BOXM1AZC2/A576BXXU1AZC2",
+            "md5": "18406a3e682555e3f56cdf53b8e84d5c",
+            "found_at": "2026-03-30T08:04:52.070409376+00:00"
           }
         ]
       }
@@ -13109,6 +13299,11 @@
             "firmware": "F766USQS8AZC7/F766UOYN8AZC7/F766USQS8AZC7",
             "md5": "a45ca3581c27e7ee6d01689185730fa1",
             "found_at": "2026-03-24T02:11:07.593677082+00:00"
+          },
+          {
+            "firmware": "F766USQS9AZC8/F766UOYN9AZC8/F766USQS9AZC8",
+            "md5": "cca3cdee6d3d1bb773d43f570df31879",
+            "found_at": "2026-03-30T08:03:26.178185755+00:00"
           }
         ]
       }
@@ -19263,7 +19458,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G766U1UES6BZB4/G766U1OYM6BZB4/G766U1UES6BZB4",
+        "latest_official": "G766U1UES6BZC1/G766U1OYM6BZC1/G766U1UES6BZC1",
         "test_firmwares": [
           {
             "firmware": "G766U1UES3AYI1/G766U1OYM3AYI1/G766U1UES3AYI1",
@@ -19389,6 +19584,11 @@
             "firmware": "G766U1UEU6CZC4/G766U1OYM6CZC4/G766U1UEU6CZC4",
             "md5": "89c45e1663be324c627b8c291d5674e3",
             "found_at": "2026-03-20T13:09:03.012690369+00:00"
+          },
+          {
+            "firmware": "G766U1UEU6CZC5/G766U1OYM6CZC5/G766U1UEU6CZC5",
+            "md5": "2583ae207d430645425815dd0eb700ee",
+            "found_at": "2026-03-30T08:01:53.723309558+00:00"
           }
         ]
       }
@@ -28824,6 +29024,11 @@
             "firmware": "S911NKSS7EZCH/S911NOKR7EZCH/S911NKSS7EZC2",
             "md5": "b54c1f9ea4891cb4d0f3c4238e2dd298",
             "found_at": "2026-03-27T13:13:51.368127241+00:00"
+          },
+          {
+            "firmware": "S911NKSS7EZCI/S911NOKR7EZCI/S911NKSS7EZCI",
+            "md5": "2ee12bc121e5622849f6d4b13a6e6895",
+            "found_at": "2026-03-30T08:00:26.873886986+00:00"
           }
         ]
       }

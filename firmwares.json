@@ -2824,6 +2824,11 @@
             "firmware": "A175FXXS5BZC8/A175FOXM5BZC8/A175FXXS5BZC8",
             "md5": "c30d0572cce5c59c5c1a8f24f93c1a87",
             "found_at": "2026-03-30T09:16:48.735941801+00:00"
+          },
+          {
+            "firmware": "A175FXXS5BZC9/A175FOXM5BZC9/A175FXXS5BZC9",
+            "md5": "85848c30739ecf9c98f326e278527d9c",
+            "found_at": "2026-03-31T05:48:05.727276467+00:00"
           }
         ]
       }
@@ -11464,6 +11469,11 @@
             "firmware": "F741USQS3CZC4/F741UOYN3CZC4/F741USQS3CZC4",
             "md5": "dab5fbf5bf14ccab638ebea3069141c3",
             "found_at": "2026-03-27T02:33:36.128662066+00:00"
+          },
+          {
+            "firmware": "F741USQS3CZC5/F741UOYN3CZC5/F741USQS3CZC5",
+            "md5": "d3aee2a0b76b0768cd4802a9d621dad8",
+            "found_at": "2026-03-31T05:54:01.390555241+00:00"
           }
         ]
       }
@@ -16573,7 +16583,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F956USQS3CZB6/F956UOYN3CZB6/F956USQS3CZB6",
+        "latest_official": "F956USQS3CZC1/F956UOYN3CZC1/F956USQS3CZC1",
         "test_firmwares": [
           {
             "firmware": "F956USQS2CYIA/F956UOYN2CYIA/F956USQS2CYIA",
@@ -16929,6 +16939,11 @@
             "firmware": "F956USQU3DZCB/F956UOYN3DZCB/F956USQU3DZCB",
             "md5": "df23e9ed3a6b7d41d44b9dfa60c3fcd0",
             "found_at": "2026-03-19T05:33:37.055942477+00:00"
+          },
+          {
+            "firmware": "F956USQS3CZC5/F956UOYN3CZC5/F956USQS3CZC5",
+            "md5": "14e76bbff7b9ad7e7b2525d005d9bf8e",
+            "found_at": "2026-03-31T05:55:25.463059575+00:00"
           }
         ]
       }

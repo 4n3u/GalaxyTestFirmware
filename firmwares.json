@@ -9133,7 +9133,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F721USQS9IZB6/F721UOYN9IZB6/F721USQS9IZB6",
+        "latest_official": "F721USQS9IZC1/F721UOYN9IZC1/F721USQS9IZC1",
         "test_firmwares": [
           {
             "firmware": "F721USQS8IYK1/F721UOYN8IYK1/F721USQS8IYK1",
@@ -9349,6 +9349,11 @@
             "firmware": "F721USQU9JZCB/F721UOYN9JZCB/F721USQU9JZCB",
             "md5": "2e908e8b9cb9f0b18aa2a281029da3c5",
             "found_at": "2026-03-19T13:15:48.394564623+00:00"
+          },
+          {
+            "firmware": "F721USQU9JZCF/F721UOYN9JZCF/F721USQU9JZCF",
+            "md5": "0f2df259b9297fb9b5eca3ee1858bdb6",
+            "found_at": "2026-03-31T07:22:52.098721678+00:00"
           }
         ]
       }
@@ -11483,7 +11488,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F741U1UES3CZB6/F741U1OYM3CZB6/F741U1UES3CZB6",
+        "latest_official": "F741U1UES3CZC1/F741U1OYM3CZC1/F741U1UES3CZC1",
         "test_firmwares": [
           {
             "firmware": "F741U1UES2CYIB/F741U1OYM2CYIB/F741U1UES2CYIB",
@@ -11689,6 +11694,11 @@
             "firmware": "F741U1UEU3ZZCB/F741U1OYM3ZZCB/F741U1UEU3DZCB",
             "md5": "6700ad0e16a1e391be7e5fd7517e1f61",
             "found_at": "2026-03-19T08:54:23.745799504+00:00"
+          },
+          {
+            "firmware": "F741U1UES3CZC5/F741U1OYM3CZC5/F741U1UES3CZC5",
+            "md5": "2772774d01d690af5006c14cbbd0d21c",
+            "found_at": "2026-03-31T07:23:16.929228941+00:00"
           }
         ]
       }
@@ -14078,7 +14088,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F936BXXSBIZB6/F936BOXMBIZB6/F936BXXSBIZB6",
+        "latest_official": "F936BXXSBIZC1/F936BOXMBIZB6/F936BXXSBIZC1",
         "test_firmwares": [
           {
             "firmware": "F936BXXUAIYG3/F936BOXMAIYG3/F936BXXUAIYG3",
@@ -14264,6 +14274,11 @@
             "firmware": "F936BXXUBJZCB/F936BOXMBJZCB/F936BXXUBJZCB",
             "md5": "db28a0afc440fa1ca7cc1e8891f16cac",
             "found_at": "2026-03-19T17:07:12.402767752+00:00"
+          },
+          {
+            "firmware": "F936BXXUBJZCF/F936BOXMBJZCF/F936BXXUBJZCF",
+            "md5": "f02dbb71af8c79e43a115c0ceb3eaff9",
+            "found_at": "2026-03-31T07:24:12.616616972+00:00"
           }
         ]
       }
@@ -14538,7 +14553,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F936USQS9IZB6/F936UOYN9IZB6/F936USQS9IZB6",
+        "latest_official": "F936USQS9IZC1/F936UOYN9IZC1/F936USQS9IZC1",
         "test_firmwares": [
           {
             "firmware": "F936USQS8IYK1/F936UOYN8IYK1/F936USQS8IYK1",
@@ -14754,6 +14769,11 @@
             "firmware": "F936USQU9JZCB/F936UOYN9JZCB/F936USQU9JZCB",
             "md5": "f0b5df319708b358f8390b769c535ccc",
             "found_at": "2026-03-19T13:17:27.605693138+00:00"
+          },
+          {
+            "firmware": "F936USQU9JZCF/F936UOYN9JZCF/F936USQU9JZCF",
+            "md5": "27c8b2b3d2e2957edda38f9bc208ceb4",
+            "found_at": "2026-03-31T07:24:17.662563779+00:00"
           }
         ]
       }

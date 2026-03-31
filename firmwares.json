@@ -6543,7 +6543,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A536U1UESKGZB6/A536U1OYMKGZB6/A536U1UESKGZB6",
+        "latest_official": "A536U1UESKGZC1/A536U1OYMKGZC1/A536U1UESKGZC1",
         "test_firmwares": [
           {
             "firmware": "A536U1UESHFYI1/A536U1OYMHFYI1/A536U1UESHFYI1",
@@ -6649,6 +6649,11 @@
             "firmware": "A536U1UEUKHZC5/A536U1OYMKHZC5/A536U1UEUKHZC5",
             "md5": "9b9e16ffccbee261efd7ea3fc1c06ebf",
             "found_at": "2026-03-17T15:07:00.188290818+00:00"
+          },
+          {
+            "firmware": "A536U1UEUKHZC7/A536U1OYMKHZC7/A536U1UEUKHZC7",
+            "md5": "47e405f1d987281acce3f4ee920948c3",
+            "found_at": "2026-03-31T15:09:26.877771739+00:00"
           }
         ]
       }
@@ -12554,6 +12559,11 @@
             "firmware": "F761U1UES9AZC8/F761U1OYM9AZC8/F761U1UES9AZC8",
             "md5": "461474c643cb20fafa49ed4880287ea4",
             "found_at": "2026-03-30T11:19:04.563724292+00:00"
+          },
+          {
+            "firmware": "F761U1UES9AZC9/F761U1OYM9AZC9/F761U1UES9AZC9",
+            "md5": "12629706d5e61fe1f37ec5bb1fdd6602",
+            "found_at": "2026-03-31T15:14:04.095201522+00:00"
           }
         ]
       }
@@ -13434,6 +13444,11 @@
             "firmware": "F766USQS9AZC8/F766UOYN9AZC8/F766USQS9AZC8",
             "md5": "cca3cdee6d3d1bb773d43f570df31879",
             "found_at": "2026-03-30T08:03:26.178185755+00:00"
+          },
+          {
+            "firmware": "F766USQS9AZC9/F766UOYN9AZC9/F766USQS9AZC9",
+            "md5": "7e566ff076694ff1a04f651314499071",
+            "found_at": "2026-03-31T15:13:57.775684171+00:00"
           }
         ]
       }

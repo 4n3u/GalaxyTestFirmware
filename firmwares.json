@@ -1849,6 +1849,11 @@
             "firmware": "A165FXXS9CZC8/A165FOXM9CZC8/A165FXXS9CZC4",
             "md5": "dc67a147487b05e9b4c5b3abbbc9b07f",
             "found_at": "2026-03-30T07:57:37.266880447+00:00"
+          },
+          {
+            "firmware": "A165FXXS9CZCA/A165FOXM9CZCA/A165FXXS9CZC4",
+            "md5": "4a1bdc3815e7f14dc835e180a3d053e4",
+            "found_at": "2026-03-31T13:22:43.462806430+00:00"
           }
         ]
       }
@@ -1994,6 +1999,11 @@
             "firmware": "A165NKSU7DZC7/A165NOKR7DZC7/A165NKSU7DZC7",
             "md5": "ae22f5a8b2e378adb6c0bbd2bde69ea5",
             "found_at": "2026-03-26T13:19:00.892229075+00:00"
+          },
+          {
+            "firmware": "A165NKSS7CZC8/A165NOKR7CZC8/A165NKSS7CZC8",
+            "md5": "456594ce347c3548b72274b7a7bfcb76",
+            "found_at": "2026-03-31T13:22:47.583507849+00:00"
           }
         ]
       }
@@ -13604,6 +13614,11 @@
             "firmware": "F766U1UES9AZC8/F766U1OYM9AZC8/F766U1UES9AZC8",
             "md5": "276f1fc18b65dd826e1fd97e3cb06de4",
             "found_at": "2026-03-30T11:18:50.688109385+00:00"
+          },
+          {
+            "firmware": "F766U1UES9AZC9/F766U1OYM9AZC9/F766U1UES9AZC9",
+            "md5": "69db5e0aaeac887ff11e213023b4a811",
+            "found_at": "2026-03-31T13:30:24.858543350+00:00"
           }
         ]
       }
@@ -23348,7 +23363,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S721BXXSACZB2/S721BOXMACZB2/S721BXXSACZB2",
+        "latest_official": "S721BXXSACZC1/S721BOXMACZC1/S721BXXSACZC1",
         "test_firmwares": [
           {
             "firmware": "S721BXXS8CYJ1/S721BOXM8CYJ1/S721BXXS8CYJ1",
@@ -23534,6 +23549,11 @@
             "firmware": "S721BXXUAZZCF/S721BOXMAZZCF/S721BXXUADZCF",
             "md5": "d52912cbb6b385367bf72cc144bd68f0",
             "found_at": "2026-03-25T22:42:39.626112283+00:00"
+          },
+          {
+            "firmware": "S721BXXSBCZC5/S721BOXMBCZC5/S721BXXSBCZC5",
+            "md5": "67b3ff3f993b1ebf07917869006b49dc",
+            "found_at": "2026-03-31T13:20:04.946161341+00:00"
           }
         ]
       }
@@ -24849,6 +24869,11 @@
             "firmware": "S731USQS6AZBG/S731UOYN6AZBG/S731USQS6AZBG",
             "md5": "7efc54344b3fc727a306e62153b033d6",
             "found_at": "2026-03-26T02:31:52.341348173+00:00"
+          },
+          {
+            "firmware": "S731USQS6AZBH/S731UOYN6AZBH/S731USQS6AZBH",
+            "md5": "213675f8256eb766ba62c7de569c64c0",
+            "found_at": "2026-03-31T13:21:22.118314804+00:00"
           }
         ]
       }

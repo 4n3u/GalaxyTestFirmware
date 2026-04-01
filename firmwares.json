@@ -6763,7 +6763,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A546BXXSIEZB7/A546BOXMIEZB7/A546BXXSIEZB1",
+        "latest_official": "A546BXXSIEZC3/A546BOXMIEZC3/A546BXXSIEZC3",
         "test_firmwares": [
           {
             "firmware": "A546BXXSGEYJ1/A546BOXMGEYJ1/A546BXXSGEYJ1",
@@ -6929,6 +6929,11 @@
             "firmware": "A546BXXUIFZC9/A546BOXMIFZC9/A546BXXUIFZC9",
             "md5": "484b3eac340497e3418ccf23b01ae10d",
             "found_at": "2026-03-26T13:26:08.082067938+00:00"
+          },
+          {
+            "firmware": "A546BXXSJEZD1/A546BOXMJEZD1/A546BXXSJEZD1",
+            "md5": "d7f54822fbbea2d0a409152874930d6e",
+            "found_at": "2026-04-01T13:34:51.750655238+00:00"
           }
         ]
       }
@@ -19584,6 +19589,11 @@
             "firmware": "G766BXXU6CZC5/G766BOXM6CZC5/G766BXXU6CZC5",
             "md5": "a51f34f7efa975325832436ac18aa89a",
             "found_at": "2026-03-26T15:06:01.669443902+00:00"
+          },
+          {
+            "firmware": "G766BXXS7BZD1/G766BOXM7BZD1/G766BXXS7BZD1",
+            "md5": "4979eebd96a4b20e20ec010d4de64b0c",
+            "found_at": "2026-04-01T13:23:45.242457802+00:00"
           }
         ]
       }

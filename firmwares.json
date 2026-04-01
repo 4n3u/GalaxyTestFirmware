@@ -7713,7 +7713,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A566U1UES6BZB7/A566U1OYM6BZB7/A566U1UES6BZB7",
+        "latest_official": "A566U1UES6BZC4/A566U1OYM6BZC4/A566U1UES6BZC4",
         "test_firmwares": [
           {
             "firmware": "A566U1UES3BYJ1/A566U1OYM3BYJ1/A566U1UES3BYJ1",
@@ -7884,6 +7884,11 @@
             "firmware": "A566U1UEU6CZCF/A566U1OYM6CZCF/A566U1UEU6CZCF",
             "md5": "91cabea3c626ac47db662a66b5ed7718",
             "found_at": "2026-03-25T17:11:11.478206851+00:00"
+          },
+          {
+            "firmware": "A566U1UES7BZD1/A566U1OYM7BZD1/A566U1UES7BZD1",
+            "md5": "f9f681931ab029a6c1b9c1c3d102d565",
+            "found_at": "2026-04-01T11:05:45.205818349+00:00"
           }
         ]
       }
@@ -9394,6 +9399,11 @@
             "firmware": "F721USQU9JZCF/F721UOYN9JZCF/F721USQU9JZCF",
             "md5": "0f2df259b9297fb9b5eca3ee1858bdb6",
             "found_at": "2026-03-31T07:22:52.098721678+00:00"
+          },
+          {
+            "firmware": "F721USQS9IZD1/F721UOYN9IZD1/F721USQS9IZD1",
+            "md5": "715e38183659debad1c2abd5b6eae498",
+            "found_at": "2026-04-01T11:10:17.420632894+00:00"
           }
         ]
       }
@@ -14849,6 +14859,11 @@
             "firmware": "F936USQU9JZCF/F936UOYN9JZCF/F936USQU9JZCF",
             "md5": "27c8b2b3d2e2957edda38f9bc208ceb4",
             "found_at": "2026-03-31T07:24:17.662563779+00:00"
+          },
+          {
+            "firmware": "F936USQS9IZD1/F936UOYN9IZD1/F936USQS9IZD1",
+            "md5": "00cc214f784654fd5dc604c5483a0e44",
+            "found_at": "2026-04-01T11:10:15.910849506+00:00"
           }
         ]
       }

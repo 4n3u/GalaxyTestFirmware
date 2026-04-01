@@ -8903,7 +8903,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F721NKSS7IZB2/F721NOKR7IZB2/F721NKSS7IZB1",
+        "latest_official": "F721NKSS7IZC1/F721NOKR7IZC1/F721NKSS7IZB1",
         "test_firmwares": [
           {
             "firmware": "F721NKSU6HYBG/F721NOKR6HYBG/F721NKSU6HYBG",
@@ -9159,6 +9159,11 @@
             "firmware": "F721NKSU7JZCB/F721NOKR7JZCB/F721NKSU7JZCB",
             "md5": "87406c998991dbe23fba5cd7decd6aec",
             "found_at": "2026-03-19T14:57:20.341467244+00:00"
+          },
+          {
+            "firmware": "F721NKSS7IZCS/F721NOKR7IZCS/F721NKSS7IZCS",
+            "md5": "58eab0199c2ab42f4529c3b83eff52ad",
+            "found_at": "2026-04-01T07:23:29.297222154+00:00"
           }
         ]
       }

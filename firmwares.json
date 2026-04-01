@@ -40384,6 +40384,11 @@
             "firmware": "S937USQS6BZBG/S937UOYN6BZBG/S937USQS6BZBG",
             "md5": "7dab704c49723548ebac27938ad677b4",
             "found_at": "2026-03-27T05:50:11.935866436+00:00"
+          },
+          {
+            "firmware": "S937USQS6BZBH/S937UOYN6BZBH/S937USQS6BZBH",
+            "md5": "63507e3f4a4972f842f98f14c15059b6",
+            "found_at": "2026-04-01T02:43:10.853005983+00:00"
           }
         ]
       }

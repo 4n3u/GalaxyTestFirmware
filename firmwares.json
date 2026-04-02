@@ -18849,6 +18849,11 @@
             "firmware": "F968NKSS4AZCS/F968NOKR4AZCS/F968NKSS4AZCS",
             "md5": "a0b78d37da945bbcd7d04ce4ba06046f",
             "found_at": "2026-03-28T14:44:25.274122273+00:00"
+          },
+          {
+            "firmware": "F968NKSU4ZZD1/F968NOKR4ZZD1/F968NKSU4BZD1",
+            "md5": "e3ed8aee4e95ff9fe7a31eb7d39ea520",
+            "found_at": "2026-04-02T05:53:03.194215171+00:00"
           }
         ]
       }
@@ -31813,7 +31818,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S921BXXSDCZB2/S921BOXMDCZB2/S921BXXSDCZB2",
+        "latest_official": "S921BXXUDCZC2/S921BOXMDCZC2/S921BXXUDCZC2",
         "test_firmwares": [
           {
             "firmware": "S921BXXS9CYI9/S921BOXM9CYI9/S921BXXS9CYI9",
@@ -32039,6 +32044,11 @@
             "firmware": "S921BXXUDDZCF/S921BOXMDDZCF/S921BXXUDDZCF",
             "md5": "f3b84c536768fdfe151eb232caaf2e65",
             "found_at": "2026-03-25T05:30:40.283236319+00:00"
+          },
+          {
+            "firmware": "S921BXXUDZZD1/S921BOXMDZZD1/S921BXXUDDZD1",
+            "md5": "a37510376de9ced23ae45b7c86149793",
+            "found_at": "2026-04-02T05:48:58.120376730+00:00"
           }
         ]
       }
@@ -32848,7 +32858,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S926BXXSDCZB2/S926BOXMDCZB2/S926BXXSDCZB2",
+        "latest_official": "S926BXXUDCZC2/S926BOXMDCZC2/S926BXXUDCZC2",
         "test_firmwares": [
           {
             "firmware": "S926BXXSACYJ1/S926BOXMACYJ1/S926BXXSACYJ1",
@@ -33049,6 +33059,11 @@
             "firmware": "S926BXXUDDZCF/S926BOXMDDZCF/S926BXXUDDZCF",
             "md5": "2b7c9d65e443d4773a06fb75dd9fa444",
             "found_at": "2026-03-25T05:31:16.332545611+00:00"
+          },
+          {
+            "firmware": "S926BXXUDZZD1/S926BOXMDZZD1/S926BXXUDDZD1",
+            "md5": "1961f2949fe73b8aece7b95be3d82c3e",
+            "found_at": "2026-04-02T05:49:38.406741593+00:00"
           }
         ]
       }

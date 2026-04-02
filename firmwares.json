@@ -33883,7 +33883,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S928BXXS5CZB2/S928BOXM5CZB2/S928BXXS5CZB2",
+        "latest_official": "S928BXXS5CZC1/S928BOXM5CZC1/S928BXXS5CZC1",
         "test_firmwares": [
           {
             "firmware": "S928BXXS4CYJ1/S928BOXM4CYJ1/S928BXXS4CYJ1",
@@ -34119,6 +34119,11 @@
             "firmware": "S928BXXU5DZCF/S928BOXM5DZCF/S928BXXU5DZCF",
             "md5": "ca43192d32049fccbd267b7fb99eedf8",
             "found_at": "2026-03-25T05:30:58.168203553+00:00"
+          },
+          {
+            "firmware": "S928BXXU5ZZD1/S928BOXM5ZZD1/S928BXXU5DZD1",
+            "md5": "1e9512a283f3a578eddf5db7517e7a09",
+            "found_at": "2026-04-02T07:20:57.722486505+00:00"
           }
         ]
       }

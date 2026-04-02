@@ -7213,7 +7213,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A556BXXSDCZB5/A556BOXMDCZB5/A556BXXSDCZB5",
+        "latest_official": "A556BXXSDCZC4/A556BOXMDCZC4/A556BXXSDCZC4",
         "test_firmwares": [
           {
             "firmware": "A556BXXSBCYJ1/A556BOXMBCYJ1/A556BXXSBCYJ1",
@@ -7384,6 +7384,11 @@
             "firmware": "A556BXXUDDZCF/A556BOXMDDZCF/A556BXXUDDZCF",
             "md5": "fe22f2d8b0466a8b8839f54e2536a852",
             "found_at": "2026-03-26T11:03:26.723084884+00:00"
+          },
+          {
+            "firmware": "A556BXXSECZD1/A556BOXMECZD1/A556BXXSECZD1",
+            "md5": "a4c0a6e777e2754e8315f529cd190746",
+            "found_at": "2026-04-02T19:00:30.878434576+00:00"
           }
         ]
       }
@@ -9739,6 +9744,11 @@
             "firmware": "F721U1UES9IZD1/F721U1OYM9IZD1/F721U1UES9IZD1",
             "md5": "f7faf7f6ca7515d90acc609af24e3306",
             "found_at": "2026-04-02T13:28:26.865185796+00:00"
+          },
+          {
+            "firmware": "F721U1UEU9JZD2/F721U1OYM9JZD2/F721U1UEU9JZD2",
+            "md5": "52a72277c4447097cb3dcc08273a2bf7",
+            "found_at": "2026-04-02T19:04:53.237370291+00:00"
           }
         ]
       }
@@ -10479,6 +10489,11 @@
             "firmware": "F731U1UES7FZC5/F731U1OYM7FZC5/F731U1UES7FZC5",
             "md5": "996808b46b71e349199ce1f7d2422a90",
             "found_at": "2026-04-01T06:07:14.936082772+00:00"
+          },
+          {
+            "firmware": "F731U1UEU7ZZD1/F731U1OYM7ZZD1/F731U1UEU7GZD1",
+            "md5": "207b743dbc27a657e1e064cf4879faf8",
+            "found_at": "2026-04-02T19:05:04.243765145+00:00"
           }
         ]
       }
@@ -15244,6 +15259,11 @@
             "firmware": "F936U1UES9IZD1/F936U1OYM9IZD1/F936U1UES9IZD1",
             "md5": "9851e979968febe19e0d690278af02d4",
             "found_at": "2026-04-02T13:28:28.054928556+00:00"
+          },
+          {
+            "firmware": "F936U1UEU9JZD2/F936U1OYM9JZD2/F936U1UEU9JZD2",
+            "md5": "d961383eead51a97c4d86818556ac364",
+            "found_at": "2026-04-02T19:06:09.541294002+00:00"
           }
         ]
       }
@@ -15994,6 +16014,11 @@
             "firmware": "F946U1UES7FZC5/F946U1OYM7FZC5/F946U1UES7FZC5",
             "md5": "de95b299483ab055d8a7d0854ecd8906",
             "found_at": "2026-04-01T06:07:21.918352456+00:00"
+          },
+          {
+            "firmware": "F946U1UEU7ZZD1/F946U1OYM7ZZD1/F946U1UEU7GZD1",
+            "md5": "703b67f580f9fa6a04f8b8863f0c4279",
+            "found_at": "2026-04-02T19:06:20.600967273+00:00"
           }
         ]
       }
@@ -19989,6 +20014,11 @@
             "firmware": "G766U1UEU6CZC5/G766U1OYM6CZC5/G766U1UEU6CZC5",
             "md5": "2583ae207d430645425815dd0eb700ee",
             "found_at": "2026-03-30T08:01:53.723309558+00:00"
+          },
+          {
+            "firmware": "G766U1UES7BZD1/G766U1OYM7BZD1/G766U1UES7BZD1",
+            "md5": "f3a7ee35bbb0b77a3f1d3b859c8ab245",
+            "found_at": "2026-04-02T19:03:57.564296072+00:00"
           }
         ]
       }
@@ -23113,7 +23143,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S711U1UES7EZB6/S711U1OYM7EZB6/S711U1UES7EZB6",
+        "latest_official": "S711U1UES7EZC1/S711U1OYM7EZC1/S711U1UES7EZC1",
         "test_firmwares": [
           {
             "firmware": "S711U1UES6DYE1/S711U1OYM6DYE1/S711U1UES6DYE1",
@@ -23419,6 +23449,11 @@
             "firmware": "S711U1UEU7FZCF/S711U1OYM7FZCF/S711U1UEU7FZCF",
             "md5": "ca8ff0b21bdb7449fda61d5e8ee858b0",
             "found_at": "2026-03-30T11:12:48.527545836+00:00"
+          },
+          {
+            "firmware": "S711U1UEU7FZD1/S711U1OYM7FZD1/S711U1UEU7FZD1",
+            "md5": "4eee4ce81af834adc29f85a7e4d282fd",
+            "found_at": "2026-04-02T19:02:34.898711037+00:00"
           }
         ]
       }
@@ -24169,6 +24204,11 @@
             "firmware": "S721USQSBCZD1/S721UOYNBCZD1/S721USQSBCZD1",
             "md5": "2f21b56e29eb6b9849080e0ffacb0ab4",
             "found_at": "2026-04-02T13:23:55.336681189+00:00"
+          },
+          {
+            "firmware": "S721USQSBCZD2/S721UOYNBCZD2/S721USQSBCZD2",
+            "md5": "24160a1a73e8465bb0853bb69b180507",
+            "found_at": "2026-04-02T19:03:21.009220947+00:00"
           }
         ]
       }
@@ -28618,7 +28658,7 @@
     "name": "Galaxy S23",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9110ZCS7EZB6/S9110CHC7EZB6/S9110ZCS7EZB1",
+        "latest_official": "S9110ZCS7EZC1/S9110CHC7EZC1/S9110ZCS7EZC1",
         "test_firmwares": [
           {
             "firmware": "S9110ZCU6EYG3/S9110CHC6EYG3/S9110ZCU6EYG3",
@@ -28809,6 +28849,11 @@
             "firmware": "S9110ZCU7FZCF/S9110CHC7FZCF/S9110ZCU7FZCF",
             "md5": "57301e1acac1d8946c100aa4110c9fc9",
             "found_at": "2026-03-25T08:59:00.765170264+00:00"
+          },
+          {
+            "firmware": "S9110ZCU7FZD1/S9110CHC7FZD1/S9110ZCU7FZD1",
+            "md5": "c47f6d4f57cfb8c25ebfff9b4f74337b",
+            "found_at": "2026-04-02T19:02:21.586041574+00:00"
           }
         ]
       }
@@ -29668,7 +29713,7 @@
     "name": "Galaxy S23+",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9160ZCS7EZB6/S9160CHC7EZB6/S9160ZCS7EZB1",
+        "latest_official": "S9160ZCS7EZC1/S9160CHC7EZC1/S9160ZCS7EZC1",
         "test_firmwares": [
           {
             "firmware": "S9160ZCU6EYG3/S9160CHC6EYG3/S9160ZCU6EYG3",
@@ -29859,6 +29904,11 @@
             "firmware": "S9160ZCU7FZCF/S9160CHC7FZCF/S9160ZCU7FZCF",
             "md5": "20a839ad5e773f70a1bed8d7e8d372c4",
             "found_at": "2026-03-25T07:10:36.656603106+00:00"
+          },
+          {
+            "firmware": "S9160ZCU7FZD1/S9160CHC7FZD1/S9160ZCU7FZD1",
+            "md5": "3072e2d4fb9e6a930af44b94f8772faf",
+            "found_at": "2026-04-02T19:02:53.512592044+00:00"
           }
         ]
       }
@@ -30718,7 +30768,7 @@
     "name": "Galaxy S23 Ultra",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9180ZCS7EZB6/S9180CHC7EZB6/S9180ZCS7EZB1",
+        "latest_official": "S9180ZCS7EZC1/S9180CHC7EZC1/S9180ZCS7EZC1",
         "test_firmwares": [
           {
             "firmware": "S9180ZCU6EYG3/S9180CHC6EYG3/S9180ZCU6EYG3",
@@ -30909,6 +30959,11 @@
             "firmware": "S9180ZCU7FZCF/S9180CHC7FZCF/S9180ZCU7FZCF",
             "md5": "496dd019f72db355b4be933da62a0c9e",
             "found_at": "2026-03-25T08:59:23.626346462+00:00"
+          },
+          {
+            "firmware": "S9180ZCU7FZD1/S9180CHC7FZD1/S9180ZCU7FZD1",
+            "md5": "f9b088b803c9d4b4e9a89491ff0fa3bb",
+            "found_at": "2026-04-02T19:02:42.555908513+00:00"
           }
         ]
       }
@@ -32593,7 +32648,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S921U1UES5CZB2/S921U1OYM5CZB2/S921U1UES5CZB2",
+        "latest_official": "S921U1UES5CZC1/S921U1OYM5CZC1/S921U1UES5CZC1",
         "test_firmwares": [
           {
             "firmware": "S921U1UES4CYIB/S921U1OYM4CYIB/S921U1UES4CYIB",
@@ -32799,6 +32854,11 @@
             "firmware": "S921U1UEU5DZCF/S921U1OYM5DZCF/S921U1UEU5DZCF",
             "md5": "349b0db36fe158fa97cd503826a299b7",
             "found_at": "2026-03-25T20:39:13.762763893+00:00"
+          },
+          {
+            "firmware": "S921U1UEU5ZZD1/S921U1OYM5ZZD1/S921U1UEU5DZD1",
+            "md5": "9ade7b6dad69d8dcebec188cb49a666c",
+            "found_at": "2026-04-02T19:03:08.091311390+00:00"
           }
         ]
       }
@@ -33618,7 +33678,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S926U1UES5CZB2/S926U1OYM5CZB2/S926U1UES5CZB2",
+        "latest_official": "S926U1UES5CZC1/S926U1OYM5CZC1/S926U1UES5CZC1",
         "test_firmwares": [
           {
             "firmware": "S926U1UES4CYIB/S926U1OYM4CYIB/S926U1UES4CYIB",
@@ -33824,6 +33884,11 @@
             "firmware": "S926U1UEU5DZCF/S926U1OYM5DZCF/S926U1UEU5DZCF",
             "md5": "93233222e31ffefeec64c1c375d4b72c",
             "found_at": "2026-03-25T20:39:41.753495207+00:00"
+          },
+          {
+            "firmware": "S926U1UEU5ZZD1/S926U1OYM5ZZD1/S926U1UEU5DZD1",
+            "md5": "f1dbc793a5ef48b3773f9a14fdfe4a43",
+            "found_at": "2026-04-02T19:03:41.941728985+00:00"
           }
         ]
       }
@@ -34858,7 +34923,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S928U1UES5CZB2/S928U1OYM5CZB2/S928U1UES5CZB2",
+        "latest_official": "S928U1UES5CZC1/S928U1OYM5CZC1/S928U1UES5CZC1",
         "test_firmwares": [
           {
             "firmware": "S928U1UES4CYIB/S928U1OYM4CYIB/S928U1UES4CYIB",
@@ -35064,6 +35129,11 @@
             "firmware": "S928U1UEU5DZCF/S928U1OYM5DZCF/S928U1UEU5DZCF",
             "md5": "efa7f9c1116460defd25732635bde524",
             "found_at": "2026-03-25T20:39:35.964196698+00:00"
+          },
+          {
+            "firmware": "S928U1UEU5ZZD1/S928U1OYM5ZZD1/S928U1UEU5DZD1",
+            "md5": "ca0eaad48c75cf9c6e789f77268de76c",
+            "found_at": "2026-04-02T19:03:34.565469874+00:00"
           }
         ]
       }
@@ -47698,7 +47768,7 @@
     "name": "Galaxy Tab Active5 Pro 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X358UUES6BZB5/X358UOYM6BZB5/X358UUES6BZB5",
+        "latest_official": "X358UUES6BZC2/X358UOYM6BZC2/X358UUES6BZC2",
         "test_firmwares": [
           {
             "firmware": "X358UUES3AYI1/X358UOYM3AYI1/X358UUES3AYI1",
@@ -47834,6 +47904,11 @@
             "firmware": "X358UUEU6CZC6/X358UOYM6CZC6/X358UUEU6CZC6",
             "md5": "ce75fd275a161f864a4132e91ce7ea18",
             "found_at": "2026-03-25T20:40:38.905970252+00:00"
+          },
+          {
+            "firmware": "X358UUEU7CZD1/X358UOYM7CZD1/X358UUEU7CZD1",
+            "md5": "db7109a6801e0aa373f910760143e258",
+            "found_at": "2026-04-02T19:04:41.507024157+00:00"
           }
         ]
       }

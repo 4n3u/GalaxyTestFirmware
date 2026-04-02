@@ -14904,6 +14904,11 @@
             "firmware": "F936USQS9IZD1/F936UOYN9IZD1/F936USQS9IZD1",
             "md5": "00cc214f784654fd5dc604c5483a0e44",
             "found_at": "2026-04-01T11:10:15.910849506+00:00"
+          },
+          {
+            "firmware": "F936USQU9JZD2/F936UOYN9JZD2/F936USQU9JZD2",
+            "md5": "88619f994f630b6b3ea1345e8f5464a6",
+            "found_at": "2026-04-02T15:07:51.751186071+00:00"
           }
         ]
       }

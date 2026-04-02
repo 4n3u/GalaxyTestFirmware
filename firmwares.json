@@ -11194,6 +11194,11 @@
             "firmware": "F741NKSS3CZCS/F741NOKR3CZCS/F741NKSS3CZCS",
             "md5": "625f254aa8817a9e4f05ec27aa158d6f",
             "found_at": "2026-03-28T07:09:45.754960203+00:00"
+          },
+          {
+            "firmware": "F741NKSU3ZZD1/F741NOKR3ZZD1/F741NKSU3DZD1",
+            "md5": "71a802e228ea7f7f98460d1731e6aff9",
+            "found_at": "2026-04-02T09:06:37.597642893+00:00"
           }
         ]
       }
@@ -16704,6 +16709,11 @@
             "firmware": "F956NKSS3CZCS/F956NOKR3CZCS/F956NKSS3CZCS",
             "md5": "8e98883e1645ee5c461ed5346bf6e06f",
             "found_at": "2026-03-28T07:11:24.510228108+00:00"
+          },
+          {
+            "firmware": "F956NKSU3ZZD1/F956NOKR3ZZD1/F956NKSU3DZD1",
+            "md5": "49b0d38de385e12131e68b4bd5f2c076",
+            "found_at": "2026-04-02T09:08:01.384720012+00:00"
           }
         ]
       }
@@ -17599,6 +17609,11 @@
             "firmware": "F958NKSS3CZCS/F958NOKR3CZCS/F958NKSS3CZCS",
             "md5": "01b6df67d40b14fb60d1b90377ed0496",
             "found_at": "2026-03-28T07:10:23.685832549+00:00"
+          },
+          {
+            "firmware": "F958NKSU3DZD1/F958NOKR3DZD1/F958NKSU3DZD1",
+            "md5": "95716b0ddcfc24de45d8132d44c4e8b2",
+            "found_at": "2026-04-02T09:07:09.832664732+00:00"
           }
         ]
       }

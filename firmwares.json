@@ -6253,7 +6253,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A536BXXSKGZB6/A536BOXMKGZB6/A536BXXSKGZB1",
+        "latest_official": "A536BXXSKGZC1/A536BOXMKGZC1/A536BXXSKGZC1",
         "test_firmwares": [
           {
             "firmware": "A536BXXSHFYG8/A536BOXMHFYG8/A536BXXSHFYG8",
@@ -6429,6 +6429,11 @@
             "firmware": "A536BXXUKHZC6/A536BOXMKHZC6/A536BXXUKHZC6",
             "md5": "d6dcd7768ea2e8d1df802745ecc49240",
             "found_at": "2026-03-27T13:18:15.629228878+00:00"
+          },
+          {
+            "firmware": "A536BXXSLGZD1/A536BOXMLGZD1/A536BXXSLGZD1",
+            "md5": "afed25b409c6ff466c7bea983dbbef03",
+            "found_at": "2026-04-02T11:02:16.183239430+00:00"
           }
         ]
       }
@@ -10229,6 +10234,11 @@
             "firmware": "F731NKSS6FZCS/F731NOKR6FZCS/F731NKSS6FZCS",
             "md5": "861e25e9ff31b05a2d7c91ea35984c41",
             "found_at": "2026-04-01T06:07:10.062433524+00:00"
+          },
+          {
+            "firmware": "F731NKSU6ZZD1/F731NOKR6ZZD1/F731NKSU6GZD1",
+            "md5": "c0092ab33043a905d5fe26b2e220443f",
+            "found_at": "2026-04-02T10:58:08.024063210+00:00"
           }
         ]
       }
@@ -10899,6 +10909,11 @@
             "firmware": "F741BXXU3ZZCF/F741BOXM3ZZCF/F741BXXU3DZCF",
             "md5": "71b43a672edf323a6ab9629d0ac6ef9c",
             "found_at": "2026-03-25T07:13:16.805541372+00:00"
+          },
+          {
+            "firmware": "F741BXXU3ZZD1/F741BOXM3ZZD1/F741BXXU3DZD1",
+            "md5": "d803da8c6020d5addf7f5d93a95414bc",
+            "found_at": "2026-04-02T10:58:20.588465689+00:00"
           }
         ]
       }
@@ -15709,6 +15724,11 @@
             "firmware": "F946NKSS6FZCS/F946NOKR6FZCS/F946NKSS6FZCS",
             "md5": "abf77398c6963a91c630227c52ebaa17",
             "found_at": "2026-04-01T06:07:16.850847327+00:00"
+          },
+          {
+            "firmware": "F946NKSU6ZZD1/F946NOKR6ZZD1/F946NKSU6GZD1",
+            "md5": "5de006b375e41f88c4385e978b07d2d5",
+            "found_at": "2026-04-02T10:59:38.578075441+00:00"
           }
         ]
       }
@@ -16404,6 +16424,11 @@
             "firmware": "F956BXXU3ZZCF/F956BOXM3ZZCF/F956BXXU3DZCF",
             "md5": "375b167a645fb96779fbc710a9f8d27a",
             "found_at": "2026-03-25T09:03:53.944364323+00:00"
+          },
+          {
+            "firmware": "F956BXXU3ZZD1/F956BOXM3ZZD1/F956BXXU3DZD1",
+            "md5": "dbb2dde1fe194c7b072c2b79fe25782c",
+            "found_at": "2026-04-02T10:59:49.752162701+00:00"
           }
         ]
       }
@@ -35729,6 +35754,11 @@
             "firmware": "S931BXXS9BZCH/S931BOXM9BZCH/S931BXXS9BZCH",
             "md5": "22d9b7f1a66ed1bfdd6048c4cb35f5d8",
             "found_at": "2026-03-27T13:15:41.200357896+00:00"
+          },
+          {
+            "firmware": "S931BXXU9ZZD1/S931BOXM9ZZD1/S931BXXU9CZD1",
+            "md5": "0546267b08b54a4f0dea39325a8c923b",
+            "found_at": "2026-04-02T10:53:22.996851724+00:00"
           }
         ]
       }
@@ -47564,6 +47594,11 @@
             "firmware": "X356BXXU6CZC6/X356BOXM6CZC6/X356BXXU6CZC6",
             "md5": "12057f1900010260fdffd890e8f7a026",
             "found_at": "2026-03-25T09:01:31.104271210+00:00"
+          },
+          {
+            "firmware": "X356BXXU7CZD1/X356BOXM7CZD1/X356BXXU7CZD1",
+            "md5": "bd60a049aa220f94b01ba9d3a2e4f276",
+            "found_at": "2026-04-02T10:54:17.081163779+00:00"
           }
         ]
       }

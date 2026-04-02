@@ -23774,6 +23774,11 @@
             "firmware": "S721BXXSBCZC5/S721BOXMBCZC5/S721BXXSBCZC5",
             "md5": "67b3ff3f993b1ebf07917869006b49dc",
             "found_at": "2026-03-31T13:20:04.946161341+00:00"
+          },
+          {
+            "firmware": "S721BXXUBZZD1/S721BOXMBZZD1/S721BXXUBDZD1",
+            "md5": "7fcdb2e27536b0b1ac6163b052a307d5",
+            "found_at": "2026-04-02T20:41:45.498034485+00:00"
           }
         ]
       }

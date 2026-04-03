@@ -5453,7 +5453,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A366BXXS8BZB6/A366BOXM8BZB6/A366BXXS8BZB6",
+        "latest_official": "A366BXXS8BZC2/A366BOXM8BZC2/A366BXXS8BZC2",
         "test_firmwares": [
           {
             "firmware": "A366BXXU4BYG1/A366BOXM4BYG1/A366BXXU4BYG1",
@@ -5624,6 +5624,11 @@
             "firmware": "A366BXXU8CZC8/A366BOXM8CZC8/A366BXXU8CZC8",
             "md5": "d1c3e015c20ebe257d3b12413f48ae81",
             "found_at": "2026-03-26T10:59:52.935415049+00:00"
+          },
+          {
+            "firmware": "A366BXXU8CZD1/A366BOXM8CZD1/A366BXXU8CZD1",
+            "md5": "185063e7d5953a1d25a8644533d6ca24",
+            "found_at": "2026-04-03T07:16:24.690504006+00:00"
           }
         ]
       }
@@ -6443,7 +6448,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A536USQSKGZB6/A536UOYNKGZB6/A536USQSKGZB6",
+        "latest_official": "A536USQSKGZC1/A536UOYNKGZC1/A536USQSKGZC1",
         "test_firmwares": [
           {
             "firmware": "A536USQSIGYK1/A536UOYNIGYK1/A536USQSIGYK1",
@@ -6539,6 +6544,11 @@
             "firmware": "A536USQUKHZC6/A536UOYNKHZC6/A536USQUKHZC6",
             "md5": "8de10cfad71cc9424f05d9c319bd6cf1",
             "found_at": "2026-03-30T13:32:30.329493134+00:00"
+          },
+          {
+            "firmware": "A536USQSLGZD1/A536UOYNLGZD1/A536USQSLGZD1",
+            "md5": "dcf227513b893731b6ea37c2625d4c0b",
+            "found_at": "2026-04-03T07:19:37.758358068+00:00"
           }
         ]
       }

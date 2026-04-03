@@ -5328,7 +5328,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3660ZHS6BZB6/A3660OZS6BZB6/A3660ZHS6BZB3",
+        "latest_official": "A3660ZHS6BZC2/A3660OZS6BZC2/A3660ZHS6BZC2",
         "test_firmwares": [
           {
             "firmware": "A3660ZHU3BYG2/A3660OZS3BYG2/A3660ZHU3BYG2",
@@ -5444,6 +5444,11 @@
             "firmware": "A3660ZHU6CZC6/A3660OZS6CZC6/A3660ZHU6CZC6",
             "md5": "e52c78d2ea82bbca9cfdae1f5ddc8af6",
             "found_at": "2026-03-19T22:35:33.702881767+00:00"
+          },
+          {
+            "firmware": "A3660ZHU6CZD1/A3660OZS6CZD1/A3660ZHU6CZD1",
+            "md5": "70cf43a9840d5fd4f4bd9f683a575d20",
+            "found_at": "2026-04-03T09:02:41.101165129+00:00"
           }
         ]
       }
@@ -6949,6 +6954,11 @@
             "firmware": "A546BXXSJEZD1/A546BOXMJEZD1/A546BXXSJEZD1",
             "md5": "d7f54822fbbea2d0a409152874930d6e",
             "found_at": "2026-04-01T13:34:51.750655238+00:00"
+          },
+          {
+            "firmware": "A546BXXUJFZD3/A546BOXMJFZD3/A546BXXUJFZD3",
+            "md5": "28fa73ab40324b2e57a699bad599df5f",
+            "found_at": "2026-04-03T09:06:28.725794760+00:00"
           }
         ]
       }
@@ -7399,6 +7409,11 @@
             "firmware": "A556BXXSECZD1/A556BOXMECZD1/A556BXXSECZD1",
             "md5": "a4c0a6e777e2754e8315f529cd190746",
             "found_at": "2026-04-02T19:00:30.878434576+00:00"
+          },
+          {
+            "firmware": "A556BXXUEDZD3/A556BOXMEDZD3/A556BXXUEDZD3",
+            "md5": "f110b32ef6e06ffe291edf579de279da",
+            "found_at": "2026-04-03T09:06:43.743466455+00:00"
           }
         ]
       }
@@ -12269,6 +12284,11 @@
             "firmware": "F761BXXS9AZC8/F761BOXM9AZC8/F761BXXS9AZC8",
             "md5": "97038d3323fa748931ad8b4b3df94420",
             "found_at": "2026-03-30T11:18:59.158499262+00:00"
+          },
+          {
+            "firmware": "F761BXXU9ZZD1/F761BOXM9ZZD1/F761BXXU9BZD1",
+            "md5": "34dc0dd34e5c3462259bec78d8c75f63",
+            "found_at": "2026-04-03T09:05:34.275468029+00:00"
           }
         ]
       }
@@ -13084,6 +13104,11 @@
             "firmware": "F766BXXS9AZC8/F766BOXM9AZC8/F766BXXS9AZC8",
             "md5": "93fa0c8891d57e3dd7659c7ac8f0d607",
             "found_at": "2026-03-30T11:18:42.498374267+00:00"
+          },
+          {
+            "firmware": "F766BXXU9ZZD1/F766BOXM9ZZD1/F766BXXU9BZD1",
+            "md5": "3908871003a2dc80ccc1c7e436bae3dd",
+            "found_at": "2026-04-03T09:05:15.757607285+00:00"
           }
         ]
       }
@@ -18144,6 +18169,11 @@
             "firmware": "F966BXXS9AZC8/F966BOXM9AZC8/F966BXXS9AZC8",
             "md5": "ed25cfd22713c52fce7b5a8000a3d465",
             "found_at": "2026-03-30T09:18:03.504099800+00:00"
+          },
+          {
+            "firmware": "F966BXXU9ZZD1/F966BOXM9ZZD1/F966BXXU9BZD1",
+            "md5": "c846e871528e6430d76369390b823f6b",
+            "found_at": "2026-04-03T09:06:51.727477333+00:00"
           }
         ]
       }
@@ -19048,7 +19078,7 @@
     "name": "Galaxy XCover7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G556BXXSEDZB3/G556BOXMEDZB3/G556BXXSEDZB2",
+        "latest_official": "G556BXXSEDZC2/G556BOXMEDZC2/G556BXXSEDZC2",
         "test_firmwares": [
           {
             "firmware": "G556BXXSBDYJ1/G556BOXMBDYJ1/G556BXXSBDYJ1",
@@ -19209,6 +19239,11 @@
             "firmware": "G556BXXUEEZCF/G556BOXMEEZCF/G556BXXUEEZCF",
             "md5": "91a1b7eabeed76cea1d4155fe53907a4",
             "found_at": "2026-03-27T05:43:44.312237981+00:00"
+          },
+          {
+            "firmware": "G556BXXSFDZD1/G556BOXMFDZD1/G556BXXSFDZD1",
+            "md5": "a61ce380cc95394d14dced44a03f3095",
+            "found_at": "2026-04-03T09:03:20.979172688+00:00"
           }
         ]
       }
@@ -30779,6 +30814,11 @@
             "firmware": "S916U1UEU7FZCF/S916U1OYM7FZCF/S916U1UEU7FZCF",
             "md5": "45e0ab746f31e80f051e45ddf2eaa8fa",
             "found_at": "2026-03-25T20:39:05.693699459+00:00"
+          },
+          {
+            "firmware": "S916U1UES7EZCI/S916U1OYM7EZCI/S916U1UES7EZCI",
+            "md5": "ec1e1a01f544d26c7ee5a7c26228688e",
+            "found_at": "2026-04-03T09:02:29.823292916+00:00"
           }
         ]
       }
@@ -31829,6 +31869,11 @@
             "firmware": "S918U1UEU7FZCF/S918U1OYM7FZCF/S918U1UEU7FZCF",
             "md5": "f1e3fdab5754f535ab8c92c4eab14970",
             "found_at": "2026-03-25T20:38:57.624267485+00:00"
+          },
+          {
+            "firmware": "S918U1UES7EZCI/S918U1OYM7EZCI/S918U1UES7EZCI",
+            "md5": "b2493147792b8b4470df2625d4811440",
+            "found_at": "2026-04-03T09:02:17.287328995+00:00"
           }
         ]
       }
@@ -32879,6 +32924,11 @@
             "firmware": "S921U1UEU5ZZD1/S921U1OYM5ZZD1/S921U1UEU5DZD1",
             "md5": "9ade7b6dad69d8dcebec188cb49a666c",
             "found_at": "2026-04-02T19:03:08.091311390+00:00"
+          },
+          {
+            "firmware": "S921U1UES5CZD2/S921U1OYM5CZD2/S921U1UES5CZD2",
+            "md5": "093b77c50fb7f2ceafa18be5f3ac3fe7",
+            "found_at": "2026-04-03T09:02:41.855903205+00:00"
           }
         ]
       }
@@ -33909,6 +33959,11 @@
             "firmware": "S926U1UEU5ZZD1/S926U1OYM5ZZD1/S926U1UEU5DZD1",
             "md5": "f1dbc793a5ef48b3773f9a14fdfe4a43",
             "found_at": "2026-04-02T19:03:41.941728985+00:00"
+          },
+          {
+            "firmware": "S926U1UES5CZD2/S926U1OYM5CZD2/S926U1UES5CZD2",
+            "md5": "61e4fc890446a457585138e46eda0597",
+            "found_at": "2026-04-03T09:03:26.668646897+00:00"
           }
         ]
       }
@@ -35154,6 +35209,11 @@
             "firmware": "S928U1UEU5ZZD1/S928U1OYM5ZZD1/S928U1UEU5DZD1",
             "md5": "ca0eaad48c75cf9c6e789f77268de76c",
             "found_at": "2026-04-02T19:03:34.565469874+00:00"
+          },
+          {
+            "firmware": "S928U1UES5CZD2/S928U1OYM5CZD2/S928U1UES5CZD2",
+            "md5": "8076046ebaf456dfa5849882d2b9daaf",
+            "found_at": "2026-04-03T09:03:16.667661719+00:00"
           }
         ]
       }

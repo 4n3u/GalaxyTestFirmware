@@ -24464,6 +24464,11 @@
             "firmware": "S721U1UESBCZD1/S721U1OYMBCZD1/S721U1UESBCZD1",
             "md5": "d7a09a0686df79fc67266852d92a132a",
             "found_at": "2026-04-02T17:02:45.569905533+00:00"
+          },
+          {
+            "firmware": "S721U1UEUBDZD1/S721U1OYMBDZD1/S721U1UEUBDZD1",
+            "md5": "9eb6799f73747b2f57f348501981a88f",
+            "found_at": "2026-04-03T14:50:51.620304850+00:00"
           }
         ]
       }

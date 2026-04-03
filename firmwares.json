@@ -5804,6 +5804,11 @@
             "firmware": "A366USQU6CZC8/A366UOYN6CZC8/A366USQU6CZC8",
             "md5": "29dca52b5079b26adcb6bddf9e8300b2",
             "found_at": "2026-03-26T13:23:02.155912608+00:00"
+          },
+          {
+            "firmware": "A366USQU6CZD1/A366UOYN6CZD1/A366USQU6CZD1",
+            "md5": "9c0991c724610698d77bff4a2e243688",
+            "found_at": "2026-04-03T10:50:20.067926877+00:00"
           }
         ]
       }
@@ -7109,6 +7114,11 @@
             "firmware": "A546U1UESJEZD1/A546U1OYMJEZD1/A546U1UESJEZD1",
             "md5": "33d892d6e6411dd798ce48af28f9d43e",
             "found_at": "2026-04-02T13:19:26.573627988+00:00"
+          },
+          {
+            "firmware": "A546U1UEUJFZD3/A546U1OYMJFZD3/A546U1UEUJFZD3",
+            "md5": "06546fe46b615f1a34274c7ed6ac484d",
+            "found_at": "2026-04-03T10:53:39.894636842+00:00"
           }
         ]
       }
@@ -7118,7 +7128,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5560ZCSDCZB5/A5560CHCDCZB5/A5560ZCSDCZB1",
+        "latest_official": "A5560ZCSDCZC4/A5560CHCDCZC4/A5560ZCSDCZC4",
         "test_firmwares": [
           {
             "firmware": "A5560ZCSBCYJ1/A5560CHCBCYJ1/A5560ZCSBCYJ1",
@@ -7224,6 +7234,11 @@
             "firmware": "A5560ZCUDDZCB/A5560CHCDDZCB/A5560ZCUDDZCB",
             "md5": "b1052d71eb1016472d3df5e5a8260ec3",
             "found_at": "2026-03-19T20:45:58.611290728+00:00"
+          },
+          {
+            "firmware": "A5560ZCUEDZD3/A5560CHCEDZD3/A5560ZCUEDZD3",
+            "md5": "d146184c1d2d4e494db24b7b5ceb6b5e",
+            "found_at": "2026-04-03T10:53:46.035292124+00:00"
           }
         ]
       }
@@ -19244,6 +19259,11 @@
             "firmware": "G556BXXSFDZD1/G556BOXMFDZD1/G556BXXSFDZD1",
             "md5": "a61ce380cc95394d14dced44a03f3095",
             "found_at": "2026-04-03T09:03:20.979172688+00:00"
+          },
+          {
+            "firmware": "G556BXXUFEZD1/G556BOXMFEZD1/G556BXXUFEZD1",
+            "md5": "9855c223f795058f9db9f43605cc6a72",
+            "found_at": "2026-04-03T10:50:38.718868966+00:00"
           }
         ]
       }
@@ -29759,6 +29779,11 @@
             "firmware": "S911U1UEU7FZCF/S911U1OYM7FZCF/S911U1UEU7FZCF",
             "md5": "e27459cdfedb1a14ff80af85e3cd6ebe",
             "found_at": "2026-03-25T20:38:40.226589644+00:00"
+          },
+          {
+            "firmware": "S911U1UES7EZCI/S911U1OYM7EZCI/S911U1UES7EZCI",
+            "md5": "1f9a639a26b074d5640d531dd0e89371",
+            "found_at": "2026-04-03T10:49:18.382597840+00:00"
           }
         ]
       }

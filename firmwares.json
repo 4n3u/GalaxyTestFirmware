@@ -22428,7 +22428,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S7110ZCS7FZB6/S7110CHC7FZB6/S7110ZCS7FZB4",
+        "latest_official": "S7110ZCS7FZC1/S7110CHC7FZC1/S7110ZCS7FZC1",
         "test_firmwares": [
           {
             "firmware": "S7110ZCS6EYE2/S7110CHC6EYE2/S7110ZCS6EYE2",
@@ -22639,6 +22639,11 @@
             "firmware": "S7110ZCU7GZCF/S7110CHC7GZCF/S7110ZCU7GZCF",
             "md5": "f824c733bd1c84f24f35e00e3398cf2f",
             "found_at": "2026-03-30T13:27:37.558406891+00:00"
+          },
+          {
+            "firmware": "S7110ZCU7GZD1/S7110CHC7GZD1/S7110ZCU7GZD1",
+            "md5": "01e766a06100173a8ab23f380cc81b54",
+            "found_at": "2026-04-03T05:48:50.971074285+00:00"
           }
         ]
       }

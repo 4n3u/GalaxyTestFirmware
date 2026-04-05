@@ -8149,6 +8149,91 @@
       }
     }
   },
+  "SM-A576U1": {
+    "name": "Galaxy A57 5G",
+    "regional_firmwares": {
+      "XAA": {
+        "latest_official": "A576U1UEU1AZC1/A576U1OYM1AZC1/A576U1UEU1AZC1",
+        "test_firmwares": [
+          {
+            "firmware": "A576U1UEU1AZA3/A576U1OYM1AZA3/A576U1UEU1AZA3",
+            "md5": "8158dba66374756178c19d59b386fc96",
+            "found_at": "2026-04-05T16:43:54.483607564+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZA4/A576U1OYM1AZA4/A576U1UEU1AZA4",
+            "md5": "10646af3de46f09553678d402ac22b0f",
+            "found_at": "2026-04-05T16:43:54.483828219+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZA5/A576U1OYM1AZA5/A576U1UEU1AZA5",
+            "md5": "0e04fb3a067ef689af86b511f30af329",
+            "found_at": "2026-04-05T16:43:54.483979146+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZA6/A576U1OYM1AZA6/A576U1UEU1AZA6",
+            "md5": "0713570f2b0fe72f6c22fbe7d4f9049b",
+            "found_at": "2026-04-05T16:43:54.484003955+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZA9/A576U1OYM1AZA9/A576U1UEU1AZA9",
+            "md5": "de46282c3b649a6f2fe9eb0bbe72fe61",
+            "found_at": "2026-04-05T16:43:54.488963842+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZAA/A576U1OYM1AZAA/A576U1UEU1AZAA",
+            "md5": "9c8be0325ef58bac05b2ddc79fdef7c5",
+            "found_at": "2026-04-05T16:43:54.489092551+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZB1/A576U1OYM1AZB1/A576U1UEU1AZB1",
+            "md5": "faa804c3662aecf6007c5cdab4daca60",
+            "found_at": "2026-04-05T16:43:54.495854496+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZB2/A576U1OYM1AZB2/A576U1UEU1AZB2",
+            "md5": "ac9786816665ce5d021f669d6744ff85",
+            "found_at": "2026-04-05T16:43:54.496491266+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZB3/A576U1OYM1AZB3/A576U1UEU1AZB3",
+            "md5": "3f9558ca9e2a04085cc40660bb3e88be",
+            "found_at": "2026-04-05T16:43:54.497142348+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZB4/A576U1OYM1AZB4/A576U1UEU1AZB4",
+            "md5": "1ae1d0c62909e802892f120593a2fb73",
+            "found_at": "2026-04-05T16:43:54.498264776+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZB7/A576U1OYM1AZB7/A576U1UEU1AZB7",
+            "md5": "5feac9d81284dc8cc5d32a14b6f22445",
+            "found_at": "2026-04-05T16:43:54.500217879+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZB8/A576U1OYM1AZB8/A576U1UEU1AZB8",
+            "md5": "bc24f8ad96633adb8d90b36994c6997a",
+            "found_at": "2026-04-05T16:43:54.501448049+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZB9/A576U1OYM1AZB9/A576U1UEU1AZB9",
+            "md5": "495c229c2f57ed956a76acbceaee0c91",
+            "found_at": "2026-04-05T16:43:54.502834735+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZBA/A576U1OYM1AZBA/A576U1UEU1AZBA",
+            "md5": "3de13895802807441db83c4b9e2b829d",
+            "found_at": "2026-04-05T16:43:54.503609180+00:00"
+          },
+          {
+            "firmware": "A576U1UEU1AZC1/A576U1OYM1AZC1/A576U1UEU1AZC1",
+            "md5": "1bc1af7d74e85417fcffb7a1ef6d5195",
+            "found_at": "2026-04-05T16:43:54.529271257+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-A7050": {
     "name": "Galaxy A70",
     "regional_firmwares": {

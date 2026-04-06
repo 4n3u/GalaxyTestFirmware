@@ -8144,6 +8144,11 @@
             "firmware": "A576BXXU1AZC2/A576BOXM1AZC2/A576BXXU1AZC2",
             "md5": "18406a3e682555e3f56cdf53b8e84d5c",
             "found_at": "2026-03-30T08:04:52.070409376+00:00"
+          },
+          {
+            "firmware": "A576BXXS2AZD1/A576BOXM2AZD1/A576BXXS2AZD1",
+            "md5": "5f441ee2520c0b097c9f2b449525e0d6",
+            "found_at": "2026-04-06T02:41:17.911384017+00:00"
           }
         ]
       }
@@ -30103,7 +30108,7 @@
     "name": "Galaxy S23+",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S916BXXS9EZB6/S916BOXM9EZB6/S916BXXS9EZB6",
+        "latest_official": "S916BXXS9EZC1/S916BOXM9EZC1/S916BXXS9EZC1",
         "test_firmwares": [
           {
             "firmware": "S916BXXU8EYFB/S916BOXM8EYFB/S916BXXU8EYFB",
@@ -30449,6 +30454,11 @@
             "firmware": "S916BXXS9EZCI/S916BOXM9EZCI/S916BXXS9EZCI",
             "md5": "524bd3deddea020fbc7facb46883f4ac",
             "found_at": "2026-03-30T06:06:17.296868850+00:00"
+          },
+          {
+            "firmware": "S916BXXU9ZZD1/S916BOXM9ZZD1/S916BXXU9FZD1",
+            "md5": "7bec4b70d3ed02cb83ceaf68b281d475",
+            "found_at": "2026-04-06T02:37:17.003936103+00:00"
           }
         ]
       }

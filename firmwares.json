@@ -23749,6 +23749,11 @@
             "firmware": "S711U1UEU7FZD1/S711U1OYM7FZD1/S711U1UEU7FZD1",
             "md5": "4eee4ce81af834adc29f85a7e4d282fd",
             "found_at": "2026-04-02T19:02:34.898711037+00:00"
+          },
+          {
+            "firmware": "S711U1UES7EZD2/S711U1OYM7EZD2/S711U1UES7EZD2",
+            "md5": "92ec3cc9e278f51e36d2e8a7fd0acaa1",
+            "found_at": "2026-04-07T15:14:16.333255734+00:00"
           }
         ]
       }
@@ -24689,6 +24694,11 @@
             "firmware": "S721U1UEUBDZD1/S721U1OYMBDZD1/S721U1UEUBDZD1",
             "md5": "9eb6799f73747b2f57f348501981a88f",
             "found_at": "2026-04-03T14:50:51.620304850+00:00"
+          },
+          {
+            "firmware": "S721U1UEUBDZD3/S721U1OYMBDZD3/S721U1UEUBDZD3",
+            "md5": "2efcc2a349ed66a59c8cafead5da3271",
+            "found_at": "2026-04-07T15:15:11.259218255+00:00"
           }
         ]
       }

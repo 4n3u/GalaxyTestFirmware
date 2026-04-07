@@ -10649,6 +10649,11 @@
             "firmware": "F731U1UEU7ZZD1/F731U1OYM7ZZD1/F731U1UEU7GZD1",
             "md5": "207b743dbc27a657e1e064cf4879faf8",
             "found_at": "2026-04-02T19:05:04.243765145+00:00"
+          },
+          {
+            "firmware": "F731U1UEU7ZZD3/F731U1OYM7ZZD3/F731U1UEU7GZD3",
+            "md5": "da60e460b0bef938af57ea837e3ddbda",
+            "found_at": "2026-04-07T09:12:00.096464721+00:00"
           }
         ]
       }
@@ -11114,6 +11119,11 @@
             "firmware": "F741BXXU3ZZD1/F741BOXM3ZZD1/F741BXXU3DZD1",
             "md5": "d803da8c6020d5addf7f5d93a95414bc",
             "found_at": "2026-04-02T10:58:20.588465689+00:00"
+          },
+          {
+            "firmware": "F741BXXU3ZZD3/F741BOXM3ZZD3/F741BXXU3DZD1",
+            "md5": "01de56e6cd27eb766200474efbdd02d5",
+            "found_at": "2026-04-07T09:12:03.592719291+00:00"
           }
         ]
       }
@@ -16229,6 +16239,11 @@
             "firmware": "F946U1UEU7ZZD1/F946U1OYM7ZZD1/F946U1UEU7GZD1",
             "md5": "703b67f580f9fa6a04f8b8863f0c4279",
             "found_at": "2026-04-02T19:06:20.600967273+00:00"
+          },
+          {
+            "firmware": "F946U1UEU7ZZD3/F946U1OYM7ZZD3/F946U1UEU7GZD3",
+            "md5": "6a409841ebc3311c6601f67f0a8544d1",
+            "found_at": "2026-04-07T09:13:20.334798282+00:00"
           }
         ]
       }
@@ -16714,6 +16729,11 @@
             "firmware": "F956BXXU3ZZD1/F956BOXM3ZZD1/F956BXXU3DZD1",
             "md5": "dbb2dde1fe194c7b072c2b79fe25782c",
             "found_at": "2026-04-02T10:59:49.752162701+00:00"
+          },
+          {
+            "firmware": "F956BXXU3ZZD3/F956BOXM3ZZD3/F956BXXU3DZD1",
+            "md5": "9ed9895aedd8820b832b619f8bac5e22",
+            "found_at": "2026-04-07T09:13:24.132618983+00:00"
           }
         ]
       }
@@ -19448,7 +19468,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G736BXXSBGZB2/G736BOXMBGZB2/G736BXXSBGZB1",
+        "latest_official": "G736BXXSBGZC1/G736BOXMBGZC1/G736BXXSBGZC1",
         "test_firmwares": [
           {
             "firmware": "G736BXXSAFYF1/G736BOXMAFYF1/G736BXXSAFYF1",
@@ -19614,6 +19634,11 @@
             "firmware": "G736BXXSBGZC1/G736BOXMBGZC1/G736BXXSBGZC1",
             "md5": "158eafd77df078075f8ade5083012292",
             "found_at": "2026-03-06T16:51:53.555148168+00:00"
+          },
+          {
+            "firmware": "G736BXXSBGZD1/G736BOXMBGZD1/G736BXXSBGZD1",
+            "md5": "338dc4c7db59b1725890eca82469c295",
+            "found_at": "2026-04-07T09:10:32.358559667+00:00"
           }
         ]
       }

@@ -24504,6 +24504,11 @@
             "firmware": "S721USQSBCZD2/S721UOYNBCZD2/S721USQSBCZD2",
             "md5": "24160a1a73e8465bb0853bb69b180507",
             "found_at": "2026-04-02T19:03:21.009220947+00:00"
+          },
+          {
+            "firmware": "S721USQUBDZD1/S721UOYNBDZD1/S721USQUBDZD1",
+            "md5": "8c8ee55b56cc94bb48fd23f60085ff9a",
+            "found_at": "2026-04-07T10:56:29.799781615+00:00"
           }
         ]
       }
@@ -48404,6 +48409,11 @@
             "firmware": "X358UUEU7CZD1/X358UOYM7CZD1/X358UUEU7CZD1",
             "md5": "db7109a6801e0aa373f910760143e258",
             "found_at": "2026-04-02T19:04:41.507024157+00:00"
+          },
+          {
+            "firmware": "X358UUES7BZD2/X358UOYM7BZD2/X358UUES7BZD2",
+            "md5": "708003f0595d760fd687cdbe68c9a541",
+            "found_at": "2026-04-07T10:58:02.759682251+00:00"
           }
         ]
       }

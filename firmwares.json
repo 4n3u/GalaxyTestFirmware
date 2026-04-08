@@ -44103,7 +44103,7 @@
     "name": "Galaxy S26",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S942USQU1AZCF/S942UOYN1AZCF/S942USQU1AZCF",
+        "latest_official": "S942USQS2AZCO/S942UOYN2AZCO/S942USQS2AZCO",
         "test_firmwares": [
           {
             "firmware": "S942USQS1AZC7/S942UOYN1AZC7/S942USQS1AZC7",
@@ -44239,6 +44239,11 @@
             "firmware": "S942USQU2AZD1/S942UOYN2AZD1/S942USQU2AZD1",
             "md5": "d51561664b2a7e93c5f387663af1610f",
             "found_at": "2026-04-01T06:02:32.413063869+00:00"
+          },
+          {
+            "firmware": "S942USQU2AZD3/S942UOYN2AZD3/S942USQU2AZD3",
+            "md5": "f9e95301ec2e78b87dcf31ea034742ce",
+            "found_at": "2026-04-08T02:34:47.785552387+00:00"
           }
         ]
       }
@@ -44813,7 +44818,7 @@
     "name": "Galaxy S26+",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S947USQU1AZCF/S947UOYN1AZCF/S947USQU1AZCF",
+        "latest_official": "S947USQS2AZCO/S947UOYN2AZCO/S947USQS2AZCO",
         "test_firmwares": [
           {
             "firmware": "S947USQS1AZC7/S947UOYN1AZC7/S947USQS1AZC7",
@@ -44949,6 +44954,11 @@
             "firmware": "S947USQU2AZD1/S947UOYN2AZD1/S947USQU2AZD1",
             "md5": "7204786bb3ebfd7a39f50e7e8e7c2628",
             "found_at": "2026-04-01T06:03:04.666623878+00:00"
+          },
+          {
+            "firmware": "S947USQU2AZD3/S947UOYN2AZD3/S947USQU2AZD3",
+            "md5": "46a98810d34772278bbb88aee19ecdee",
+            "found_at": "2026-04-08T02:35:17.878758472+00:00"
           }
         ]
       }
@@ -45423,7 +45433,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S948USQU1AZCF/S948UOYN1AZCF/S948USQU1AZCF",
+        "latest_official": "S948USQS2AZCO/S948UOYN2AZCO/S948USQS2AZCO",
         "test_firmwares": [
           {
             "firmware": "S948USQS1AZC7/S948UOYN1AZC7/S948USQS1AZC7",
@@ -45564,6 +45574,11 @@
             "firmware": "S948USQU2AZD1/S948UOYN2AZD1/S948USQU2AZD1",
             "md5": "5af64d8f67728c80cd5de712e85ff628",
             "found_at": "2026-04-01T06:02:51.922086635+00:00"
+          },
+          {
+            "firmware": "S948USQU2AZD3/S948UOYN2AZD3/S948USQU2AZD3",
+            "md5": "6b7d3f2e9e78d1e77c47f5a7349869e8",
+            "found_at": "2026-04-08T02:35:06.324861163+00:00"
           }
         ]
       }

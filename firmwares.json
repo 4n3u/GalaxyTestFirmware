@@ -10679,6 +10679,11 @@
             "firmware": "F731U1UEU7ZZD3/F731U1OYM7ZZD3/F731U1UEU7GZD3",
             "md5": "da60e460b0bef938af57ea837e3ddbda",
             "found_at": "2026-04-07T09:12:00.096464721+00:00"
+          },
+          {
+            "firmware": "F731U1UEU7ZZD5/F731U1OYM7ZZD5/F731U1UEU7GZD5",
+            "md5": "a4dda16f3ab6c71e31d5bfa8f57761ae",
+            "found_at": "2026-04-08T15:19:36.303720805+00:00"
           }
         ]
       }

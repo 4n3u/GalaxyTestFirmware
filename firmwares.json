@@ -7448,7 +7448,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5660ZCS9BZB6/A5660CHC9BZB6/A5660ZCS9BZB4",
+        "latest_official": "A5660ZCS9BZC5/A5660CHC9BZC5/A5660ZCS9BZC5",
         "test_firmwares": [
           {
             "firmware": "A5660ZCS6BYJ4/A5660CHC6BYJ4/A5660ZCS6BYJ4",
@@ -7574,6 +7574,11 @@
             "firmware": "A5660ZCU9CZCF/A5660CHC9CZCF/A5660ZCU9CZCF",
             "md5": "37b49bf6208d36c11a5aafe7dcde522c",
             "found_at": "2026-03-26T05:52:23.570140788+00:00"
+          },
+          {
+            "firmware": "A5660ZCSABZD1/A5660CHCABZD1/A5660ZCSABZD1",
+            "md5": "050859d437ead2e7af9bf5c07ada97c6",
+            "found_at": "2026-04-09T09:19:01.528886041+00:00"
           }
         ]
       }
@@ -24763,7 +24768,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S731BXXS5AZBB/S731BOXM5AZBB/S731BXXS5AZB6",
+        "latest_official": "S731BXXS6AZCH/S731BOXM6AZCH/S731BXXS6AZCH",
         "test_firmwares": [
           {
             "firmware": "S731BXXS2AYID/S731BOXM2AYID/S731BXXS2AYID",
@@ -24984,6 +24989,11 @@
             "firmware": "S731BXXS6AZCH/S731BOXM6AZCH/S731BXXS6AZCH",
             "md5": "ba9f43c24278758ec35fcf78fb79989a",
             "found_at": "2026-03-27T13:16:11.344919762+00:00"
+          },
+          {
+            "firmware": "S731BXXU6ZZD5/S731BOXM6ZZD5/S731BXXU6BZD5",
+            "md5": "6a30789c4a342f7fb8a7b05880d86f57",
+            "found_at": "2026-04-09T09:16:44.603351356+00:00"
           }
         ]
       }
@@ -36083,7 +36093,7 @@
     "name": "Galaxy S25",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S931BXXS8BZC1/S931BOXM8BZC1/S931BXXS8BZB5",
+        "latest_official": "S931BXXS9BZCH/S931BOXM9BZCH/S931BXXS9BZCH",
         "test_firmwares": [
           {
             "firmware": "S931BXXS6BYIF/S931BOXM6BYIF/S931BXXS6BYIF",
@@ -36579,6 +36589,11 @@
             "firmware": "S931BXXU9ZZD3/S931BOXM9ZZD3/S931BXXU9CZD3",
             "md5": "5a66eacfde1bc7e8ea2f1e570b5f5e1d",
             "found_at": "2026-04-07T02:33:43.158722490+00:00"
+          },
+          {
+            "firmware": "S931BXXU9ZZD5/S931BOXM9ZZD5/S931BXXU9CZD5",
+            "md5": "99d7a237a359a240f1683cfdbec1604b",
+            "found_at": "2026-04-09T09:16:22.013394227+00:00"
           }
         ]
       }

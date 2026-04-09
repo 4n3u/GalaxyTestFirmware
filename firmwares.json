@@ -733,7 +733,7 @@
     "name": "Galaxy A14 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A146U1UESIEZA1/A146U1OYMIEZA1/A146U1UESIEZA1",
+        "latest_official": "A146U1UEUJEZC1/A146U1OYMJEZC1/A146U1UEUJEZC1",
         "test_firmwares": [
           {
             "firmware": "A146U1UESEEYG1/A146U1OYMEEYG1/A146U1UESEEYG1",
@@ -794,6 +794,11 @@
             "firmware": "A146U1UEUJEZB1/A146U1OYMJEZB1/A146U1UEUJEZB1",
             "md5": "d7d8626e1904f0110855e1b375824ef2",
             "found_at": "2026-02-17T07:02:59.564395161+00:00"
+          },
+          {
+            "firmware": "A146U1UEUJEZC1/A146U1OYMJEZC1/A146U1UEUJEZC1",
+            "md5": "fa593145747d5236bed40d37b6b251cc",
+            "found_at": "2026-04-09T13:31:12.939374824+00:00"
           }
         ]
       }
@@ -45708,7 +45713,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S948USQS2AZCO/S948UOYN2AZCO/S948USQS2AZCO",
+        "latest_official": "S948USQU1AZCF/S948UOYN1AZCF/S948USQU1AZCF",
         "test_firmwares": [
           {
             "firmware": "S948USQS1AZC7/S948UOYN1AZC7/S948USQS1AZC7",
@@ -45854,6 +45859,11 @@
             "firmware": "S948USQU2AZD3/S948UOYN2AZD3/S948USQU2AZD3",
             "md5": "6b7d3f2e9e78d1e77c47f5a7349869e8",
             "found_at": "2026-04-08T02:35:06.324861163+00:00"
+          },
+          {
+            "firmware": "S948USQS2AZD4/S948UOYN2AZD4/S948USQS2AZD4",
+            "md5": "3b139e783ea97213cbaeb929eda4e14c",
+            "found_at": "2026-04-09T13:38:22.762770394+00:00"
           }
         ]
       }

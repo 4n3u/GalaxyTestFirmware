@@ -8668,7 +8668,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7210ZCS9IZB6/F7210CHC9IZB6/F7210ZCS9IZB1",
+        "latest_official": "F7210ZCS9IZC1/F7210CHC9IZC1/F7210ZCS9IZC1",
         "test_firmwares": [
           {
             "firmware": "F7210ZCS8HYE2/F7210CHC8HYE2/F7210ZCS8HYE2",
@@ -8904,6 +8904,11 @@
             "firmware": "F7210ZCU9JZCB/F7210CHC9JZCB/F7210ZCU9JZCB",
             "md5": "29503ac64a796179b03a6fffadd2740a",
             "found_at": "2026-03-19T17:05:57.960342340+00:00"
+          },
+          {
+            "firmware": "F7210ZCS9IZD1/F7210CHC9IZD1/F7210ZCS9IZD1",
+            "md5": "d95cf01c11bf4e2d448b60075c5f7678",
+            "found_at": "2026-04-10T09:18:14.370289047+00:00"
           }
         ]
       }
@@ -42168,7 +42173,7 @@
     "name": "Galaxy S25 Ultra",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S938BXXS8BZC1/S938BOXM8BZC1/S938BXXS8BZB5",
+        "latest_official": "S938BXXS9BZCH/S938BOXM9BZCH/S938BXXS9BZCH",
         "test_firmwares": [
           {
             "firmware": "S938BXXS6BYIF/S938BOXM6BYIF/S938BXXS6BYIF",
@@ -42624,6 +42629,11 @@
             "firmware": "S938BXXU9ZZD5/S938BOXM9ZZD5/S938BXXU9CZD5",
             "md5": "49869d8e5216b4bf92c8588e534562fe",
             "found_at": "2026-04-08T11:06:01.812990133+00:00"
+          },
+          {
+            "firmware": "S938BXXU9ZZD1/S938BOXM9ZZD1/S938BXXU9CZD1",
+            "md5": "1adab9965d858f83c79f4a97b0e8dfd7",
+            "found_at": "2026-04-10T09:17:50.624299274+00:00"
           }
         ]
       }
@@ -46468,7 +46478,7 @@
     "name": "心系天下 三星 W23",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W9023ZCS9IZB6/W9023CHC9IZB6/W9023ZCS9IZB1",
+        "latest_official": "W9023ZCS9IZC1/W9023CHC9IZC1/W9023ZCS9IZC1",
         "test_firmwares": [
           {
             "firmware": "W9023ZCS8HYE2/W9023CHC8HYE2/W9023ZCS8HYE2",
@@ -46714,6 +46724,11 @@
             "firmware": "W9023ZCU9JZCB/W9023CHC9JZCB/W9023ZCU9JZCB",
             "md5": "58202c589801731d9f7da0825f06e12c",
             "found_at": "2026-03-19T20:50:50.508648869+00:00"
+          },
+          {
+            "firmware": "W9023ZCS9IZD1/W9023CHC9IZD1/W9023ZCS9IZD1",
+            "md5": "27df9a78c77482089493f48b41b554a2",
+            "found_at": "2026-04-10T09:21:00.136448518+00:00"
           }
         ]
       }
@@ -48774,6 +48789,11 @@
             "firmware": "X356BXXS7BZD3/X356BOXM7BZD3/X356BXXS7BZD3",
             "md5": "ef462af9232f10c23bd30c1a8f0f05c6",
             "found_at": "2026-04-07T13:22:05.122278142+00:00"
+          },
+          {
+            "firmware": "X356BXXU7CZD4/X356BOXM7CZD4/X356BXXU7CZD4",
+            "md5": "a388ebc908a2b65d2eb2793790c50bc4",
+            "found_at": "2026-04-10T09:18:00.259132274+00:00"
           }
         ]
       }

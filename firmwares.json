@@ -7459,6 +7459,11 @@
             "firmware": "A556BXXUEDZD3/A556BOXMEDZD3/A556BXXUEDZD3",
             "md5": "f110b32ef6e06ffe291edf579de279da",
             "found_at": "2026-04-03T09:06:43.743466455+00:00"
+          },
+          {
+            "firmware": "A556BXXUEDZD7/A556BOXMEDZD7/A556BXXUEDZD7",
+            "md5": "41b7aa22aad52ab7a544ce8ebd3be9ed",
+            "found_at": "2026-04-10T17:04:04.373749081+00:00"
           }
         ]
       }
@@ -8079,6 +8084,11 @@
             "firmware": "A5760ZCU1AZC2/A5760CHC1AZC2/A5760ZCU1AZC2",
             "md5": "b3b9c259c59ef47efc3ee045bf00cd07",
             "found_at": "2026-03-30T08:04:50.007755955+00:00"
+          },
+          {
+            "firmware": "A5760ZCS2AZD3/A5760CHC2AZD3/A5760ZCS2AZD3",
+            "md5": "ebfc9930eb5035ec9f081a0574357e9a",
+            "found_at": "2026-04-10T17:04:17.479323674+00:00"
           }
         ]
       }
@@ -20319,6 +20329,11 @@
             "firmware": "G766USQU7CZD2/G766UOYN7CZD2/G766USQU7CZD2",
             "md5": "dc5144523c7c7fbda6333083f361799b",
             "found_at": "2026-04-06T14:54:57.388013747+00:00"
+          },
+          {
+            "firmware": "G766USQU7CZD4/G766UOYN7CZD4/G766USQU7CZD4",
+            "md5": "d53b9deebefdd7f1e6b32ff299c32289",
+            "found_at": "2026-04-10T17:00:40.828440848+00:00"
           }
         ]
       }

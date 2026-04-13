@@ -7619,6 +7619,11 @@
             "firmware": "A5660ZCSABZD1/A5660CHCABZD1/A5660ZCSABZD1",
             "md5": "050859d437ead2e7af9bf5c07ada97c6",
             "found_at": "2026-04-09T09:19:01.528886041+00:00"
+          },
+          {
+            "firmware": "A5660ZCU9CZD3/A5660CHC9CZD3/A5660ZCU9CZD3",
+            "md5": "5b7f9d23a671aaae27e6fd1c503dc964",
+            "found_at": "2026-04-13T10:07:28.587161569+00:00"
           }
         ]
       }
@@ -10138,7 +10143,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F731BXXS6FZB6/F731BOXM6FZB6/F731BXXS6FZB6",
+        "latest_official": "F731BXXS6FZC2/F731BOXM6FZB6/F731BXXS6FZC2",
         "test_firmwares": [
           {
             "firmware": "F731BXXU5FYG2/F731BOXM5FYG2/F731BXXU5FYG2",
@@ -10304,6 +10309,11 @@
             "firmware": "F731BXXU6GZCF/F731BOXM6GZCF/F731BXXU6GZCF",
             "md5": "f83a3a3ca0f62465d1fe5d3d7c3c6c68",
             "found_at": "2026-03-25T09:02:12.985647594+00:00"
+          },
+          {
+            "firmware": "F731BXXU6GZD7/F731BOXM6GZD7/F731BXXU6GZD7",
+            "md5": "b40249e32980f165633d807e587020f9",
+            "found_at": "2026-04-13T09:58:11.341959499+00:00"
           }
         ]
       }

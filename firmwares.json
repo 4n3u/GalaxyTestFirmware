@@ -7284,6 +7284,11 @@
             "firmware": "A5560ZCUEDZD3/A5560CHCEDZD3/A5560ZCUEDZD3",
             "md5": "d146184c1d2d4e494db24b7b5ceb6b5e",
             "found_at": "2026-04-03T10:53:46.035292124+00:00"
+          },
+          {
+            "firmware": "A5560ZCSECZD1/A5560CHCECZD1/A5560ZCSECZD1",
+            "md5": "555943720c802fb07dad4cd15587fd60",
+            "found_at": "2026-04-13T11:30:46.461096902+00:00"
           }
         ]
       }
@@ -23174,6 +23179,11 @@
             "firmware": "S7110ZCU7GZD7/S7110CHC7GZD7/S7110ZCU7GZD7",
             "md5": "b98fecde3077cb40bece20a24b11ce7f",
             "found_at": "2026-04-13T06:21:54.355243432+00:00"
+          },
+          {
+            "firmware": "S7110ZCS7FZD2/S7110CHC7FZD2/S7110ZCS7FZD2",
+            "md5": "a9650c5729132f9cde95f33b795ad7f5",
+            "found_at": "2026-04-13T11:25:19.169772936+00:00"
           }
         ]
       }

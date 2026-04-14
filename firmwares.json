@@ -23369,6 +23369,11 @@
             "firmware": "S711BXXUEGZD7/S711BOXMEGZD7/S711BXXUEGZD7",
             "md5": "19832f6f87ced77138d8adc9fe741b64",
             "found_at": "2026-04-13T02:45:41.167110759+00:00"
+          },
+          {
+            "firmware": "S711BXXSFFZD2/S711BOXMFFZD2/S711BXXSFFZD2",
+            "md5": "22557b6ea35fd87107dc9c1076bef26e",
+            "found_at": "2026-04-14T13:26:25.663307026+00:00"
           }
         ]
       }

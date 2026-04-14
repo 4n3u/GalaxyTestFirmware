@@ -4594,6 +4594,11 @@
             "firmware": "A3460ZHUDFZC6/A3460OZSDFZC6/A3460ZHUDFZC6",
             "md5": "d59a58b023bd9740a01aec94690b0e8a",
             "found_at": "2026-03-25T18:56:06.078483153+00:00"
+          },
+          {
+            "firmware": "A3460ZHSEEZC7/A3460OZSEEZC7/A3460ZHSEEZC7",
+            "md5": "6e320ea5b7e9d0f0c5de843f74ee6751",
+            "found_at": "2026-04-14T08:08:12.583643208+00:00"
           }
         ]
       }

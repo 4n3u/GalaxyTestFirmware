@@ -6824,6 +6824,11 @@
             "firmware": "A5460ZCSJEZD1/A5460CHCJEZD1/A5460ZCSJEZD1",
             "md5": "4037724fb4e7c78ed40796f756999461",
             "found_at": "2026-04-10T06:02:25.039758087+00:00"
+          },
+          {
+            "firmware": "A5460ZCUJFZD5/A5460CHCJFZD5/A5460ZCUJFZD5",
+            "md5": "7797092d36a24233ef84682d8960252d",
+            "found_at": "2026-04-15T11:09:17.461463404+00:00"
           }
         ]
       }
@@ -7639,6 +7644,11 @@
             "firmware": "A5660ZCU9CZD3/A5660CHC9CZD3/A5660ZCU9CZD3",
             "md5": "5b7f9d23a671aaae27e6fd1c503dc964",
             "found_at": "2026-04-13T10:07:28.587161569+00:00"
+          },
+          {
+            "firmware": "A5660ZCUACZD7/A5660CHCACZD7/A5660ZCUACZD7",
+            "md5": "0791738c1153e512968b47e73fa91953",
+            "found_at": "2026-04-15T11:09:40.424079614+00:00"
           }
         ]
       }
@@ -10338,7 +10348,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F731NKSS6FZC1/F731NOKR6FZC1/F731NKSS6FZC1",
+        "latest_official": "F731NKSS6FZCS/F731NOKR6FZCS/F731NKSS6FZCS",
         "test_firmwares": [
           {
             "firmware": "F731NKSS5FYIA/F731NOKR5FYIA/F731NKSU5FYI2",
@@ -10559,6 +10569,11 @@
             "firmware": "F731NKSU6ZZD7/F731NOKR6ZZD7/F731NKSU6GZD7",
             "md5": "aede5a63f9bd70eaee91ab6dc6b802fe",
             "found_at": "2026-04-10T11:04:54.671159941+00:00"
+          },
+          {
+            "firmware": "F731NKSU6GZD9/F731NOKR6GZD9/F731NKSU6GZD7",
+            "md5": "a1131425376f27aff62e4e97c9f50275",
+            "found_at": "2026-04-15T11:11:49.129256779+00:00"
           }
         ]
       }
@@ -16033,7 +16048,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F946NKSS6FZC1/F946NOKR6FZC1/F946NKSS6FZC1",
+        "latest_official": "F946NKSS6FZCS/F946NOKR6FZCS/F946NKSS6FZCS",
         "test_firmwares": [
           {
             "firmware": "F946NKSS5FYIA/F946NOKR5FYIA/F946NKSU5FYI2",
@@ -16259,6 +16274,11 @@
             "firmware": "F946NKSU6ZZD7/F946NOKR6ZZD7/F946NKSU6GZD7",
             "md5": "39b3403df61b7a0485bed7f897badad7",
             "found_at": "2026-04-10T11:05:58.154743197+00:00"
+          },
+          {
+            "firmware": "F946NKSU6ZZD9/F946NOKR6ZZD9/F946NKSU6GZD7",
+            "md5": "5acd6fc33e81dd7ebfb88ba9decfc372",
+            "found_at": "2026-04-15T11:13:45.182992312+00:00"
           }
         ]
       }
@@ -19439,6 +19459,11 @@
             "firmware": "F9680ZCU4ZZD7/F9680CHC4ZZD7/F9680ZCU4BZD7",
             "md5": "8593527bc62218b146feea28346ebc12",
             "found_at": "2026-04-15T06:11:40.167735773+00:00"
+          },
+          {
+            "firmware": "F9680ZCU4ZZD9/F9680CHC4ZZD9/F9680ZCU4BZD7",
+            "md5": "dc9b8bedc4d3dcf4dd5adb4accdadd86",
+            "found_at": "2026-04-15T11:14:32.349965810+00:00"
           }
         ]
       }

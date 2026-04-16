@@ -8254,6 +8254,11 @@
             "firmware": "A576BXXS2AZD3/A576BOXM2AZD3/A576BXXS2AZD3",
             "md5": "8aeea71b93309120a07ec28c234616fe",
             "found_at": "2026-04-08T13:32:31.496980711+00:00"
+          },
+          {
+            "firmware": "A576BXXU2AZD5/A576BOXM2AZD5/A576BXXU2AZD5",
+            "md5": "add941546c54c42976ae5c23615c4d14",
+            "found_at": "2026-04-16T13:55:52.199790914+00:00"
           }
         ]
       }
@@ -20439,6 +20444,11 @@
             "firmware": "G766BXXU7CZD4/G766BOXM7CZD4/G766BXXU7CZD4",
             "md5": "f680dfea600a3a44e7c26b44d836b1c3",
             "found_at": "2026-04-10T08:01:23.230910797+00:00"
+          },
+          {
+            "firmware": "G766BXXU7CZD6/G766BOXM7CZD6/G766BXXU7CZD6",
+            "md5": "7900ac9623574ac7452a953191d0d1e9",
+            "found_at": "2026-04-16T13:45:22.998961122+00:00"
           }
         ]
       }
@@ -44839,6 +44849,11 @@
             "firmware": "S9420ZCU2AZD7/S9420CHC2AZD7/S9420ZCU2AZD3",
             "md5": "f9ad454ab489ecd12511b76c5c3f5205",
             "found_at": "2026-04-14T06:03:16.691475710+00:00"
+          },
+          {
+            "firmware": "S9420ZCU2AZD9/S9420CHC2AZD9/S9420ZCU2AZD3",
+            "md5": "ab2277f972f1e36636346be7435e23e4",
+            "found_at": "2026-04-16T13:53:43.908839918+00:00"
           }
         ]
       }
@@ -45639,6 +45654,11 @@
             "firmware": "S9470ZCU2AZD7/S9470CHC2AZD7/S9470ZCU2AZD3",
             "md5": "1a585dec19f06590e7bbc9a5a37b5ef8",
             "found_at": "2026-04-14T06:03:49.107012611+00:00"
+          },
+          {
+            "firmware": "S9470ZCU2AZD9/S9470CHC2AZD9/S9470ZCU2AZD3",
+            "md5": "2cb559e62d959e3e41e2246932854679",
+            "found_at": "2026-04-16T13:54:19.436823485+00:00"
           }
         ]
       }
@@ -46429,6 +46449,11 @@
             "firmware": "S9480ZCU2AZD7/S9480CHC2AZD7/S9480ZCU2AZD3",
             "md5": "965e33c3431a2ee5590dd8b3b16af5ef",
             "found_at": "2026-04-14T06:03:33.042066407+00:00"
+          },
+          {
+            "firmware": "S9480ZCU2AZD9/S9480CHC2AZD9/S9480ZCU2AZD3",
+            "md5": "30e24c1b8c3473ce00a21a78e9255d7d",
+            "found_at": "2026-04-16T13:54:01.152182017+00:00"
           }
         ]
       }

@@ -6843,7 +6843,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A546BXXSIEZC3/A546BOXMIEZC3/A546BXXSIEZC3",
+        "latest_official": "A546BXXSJEZD1/A546BOXMJEZD1/A546BXXSJEZD1",
         "test_firmwares": [
           {
             "firmware": "A546BXXSGEYJ1/A546BOXMGEYJ1/A546BXXSGEYJ1",
@@ -7024,6 +7024,11 @@
             "firmware": "A546BXXUJFZD5/A546BOXMJFZD5/A546BXXUJFZD5",
             "md5": "8379d7cd09f5b8c509a87bd7126af41e",
             "found_at": "2026-04-10T13:20:38.076339416+00:00"
+          },
+          {
+            "firmware": "A546BXXUJFZD7/A546BOXMJFZD7/A546BXXUJFZD7",
+            "md5": "3ebabe16d2b8ed29bc4f345ee6847ddd",
+            "found_at": "2026-04-17T15:08:11.454010935+00:00"
           }
         ]
       }
@@ -7309,6 +7314,11 @@
             "firmware": "A5560ZCSECZD1/A5560CHCECZD1/A5560ZCSECZD1",
             "md5": "555943720c802fb07dad4cd15587fd60",
             "found_at": "2026-04-13T11:30:46.461096902+00:00"
+          },
+          {
+            "firmware": "A5560ZCUEDZDB/A5560CHCEDZDB/A5560ZCUEDZDB",
+            "md5": "fc0d1fe62febc57d77e75e138ec523db",
+            "found_at": "2026-04-17T15:06:57.456443723+00:00"
           }
         ]
       }
@@ -19944,6 +19954,11 @@
             "firmware": "G556BXXUFEZD7/G556BOXMFEZD7/G556BXXUFEZD7",
             "md5": "e5f1762cab53f4f2f4a67744e549454c",
             "found_at": "2026-04-13T06:23:17.746064390+00:00"
+          },
+          {
+            "firmware": "G556BXXUFEZDB/G556BOXMFEZDB/G556BXXUFEZDB",
+            "md5": "4e856548fbfe38045682ca5dd93f52a7",
+            "found_at": "2026-04-17T15:05:02.783185775+00:00"
           }
         ]
       }
@@ -24848,7 +24863,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S721USQSACZC1/S721UOYNACZC1/S721USQSACZC1",
+        "latest_official": "S721USQSBCZD1/S721UOYNBCZD1/S721USQSBCZD1",
         "test_firmwares": [
           {
             "firmware": "S721USQS7CYJ2/S721UOYN7CYJ2/S721USQS7CYJ2",
@@ -25119,6 +25134,11 @@
             "firmware": "S721USQUBDZD3/S721UOYNBDZD3/S721USQUBDZD3",
             "md5": "bd61cba90586c7dc15d09d4a47f119c4",
             "found_at": "2026-04-10T19:00:20.077674763+00:00"
+          },
+          {
+            "firmware": "S721USQUBDZD7/S721UOYNBDZD7/S721USQUBDZD7",
+            "md5": "3a055444e2a7adebfe84ed8d354d5bcc",
+            "found_at": "2026-04-17T14:57:22.930141879+00:00"
           }
         ]
       }
@@ -29824,6 +29844,11 @@
             "firmware": "S9110ZCU7FZD9/S9110CHC7FZD9/S9110ZCU7FZD9",
             "md5": "c3d1cd49ca41e59022ea9e1a25cbdf81",
             "found_at": "2026-04-15T13:24:37.378317859+00:00"
+          },
+          {
+            "firmware": "S9110ZCU7FZDB/S9110CHC7FZDB/S9110ZCU7FZDB",
+            "md5": "d7729335160de97dde60584b59d9ce17",
+            "found_at": "2026-04-17T14:55:54.566715226+00:00"
           }
         ]
       }
@@ -30964,6 +30989,11 @@
             "firmware": "S9160ZCU7FZD9/S9160CHC7FZD9/S9160ZCU7FZD9",
             "md5": "e9f77a12cc7e897f765b7017c01ea4b5",
             "found_at": "2026-04-15T13:25:17.823741890+00:00"
+          },
+          {
+            "firmware": "S9160ZCU7FZDB/S9160CHC7FZDB/S9160ZCU7FZDB",
+            "md5": "99613e07a12519e611e414788c15ac33",
+            "found_at": "2026-04-17T14:56:38.695920326+00:00"
           }
         ]
       }
@@ -32104,6 +32134,11 @@
             "firmware": "S9180ZCU7FZD9/S9180CHC7FZD9/S9180ZCU7FZD9",
             "md5": "61b4a259d17cf069ff69d6489b249f24",
             "found_at": "2026-04-15T13:25:04.063700488+00:00"
+          },
+          {
+            "firmware": "S9180ZCU7FZDB/S9180CHC7FZDB/S9180ZCU7FZDB",
+            "md5": "f249bce3d889ae708b4359b08c7f66c2",
+            "found_at": "2026-04-17T14:56:23.677836068+00:00"
           }
         ]
       }
@@ -45189,6 +45224,11 @@
             "firmware": "S942BXXU2AZD9/S942BOXM2AZD9/S942BXXU2AZD9",
             "md5": "5cc91e9cb4cce7b8d2be139787710357",
             "found_at": "2026-04-16T02:47:10.550638656+00:00"
+          },
+          {
+            "firmware": "S942BXXS2AZDA/S942BOXM2AZDA/S942BXXS2AZDA",
+            "md5": "f0615487d23d710678130a75d10237d2",
+            "found_at": "2026-04-17T14:59:43.108492309+00:00"
           }
         ]
       }

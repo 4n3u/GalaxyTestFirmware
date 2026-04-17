@@ -7504,6 +7504,11 @@
             "firmware": "A556BXXUEDZD7/A556BOXMEDZD7/A556BXXUEDZD7",
             "md5": "41b7aa22aad52ab7a544ce8ebd3be9ed",
             "found_at": "2026-04-10T17:04:04.373749081+00:00"
+          },
+          {
+            "firmware": "A556BXXUEDZDB/A556BOXMEDZDB/A556BXXUEDZDB",
+            "md5": "6a8560d5fd20542b622ed74975bec97e",
+            "found_at": "2026-04-17T13:32:49.681476376+00:00"
           }
         ]
       }
@@ -8059,6 +8064,11 @@
             "firmware": "A566U1UEU7CZD7/A566U1OYM7CZD7/A566U1UEU7CZD7",
             "md5": "4336a1655dfe58c1c04e5761bc876e60",
             "found_at": "2026-04-13T06:26:40.420722399+00:00"
+          },
+          {
+            "firmware": "A566U1UEU7CZDB/A566U1OYM7CZDB/A566U1UEU7CZDB",
+            "md5": "255ba37beec12049bd689e3982506baa",
+            "found_at": "2026-04-17T13:32:58.979075691+00:00"
           }
         ]
       }
@@ -23964,6 +23974,11 @@
             "firmware": "S711USQU7FZD7/S711UOYN7FZD7/S711USQU7FZD7",
             "md5": "f8e7b4e65d30c04f7e6ee4edfac4a013",
             "found_at": "2026-04-10T14:56:08.659072366+00:00"
+          },
+          {
+            "firmware": "S711USQU7FZD9/S711UOYN7FZD9/S711USQU7FZD9",
+            "md5": "450de07096a73e99c9728c41b68d91fd",
+            "found_at": "2026-04-17T13:27:42.097602461+00:00"
           }
         ]
       }
@@ -24819,6 +24834,11 @@
             "firmware": "S721NKSUBZZD9/S721NOKRBZZD9/S721NKSUBDZD9",
             "md5": "58f27c7f2c91e0737de319732f925f9d",
             "found_at": "2026-04-16T02:45:19.307366419+00:00"
+          },
+          {
+            "firmware": "S721NKSUBZZDB/S721NOKRBZZDB/S721NKSUBDZDB",
+            "md5": "6882aaa716a60510baa317338e08622a",
+            "found_at": "2026-04-17T13:28:42.486116761+00:00"
           }
         ]
       }
@@ -36114,6 +36134,11 @@
             "firmware": "S928NKSU5ZZD9/S928NOKR5ZZD9/S928NKSU5DZD7",
             "md5": "41b45f6731fd7b7aa1f804b4f8dedaf8",
             "found_at": "2026-04-16T02:45:32.511619176+00:00"
+          },
+          {
+            "firmware": "S928NKSU5ZZDB/S928NOKR5ZZDB/S928NKSU5DZD7",
+            "md5": "89676e0ee97aa49f59554abefb6d50fb",
+            "found_at": "2026-04-17T13:28:59.426030261+00:00"
           }
         ]
       }
@@ -46843,7 +46868,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S948USQS2AZCO/S948UOYN2AZCO/S948USQS2AZCO",
+        "latest_official": "S948USQU1AZCF/S948UOYN1AZCF/S948USQU1AZCF",
         "test_firmwares": [
           {
             "firmware": "S948USQS1AZC7/S948UOYN1AZC7/S948USQS1AZC7",
@@ -47009,6 +47034,11 @@
             "firmware": "S948USQU2AZD9/S948UOYN2AZD9/S948USQU2AZD9",
             "md5": "e2cfbf7931237a7daa3e393ae00279cf",
             "found_at": "2026-04-16T02:47:23.070866403+00:00"
+          },
+          {
+            "firmware": "S948USQS2AZDA/S948UOYN2AZDA/S948USQS2AZDA",
+            "md5": "7fb1ad60cbe910161262fe861502cf22",
+            "found_at": "2026-04-17T13:31:16.061230547+00:00"
           }
         ]
       }

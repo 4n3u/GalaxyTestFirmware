@@ -19009,6 +19009,11 @@
             "firmware": "F966NKSU9ZZD9/F966NOKR9ZZD9/F966NKSU9BZD1",
             "md5": "111f5fb63e6e56ac10b00ad8cf981195",
             "found_at": "2026-04-15T02:42:03.995924884+00:00"
+          },
+          {
+            "firmware": "F966NKSU9ZZDB/F966NOKR9ZZDB/F966NKSU9BZD1",
+            "md5": "12601f387b8c41ace2aa0a672ea4db79",
+            "found_at": "2026-04-17T02:38:57.688353704+00:00"
           }
         ]
       }
@@ -19018,7 +19023,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F966USQS9AZC8/F966UOYN9AZC8/F966USQS9AZC8",
+        "latest_official": "F966USQS8AZC1/F966UOYN8AZC1/F966USQS8AZC1",
         "test_firmwares": [
           {
             "firmware": "F966USQS5AYI5/F966UOYN5AYI5/F966USQS5AYI5",
@@ -19214,6 +19219,11 @@
             "firmware": "F966USQU9BZD9/F966UOYN9BZD9/F966USQU9BZD9",
             "md5": "74935fa0228e41fb900561f66eb4d1ac",
             "found_at": "2026-04-16T02:49:06.336238254+00:00"
+          },
+          {
+            "firmware": "F966USQU9BZDB/F966UOYN9BZDB/F966USQU9BZDB",
+            "md5": "d8273683d4addd3f28b94646f0a4f15d",
+            "found_at": "2026-04-17T02:39:03.219091845+00:00"
           }
         ]
       }
@@ -39954,6 +39964,11 @@
             "firmware": "S936NKSU9ZZD7/S936NOKR9ZZD7/S936NKSU9CZD7",
             "md5": "0c13e40f690c367733739fe4ccb64633",
             "found_at": "2026-04-14T15:15:53.711745013+00:00"
+          },
+          {
+            "firmware": "S936NKSU9CZD9/S936NOKR9CZD9/S936NKSU9CZD7",
+            "md5": "cd6920bd4e989041f2d16e14e614eee8",
+            "found_at": "2026-04-17T02:43:05.280820362+00:00"
           }
         ]
       }

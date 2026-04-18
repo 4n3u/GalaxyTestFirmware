@@ -13594,6 +13594,11 @@
             "firmware": "F766BXXU9ZZDB/F766BOXM9ZZDB/F766BXXU9BZDB",
             "md5": "5efc649e1a1af4f72d0321a2c6ad40c7",
             "found_at": "2026-04-16T09:22:52.819538883+00:00"
+          },
+          {
+            "firmware": "F766BXXU9ZZDD/F766BOXM9ZZDD/F766BXXU9BZDD",
+            "md5": "3980ab8af626098b33055b137ef44246",
+            "found_at": "2026-04-18T05:48:23.836009573+00:00"
           }
         ]
       }
@@ -18859,6 +18864,11 @@
             "firmware": "F966BXXU9ZZDB/F966BOXM9ZZDB/F966BXXU9BZDB",
             "md5": "0555985465d282cddf89131754bc4ef4",
             "found_at": "2026-04-16T09:24:28.737474810+00:00"
+          },
+          {
+            "firmware": "F966BXXU9ZZDD/F966BOXM9ZZDD/F966BXXU9BZDD",
+            "md5": "ffe16144493e1162e48e295dd88126ad",
+            "found_at": "2026-04-18T05:49:59.590254692+00:00"
           }
         ]
       }

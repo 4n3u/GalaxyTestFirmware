@@ -10889,6 +10889,11 @@
             "firmware": "F731U1UEU7GZDB/F731U1OYM7GZDB/F731U1UEU7GZDB",
             "md5": "9f8d891f063d5f4d4f943f87f2826301",
             "found_at": "2026-04-16T09:22:32.957711477+00:00"
+          },
+          {
+            "firmware": "F731U1UEU7ZZDD/F731U1OYM7ZZDD/F731U1UEU7GZDD",
+            "md5": "1a289a76912f1e0a648cecc60c8d2d29",
+            "found_at": "2026-04-18T10:50:53.466404460+00:00"
           }
         ]
       }
@@ -16419,6 +16424,11 @@
             "firmware": "F946NKSU6ZZDB/F946NOKR6ZZDB/F946NKSU6GZD7",
             "md5": "ad402ce18cf7c3efa5f74bd3bf26cea2",
             "found_at": "2026-04-16T09:24:01.898011966+00:00"
+          },
+          {
+            "firmware": "F946NKSU6ZZDD/F946NOKR6ZZDD/F946NKSU6GZD7",
+            "md5": "604876926362331b6e99e391b5f9a224",
+            "found_at": "2026-04-18T10:52:35.008860029+00:00"
           }
         ]
       }
@@ -16659,6 +16669,11 @@
             "firmware": "F946U1UEU7GZDB/F946U1OYM7GZDB/F946U1UEU7GZDB",
             "md5": "404ed4179cc0f847949a215dc621cb5e",
             "found_at": "2026-04-16T09:24:08.128365031+00:00"
+          },
+          {
+            "firmware": "F946U1UEU7ZZDD/F946U1OYM7ZZDD/F946U1UEU7GZDD",
+            "md5": "0f125318500112b11bc04d75138835c9",
+            "found_at": "2026-04-18T10:52:39.879318947+00:00"
           }
         ]
       }

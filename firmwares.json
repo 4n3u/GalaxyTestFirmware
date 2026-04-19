@@ -19869,6 +19869,11 @@
             "firmware": "F968U1UES3AZC8/F968U1OYM3AZC8/F968U1UES3AZC8",
             "md5": "ac49bc560812fda3b1d1d5ad2e94d6cd",
             "found_at": "2026-03-30T11:18:34.168824644+00:00"
+          },
+          {
+            "firmware": "F968U1UEU3BZDD/F968U1OYM3BZDD/F968U1UEU3BZDD",
+            "md5": "b002ef1141fd5d4b0d75c924a3a7368c",
+            "found_at": "2026-04-19T02:55:17.168687494+00:00"
           }
         ]
       }

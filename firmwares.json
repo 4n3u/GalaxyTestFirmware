@@ -8439,6 +8439,11 @@
             "firmware": "A576U1UES2AZD2/A576U1OYM2AZD2/A576U1UES2AZD2",
             "md5": "b01764b23a3add29680956cbf13d5154",
             "found_at": "2026-04-07T13:31:47.322264090+00:00"
+          },
+          {
+            "firmware": "A576U1UEU2AZD5/A576U1OYM2AZD5/A576U1UEU2AZD5",
+            "md5": "56050e2e316c69e0d87ee4c387d9c0d1",
+            "found_at": "2026-04-20T06:25:12.150343733+00:00"
           }
         ]
       }
@@ -12093,7 +12098,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F741U1UES3CZC5/F741U1OYM3CZC5/F741U1UES3CZC5",
+        "latest_official": "F741U1UES3CZC1/F741U1OYM3CZC1/F741U1UES3CZC1",
         "test_firmwares": [
           {
             "firmware": "F741U1UES2CYIB/F741U1OYM2CYIB/F741U1UES2CYIB",
@@ -12309,6 +12314,11 @@
             "firmware": "F741U1UEU3ZZDB/F741U1OYM3ZZDB/F741U1UEU3DZDB",
             "md5": "17a5dafe82df215ebb231b5660b03161",
             "found_at": "2026-04-16T06:11:33.349154742+00:00"
+          },
+          {
+            "firmware": "F741U1UEU3ZZDD/F741U1OYM3ZZDD/F741U1UEU3DZDD",
+            "md5": "8d26fc1224b8f923e583436e51cf9989",
+            "found_at": "2026-04-20T06:23:16.744469116+00:00"
           }
         ]
       }
@@ -12764,6 +12774,11 @@
             "firmware": "F761BXXU9ZZDB/F761BOXM9ZZDB/F761BXXU9BZDB",
             "md5": "19e60e9e61361e5be1c4b4eab5a3bed9",
             "found_at": "2026-04-16T09:23:08.086584284+00:00"
+          },
+          {
+            "firmware": "F761BXXU9BZDD/F761BOXM9BZDD/F761BXXU9BZDD",
+            "md5": "3076686285eaf74fb7afb79bda39e809",
+            "found_at": "2026-04-20T06:23:35.899131170+00:00"
           }
         ]
       }
@@ -30414,6 +30429,11 @@
             "firmware": "S911BXXU9FZD9/S911BOXM9FZD9/S911BXXU9FZD9",
             "md5": "caed893ba8f2f42c1b82cc155d0b2323",
             "found_at": "2026-04-16T02:44:14.961906587+00:00"
+          },
+          {
+            "firmware": "S911BXXU9FZDB/S911BOXM9FZDB/S911BXXU9FZDB",
+            "md5": "dc88b6854d815f4deb66f5adcdd6277d",
+            "found_at": "2026-04-20T06:20:28.604240681+00:00"
           }
         ]
       }
@@ -31564,6 +31584,16 @@
             "firmware": "S916BXXU9FZD7/S916BOXM9FZD7/S916BXXU9FZD7",
             "md5": "5eefa99cc00cf2151035c9a0a2fe17ce",
             "found_at": "2026-04-14T06:01:11.526253209+00:00"
+          },
+          {
+            "firmware": "S916BXXU9FZD9/S916BOXM9FZD9/S916BXXU9FZD9",
+            "md5": "eefd9b7460977f3aabbdcecb48a6b489",
+            "found_at": "2026-04-20T06:21:04.928379390+00:00"
+          },
+          {
+            "firmware": "S916BXXU9FZDB/S916BOXM9FZDB/S916BXXU9FZDB",
+            "md5": "b00bfb8e7337189e2f005104058e76f7",
+            "found_at": "2026-04-20T06:21:04.929321260+00:00"
           }
         ]
       }
@@ -32724,6 +32754,11 @@
             "firmware": "S918BXXU9FZD9/S918BOXM9FZD9/S918BXXU9FZD9",
             "md5": "38d933cf2e8215f9cd1a8ab9e80b5012",
             "found_at": "2026-04-16T06:03:28.541997100+00:00"
+          },
+          {
+            "firmware": "S918BXXU9FZDB/S918BOXM9FZDB/S918BXXU9FZDB",
+            "md5": "602c396606af692113a7a9d864871380",
+            "found_at": "2026-04-20T06:20:51.786313997+00:00"
           }
         ]
       }
@@ -36034,6 +36069,11 @@
             "firmware": "S928BXXU5ZZDB/S928BOXM5ZZDB/S928BXXU5DZDB",
             "md5": "13ea854a842628f0cde148f317c2bf06",
             "found_at": "2026-04-17T22:51:25.026851185+00:00"
+          },
+          {
+            "firmware": "S928BXXU5DZDB/S928BOXM5DZDB/S928BXXU5DZDB",
+            "md5": "5087486d1f8522faa812f0b6fa0d47ae",
+            "found_at": "2026-04-20T06:21:44.456674352+00:00"
           }
         ]
       }
@@ -47374,6 +47414,11 @@
             "firmware": "S948USQS2AZDA/S948UOYN2AZDA/S948USQS2AZDA",
             "md5": "7fb1ad60cbe910161262fe861502cf22",
             "found_at": "2026-04-17T13:31:16.061230547+00:00"
+          },
+          {
+            "firmware": "S948USQS2AZD6/S948UOYN2AZD6/S948USQS2AZD6",
+            "md5": "cbd9e0deaafaeeb8981176040930fd06",
+            "found_at": "2026-04-20T06:23:36.403948493+00:00"
           }
         ]
       }

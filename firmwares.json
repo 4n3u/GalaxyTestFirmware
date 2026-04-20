@@ -19264,6 +19264,11 @@
             "firmware": "F966NKSU9ZZDD/F966NOKR9ZZDD/F966NKSU9BZD1",
             "md5": "af2ff9601cb7fd86753db5a159ee0141",
             "found_at": "2026-04-18T02:30:07.505838104+00:00"
+          },
+          {
+            "firmware": "F966NKSU9BZDH/F966NOKR9BZDH/F966NKSU9BZD1",
+            "md5": "86653613d4993b3339a5f447337ea2a3",
+            "found_at": "2026-04-20T19:14:41.453460469+00:00"
           }
         ]
       }
@@ -19949,6 +19954,11 @@
             "firmware": "F968NKSU4BZDD/F968NOKR4BZDD/F968NKSU4BZD1",
             "md5": "a8e2c373c88325da438e849a8ea49a1d",
             "found_at": "2026-04-18T02:30:22.582309248+00:00"
+          },
+          {
+            "firmware": "F968NKSU4BZDH/F968NOKR4BZDH/F968NKSU4BZD1",
+            "md5": "b91af5608a989202317edbff42dfd543",
+            "found_at": "2026-04-20T19:14:53.552451629+00:00"
           }
         ]
       }
@@ -40564,6 +40574,11 @@
             "firmware": "S936NKSU9CZDB/S936NOKR9CZDB/S936NKSU9CZD7",
             "md5": "e551bf212e4e657967f45015557659b1",
             "found_at": "2026-04-17T19:02:54.021700163+00:00"
+          },
+          {
+            "firmware": "S936NKSU9ZZDD/S936NOKR9ZZDD/S936NKSU9CZD7",
+            "md5": "7fc1e7b28ac634a1f771ecc7125dc10b",
+            "found_at": "2026-04-20T19:13:17.071027848+00:00"
           }
         ]
       }

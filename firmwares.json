@@ -1868,7 +1868,7 @@
     "name": "Galaxy A16",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "A165NKSS6CZB4/A165NOKR6CZB4/A165NKSS6CZB1",
+        "latest_official": "A165NKSS7CZC8/A165NOKR7CZC8/A165NKSS7CZC8",
         "test_firmwares": [
           {
             "firmware": "A165NKSS3BYH1/A165NOKR3BYH1/A165NKSS3BYH1",
@@ -2009,6 +2009,21 @@
             "firmware": "A165NKSS7CZC8/A165NOKR7CZC8/A165NKSS7CZC8",
             "md5": "456594ce347c3548b72274b7a7bfcb76",
             "found_at": "2026-03-31T13:22:47.583507849+00:00"
+          },
+          {
+            "firmware": "A165NKSU7DZD1/A165NOKR7DZD1/A165NKSU7DZD1",
+            "md5": "b96cb282018468620464c9e6ec9d30a6",
+            "found_at": "2026-04-20T02:43:14.957294565+00:00"
+          },
+          {
+            "firmware": "A165NKSU7DZD2/A165NOKR7DZD2/A165NKSU7DZD2",
+            "md5": "4748570bb77d24e6d32aa5d8559b8403",
+            "found_at": "2026-04-20T02:43:14.957703823+00:00"
+          },
+          {
+            "firmware": "A165NKSU7DZD3/A165NOKR7DZD3/A165NKSU7DZD3",
+            "md5": "f91b5083d568abe20f205925d2997674",
+            "found_at": "2026-04-20T02:43:14.958119342+00:00"
           }
         ]
       }
@@ -4608,7 +4623,7 @@
     "name": "Galaxy A34 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A346BXXSEEZB6/A346BOXMEEZB6/A346BXXSEEZB6",
+        "latest_official": "A346BXXSFEZC7/A346BOXMFEZC7/A346BXXSFEZC7",
         "test_firmwares": [
           {
             "firmware": "A346BXXSBEYJ1/A346BOXMBEYJ1/A346BXXSBEYJ1",
@@ -4759,6 +4774,21 @@
             "firmware": "A346BXXSFEZC7/A346BOXMFEZC7/A346BXXSFEZC7",
             "md5": "cfd5bb995628b11550171582c6e6804c",
             "found_at": "2026-03-30T06:06:12.341985910+00:00"
+          },
+          {
+            "firmware": "A346BXXUFFZD1/A346BOXMFFZD1/A346BXXUFFZD1",
+            "md5": "5d40f63aae1be5dc135e1de34b9e170a",
+            "found_at": "2026-04-20T02:46:50.298395720+00:00"
+          },
+          {
+            "firmware": "A346BXXUFFZD2/A346BOXMFFZD2/A346BXXUFFZD2",
+            "md5": "27d17b88acc1d1d90f8bca5cd6a9918a",
+            "found_at": "2026-04-20T02:46:50.298839137+00:00"
+          },
+          {
+            "firmware": "A346BXXUFFZD3/A346BOXMFFZD3/A346BXXUFFZD3",
+            "md5": "eda661005e43c269dff31a8b006ce428",
+            "found_at": "2026-04-20T02:46:50.299684760+00:00"
           }
         ]
       }
@@ -24598,7 +24628,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S721BXXSACZC1/S721BOXMACZC1/S721BXXSACZC1",
+        "latest_official": "S721BXXSBCZC5/S721BOXMBCZC5/S721BXXSBCZC5",
         "test_firmwares": [
           {
             "firmware": "S721BXXS8CYJ1/S721BOXM8CYJ1/S721BXXS8CYJ1",
@@ -24799,6 +24829,11 @@
             "firmware": "S721BXXUBDZD7/S721BOXMBDZD7/S721BXXUBDZD7",
             "md5": "a596b778a62a0abd8503604cab755af4",
             "found_at": "2026-04-10T13:17:57.112163056+00:00"
+          },
+          {
+            "firmware": "S721BXXUBDZD9/S721BOXMBDZD9/S721BXXUBDZD9",
+            "md5": "e7ce50fd6049f7158ab8036bc22aafc6",
+            "found_at": "2026-04-20T02:47:21.618975999+00:00"
           }
         ]
       }
@@ -25719,6 +25754,11 @@
             "firmware": "S731BXXU6ZZDB/S731BOXM6ZZDB/S731BXXU6BZDB",
             "md5": "d7e00425e7a2137489158fbf9707fe2f",
             "found_at": "2026-04-17T09:20:31.742163181+00:00"
+          },
+          {
+            "firmware": "S731BXXU6ZZD9/S731BOXM6ZZD9/S731BXXU6BZD9",
+            "md5": "672d6bf289498a7ab9dcf230d2aad24a",
+            "found_at": "2026-04-20T02:48:26.544011221+00:00"
           }
         ]
       }

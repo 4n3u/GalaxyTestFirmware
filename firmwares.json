@@ -2633,7 +2633,7 @@
     "name": "Galaxy A17",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A175FXXS4BZB5/A175FOXM4BZB5/A175FXXS4BZB5",
+        "latest_official": "A175FXXS5BZD2/A175FOXM5BZD2/A175FXXS5BZD2",
         "test_firmwares": [
           {
             "firmware": "A175FXXU1BYI1/A175FOXM1BYI1/A175FXXU1BYI1",
@@ -2869,6 +2869,26 @@
             "firmware": "A175FXXS5BZC9/A175FOXM5BZC9/A175FXXS5BZC9",
             "md5": "85848c30739ecf9c98f326e278527d9c",
             "found_at": "2026-03-31T05:48:05.727276467+00:00"
+          },
+          {
+            "firmware": "A175FXXS5BZD2/A175FOXM5BZD2/A175FXXS5BZD2",
+            "md5": "34e4be7f5f33a63774af336b66ea20f5",
+            "found_at": "2026-04-20T11:27:34.995445377+00:00"
+          },
+          {
+            "firmware": "A175FXXS5BZD4/A175FOXM5BZD4/A175FXXS5BZD4",
+            "md5": "00112170acdb47e94d2c4b6eb192d276",
+            "found_at": "2026-04-20T11:27:34.996289391+00:00"
+          },
+          {
+            "firmware": "A175FXXU5CZD3/A175FOXM5CZD3/A175FXXU5CZD3",
+            "md5": "9a331fb4d9a7061615ef8a41e66c4513",
+            "found_at": "2026-04-20T11:27:35.387434048+00:00"
+          },
+          {
+            "firmware": "A175FXXU5CZD5/A175FOXM5CZD5/A175FXXU5CZD5",
+            "md5": "42f372ebb9e050054b7791352bf1530b",
+            "found_at": "2026-04-20T11:27:35.388345693+00:00"
           }
         ]
       }

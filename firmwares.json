@@ -4809,6 +4809,11 @@
             "firmware": "A346BXXUFFZD3/A346BOXMFFZD3/A346BXXUFFZD3",
             "md5": "eda661005e43c269dff31a8b006ce428",
             "found_at": "2026-04-20T02:46:50.299684760+00:00"
+          },
+          {
+            "firmware": "A346BXXSFFZD4/A346BOXMFFZD4/A346BXXSFFZD4",
+            "md5": "77f46e9f249a05b2b907cb0caebbb399",
+            "found_at": "2026-04-20T13:37:44.394146102+00:00"
           }
         ]
       }

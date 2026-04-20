@@ -38414,6 +38414,11 @@
             "firmware": "S931NKSU9CZDB/S931NOKR9CZDB/S931NKSU9CZD7",
             "md5": "f413e6d2c7f67562060837954133eca5",
             "found_at": "2026-04-17T19:02:04.392055720+00:00"
+          },
+          {
+            "firmware": "S931NKSU9ZZDD/S931NOKR9ZZDD/S931NKSU9CZD7",
+            "md5": "3e3e403fe6c14fde8db4513adc85c742",
+            "found_at": "2026-04-20T20:47:37.875442071+00:00"
           }
         ]
       }
@@ -44464,6 +44469,11 @@
             "firmware": "S938NKSU9CZDB/S938NOKR9CZDB/S938NKSU9CZD7",
             "md5": "1b84e91830f81aec5bff4aa868d0a84c",
             "found_at": "2026-04-17T22:53:08.805665519+00:00"
+          },
+          {
+            "firmware": "S938NKSU9ZZDD/S938NOKR9ZZDD/S938NKSU9CZD7",
+            "md5": "d48d76e2184fdc3e0bab4bd4342e1e00",
+            "found_at": "2026-04-20T20:48:15.587505552+00:00"
           }
         ]
       }

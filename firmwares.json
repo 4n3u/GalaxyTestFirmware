@@ -6079,6 +6079,36 @@
       }
     }
   },
+  "SM-A376B": {
+    "name": "Galaxy A37 5G",
+    "regional_firmwares": {
+      "EUX": {
+        "latest_official": "A376BXXS2AZC2/A376BOXM2AZC2/A376BXXS2AZC2",
+        "test_firmwares": [
+          {
+            "firmware": "A376BXXS2AZC1/A376BOXM2AZC1/A376BXXS2AZC1",
+            "md5": "6a5fe1fc0da43642950eb4ecc5e00aee",
+            "found_at": "2026-04-21T11:13:50.005148768+00:00"
+          },
+          {
+            "firmware": "A376BXXS2AZC2/A376BOXM2AZC2/A376BXXS2AZC2",
+            "md5": "fd1c664cb45872a1785a025736269df8",
+            "found_at": "2026-04-21T11:13:50.005515901+00:00"
+          },
+          {
+            "firmware": "A376BXXU2AZD1/A376BOXM2AZD1/A376BXXU2AZD1",
+            "md5": "fd9cff76c59efa94bb0e1935bdb9d917",
+            "found_at": "2026-04-21T11:13:50.283924605+00:00"
+          },
+          {
+            "firmware": "A376BXXU2AZD2/A376BOXM2AZD2/A376BXXU2AZD2",
+            "md5": "d2b7a7e15ff318b8c040db157e5fcabe",
+            "found_at": "2026-04-21T11:13:50.284406882+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-A426U1": {
     "name": "Galaxy A42 5G",
     "regional_firmwares": {
@@ -11134,6 +11164,11 @@
             "firmware": "F7410ZCU3DZD9/F7410CHC3DZD9/F7410ZCU3DZD9",
             "md5": "2118887e9c1dca050022d7688bab2cd6",
             "found_at": "2026-04-16T09:22:37.471552298+00:00"
+          },
+          {
+            "firmware": "F7410ZCU3DZDD/F7410CHC3DZDD/F7410ZCU3DZDD",
+            "md5": "af718c00c9da42741ad5465f8af3bb6d",
+            "found_at": "2026-04-21T11:18:02.375772002+00:00"
           }
         ]
       }
@@ -13494,6 +13529,16 @@
             "firmware": "F7660ZCU9BZD9/F7660CHC9BZD9/F7660ZCU9BZD9",
             "md5": "3011b375ec0f5c3f3a5305c5dc1714a2",
             "found_at": "2026-04-15T08:14:18.764083803+00:00"
+          },
+          {
+            "firmware": "F7660ZCU9BZDB/F7660CHC9BZDB/F7660ZCU9BZDB",
+            "md5": "1c5d8588b5b16f693ab0e5b3b4e85b48",
+            "found_at": "2026-04-21T11:18:09.538831810+00:00"
+          },
+          {
+            "firmware": "F7660ZCU9BZDD/F7660CHC9BZDD/F7660ZCU9BZDB",
+            "md5": "8624a0b6db0f9bac62dded91654e1be8",
+            "found_at": "2026-04-21T11:18:09.539896762+00:00"
           }
         ]
       }
@@ -18839,6 +18884,11 @@
             "firmware": "F9660ZCU9BZDD/F9660CHC9BZDD/F9660ZCU9BZD7",
             "md5": "cd314ffedd522eadc7e50732cb00614a",
             "found_at": "2026-04-21T09:40:01.427459222+00:00"
+          },
+          {
+            "firmware": "F9660ZCU9BZDB/F9660CHC9BZDB/F9660ZCU9BZD7",
+            "md5": "b52a8e8268397392fddf575745ebbe0a",
+            "found_at": "2026-04-21T11:18:18.705693468+00:00"
           }
         ]
       }
@@ -25704,6 +25754,11 @@
             "firmware": "S721U1UEUBDZDB/S721U1OYMBDZDB/S721U1UEUBDZDB",
             "md5": "1cbd5e0a7c2d31d62db02e2b75013d26",
             "found_at": "2026-04-17T17:03:08.673959894+00:00"
+          },
+          {
+            "firmware": "S721U1UEUBDZDH/S721U1OYMBDZDH/S721U1UEUBDZDH",
+            "md5": "880cbc54ac67181aa072bcbc7544599b",
+            "found_at": "2026-04-21T11:14:21.812914782+00:00"
           }
         ]
       }
@@ -48739,6 +48794,11 @@
             "firmware": "W9025ZCU3DZD9/W9025CHC3DZD9/W9025ZCU3DZD9",
             "md5": "6b202533693e135845b467f6e254b0b2",
             "found_at": "2026-04-16T09:25:30.019463740+00:00"
+          },
+          {
+            "firmware": "W9025ZCU3DZDD/W9025CHC3DZDD/W9025ZCU3DZDD",
+            "md5": "a4ffb10c50682c892d0a5e10eeedf251",
+            "found_at": "2026-04-21T11:18:43.354982128+00:00"
           }
         ]
       }

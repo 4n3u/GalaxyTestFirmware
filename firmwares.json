@@ -19509,6 +19509,11 @@
             "firmware": "F966NKSU9ZZDJ/F966NOKR9ZZDJ/F966NKSU9BZD1",
             "md5": "699e46e047a3249f9a27c896cec6208c",
             "found_at": "2026-04-21T17:13:13.004168912+00:00"
+          },
+          {
+            "firmware": "F966NKSU9BZDL/F966NOKR9BZDL/F966NKSU9BZD1",
+            "md5": "a2db88d30945ff22941257f4d2f3361c",
+            "found_at": "2026-04-21T21:04:42.023530130+00:00"
           }
         ]
       }
@@ -20209,6 +20214,11 @@
             "firmware": "F968NKSU4BZDH/F968NOKR4BZDH/F968NKSU4BZD1",
             "md5": "b91af5608a989202317edbff42dfd543",
             "found_at": "2026-04-20T19:14:53.552451629+00:00"
+          },
+          {
+            "firmware": "F968NKSU4BZDL/F968NOKR4BZDL/F968NKSU4BZD1",
+            "md5": "086ab7162f727909bcdebb972e33e104",
+            "found_at": "2026-04-21T21:04:31.484521474+00:00"
           }
         ]
       }

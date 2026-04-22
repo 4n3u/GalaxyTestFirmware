@@ -6104,6 +6104,11 @@
             "firmware": "A366U1UEU6CZD8/A366U1OYM6CZD8/A366U1UEU6CZD8",
             "md5": "7fd79f129e8dbc7def48d308bb2854ef",
             "found_at": "2026-04-21T17:09:23.251836862+00:00"
+          },
+          {
+            "firmware": "A366U1UES7BZDA/A366U1OYM7BZDA/A366U1UES7BZDA",
+            "md5": "f0ed6ac5ac391d5c7c77d160b10c34d7",
+            "found_at": "2026-04-22T13:35:21.501597575+00:00"
           }
         ]
       }
@@ -6134,6 +6139,11 @@
             "firmware": "A376BXXU2AZD2/A376BOXM2AZD2/A376BXXU2AZD2",
             "md5": "d2b7a7e15ff318b8c040db157e5fcabe",
             "found_at": "2026-04-21T11:13:50.284406882+00:00"
+          },
+          {
+            "firmware": "A376BXXU2AZD3/A376BOXM2AZD3/A376BXXU2AZD3",
+            "md5": "047c6eca5468c45149ef7521abbc31c6",
+            "found_at": "2026-04-22T13:35:27.888891122+00:00"
           }
         ]
       }
@@ -11254,6 +11264,11 @@
             "firmware": "F7410ZCU3DZDD/F7410CHC3DZDD/F7410ZCU3DZDD",
             "md5": "af718c00c9da42741ad5465f8af3bb6d",
             "found_at": "2026-04-21T11:18:02.375772002+00:00"
+          },
+          {
+            "firmware": "F7410ZCU3DZDH/F7410CHC3DZDH/F7410ZCU3DZDH",
+            "md5": "1cb49e0e936e3b9371c95b913931d468",
+            "found_at": "2026-04-22T13:36:41.929310152+00:00"
           }
         ]
       }
@@ -21259,6 +21274,11 @@
             "firmware": "G766USQU7CZD6/G766UOYN7CZD6/G766USQU7CZD6",
             "md5": "366613dd8ef3b10eacf0bbf9e48fcb75",
             "found_at": "2026-04-17T17:03:21.626930101+00:00"
+          },
+          {
+            "firmware": "G766USQU7CZD7/G766UOYN7CZD7/G766USQU7CZD7",
+            "md5": "6f4891aafeb25c61cb78a7cb6da4e4c1",
+            "found_at": "2026-04-22T13:35:15.986640888+00:00"
           }
         ]
       }
@@ -24064,6 +24084,11 @@
             "firmware": "S7110ZCU7GZD9/S7110CHC7GZD9/S7110ZCU7GZD9",
             "md5": "88a658da8c9aae6dcb96e9df42398247",
             "found_at": "2026-04-17T17:02:03.559708964+00:00"
+          },
+          {
+            "firmware": "S7110ZCU7GZDH/S7110CHC7GZDH/S7110ZCU7GZDH",
+            "md5": "9ad116368e9ea68972b8c718f39e0e2a",
+            "found_at": "2026-04-22T13:27:32.294536442+00:00"
           }
         ]
       }

@@ -2024,6 +2024,11 @@
             "firmware": "A165NKSU7DZD3/A165NOKR7DZD3/A165NKSU7DZD3",
             "md5": "f91b5083d568abe20f205925d2997674",
             "found_at": "2026-04-20T02:43:14.958119342+00:00"
+          },
+          {
+            "firmware": "A165NKSU7DZD4/A165NOKR7DZD4/A165NKSU7DZD4",
+            "md5": "289e63a8f658b58c52166177d776e125",
+            "found_at": "2026-04-22T11:09:50.390711601+00:00"
           }
         ]
       }
@@ -5924,6 +5929,11 @@
             "firmware": "A366USQU6CZD8/A366UOYN6CZD8/A366USQU6CZD8",
             "md5": "7224e22f6f745d348d72aff457ceb8f0",
             "found_at": "2026-04-21T17:09:21.414872684+00:00"
+          },
+          {
+            "firmware": "A366USQS7BZDA/A366UOYN7BZDA/A366USQS7BZDA",
+            "md5": "dd8b22587d270932a8326433e979d25b",
+            "found_at": "2026-04-22T11:15:18.685095745+00:00"
           }
         ]
       }
@@ -46409,6 +46419,11 @@
             "firmware": "S942BXXU2AZDE/S942BOXM2AZDE/S942BXXU2AZDE",
             "md5": "f6bdda0d5b83fbd77d175fbeeef78f80",
             "found_at": "2026-04-22T02:41:54.696038621+00:00"
+          },
+          {
+            "firmware": "S942BXXS2AZDC/S942BOXM2AZDC/S942BXXS2AZDC",
+            "md5": "e21d1596f3b0106d10546928920b98d3",
+            "found_at": "2026-04-22T11:09:36.101649051+00:00"
           }
         ]
       }

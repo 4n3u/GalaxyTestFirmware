@@ -5989,6 +5989,11 @@
             "firmware": "A366USQS7BZDA/A366UOYN7BZDA/A366USQS7BZDA",
             "md5": "dd8b22587d270932a8326433e979d25b",
             "found_at": "2026-04-22T11:15:18.685095745+00:00"
+          },
+          {
+            "firmware": "A366USQS7BZDB/A366UOYN7BZDB/A366USQS7BZDB",
+            "md5": "cabe763ee84173e5591c4f58ddc546ba",
+            "found_at": "2026-04-23T19:13:39.556028121+00:00"
           }
         ]
       }
@@ -12394,6 +12399,11 @@
             "firmware": "F741USQU3DZDD/F741UOYN3DZDD/F741USQU3DZDD",
             "md5": "0b95cf3384ee5a3ec5b0c61a0e8ff0c6",
             "found_at": "2026-04-21T02:40:34.201364192+00:00"
+          },
+          {
+            "firmware": "F741USQU3DZDL/F741UOYN3DZDL/F741USQU3DZDL",
+            "md5": "000c8ceb6864671ef0a5b83791ecd1ce",
+            "found_at": "2026-04-23T19:15:04.492327863+00:00"
           }
         ]
       }
@@ -14329,6 +14339,11 @@
             "firmware": "F766NKSU9BZDN/F766NOKR9BZDN/F766NKSU9BZDB",
             "md5": "140d594cc6ac748c6746cc506f97f110",
             "found_at": "2026-04-22T19:22:09.690549609+00:00"
+          },
+          {
+            "firmware": "F766NKSU9BZDP/F766NOKR9BZDP/F766NKSU9BZDB",
+            "md5": "5b21d5de1d5933e956d3ee32abf2e37e",
+            "found_at": "2026-04-23T19:15:13.292133052+00:00"
           }
         ]
       }
@@ -19789,6 +19804,11 @@
             "firmware": "F966NKSU9BZDN/F966NOKR9BZDN/F966NKSU9BZD1",
             "md5": "ce2030e5ac0472d867309180db49f96c",
             "found_at": "2026-04-22T19:22:55.534976597+00:00"
+          },
+          {
+            "firmware": "F966NKSU9BZDP/F966NOKR9BZDP/F966NKSU9BZD1",
+            "md5": "5f133cb321732540df543d5a9c97a3d7",
+            "found_at": "2026-04-23T19:16:25.239187292+00:00"
           }
         ]
       }
@@ -20514,6 +20534,11 @@
             "firmware": "F968NKSU4BZDN/F968NOKR4BZDN/F968NKSU4BZD1",
             "md5": "18009aa08bc460d0442243cc6d4c40f3",
             "found_at": "2026-04-22T19:22:29.264847406+00:00"
+          },
+          {
+            "firmware": "F968NKSU4BZDP/F968NOKR4BZDP/F968NKSU4BZDP",
+            "md5": "0885d989acc6245a9eb4731670ed8100",
+            "found_at": "2026-04-23T19:16:36.969568277+00:00"
           }
         ]
       }

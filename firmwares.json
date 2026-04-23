@@ -24489,6 +24489,11 @@
             "firmware": "S711BXXUFGZD9/S711BOXMFGZD9/S711BXXUFGZD9",
             "md5": "c976d2b57bbad9460c20583b71e0f648",
             "found_at": "2026-04-17T11:05:40.329345462+00:00"
+          },
+          {
+            "firmware": "S711BXXUFGZDN/S711BOXMFGZDN/S711BXXUFGZDN",
+            "md5": "17c8bd582ff247311ec380a219a86b74",
+            "found_at": "2026-04-23T15:58:37.600916963+00:00"
           }
         ]
       }
@@ -31574,6 +31579,11 @@
             "firmware": "S911NKSU7ZZDN/S911NOKR7ZZDN/S911NKSU7FZDH",
             "md5": "3a40c5a98f1b55ec4a37a70063db10e7",
             "found_at": "2026-04-23T02:42:11.544712005+00:00"
+          },
+          {
+            "firmware": "S911NKSU7ZZDP/S911NOKR7ZZDP/S911NKSU7FZDP",
+            "md5": "b1ad7861f19a14a95c4d5a74b7cf4a61",
+            "found_at": "2026-04-23T15:58:24.044110524+00:00"
           }
         ]
       }
@@ -32799,6 +32809,11 @@
             "firmware": "S916NKSU7ZZDN/S916NOKR7ZZDN/S916NKSU7FZDH",
             "md5": "86287aebd89fda44ac503929df57ab8c",
             "found_at": "2026-04-23T02:42:44.498482688+00:00"
+          },
+          {
+            "firmware": "S916NKSU7ZZDP/S916NOKR7ZZDP/S916NKSU7FZDP",
+            "md5": "28679eee40ce08b19956a172cdb32019",
+            "found_at": "2026-04-23T15:58:58.897992599+00:00"
           }
         ]
       }
@@ -34019,6 +34034,11 @@
             "firmware": "S918NKSU7ZZDN/S918NOKR7ZZDN/S918NKSU7FZDH",
             "md5": "9a93c5cb3e3e89279feea285441a3e2c",
             "found_at": "2026-04-23T02:42:32.600231116+00:00"
+          },
+          {
+            "firmware": "S918NKSU7ZZDP/S918NOKR7ZZDP/S918NKSU7FZDP",
+            "md5": "373ac1eec69b93886d7aa2361b967719",
+            "found_at": "2026-04-23T15:58:47.011967100+00:00"
           }
         ]
       }
@@ -47329,6 +47349,11 @@
             "firmware": "S942USQS2AZDH/S942UOYN2AZDH/S942USQS2AZDH",
             "md5": "725856b0bc7d4921836bf3b34d078afa",
             "found_at": "2026-04-23T13:35:09.479706350+00:00"
+          },
+          {
+            "firmware": "S942USQU2AZDI/S942UOYN2AZDI/S942USQU2AZDI",
+            "md5": "ac503a978584cc53809fac0eb24cceb7",
+            "found_at": "2026-04-23T16:01:02.602155035+00:00"
           }
         ]
       }
@@ -48954,6 +48979,11 @@
             "firmware": "S948USQS2AZDH/S948UOYN2AZDH/S948USQS2AZDH",
             "md5": "dc46f221abe8026916df0f274683ff48",
             "found_at": "2026-04-23T09:35:02.222008204+00:00"
+          },
+          {
+            "firmware": "S948USQU2AZDI/S948UOYN2AZDI/S948USQU2AZDI",
+            "md5": "b4c3a70e85ac7657838f776b8cd6b6bb",
+            "found_at": "2026-04-23T16:01:21.702368655+00:00"
           }
         ]
       }

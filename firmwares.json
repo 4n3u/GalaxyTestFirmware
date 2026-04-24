@@ -13009,6 +13009,11 @@
             "firmware": "F7610ZCU9BZDN/F7610CHC9BZDN/F7610ZCU9BZDH",
             "md5": "abe1b6dec90be5bd396ec367fc4f9c99",
             "found_at": "2026-04-23T09:32:21.672491603+00:00"
+          },
+          {
+            "firmware": "F7610ZCU9BZDO/F7610CHC9BZDO/F7610ZCU9BZDH",
+            "md5": "798cf3e4318147a85b7f200ba0ce5b2c",
+            "found_at": "2026-04-24T22:43:41.790221848+00:00"
           }
         ]
       }

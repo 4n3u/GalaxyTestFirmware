@@ -5809,6 +5809,11 @@
             "firmware": "A366BXXU9CZDB/A366BOXM9CZDB/A366BXXU9CZDB",
             "md5": "2b210d1a5fafb8553e602b0330489f90",
             "found_at": "2026-04-23T11:09:20.555298964+00:00"
+          },
+          {
+            "firmware": "A366BXXU9CZDC/A366BOXM9CZDC/A366BXXU9CZDC",
+            "md5": "599236da2a0aca043266c2344c66e874",
+            "found_at": "2026-04-24T16:57:10.940812286+00:00"
           }
         ]
       }
@@ -7578,7 +7583,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A556BXXSDCZC4/A556BOXMDCZC4/A556BXXSDCZC4",
+        "latest_official": "A556BXXSECZD1/A556BOXMECZD1/A556BXXSECZD1",
         "test_firmwares": [
           {
             "firmware": "A556BXXSBCYJ1/A556BOXMBCYJ1/A556BXXSBCYJ1",
@@ -7769,6 +7774,11 @@
             "firmware": "A556BXXUEDZDB/A556BOXMEDZDB/A556BXXUEDZDB",
             "md5": "6a8560d5fd20542b622ed74975bec97e",
             "found_at": "2026-04-17T13:32:49.681476376+00:00"
+          },
+          {
+            "firmware": "A556BXXUEDZDP/A556BOXMEDZDP/A556BXXUEDZDP",
+            "md5": "223c1ae944fad42d8249e8348afa4084",
+            "found_at": "2026-04-24T17:00:15.365223639+00:00"
           }
         ]
       }
@@ -20773,7 +20783,7 @@
     "name": "Galaxy XCover7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G556BXXSEDZC2/G556BOXMEDZC2/G556BXXSEDZC2",
+        "latest_official": "G556BXXSFDZD1/G556BOXMFDZD1/G556BXXSFDZD1",
         "test_firmwares": [
           {
             "firmware": "G556BXXSBDYJ1/G556BOXMBDYJ1/G556BXXSBDYJ1",
@@ -20954,6 +20964,11 @@
             "firmware": "G556BXXUFEZDB/G556BOXMFEZDB/G556BXXUFEZDB",
             "md5": "4e856548fbfe38045682ca5dd93f52a7",
             "found_at": "2026-04-17T15:05:02.783185775+00:00"
+          },
+          {
+            "firmware": "G556BXXUFEZDO/G556BOXMFEZDO/G556BXXUFEZDO",
+            "md5": "0b0e54df5059541614901869e4489f60",
+            "found_at": "2026-04-24T17:03:30.256524226+00:00"
           }
         ]
       }
@@ -24504,6 +24519,11 @@
             "firmware": "S7110ZCU7GZDH/S7110CHC7GZDH/S7110ZCU7GZDH",
             "md5": "9ad116368e9ea68972b8c718f39e0e2a",
             "found_at": "2026-04-22T13:27:32.294536442+00:00"
+          },
+          {
+            "firmware": "S7110ZCU7GZDP/S7110CHC7GZDP/S7110ZCU7GZDP",
+            "md5": "282a407a009365c1cf8939863e5a8e04",
+            "found_at": "2026-04-24T17:02:08.664298388+00:00"
           }
         ]
       }
@@ -52053,7 +52073,7 @@
     "name": "Galaxy Tab Active5 Pro 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X356BXXS6BZC2/X356BOXM6BZC2/X356BXXS6BZC2",
+        "latest_official": "X356BXXS7BZD2/X356BOXM7BZD2/X356BXXS7BZD2",
         "test_firmwares": [
           {
             "firmware": "X356BXXS3AYI1/X356BOXM3AYI1/X356BXXS3AYI1",
@@ -52259,6 +52279,11 @@
             "firmware": "X356BXXU7CZD5/X356BOXM7CZD5/X356BXXU7CZD5",
             "md5": "970dc306106c5ac06699005c60459741",
             "found_at": "2026-04-17T19:02:40.666074230+00:00"
+          },
+          {
+            "firmware": "X356BXXU7CZD7/X356BOXM7CZD7/X356BXXU7CZD7",
+            "md5": "b47515f2c6c62c671f185c505a8fd02c",
+            "found_at": "2026-04-24T17:04:25.140825637+00:00"
           }
         ]
       }
@@ -52424,6 +52449,11 @@
             "firmware": "X358UUEU7CZD5/X358UOYM7CZD5/X358UUEU7CZD5",
             "md5": "e6abba6de797c20a958e31cae94985fa",
             "found_at": "2026-04-17T22:54:47.792091424+00:00"
+          },
+          {
+            "firmware": "X358UUES7BZD6/X358UOYM7BZD6/X358UUES7BZD6",
+            "md5": "884d22225c9c09d30cae7e70978ea157",
+            "found_at": "2026-04-24T17:04:28.492382343+00:00"
           }
         ]
       }

@@ -5589,6 +5589,11 @@
             "firmware": "A3660ZHS7BZDA/A3660OZS7BZDA/A3660ZHS7BZDA",
             "md5": "bce6c27e1391b4da8791155ad3aedc4f",
             "found_at": "2026-04-23T02:42:34.153107863+00:00"
+          },
+          {
+            "firmware": "A3660ZHU7CZDC/A3660OZS7CZDC/A3660ZHU7CZDC",
+            "md5": "7756f46eeec4796959ea90bc07c2fdc9",
+            "found_at": "2026-04-24T15:16:26.719792941+00:00"
           }
         ]
       }

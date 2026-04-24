@@ -7273,7 +7273,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A546U1UESIEZC3/A546U1OYMIEZC3/A546U1UESIEZC3",
+        "latest_official": "A546U1UESJEZD1/A546U1OYMJEZD1/A546U1UESJEZD1",
         "test_firmwares": [
           {
             "firmware": "A546U1UESFDYI1/A546U1OYMFDYI1/A546U1UESFDYI1",
@@ -7429,6 +7429,11 @@
             "firmware": "A546U1UEUJFZD7/A546U1OYMJFZD7/A546U1UEUJFZD7",
             "md5": "dabf83c6e77b683d7371335e7869241b",
             "found_at": "2026-04-17T17:06:40.874285540+00:00"
+          },
+          {
+            "firmware": "A546U1UEUJFZD9/A546U1OYMJFZD9/A546U1UEUJFZD9",
+            "md5": "e724fea9ce80c1590d49a8ad1cb13721",
+            "found_at": "2026-04-24T13:36:19.103301746+00:00"
           }
         ]
       }
@@ -8459,6 +8464,11 @@
             "firmware": "A5760ZCU2AZD7/A5760CHC2AZD7/A5760ZCU2AZD7",
             "md5": "ae0d6a7eef12056c5c8437d7686eb1ec",
             "found_at": "2026-04-23T09:39:24.058677091+00:00"
+          },
+          {
+            "firmware": "A5760ZCU2AZD8/A5760CHC2AZD8/A5760ZCU2AZD8",
+            "md5": "5875de026310979eacb4ea35f3a064ff",
+            "found_at": "2026-04-24T13:36:46.004089146+00:00"
           }
         ]
       }
@@ -31069,6 +31079,11 @@
             "firmware": "S9110ZCU7FZDH/S9110CHC7FZDH/S9110ZCU7FZDH",
             "md5": "f70e999d7b13f6ea63669481ef8a5c00",
             "found_at": "2026-04-21T13:33:11.900220707+00:00"
+          },
+          {
+            "firmware": "S9110ZCU7FZDP/S9110CHC7FZDP/S9110ZCU7FZDP",
+            "md5": "48e1d8584ee31c3a909a9fde74415cff",
+            "found_at": "2026-04-24T13:30:58.683914145+00:00"
           }
         ]
       }
@@ -32319,6 +32334,11 @@
             "firmware": "S9160ZCU7FZDH/S9160CHC7FZDH/S9160ZCU7FZDH",
             "md5": "fcd9303ab99609fabc7389f15d8f4dde",
             "found_at": "2026-04-21T13:33:57.793379544+00:00"
+          },
+          {
+            "firmware": "S9160ZCU7FZDP/S9160CHC7FZDP/S9160ZCU7FZDP",
+            "md5": "cfb72f9a68d6abe9ff85631ce7d8889e",
+            "found_at": "2026-04-24T13:31:44.733828308+00:00"
           }
         ]
       }
@@ -33574,6 +33594,11 @@
             "firmware": "S9180ZCU7FZDH/S9180CHC7FZDH/S9180ZCU7FZDH",
             "md5": "e862e37910cfd92f7a55c1bb2034cf92",
             "found_at": "2026-04-21T13:33:40.949651830+00:00"
+          },
+          {
+            "firmware": "S9180ZCU7FZDP/S9180CHC7FZDP/S9180ZCU7FZDP",
+            "md5": "5c01507a21fc967e01bb260dfbb8b79a",
+            "found_at": "2026-04-24T13:31:30.737748622+00:00"
           }
         ]
       }

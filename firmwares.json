@@ -13709,6 +13709,11 @@
             "firmware": "F761U1UEU9BZDN/F761U1OYM9BZDN/F761U1UEU9BZDN",
             "md5": "1805d1119e83d82d43f2b06b7b1ba8fb",
             "found_at": "2026-04-23T02:47:06.665937033+00:00"
+          },
+          {
+            "firmware": "F761U1UEU9BZDP/F761U1OYM9BZDP/F761U1UEU9BZDP",
+            "md5": "ec4e85cc1bd35de5f6afb432134695d8",
+            "found_at": "2026-04-25T02:30:25.785156253+00:00"
           }
         ]
       }
@@ -14789,6 +14794,11 @@
             "firmware": "F766USQU9BZDN/F766UOYN9BZDN/F766USQU9BZDN",
             "md5": "ed71f75bd18be844cbc8a50d4226925a",
             "found_at": "2026-04-23T02:47:13.015038349+00:00"
+          },
+          {
+            "firmware": "F766USQU9BZDP/F766UOYN9BZDP/F766USQU9BZDP",
+            "md5": "8f9833ce286312ba8dd757c1537e7c7e",
+            "found_at": "2026-04-25T02:30:09.643718290+00:00"
           }
         ]
       }
@@ -14798,7 +14808,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F766U1UES8AZC3/F766U1OYM8AZC3/F766U1UES8AZC3",
+        "latest_official": "F766U1UES9AZD1/F766U1OYM9AZD1/F766U1UES9AZD1",
         "test_firmwares": [
           {
             "firmware": "F766U1UES5AYI5/F766U1OYM5AYI5/F766U1UES5AYI5",
@@ -14989,6 +14999,16 @@
             "firmware": "F766U1UEU9BZDD/F766U1OYM9BZDD/F766U1UEU9BZDD",
             "md5": "305cd1d27f001aa5ba9ef432ac556a9a",
             "found_at": "2026-04-19T06:17:39.630406216+00:00"
+          },
+          {
+            "firmware": "F766U1UEU9BZDL/F766U1OYM9BZDL/F766U1UEU9BZDL",
+            "md5": "ce95ee7998041591c33b0e4469d15abd",
+            "found_at": "2026-04-25T02:30:11.662105695+00:00"
+          },
+          {
+            "firmware": "F766U1UEU9BZDP/F766U1OYM9BZDP/F766U1UEU9BZDP",
+            "md5": "727c89d6be888bbe1dda491a29dff0a4",
+            "found_at": "2026-04-25T02:30:11.664558500+00:00"
           }
         ]
       }
@@ -20238,7 +20258,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F966U1UES8AZC1/F966U1OYM8AZC1/F966U1UES8AZC1",
+        "latest_official": "F966U1UES9AZC8/F966U1OYM9AZC8/F966U1UES9AZC8",
         "test_firmwares": [
           {
             "firmware": "F966U1UES5AYI5/F966U1OYM5AYI5/F966U1UES5AYI5",
@@ -20414,6 +20434,16 @@
             "firmware": "F966U1UEU9BZDD/F966U1OYM9BZDD/F966U1UEU9BZDD",
             "md5": "b0cb21117a28ee20a99f7797a17f7686",
             "found_at": "2026-04-19T06:17:19.436423282+00:00"
+          },
+          {
+            "firmware": "F966U1UEU9BZDL/F966U1OYM9BZDL/F966U1UEU9BZDL",
+            "md5": "0c837522629690bc87ba0584e2b64bd5",
+            "found_at": "2026-04-25T02:31:43.629452561+00:00"
+          },
+          {
+            "firmware": "F966U1UEU9BZDN/F966U1OYM9BZDN/F966U1UEU9BZDN",
+            "md5": "a52ca96987bee713d35aee8c6b778f84",
+            "found_at": "2026-04-25T02:31:43.630382413+00:00"
           }
         ]
       }
@@ -20743,7 +20773,7 @@
     "name": "Galaxy Z TriFold",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F968U1UES2AZC1/F968U1OYM2AZC1/F968U1UES2AZC1",
+        "latest_official": "F968U1UES3AZC8/F968U1OYM3AZC8/F968U1UES3AZC8",
         "test_firmwares": [
           {
             "firmware": "F968U1UES2AZB1/F968U1OYM2AZB1/F968U1UES2AZB1",
@@ -20799,6 +20829,16 @@
             "firmware": "F968U1UEU3BZDD/F968U1OYM3BZDD/F968U1UEU3BZDD",
             "md5": "b002ef1141fd5d4b0d75c924a3a7368c",
             "found_at": "2026-04-19T02:55:17.168687494+00:00"
+          },
+          {
+            "firmware": "F968U1UEU3BZDL/F968U1OYM3BZDL/F968U1UEU3BZDL",
+            "md5": "c748bdce1f9690ee905f2c418c307225",
+            "found_at": "2026-04-25T02:31:54.647087234+00:00"
+          },
+          {
+            "firmware": "F968U1UEU3BZDP/F968U1OYM3BZDP/F968U1UEU3BZDP",
+            "md5": "848a42fc5df00bda3b0f5094ce185d2b",
+            "found_at": "2026-04-25T02:31:54.649086323+00:00"
           }
         ]
       }

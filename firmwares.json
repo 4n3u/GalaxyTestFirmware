@@ -3198,7 +3198,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A176USQS3AZB9/A176UOYN3AZB9/A176USQS3AZB9",
+        "latest_official": "A176USQS5AZD2/A176UOYN5AZD2/A176USQS5AZD2",
         "test_firmwares": [
           {
             "firmware": "A176USQS2AZA3/A176UOYN2AZA3/A176USQS2AZA3",
@@ -3279,6 +3279,31 @@
             "firmware": "A176USQU4AZC3/A176UOYN4AZC3/A176USQU4AZC3",
             "md5": "1384104bba6f47c57c0447fdc96698f8",
             "found_at": "2026-03-26T07:13:13.802062899+00:00"
+          },
+          {
+            "firmware": "A176USQS5AZD2/A176UOYN5AZD2/A176USQS5AZD2",
+            "md5": "dc57c5263963b5feff9be1ebecf31608",
+            "found_at": "2026-04-27T10:18:35.594313707+00:00"
+          },
+          {
+            "firmware": "A176USQS5AZD4/A176UOYN5AZD4/A176USQS5AZD4",
+            "md5": "cc5a028d0b35d2cba842eb42a48f7cb4",
+            "found_at": "2026-04-27T10:18:35.595137436+00:00"
+          },
+          {
+            "firmware": "A176USQU5BZDB/A176UOYN5BZDB/A176USQU5BZDB",
+            "md5": "376df66c7e245c2871725ff6219b95fb",
+            "found_at": "2026-04-27T10:18:35.948003863+00:00"
+          },
+          {
+            "firmware": "A176USQU5BZDH/A176UOYN5BZDH/A176USQU5BZDH",
+            "md5": "4f6a73c919d39b009dcc27ae67affd61",
+            "found_at": "2026-04-27T10:18:35.950445087+00:00"
+          },
+          {
+            "firmware": "A176USQU5BZDO/A176UOYN5BZDO/A176USQU5BZDO",
+            "md5": "c9d498a4e83dcdc5e4f40c9015b3e4de",
+            "found_at": "2026-04-27T10:18:35.953414651+00:00"
           }
         ]
       }

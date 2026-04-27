@@ -6279,6 +6279,11 @@
             "firmware": "A376BXXU2AZD4/A376BOXM2AZD4/A376BXXU2AZD4",
             "md5": "156d9cc7ac061dfbec8cb690ef85f20a",
             "found_at": "2026-04-24T06:16:13.707030280+00:00"
+          },
+          {
+            "firmware": "A376BXXU2AZD5/A376BOXM2AZD5/A376BXXU2AZD5",
+            "md5": "8bf211371eebce76a01c482362a1f952",
+            "found_at": "2026-04-27T14:00:15.108952211+00:00"
           }
         ]
       }
@@ -6334,6 +6339,11 @@
             "firmware": "A376USQU2AZD5/A376UOYN2AZD5/A376USQU2AZD5",
             "md5": "11803b855500bd2345e9550d0522c070",
             "found_at": "2026-04-27T02:52:40.004204749+00:00"
+          },
+          {
+            "firmware": "A376USQU2AZD6/A376UOYN2AZD6/A376USQU2AZD6",
+            "md5": "9e8c86eaf557f82c420713112f041c81",
+            "found_at": "2026-04-27T14:00:20.180970628+00:00"
           }
         ]
       }
@@ -8714,6 +8724,11 @@
             "firmware": "A576BXXU2AZD8/A576BOXM2AZD8/A576BXXU2AZD8",
             "md5": "1e2e1fb0c2ddd1de58fdb0a30f6b1575",
             "found_at": "2026-04-24T06:19:45.066912184+00:00"
+          },
+          {
+            "firmware": "A576BXXU2AZD9/A576BOXM2AZD9/A576BXXU2AZD9",
+            "md5": "eeb5e5a77137866360bde2a747ed2091",
+            "found_at": "2026-04-27T14:02:13.583615840+00:00"
           }
         ]
       }
@@ -21894,6 +21909,11 @@
             "firmware": "G766USQS7BZD8/G766UOYN7BZD8/G766USQS7BZD8",
             "md5": "a699d4e6aaeb41284032435eaec6f443",
             "found_at": "2026-04-23T11:20:01.769703080+00:00"
+          },
+          {
+            "firmware": "G766USQU7CZD9/G766UOYN7CZD9/G766USQU7CZD9",
+            "md5": "f6f128e641211aa6351583e9fda05f4d",
+            "found_at": "2026-04-27T14:05:24.371435890+00:00"
           }
         ]
       }
@@ -22069,6 +22089,11 @@
             "firmware": "G766U1UES7BZD8/G766U1OYM7BZD8/G766U1UES7BZD8",
             "md5": "0dcbed1b325d216718e7afcb4b5ca32d",
             "found_at": "2026-04-23T13:39:45.269936597+00:00"
+          },
+          {
+            "firmware": "G766U1UEU7CZD9/G766U1OYM7CZD9/G766U1UEU7CZD9",
+            "md5": "0f282759d23db3682adf486f5dc182e5",
+            "found_at": "2026-04-27T14:05:26.717215352+00:00"
           }
         ]
       }

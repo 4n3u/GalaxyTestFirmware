@@ -6349,6 +6349,46 @@
       }
     }
   },
+  "SM-A376U1": {
+    "name": "Galaxy A37 5G",
+    "regional_firmwares": {
+      "XAA": {
+        "latest_official": "A376U1UES2AZC4/A376U1OYM2AZC4/A376U1UES2AZC4",
+        "test_firmwares": [
+          {
+            "firmware": "A376U1UES2AZC1/A376U1OYM2AZC1/A376U1UES2AZC1",
+            "md5": "eea42538987610ebca44306210f13082",
+            "found_at": "2026-04-27T15:55:19.631285863+00:00"
+          },
+          {
+            "firmware": "A376U1UES2AZC4/A376U1OYM2AZC4/A376U1UES2AZC4",
+            "md5": "b74fab0ec099a34455d66b9e5158acff",
+            "found_at": "2026-04-27T15:55:19.632149848+00:00"
+          },
+          {
+            "firmware": "A376U1UEU2AZD3/A376U1OYM2AZD3/A376U1UEU2AZD3",
+            "md5": "1974a9c5cc70c27a89163aa9f8299d39",
+            "found_at": "2026-04-27T15:55:19.904668266+00:00"
+          },
+          {
+            "firmware": "A376U1UEU2AZD4/A376U1OYM2AZD4/A376U1UEU2AZD4",
+            "md5": "1c64da32d89f6c327698e7338dd6f578",
+            "found_at": "2026-04-27T15:55:19.905127291+00:00"
+          },
+          {
+            "firmware": "A376U1UEU2AZD5/A376U1OYM2AZD5/A376U1UEU2AZD5",
+            "md5": "b9eff5ebb40ad3bcdf0ccb62f7f0f5b2",
+            "found_at": "2026-04-27T15:55:19.905576001+00:00"
+          },
+          {
+            "firmware": "A376U1UEU2AZD6/A376U1OYM2AZD6/A376U1UEU2AZD6",
+            "md5": "edf5e66b4b5982bc8623b57026380997",
+            "found_at": "2026-04-27T15:55:19.906156344+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-A426U1": {
     "name": "Galaxy A42 5G",
     "regional_firmwares": {
@@ -11134,6 +11174,11 @@
             "firmware": "F731NKSU6GZDP/F731NOKR6GZDP/F731NKSU6GZDN",
             "md5": "b8515bb9bdef978c656758e0829edb24",
             "found_at": "2026-04-24T06:17:42.888868094+00:00"
+          },
+          {
+            "firmware": "F731NKSU6GZDQ/F731NOKR6GZDQ/F731NKSU6GZDQ",
+            "md5": "a56ab95dd8355c2a6de7d4c0f276985f",
+            "found_at": "2026-04-27T15:50:37.439870915+00:00"
           }
         ]
       }
@@ -14924,6 +14969,11 @@
             "firmware": "F766USQU9BZDP/F766UOYN9BZDP/F766USQU9BZDP",
             "md5": "8f9833ce286312ba8dd757c1537e7c7e",
             "found_at": "2026-04-25T02:30:09.643718290+00:00"
+          },
+          {
+            "firmware": "F766USQU9BZDH/F766UOYN9BZDH/F766USQU9BZDH",
+            "md5": "a2679b98c4955d772c261acafbf54028",
+            "found_at": "2026-04-27T15:51:04.288840466+00:00"
           }
         ]
       }

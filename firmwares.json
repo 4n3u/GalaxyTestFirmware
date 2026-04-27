@@ -8698,7 +8698,7 @@
     "name": "Galaxy A57 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A576U1UEU1AZC1/A576U1OYM1AZC1/A576U1UEU1AZC1",
+        "latest_official": "A576U1UES2AZD2/A576U1OYM2AZD2/A576U1UES2AZD2",
         "test_firmwares": [
           {
             "firmware": "A576U1UEU1AZA3/A576U1OYM1AZA3/A576U1UEU1AZA3",
@@ -8794,6 +8794,11 @@
             "firmware": "A576U1UEU2AZD6/A576U1OYM2AZD6/A576U1UEU2AZD6",
             "md5": "a2b38e0146a943bda618848bb860b780",
             "found_at": "2026-04-22T06:09:06.977879548+00:00"
+          },
+          {
+            "firmware": "A576U1UEU2AZD8/A576U1OYM2AZD8/A576U1UEU2AZD8",
+            "md5": "d2831088e2ed667ade4fc909c611ae38",
+            "found_at": "2026-04-27T06:39:10.744354463+00:00"
           }
         ]
       }
@@ -13084,6 +13089,11 @@
             "firmware": "F7610ZCU9BZDO/F7610CHC9BZDO/F7610ZCU9BZDH",
             "md5": "798cf3e4318147a85b7f200ba0ce5b2c",
             "found_at": "2026-04-24T22:43:41.790221848+00:00"
+          },
+          {
+            "firmware": "F7610ZCU9BZDP/F7610CHC9BZDP/F7610ZCU9BZDH",
+            "md5": "d60cd85d769ee2ffe224764d6d249430",
+            "found_at": "2026-04-27T06:37:23.569644166+00:00"
           }
         ]
       }
@@ -14014,6 +14024,11 @@
             "firmware": "F7660ZCU9BZDN/F7660CHC9BZDN/F7660ZCU9BZDH",
             "md5": "be982b2c1b2cb6249c86ab1a9d9e8014",
             "found_at": "2026-04-24T09:57:32.383997075+00:00"
+          },
+          {
+            "firmware": "F7660ZCU9BZDP/F7660CHC9BZDP/F7660ZCU9BZDH",
+            "md5": "b76022f21fa9b5ac57273db3190e8a4d",
+            "found_at": "2026-04-27T06:37:01.480996262+00:00"
           }
         ]
       }
@@ -19549,6 +19564,11 @@
             "firmware": "F9660ZCU9BZDN/F9660CHC9BZDN/F9660ZCU9BZDH",
             "md5": "dff86093d1cd770b929d9417525f5322",
             "found_at": "2026-04-24T02:48:02.958168260+00:00"
+          },
+          {
+            "firmware": "F9660ZCU9BZDP/F9660CHC9BZDP/F9660ZCU9BZDH",
+            "md5": "98e3ee3c20efa6e16dcd8c76214ca57d",
+            "found_at": "2026-04-27T06:38:44.297549854+00:00"
           }
         ]
       }
@@ -20699,6 +20719,11 @@
             "firmware": "F9680ZCU4BZDN/F9680CHC4BZDN/F9680ZCU4BZDH",
             "md5": "c2cfc7b84941d53eb6da1266ea034ee5",
             "found_at": "2026-04-24T06:19:44.455867383+00:00"
+          },
+          {
+            "firmware": "F9680ZCU4BZDP/F9680CHC4BZDP/F9680ZCU4BZDH",
+            "md5": "3458b8b60eb8c28cc7f577d41520dcd1",
+            "found_at": "2026-04-27T06:38:59.699989420+00:00"
           }
         ]
       }
@@ -25564,6 +25589,11 @@
             "firmware": "S711U1UEU7FZDP/S711U1OYM7FZDP/S711U1UEU7FZDP",
             "md5": "1c0d699e7d9b4f693d3280fece9f7992",
             "found_at": "2026-04-24T11:06:53.936204693+00:00"
+          },
+          {
+            "firmware": "S711U1UEU7FZDR/S711U1OYM7FZDR/S711U1UEU7FZDR",
+            "md5": "55a783bbd63bd84cad86200865b7dcfa",
+            "found_at": "2026-04-27T06:34:06.150226445+00:00"
           }
         ]
       }
@@ -25573,7 +25603,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "S7210ZHSACZC1/S7210OZSACZC1/S7210ZHSACZC1",
+        "latest_official": "S7210ZHSBCZD1/S7210OZSBCZD1/S7210ZHSBCZD1",
         "test_firmwares": [
           {
             "firmware": "S7210ZHS8CYJ2/S7210OZS8CYJ2/S7210ZHS8CYJ2",
@@ -25689,6 +25719,11 @@
             "firmware": "S7210ZHSBCZD1/S7210OZSBCZD1/S7210ZHSBCZD1",
             "md5": "356e1a414325a0dacf04ae93055affbd",
             "found_at": "2026-04-09T07:30:21.195625253+00:00"
+          },
+          {
+            "firmware": "S7210ZHUBDZDP/S7210OZSBDZDP/S7210ZHUBDZDP",
+            "md5": "17619fbdc8bd66ce5f893f05ee651323",
+            "found_at": "2026-04-27T06:34:54.809959335+00:00"
           }
         ]
       }

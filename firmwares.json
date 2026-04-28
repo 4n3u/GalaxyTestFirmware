@@ -3313,7 +3313,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A176U1UES3AZB9/A176U1OYM3AZB9/A176U1UES3AZB9",
+        "latest_official": "A176U1UES5AZD2/A176U1OYM5AZD2/A176U1UES5AZD2",
         "test_firmwares": [
           {
             "firmware": "A176U1UES2AZA3/A176U1OYM2AZA3/A176U1UES2AZA3",
@@ -3369,6 +3369,26 @@
             "firmware": "A176U1UEU4BZCF/A176U1OYM4BZCF/A176U1UEU4BZCF",
             "md5": "8dfa2819217210fdbfa1526bda596875",
             "found_at": "2026-03-26T15:08:47.793864295+00:00"
+          },
+          {
+            "firmware": "A176U1UES5AZD2/A176U1OYM5AZD2/A176U1UES5AZD2",
+            "md5": "c06b99296ef3ab88202a766f41902cfd",
+            "found_at": "2026-04-28T17:50:07.801481242+00:00"
+          },
+          {
+            "firmware": "A176U1UEU5BZDB/A176U1OYM5BZDB/A176U1UEU5BZDB",
+            "md5": "671fbdae0184a5a7174efdb10eba4b23",
+            "found_at": "2026-04-28T17:50:08.150340943+00:00"
+          },
+          {
+            "firmware": "A176U1UEU5BZDH/A176U1OYM5BZDH/A176U1UEU5BZDH",
+            "md5": "f219c4d5a420f4397c1b14c0d0d3c53f",
+            "found_at": "2026-04-28T17:50:08.152712347+00:00"
+          },
+          {
+            "firmware": "A176U1UEU5BZDO/A176U1OYM5BZDO/A176U1UEU5BZDO",
+            "md5": "d4996fab32369a8e7c92fde6fec2d7de",
+            "found_at": "2026-04-28T17:50:08.155662615+00:00"
           }
         ]
       }
@@ -40849,6 +40869,11 @@
             "firmware": "S931USQU9CZDP/S931UOYN9CZDP/S931USQU9CZDP",
             "md5": "b4fc2407177746d1c812593713839b5e",
             "found_at": "2026-04-28T06:37:52.462703532+00:00"
+          },
+          {
+            "firmware": "S931USQU9ZZD3/S931UOYN9ZZD3/S931USQU9CZD3",
+            "md5": "c9a1d7f80a9bc1a17d6e248bbb026f94",
+            "found_at": "2026-04-28T17:53:54.989823031+00:00"
           }
         ]
       }
@@ -43139,6 +43164,11 @@
             "firmware": "S936USQU9CZDL/S936UOYN9CZDL/S936USQU9CZDL",
             "md5": "bd30fa0012d91365168f23b2e59a9233",
             "found_at": "2026-04-28T10:25:12.377084800+00:00"
+          },
+          {
+            "firmware": "S936USQU9CZDP/S936UOYN9CZDP/S936USQU9CZDP",
+            "md5": "c629bbfe49dfbd9daaf79427a0ee4e93",
+            "found_at": "2026-04-28T17:54:36.698561270+00:00"
           }
         ]
       }

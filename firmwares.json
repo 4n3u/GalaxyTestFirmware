@@ -8533,7 +8533,7 @@
     "name": "Galaxy A57 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5760ZCU1AZC2/A5760CHC1AZC2/A5760ZCU1AZC2",
+        "latest_official": "A5760ZCS2AZD3/A5760CHC2AZD3/A5760ZCS2AZD3",
         "test_firmwares": [
           {
             "firmware": "A5760ZCU1AZA3/A5760CHC1AZA3/A5760ZCU1AZA3",
@@ -8634,6 +8634,11 @@
             "firmware": "A5760ZCU2AZD8/A5760CHC2AZD8/A5760ZCU2AZD8",
             "md5": "5875de026310979eacb4ea35f3a064ff",
             "found_at": "2026-04-24T13:36:46.004089146+00:00"
+          },
+          {
+            "firmware": "A5760ZCU2AZD9/A5760CHC2AZD9/A5760ZCU2AZD9",
+            "md5": "cbf5e6bd932b9804243e77cd876eafd5",
+            "found_at": "2026-04-28T03:00:13.499268775+00:00"
           }
         ]
       }
@@ -8879,6 +8884,11 @@
             "firmware": "A576U1UEU2AZD8/A576U1OYM2AZD8/A576U1UEU2AZD8",
             "md5": "d2831088e2ed667ade4fc909c611ae38",
             "found_at": "2026-04-27T06:39:10.744354463+00:00"
+          },
+          {
+            "firmware": "A576U1UEU2AZD9/A576U1OYM2AZD9/A576U1UEU2AZD9",
+            "md5": "1429f30be268a32cdf80c2d3264338d8",
+            "found_at": "2026-04-28T03:00:20.664973290+00:00"
           }
         ]
       }
@@ -12674,6 +12684,11 @@
             "firmware": "F741USQU3DZDL/F741UOYN3DZDL/F741USQU3DZDL",
             "md5": "000c8ceb6864671ef0a5b83791ecd1ce",
             "found_at": "2026-04-23T19:15:04.492327863+00:00"
+          },
+          {
+            "firmware": "F741USQU3DZDP/F741UOYN3DZDP/F741USQU3DZDP",
+            "md5": "cae76c6f64f759d074ef2efb50f422c5",
+            "found_at": "2026-04-28T03:01:26.131387904+00:00"
           }
         ]
       }
@@ -18483,7 +18498,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F956USQS3CZC1/F956UOYN3CZC1/F956USQS3CZC1",
+        "latest_official": "F956USQS3CZC5/F956UOYN3CZC5/F956USQS3CZC5",
         "test_firmwares": [
           {
             "firmware": "F956USQS2CYIA/F956UOYN2CYIA/F956USQS2CYIA",
@@ -18844,6 +18859,11 @@
             "firmware": "F956USQS3CZC5/F956UOYN3CZC5/F956USQS3CZC5",
             "md5": "14e76bbff7b9ad7e7b2525d005d9bf8e",
             "found_at": "2026-03-31T05:55:25.463059575+00:00"
+          },
+          {
+            "firmware": "F956USQU3DZDQ/F956UOYN3DZDQ/F956USQU3DZDQ",
+            "md5": "e1f92540bc49fd186b5f1a0919cfbeb9",
+            "found_at": "2026-04-28T03:02:24.661132023+00:00"
           }
         ]
       }
@@ -19084,6 +19104,11 @@
             "firmware": "F956U1UEU3ZZDD/F956U1OYM3ZZDD/F956U1UEU3DZDD",
             "md5": "99eb6926ecdadc622b6de1718599317d",
             "found_at": "2026-04-21T15:19:58.519646034+00:00"
+          },
+          {
+            "firmware": "F956U1UEU3DZDP/F956U1OYM3DZDP/F956U1UEU3DZDP",
+            "md5": "772f7a93525145f8a65a212e64cb7950",
+            "found_at": "2026-04-28T03:02:26.414972206+00:00"
           }
         ]
       }

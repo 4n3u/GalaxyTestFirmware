@@ -5629,6 +5629,11 @@
             "firmware": "A3660ZHU7CZDC/A3660OZS7CZDC/A3660ZHU7CZDC",
             "md5": "7756f46eeec4796959ea90bc07c2fdc9",
             "found_at": "2026-04-24T15:16:26.719792941+00:00"
+          },
+          {
+            "firmware": "A3660ZHU7CZDD/A3660OZS7CZDD/A3660ZHU7CZDD",
+            "md5": "9c4be39c96bd06f54a600a64ea1002ea",
+            "found_at": "2026-04-28T14:14:24.489497804+00:00"
           }
         ]
       }
@@ -6059,6 +6064,11 @@
             "firmware": "A366USQU7CZDC/A366UOYN7CZDC/A366USQU7CZDC",
             "md5": "99d4432a3d62073676fe68d0aa05c32f",
             "found_at": "2026-04-24T18:58:28.115335091+00:00"
+          },
+          {
+            "firmware": "A366USQU7CZDD/A366UOYN7CZDD/A366USQU7CZDD",
+            "md5": "4ab9ab1e9dfdd4ac454a386b6400fcb5",
+            "found_at": "2026-04-28T14:14:33.048907196+00:00"
           }
         ]
       }
@@ -24843,7 +24853,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S711BXXSEFZC1/S711BOXMEFZC1/S711BXXSEFZC1",
+        "latest_official": "S711BXXSFFZD2/S711BOXMFFZD2/S711BXXSFFZD2",
         "test_firmwares": [
           {
             "firmware": "S711BXXSBFYJ1/S711BOXMBFYJ1/S711BXXSBFYJ1",
@@ -25024,6 +25034,11 @@
             "firmware": "S711BXXUFGZDN/S711BOXMFGZDN/S711BXXUFGZDN",
             "md5": "17c8bd582ff247311ec380a219a86b74",
             "found_at": "2026-04-23T15:58:37.600916963+00:00"
+          },
+          {
+            "firmware": "S711BXXUFGZDP/S711BOXMFGZDP/S711BXXUFGZDP",
+            "md5": "adddb1642767c1e40a8f70ade526ae17",
+            "found_at": "2026-04-28T14:13:41.085948247+00:00"
           }
         ]
       }

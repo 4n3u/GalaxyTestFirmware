@@ -4918,7 +4918,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3560ZHS8CZB6/A3560OZS8CZB6/A3560ZHS8CZB1",
+        "latest_official": "A3560ZHS9CZD6/A3560OZS9CZD6/A3560ZHS9CZD6",
         "test_firmwares": [
           {
             "firmware": "A3560ZHU5CYG6/A3560OZS5CYG6/A3560ZHU5CYG6",
@@ -5024,6 +5024,21 @@
             "firmware": "A3560ZHU8DZC4/A3560OZS8DZC4/A3560ZHU8DZC4",
             "md5": "02bb622d1c8932f01365bd7c9e8c46dd",
             "found_at": "2026-03-23T05:46:33.113891838+00:00"
+          },
+          {
+            "firmware": "A3560ZHS9CZD5/A3560OZS9CZD5/A3560ZHS9CZD5",
+            "md5": "c67b256055b749596077dd019578b5e3",
+            "found_at": "2026-04-29T02:58:37.311861620+00:00"
+          },
+          {
+            "firmware": "A3560ZHS9CZD6/A3560OZS9CZD6/A3560ZHS9CZD6",
+            "md5": "ac1360e8010bb65e958e4a3e4a6e7023",
+            "found_at": "2026-04-29T02:58:37.312329958+00:00"
+          },
+          {
+            "firmware": "A3560ZHU9DZD8/A3560OZS9DZD8/A3560ZHU9DZD8",
+            "md5": "ed4452b3240e8d35b667aaecd04e2238",
+            "found_at": "2026-04-29T02:58:37.726999960+00:00"
           }
         ]
       }

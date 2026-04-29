@@ -11689,6 +11689,11 @@
             "firmware": "F7410ZCU3DZDL/F7410CHC3DZDL/F7410ZCU3DZDL",
             "md5": "a31dba9fa2cf56f1a653590c1ac7af78",
             "found_at": "2026-04-24T09:57:16.521767192+00:00"
+          },
+          {
+            "firmware": "F7410ZCU3DZDP/F7410CHC3DZDP/F7410ZCU3DZDP",
+            "md5": "b229512110cfa2bf588e14fc88b78e9d",
+            "found_at": "2026-04-29T06:33:28.415054599+00:00"
           }
         ]
       }

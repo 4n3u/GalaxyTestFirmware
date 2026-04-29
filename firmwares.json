@@ -1879,6 +1879,11 @@
             "firmware": "A165FXXU9DZD4/A165FOXM9DZD4/A165FXXU9DZD4",
             "md5": "64b14e467a111f4370c02b59a3607a79",
             "found_at": "2026-04-23T11:11:51.428627192+00:00"
+          },
+          {
+            "firmware": "A165FXXU9DZD5/A165FOXM9DZD5/A165FXXU9DZD5",
+            "md5": "48ef544ab05121cd65096e56891f455b",
+            "found_at": "2026-04-29T13:59:56.297442806+00:00"
           }
         ]
       }
@@ -2924,6 +2929,11 @@
             "firmware": "A175FXXU5CZD7/A175FOXM5CZD7/A175FXXU5CZD7",
             "md5": "f1174e85db0f38b64626eace8c0a75b9",
             "found_at": "2026-04-23T17:23:33.432017216+00:00"
+          },
+          {
+            "firmware": "A175FXXU5CZD8/A175FOXM5CZD8/A175FXXU5CZD8",
+            "md5": "7d4951138147c7040743ac96fa4607f8",
+            "found_at": "2026-04-29T14:00:21.104256332+00:00"
           }
         ]
       }
@@ -8019,6 +8029,11 @@
             "firmware": "A556BXXUEDZDP/A556BOXMEDZDP/A556BXXUEDZDP",
             "md5": "223c1ae944fad42d8249e8348afa4084",
             "found_at": "2026-04-24T17:00:15.365223639+00:00"
+          },
+          {
+            "firmware": "A556BXXSECZDC/A556BOXMECZDC/A556BXXSECZDC",
+            "md5": "c15f495f39b3e0aa6e2df8da11f3bb43",
+            "found_at": "2026-04-29T14:08:10.030882059+00:00"
           }
         ]
       }
@@ -52939,6 +52954,11 @@
             "firmware": "X356BXXU7CZD7/X356BOXM7CZD7/X356BXXU7CZD7",
             "md5": "b47515f2c6c62c671f185c505a8fd02c",
             "found_at": "2026-04-24T17:04:25.140825637+00:00"
+          },
+          {
+            "firmware": "X356BXXU7CZD8/X356BOXM7CZD8/X356BXXU7CZD8",
+            "md5": "3a81714b1c2dcb48f349cc39fb0fda23",
+            "found_at": "2026-04-29T13:59:03.432130263+00:00"
           }
         ]
       }

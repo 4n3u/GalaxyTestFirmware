@@ -3404,6 +3404,11 @@
             "firmware": "A176U1UEU5BZDO/A176U1OYM5BZDO/A176U1UEU5BZDO",
             "md5": "d4996fab32369a8e7c92fde6fec2d7de",
             "found_at": "2026-04-28T17:50:08.155662615+00:00"
+          },
+          {
+            "firmware": "A176U1UEU5BZDS/A176U1OYM5BZDS/A176U1UEU5BZDS",
+            "md5": "42684c8bf22197c715ccb177eed492bc",
+            "found_at": "2026-04-29T17:42:39.156331508+00:00"
           }
         ]
       }
@@ -35574,6 +35579,11 @@
             "firmware": "S921BXXUEDZDQ/S921BOXMEDZDQ/S921BXXUEDZDQ",
             "md5": "772938b1fc87b6fcbdf81f9b57c3f41f",
             "found_at": "2026-04-28T10:23:02.348410746+00:00"
+          },
+          {
+            "firmware": "S921BXXUEDZDR/S921BOXMEDZDR/S921BXXUEDZDR",
+            "md5": "60396d3b00dd2b852ea07b7e609422b5",
+            "found_at": "2026-04-29T17:40:15.418191440+00:00"
           }
         ]
       }
@@ -36354,6 +36364,11 @@
             "firmware": "S921U1UEU5DZDP/S921U1OYM5DZDP/S921U1UEU5DZDP",
             "md5": "c37b4b64e4725396972ad20cab728783",
             "found_at": "2026-04-23T20:59:29.013556730+00:00"
+          },
+          {
+            "firmware": "S921U1UEU5DZDR/S921U1OYM5DZDR/S921U1UEU5DZDR",
+            "md5": "b8f36e4ca90ecbd72e33b7f01c3ea2bc",
+            "found_at": "2026-04-29T17:40:12.734180078+00:00"
           }
         ]
       }
@@ -36819,6 +36834,11 @@
             "firmware": "S926BXXUEDZDQ/S926BOXMEDZDQ/S926BXXUEDZDQ",
             "md5": "227919433fe3abc94f618911740b27d5",
             "found_at": "2026-04-28T06:37:36.469304797+00:00"
+          },
+          {
+            "firmware": "S926BXXUEDZDR/S926BOXMEDZDR/S926BXXUEDZDR",
+            "md5": "d682bce01b67da20e8c34fb9271d3780",
+            "found_at": "2026-04-29T17:40:51.523513876+00:00"
           }
         ]
       }
@@ -37604,6 +37624,11 @@
             "firmware": "S926U1UEU5DZDP/S926U1OYM5DZDP/S926U1UEU5DZDP",
             "md5": "a878603899a6399ed680580d76c487e9",
             "found_at": "2026-04-23T21:00:06.765710485+00:00"
+          },
+          {
+            "firmware": "S926U1UEU5DZDR/S926U1OYM5DZDR/S926U1UEU5DZDR",
+            "md5": "04ba8488ba16166ed14eeadecab43aa9",
+            "found_at": "2026-04-29T17:40:48.831487849+00:00"
           }
         ]
       }
@@ -39064,6 +39089,11 @@
             "firmware": "S928U1UEU5DZDP/S928U1OYM5DZDP/S928U1UEU5DZDP",
             "md5": "844119d88d33b7d316651f05d35a04fa",
             "found_at": "2026-04-23T20:59:57.793681695+00:00"
+          },
+          {
+            "firmware": "S928U1UEU5DZDR/S928U1OYM5DZDR/S928U1UEU5DZDR",
+            "md5": "42f0ba49975bddcc9e1140bff33247ef",
+            "found_at": "2026-04-29T17:40:40.722595403+00:00"
           }
         ]
       }

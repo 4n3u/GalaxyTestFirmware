@@ -35834,6 +35834,11 @@
             "firmware": "S921NKSUEDZDQ/S921NOKREDZDQ/S921NKSUEDZDQ",
             "md5": "4b89b20a43e88e09b351c7d4399e1705",
             "found_at": "2026-04-27T17:33:40.584534398+00:00"
+          },
+          {
+            "firmware": "S921NKSUEDZDR/S921NOKREDZDR/S921NKSUEDZDR",
+            "md5": "538f627e47b2bfe02aa21aa6b630a921",
+            "found_at": "2026-04-29T16:03:25.231413139+00:00"
           }
         ]
       }
@@ -37074,6 +37079,11 @@
             "firmware": "S926NKSUEDZDQ/S926NOKREDZDQ/S926NKSUEDZDQ",
             "md5": "7d5060e1f9b0aa40962e0935a15c5c1d",
             "found_at": "2026-04-27T17:34:36.991417109+00:00"
+          },
+          {
+            "firmware": "S926NKSUEDZDR/S926NOKREDZDR/S926NKSUEDZDR",
+            "md5": "a58a30be649ad9ec2e1849695d7fed26",
+            "found_at": "2026-04-29T16:04:07.020671021+00:00"
           }
         ]
       }

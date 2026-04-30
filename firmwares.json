@@ -7709,6 +7709,11 @@
             "firmware": "A546U1UEUJFZD9/A546U1OYMJFZD9/A546U1UEUJFZD9",
             "md5": "e724fea9ce80c1590d49a8ad1cb13721",
             "found_at": "2026-04-24T13:36:19.103301746+00:00"
+          },
+          {
+            "firmware": "A546U1UEUJFZDB/A546U1OYMJFZDB/A546U1UEUJFZDB",
+            "md5": "ce3cebde7683c2b184369d9b3c7acc7e",
+            "found_at": "2026-04-30T10:16:49.679595998+00:00"
           }
         ]
       }

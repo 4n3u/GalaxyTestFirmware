@@ -2054,6 +2054,11 @@
             "firmware": "A165NKSU7DZD4/A165NOKR7DZD4/A165NKSU7DZD4",
             "md5": "289e63a8f658b58c52166177d776e125",
             "found_at": "2026-04-22T11:09:50.390711601+00:00"
+          },
+          {
+            "firmware": "A165NKSU7DZD5/A165NOKR7DZD5/A165NKSU7DZD5",
+            "md5": "3951120be558ffc2f15aca40817a1767",
+            "found_at": "2026-04-30T02:56:17.980066808+00:00"
           }
         ]
       }

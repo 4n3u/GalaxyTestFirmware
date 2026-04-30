@@ -7723,7 +7723,7 @@
     "name": "Galaxy A55 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5560ZCSDCZC4/A5560CHCDCZC4/A5560ZCSDCZC4",
+        "latest_official": "A5560ZCSECZD1/A5560CHCECZD1/A5560ZCSECZD1",
         "test_firmwares": [
           {
             "firmware": "A5560ZCSBCYJ1/A5560CHCBCYJ1/A5560ZCSBCYJ1",
@@ -7844,6 +7844,11 @@
             "firmware": "A5560ZCUEDZDB/A5560CHCEDZDB/A5560ZCUEDZDB",
             "md5": "fc0d1fe62febc57d77e75e138ec523db",
             "found_at": "2026-04-17T15:06:57.456443723+00:00"
+          },
+          {
+            "firmware": "A5560ZCSECZDC/A5560CHCECZDC/A5560ZCSECZDC",
+            "md5": "6536dbadd3a63bd2b7d86cf7b1286745",
+            "found_at": "2026-04-30T14:06:59.638228907+00:00"
           }
         ]
       }
@@ -11329,6 +11334,11 @@
             "firmware": "F731NKSU6GZDQ/F731NOKR6GZDQ/F731NKSU6GZDQ",
             "md5": "a56ab95dd8355c2a6de7d4c0f276985f",
             "found_at": "2026-04-27T15:50:37.439870915+00:00"
+          },
+          {
+            "firmware": "F731NKSU6GZDS/F731NOKR6GZDS/F731NKSU6GZDQ",
+            "md5": "9d9380a2a773c5d090298a3769dab5d6",
+            "found_at": "2026-04-30T14:04:24.099074212+00:00"
           }
         ]
       }
@@ -17479,6 +17489,11 @@
             "firmware": "F946NKSU6GZDP/F946NOKR6GZDP/F946NKSU6GZDN",
             "md5": "b2f58ac6d43c230c71084621c6c1b95d",
             "found_at": "2026-04-24T02:47:38.692790308+00:00"
+          },
+          {
+            "firmware": "F946NKSU6GZDS/F946NOKR6GZDS/F946NKSU6GZDN",
+            "md5": "4981ab21ab4a3feff8fd9b4cf0a40025",
+            "found_at": "2026-04-30T14:06:12.545323860+00:00"
           }
         ]
       }

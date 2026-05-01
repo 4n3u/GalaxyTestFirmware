@@ -3419,6 +3419,11 @@
             "firmware": "A176U1UEU5BZDS/A176U1OYM5BZDS/A176U1UEU5BZDS",
             "md5": "42684c8bf22197c715ccb177eed492bc",
             "found_at": "2026-04-29T17:42:39.156331508+00:00"
+          },
+          {
+            "firmware": "A176U1UEU5BZDU/A176U1OYM5BZDU/A176U1UEU5BZDU",
+            "md5": "1f35421b93a3eb7af4364b10b274623e",
+            "found_at": "2026-05-01T09:50:40.457863507+00:00"
           }
         ]
       }

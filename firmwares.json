@@ -3434,6 +3434,11 @@
             "firmware": "A176U1UEU5BZDU/A176U1OYM5BZDU/A176U1UEU5BZDU",
             "md5": "1f35421b93a3eb7af4364b10b274623e",
             "found_at": "2026-05-01T09:50:40.457863507+00:00"
+          },
+          {
+            "firmware": "A176U1UEU5BZE1/A176U1OYM5BZE1/A176U1UEU5BZE1",
+            "md5": "66c263efc2d471adc31ec5e794c96f13",
+            "found_at": "2026-05-04T19:31:35.235611948+00:00"
           }
         ]
       }
@@ -4104,6 +4109,11 @@
             "firmware": "A256U1UEUCEZDO/A256U1OYMCEZDO/A256U1UEUCEZDO",
             "md5": "653e016ac8c6b5735254c83393db6426",
             "found_at": "2026-05-04T10:19:24.170426913+00:00"
+          },
+          {
+            "firmware": "A256U1UEUCEZE1/A256U1OYMCEZE1/A256U1UEUCEZE1",
+            "md5": "a7ef763e0f9344254ef737ca026152f5",
+            "found_at": "2026-05-04T19:32:52.005206500+00:00"
           }
         ]
       }

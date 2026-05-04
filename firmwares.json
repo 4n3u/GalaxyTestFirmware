@@ -3783,7 +3783,7 @@
     "name": "Galaxy A25 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A256BXXSBDZB2/A256BOXMBDZB2/A256BXXSBDZB2",
+        "latest_official": "A256BXXSCDZD8/A256BOXMCDZD8/A256BXXSCDZD8",
         "test_firmwares": [
           {
             "firmware": "A256BXXU8DYG7/A256BOXM8DYG7/A256BXXU8DYG7",
@@ -3914,6 +3914,21 @@
             "firmware": "A256BXXUBEZC5/A256BOXMBEZC5/A256BXXUBEZC5",
             "md5": "7d2965c9773f7696d112c02276fde34c",
             "found_at": "2026-03-27T13:12:32.500075797+00:00"
+          },
+          {
+            "firmware": "A256BXXSCDZD7/A256BOXMCDZD7/A256BXXSCDZD7",
+            "md5": "4adb48c5cb0cb5a38df472cfa0f63866",
+            "found_at": "2026-05-04T06:44:24.398753657+00:00"
+          },
+          {
+            "firmware": "A256BXXSCDZD8/A256BOXMCDZD8/A256BXXSCDZD8",
+            "md5": "8393e57bbfb763e5b38c04fd52c00ab2",
+            "found_at": "2026-05-04T06:44:24.399169588+00:00"
+          },
+          {
+            "firmware": "A256BXXUCEZD9/A256BOXMCEZD9/A256BXXUCEZD9",
+            "md5": "9229d86d26c480d4d40f3a185a33f39b",
+            "found_at": "2026-05-04T06:44:24.748284692+00:00"
           }
         ]
       }

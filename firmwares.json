@@ -3929,6 +3929,16 @@
             "firmware": "A256BXXUCEZD9/A256BOXMCEZD9/A256BXXUCEZD9",
             "md5": "9229d86d26c480d4d40f3a185a33f39b",
             "found_at": "2026-05-04T06:44:24.748284692+00:00"
+          },
+          {
+            "firmware": "A256BXXUCEZDO/A256BOXMCEZDO/A256BXXUCEZDO",
+            "md5": "8bf24b2b1faa37cad836ab9cc398cfa8",
+            "found_at": "2026-05-04T10:19:16.624224820+00:00"
+          },
+          {
+            "firmware": "A256BXXUCEZE1/A256BOXMCEZE1/A256BXXUCEZE1",
+            "md5": "fa024f517273c22f890a908b7171283e",
+            "found_at": "2026-05-04T10:19:16.630337974+00:00"
           }
         ]
       }
@@ -3938,7 +3948,7 @@
     "name": "Galaxy A25 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A256U1UESBDZB2/A256U1OYMBDZB2/A256U1UESBDZB2",
+        "latest_official": "A256U1UESCDZD7/A256U1OYMCDZD7/A256U1UESCDZD7",
         "test_firmwares": [
           {
             "firmware": "A256U1UEU8DYG8/A256U1OYM8DYG8/A256U1UEU8DYG8",
@@ -4069,6 +4079,21 @@
             "firmware": "A256U1UEUBEZC5/A256U1OYMBEZC5/A256U1UEUBEZC5",
             "md5": "37f16c01d426b2de9b28cd37c17cc78a",
             "found_at": "2026-03-30T07:59:25.849620218+00:00"
+          },
+          {
+            "firmware": "A256U1UESCDZD7/A256U1OYMCDZD7/A256U1UESCDZD7",
+            "md5": "ad2068d86c7e2f460be939ae89ddaabc",
+            "found_at": "2026-05-04T10:19:23.807542556+00:00"
+          },
+          {
+            "firmware": "A256U1UEUCEZD9/A256U1OYMCEZD9/A256U1UEUCEZD9",
+            "md5": "d6ccefc314e896a4cc445f0317da192a",
+            "found_at": "2026-05-04T10:19:24.164225436+00:00"
+          },
+          {
+            "firmware": "A256U1UEUCEZDO/A256U1OYMCEZDO/A256U1UEUCEZDO",
+            "md5": "653e016ac8c6b5735254c83393db6426",
+            "found_at": "2026-05-04T10:19:24.170426913+00:00"
           }
         ]
       }
@@ -4229,6 +4254,11 @@
             "firmware": "A266BXXU9CZD9/A266BOXM9CZD9/A266BXXU9CZD9",
             "md5": "43761ff7419094e44584398ea1833ce5",
             "found_at": "2026-04-29T10:11:44.193733363+00:00"
+          },
+          {
+            "firmware": "A266BXXU9CZE1/A266BOXM9CZE1/A266BXXU9CZE1",
+            "md5": "e0942ccbc37ce96a495742a32a5ffee1",
+            "found_at": "2026-05-04T10:19:29.111542941+00:00"
           }
         ]
       }

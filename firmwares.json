@@ -22278,7 +22278,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G766U1UES6BZC1/G766U1OYM6BZC1/G766U1UES6BZC1",
+        "latest_official": "G766U1UES7BZD8/G766U1OYM7BZD8/G766U1UES7BZD8",
         "test_firmwares": [
           {
             "firmware": "G766U1UES3AYI1/G766U1OYM3AYI1/G766U1UES3AYI1",
@@ -22449,6 +22449,11 @@
             "firmware": "G766U1UEU7CZD9/G766U1OYM7CZD9/G766U1UEU7CZD9",
             "md5": "0f282759d23db3682adf486f5dc182e5",
             "found_at": "2026-04-27T14:05:26.717215352+00:00"
+          },
+          {
+            "firmware": "G766U1UEU7CZE1/G766U1OYM7CZE1/G766U1UEU7CZE1",
+            "md5": "45233a6ce77dd18fe009d322dcd5e7ad",
+            "found_at": "2026-05-05T06:27:58.622833293+00:00"
           }
         ]
       }

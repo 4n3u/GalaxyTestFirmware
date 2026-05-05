@@ -7644,6 +7644,16 @@
             "firmware": "A546BXXUJFZDB/A546BOXMJFZDB/A546BXXUJFZDB",
             "md5": "441f82dc594852e32bb902312d193339",
             "found_at": "2026-04-30T06:40:49.859993070+00:00"
+          },
+          {
+            "firmware": "A546BXXSJEZE1/A546BOXMJEZE1/A546BXXSJEZE1",
+            "md5": "d9b84f77fc67829da042fee7ff823b43",
+            "found_at": "2026-05-05T10:14:54.407082953+00:00"
+          },
+          {
+            "firmware": "A546BXXUJFZE3/A546BOXMJFZE3/A546BXXUJFZE3",
+            "md5": "22e65a24e151fca0f840c3bd8b27bdac",
+            "found_at": "2026-05-05T10:14:54.917045721+00:00"
           }
         ]
       }
@@ -7819,6 +7829,11 @@
             "firmware": "A546U1UEUJFZDB/A546U1OYMJFZDB/A546U1UEUJFZDB",
             "md5": "ce3cebde7683c2b184369d9b3c7acc7e",
             "found_at": "2026-04-30T10:16:49.679595998+00:00"
+          },
+          {
+            "firmware": "A546U1UESJEZE1/A546U1OYMJEZE1/A546U1UESJEZE1",
+            "md5": "0ac66f954a45c0b9eacc64a41901c5c2",
+            "found_at": "2026-05-05T10:15:00.108706203+00:00"
           }
         ]
       }
@@ -8573,7 +8588,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A566U1UES6BZC4/A566U1OYM6BZC4/A566U1UES6BZC4",
+        "latest_official": "A566U1UES7BZD1/A566U1OYM7BZD1/A566U1UES7BZD1",
         "test_firmwares": [
           {
             "firmware": "A566U1UES3BYJ1/A566U1OYM3BYJ1/A566U1UES3BYJ1",
@@ -8779,6 +8794,11 @@
             "firmware": "A566U1UEU7CZDR/A566U1OYM7CZDR/A566U1UEU7CZDR",
             "md5": "34a9980455a0653be5c0765e96a4eb92",
             "found_at": "2026-04-28T10:28:15.100383090+00:00"
+          },
+          {
+            "firmware": "A566U1UEU7CZE1/A566U1OYM7CZE1/A566U1UEU7CZE1",
+            "md5": "1b749ce324fae90923794f6d19e0f90e",
+            "found_at": "2026-05-05T10:15:25.862419429+00:00"
           }
         ]
       }
@@ -25659,6 +25679,11 @@
             "firmware": "S711USQU7FZDR/S711UOYN7FZDR/S711USQU7FZDR",
             "md5": "666ce9663c09cebb793784813861811a",
             "found_at": "2026-04-24T18:52:43.766795944+00:00"
+          },
+          {
+            "firmware": "S711USQU7FZE1/S711UOYN7FZE1/S711USQU7FZE1",
+            "md5": "a7cadb8a6f6c404e753b5d611e482b73",
+            "found_at": "2026-05-05T10:09:59.435724050+00:00"
           }
         ]
       }
@@ -25668,7 +25693,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S711U1UES7EZC1/S711U1OYM7EZC1/S711U1UES7EZC1",
+        "latest_official": "S711U1UES7EZD2/S711U1OYM7EZD2/S711U1UES7EZD2",
         "test_firmwares": [
           {
             "firmware": "S711U1UES6DYE1/S711U1OYM6DYE1/S711U1UES6DYE1",
@@ -26009,6 +26034,11 @@
             "firmware": "S711U1UEU7FZDR/S711U1OYM7FZDR/S711U1UEU7FZDR",
             "md5": "55a783bbd63bd84cad86200865b7dcfa",
             "found_at": "2026-04-27T06:34:06.150226445+00:00"
+          },
+          {
+            "firmware": "S711U1UEU7FZE1/S711U1OYM7FZE1/S711U1UEU7FZE1",
+            "md5": "f90a9eafebaba494d1c083f2fd15dfb5",
+            "found_at": "2026-05-05T10:10:02.368176291+00:00"
           }
         ]
       }

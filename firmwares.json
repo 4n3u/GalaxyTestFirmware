@@ -21129,6 +21129,11 @@
             "firmware": "F9680ZCU4BZDP/F9680CHC4BZDP/F9680ZCU4BZDH",
             "md5": "3458b8b60eb8c28cc7f577d41520dcd1",
             "found_at": "2026-04-27T06:38:59.699989420+00:00"
+          },
+          {
+            "firmware": "F9680ZCU4BZDH/F9680CHC4BZDH/F9680ZCU4BZDH",
+            "md5": "77204927164231755ac85f8a90abddb4",
+            "found_at": "2026-05-05T14:01:16.679920152+00:00"
           }
         ]
       }

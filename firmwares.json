@@ -5194,6 +5194,11 @@
             "firmware": "A3560ZHU9DZDA/A3560OZS9DZDA/A3560ZHU9DZDA",
             "md5": "a56fb37689ea8dd1d18df502e3b9ba5a",
             "found_at": "2026-04-29T10:05:47.863779260+00:00"
+          },
+          {
+            "firmware": "A3560ZHU9DZE1/A3560OZS9DZE1/A3560ZHU9DZE1",
+            "md5": "be866690b9ada334afc896ab080124d0",
+            "found_at": "2026-05-06T14:18:42.681529432+00:00"
           }
         ]
       }
@@ -6913,7 +6918,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A536BXXSKGZC1/A536BOXMKGZC1/A536BXXSKGZC1",
+        "latest_official": "A536BXXSLGZD1/A536BOXMLGZD1/A536BXXSLGZD1",
         "test_firmwares": [
           {
             "firmware": "A536BXXSHFYG8/A536BOXMHFYG8/A536BXXSHFYG8",
@@ -7094,6 +7099,11 @@
             "firmware": "A536BXXSLGZD1/A536BOXMLGZD1/A536BXXSLGZD1",
             "md5": "afed25b409c6ff466c7bea983dbbef03",
             "found_at": "2026-04-02T11:02:16.183239430+00:00"
+          },
+          {
+            "firmware": "A536BXXSMGZE1/A536BOXMMGZE1/A536BXXSMGZE1",
+            "md5": "17e04893d8b3835044f0101141dde2b8",
+            "found_at": "2026-05-06T14:21:01.877414531+00:00"
           }
         ]
       }
@@ -7103,7 +7113,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A536USQSKGZC1/A536UOYNKGZC1/A536USQSKGZC1",
+        "latest_official": "A536USQSLGZD1/A536UOYNLGZD1/A536USQSLGZD1",
         "test_firmwares": [
           {
             "firmware": "A536USQSIGYK1/A536UOYNIGYK1/A536USQSIGYK1",
@@ -7204,6 +7214,11 @@
             "firmware": "A536USQSLGZD1/A536UOYNLGZD1/A536USQSLGZD1",
             "md5": "dcf227513b893731b6ea37c2625d4c0b",
             "found_at": "2026-04-03T07:19:37.758358068+00:00"
+          },
+          {
+            "firmware": "A536USQSMGZE1/A536UOYNMGZE1/A536USQSMGZE1",
+            "md5": "c505e60a02ce7d7578d96b55c6d5989b",
+            "found_at": "2026-05-06T14:21:07.852047057+00:00"
           }
         ]
       }
@@ -7979,6 +7994,11 @@
             "firmware": "A5560ZCSECZDC/A5560CHCECZDC/A5560ZCSECZDC",
             "md5": "6536dbadd3a63bd2b7d86cf7b1286745",
             "found_at": "2026-04-30T14:06:59.638228907+00:00"
+          },
+          {
+            "firmware": "A5560ZCUEDZE1/A5560CHCEDZE1/A5560ZCUEDZE1",
+            "md5": "4334b289bfa82dfd5b5f8c83cbfcb310",
+            "found_at": "2026-05-06T14:19:39.847854646+00:00"
           }
         ]
       }
@@ -10303,7 +10323,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F721USQS9IZC1/F721UOYN9IZC1/F721USQS9IZC1",
+        "latest_official": "F721USQS9IZD1/F721UOYN9IZD1/F721USQS9IZD1",
         "test_firmwares": [
           {
             "firmware": "F721USQS8IYK1/F721UOYN8IYK1/F721USQS8IYK1",
@@ -10534,6 +10554,11 @@
             "firmware": "F721USQU9JZD2/F721UOYN9JZD2/F721USQU9JZD2",
             "md5": "d360a929a393d1abae2e13e56a5886ad",
             "found_at": "2026-04-02T16:58:52.418745500+00:00"
+          },
+          {
+            "firmware": "F721USQSAIZE1/F721UOYNAIZE1/F721USQSAIZE1",
+            "md5": "26ff38dd41173a58191a72b48b6cc2eb",
+            "found_at": "2026-05-06T14:17:09.310688364+00:00"
           }
         ]
       }
@@ -16488,7 +16513,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F936USQS9IZC1/F936UOYN9IZC1/F936USQS9IZC1",
+        "latest_official": "F936USQS9IZD1/F936UOYN9IZD1/F936USQS9IZD1",
         "test_firmwares": [
           {
             "firmware": "F936USQS8IYK1/F936UOYN8IYK1/F936USQS8IYK1",
@@ -16719,6 +16744,11 @@
             "firmware": "F936USQU9JZD2/F936UOYN9JZD2/F936USQU9JZD2",
             "md5": "88619f994f630b6b3ea1345e8f5464a6",
             "found_at": "2026-04-02T15:07:51.751186071+00:00"
+          },
+          {
+            "firmware": "F936USQSAIZE1/F936UOYNAIZE1/F936USQSAIZE1",
+            "md5": "6d8e7e97b3946b8ce9b17b2faf717fed",
+            "found_at": "2026-05-06T14:17:37.611412248+00:00"
           }
         ]
       }
@@ -21568,7 +21598,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G736BXXSBGZC1/G736BOXMBGZC1/G736BXXSBGZC1",
+        "latest_official": "G736BXXSBGZD1/G736BOXMBGZD1/G736BXXSBGZD1",
         "test_firmwares": [
           {
             "firmware": "G736BXXSAFYF1/G736BOXMAFYF1/G736BXXSAFYF1",
@@ -21739,6 +21769,11 @@
             "firmware": "G736BXXSBGZD1/G736BOXMBGZD1/G736BXXSBGZD1",
             "md5": "338dc4c7db59b1725890eca82469c295",
             "found_at": "2026-04-07T09:10:32.358559667+00:00"
+          },
+          {
+            "firmware": "G736BXXSCGZE2/G736BOXMCGZE2/G736BXXSCGZE2",
+            "md5": "f0cd4190791c7f9566701c05cb02ae08",
+            "found_at": "2026-05-06T14:19:01.464449026+00:00"
           }
         ]
       }
@@ -22319,6 +22354,16 @@
             "firmware": "G766USQU7CZE1/G766UOYN7CZE1/G766USQU7CZE1",
             "md5": "2230f3cc6f1ba9cdf864c083193539e1",
             "found_at": "2026-05-04T16:09:05.698009653+00:00"
+          },
+          {
+            "firmware": "G766USQS7BZE2/G766UOYN7BZE2/G766USQS7BZE2",
+            "md5": "934eb271a8eb085f45654fbbddb53928",
+            "found_at": "2026-05-06T14:18:53.986064973+00:00"
+          },
+          {
+            "firmware": "G766USQU7CZE4/G766UOYN7CZE4/G766USQU7CZE4",
+            "md5": "85cd6d453b7fd0763e5fb7e95042f6d4",
+            "found_at": "2026-05-06T14:18:54.459804547+00:00"
           }
         ]
       }
@@ -22504,6 +22549,16 @@
             "firmware": "G766U1UEU7CZE1/G766U1OYM7CZE1/G766U1UEU7CZE1",
             "md5": "45233a6ce77dd18fe009d322dcd5e7ad",
             "found_at": "2026-05-05T06:27:58.622833293+00:00"
+          },
+          {
+            "firmware": "G766U1UES7BZE2/G766U1OYM7BZE2/G766U1UES7BZE2",
+            "md5": "c32f692a8d730fa3a768646e11a03d7d",
+            "found_at": "2026-05-06T14:18:56.044519224+00:00"
+          },
+          {
+            "firmware": "G766U1UEU7CZE4/G766U1OYM7CZE4/G766U1UEU7CZE4",
+            "md5": "4b8e74c133e5efd580d66413b68e8d50",
+            "found_at": "2026-05-06T14:18:56.618989754+00:00"
           }
         ]
       }

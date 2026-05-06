@@ -10559,6 +10559,11 @@
             "firmware": "F721USQSAIZE1/F721UOYNAIZE1/F721USQSAIZE1",
             "md5": "26ff38dd41173a58191a72b48b6cc2eb",
             "found_at": "2026-05-06T14:17:09.310688364+00:00"
+          },
+          {
+            "firmware": "F721USQSAIZE2/F721UOYNAIZE2/F721USQSAIZE2",
+            "md5": "96a6b4e702caa1fa4ba98a04da83c285",
+            "found_at": "2026-05-06T19:54:48.582397949+00:00"
           }
         ]
       }
@@ -16749,6 +16754,11 @@
             "firmware": "F936USQSAIZE1/F936UOYNAIZE1/F936USQSAIZE1",
             "md5": "6d8e7e97b3946b8ce9b17b2faf717fed",
             "found_at": "2026-05-06T14:17:37.611412248+00:00"
+          },
+          {
+            "firmware": "F936USQSAIZE2/F936UOYNAIZE2/F936USQSAIZE2",
+            "md5": "cbd2c0ff2cd258685659b1e2a73082f5",
+            "found_at": "2026-05-06T19:54:46.327942054+00:00"
           }
         ]
       }

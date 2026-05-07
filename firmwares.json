@@ -8919,6 +8919,11 @@
             "firmware": "A566U1UEU7CZE1/A566U1OYM7CZE1/A566U1UEU7CZE1",
             "md5": "1b749ce324fae90923794f6d19e0f90e",
             "found_at": "2026-05-05T10:15:25.862419429+00:00"
+          },
+          {
+            "firmware": "A566U1UEU7CZE2/A566U1OYM7CZE2/A566U1UEU7CZE2",
+            "md5": "9dd24ee12d93e074e1b2d6ffe5cb81e0",
+            "found_at": "2026-05-07T17:51:43.956208760+00:00"
           }
         ]
       }
@@ -11609,6 +11614,11 @@
             "firmware": "F731NKSU6GZDS/F731NOKR6GZDS/F731NKSU6GZDQ",
             "md5": "9d9380a2a773c5d090298a3769dab5d6",
             "found_at": "2026-04-30T14:04:24.099074212+00:00"
+          },
+          {
+            "firmware": "F731NKSU6GZDT/F731NOKR6GZDT/F731NKSU6GZDQ",
+            "md5": "27ed4a9106c06386cf98b860f1291241",
+            "found_at": "2026-05-07T17:56:10.129163806+00:00"
           }
         ]
       }
@@ -17784,6 +17794,11 @@
             "firmware": "F946NKSU6GZDS/F946NOKR6GZDS/F946NKSU6GZDN",
             "md5": "4981ab21ab4a3feff8fd9b4cf0a40025",
             "found_at": "2026-04-30T14:06:12.545323860+00:00"
+          },
+          {
+            "firmware": "F946NKSU6GZDT/F946NOKR6GZDT/F946NKSU6GZDN",
+            "md5": "68b7068537ac39bcb525ca5b87688b20",
+            "found_at": "2026-05-07T17:57:31.509020811+00:00"
           }
         ]
       }
@@ -25083,7 +25098,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S7110ZCS7FZC1/S7110CHC7FZC1/S7110ZCS7FZC1",
+        "latest_official": "S7110ZCS7FZD2/S7110CHC7FZD2/S7110ZCS7FZD2",
         "test_firmwares": [
           {
             "firmware": "S7110ZCS6EYE2/S7110CHC6EYE2/S7110ZCS6EYE2",
@@ -25324,6 +25339,11 @@
             "firmware": "S7110ZCU7GZDP/S7110CHC7GZDP/S7110ZCU7GZDP",
             "md5": "282a407a009365c1cf8939863e5a8e04",
             "found_at": "2026-04-24T17:02:08.664298388+00:00"
+          },
+          {
+            "firmware": "S7110ZCU7GZE2/S7110CHC7GZE2/S7110ZCU7GZE2",
+            "md5": "ace0cc0020c69ebb4bde771239322693",
+            "found_at": "2026-05-07T17:53:25.137316156+00:00"
           }
         ]
       }
@@ -25884,6 +25904,11 @@
             "firmware": "S711USQU7FZE1/S711UOYN7FZE1/S711USQU7FZE1",
             "md5": "a7cadb8a6f6c404e753b5d611e482b73",
             "found_at": "2026-05-05T10:09:59.435724050+00:00"
+          },
+          {
+            "firmware": "S711USQU7FZE2/S711UOYN7FZE2/S711USQU7FZE2",
+            "md5": "71c59ccf8c192700911d4a894e5cc61f",
+            "found_at": "2026-05-07T17:53:27.365044070+00:00"
           }
         ]
       }
@@ -26239,6 +26264,11 @@
             "firmware": "S711U1UEU7FZE1/S711U1OYM7FZE1/S711U1UEU7FZE1",
             "md5": "f90a9eafebaba494d1c083f2fd15dfb5",
             "found_at": "2026-05-05T10:10:02.368176291+00:00"
+          },
+          {
+            "firmware": "S711U1UEU7FZE2/S711U1OYM7FZE2/S711U1UEU7FZE2",
+            "md5": "34eb36f39f676b81fbb303a6262a1d3d",
+            "found_at": "2026-05-07T17:53:28.907933997+00:00"
           }
         ]
       }
@@ -36759,6 +36789,11 @@
             "firmware": "S921U1UEU5DZDR/S921U1OYM5DZDR/S921U1UEU5DZDR",
             "md5": "b8f36e4ca90ecbd72e33b7f01c3ea2bc",
             "found_at": "2026-04-29T17:40:12.734180078+00:00"
+          },
+          {
+            "firmware": "S921U1UES5DZE1/S921U1OYM5DZE1/S921U1UES5DZE1",
+            "md5": "d213196d691df9cef48180a1b4c41a44",
+            "found_at": "2026-05-07T17:54:04.537008434+00:00"
           }
         ]
       }
@@ -38024,6 +38059,11 @@
             "firmware": "S926U1UEU5DZDR/S926U1OYM5DZDR/S926U1UEU5DZDR",
             "md5": "04ba8488ba16166ed14eeadecab43aa9",
             "found_at": "2026-04-29T17:40:48.831487849+00:00"
+          },
+          {
+            "firmware": "S926U1UES5DZE1/S926U1OYM5DZE1/S926U1UES5DZE1",
+            "md5": "fd06ae801b6e3dc53a97e940a704d237",
+            "found_at": "2026-05-07T17:54:42.601749673+00:00"
           }
         ]
       }
@@ -39494,6 +39534,11 @@
             "firmware": "S928U1UEU5DZDR/S928U1OYM5DZDR/S928U1UEU5DZDR",
             "md5": "42f0ba49975bddcc9e1140bff33247ef",
             "found_at": "2026-04-29T17:40:40.722595403+00:00"
+          },
+          {
+            "firmware": "S928U1UES5DZE1/S928U1OYM5DZE1/S928U1UES5DZE1",
+            "md5": "798301710e6260ecb9a3f43729e66d50",
+            "found_at": "2026-05-07T17:54:34.341553652+00:00"
           }
         ]
       }

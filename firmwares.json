@@ -10673,7 +10673,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F721U1UES9IZC1/F721U1OYM9IZC1/F721U1UES9IZC1",
+        "latest_official": "F721U1UES9IZD1/F721U1OYM9IZD1/F721U1UES9IZD1",
         "test_firmwares": [
           {
             "firmware": "F721U1UES8HYDD/F721U1OYM8HYDD/F721U1UES8HYDD",
@@ -10974,6 +10974,11 @@
             "firmware": "F721U1UEU9JZD2/F721U1OYM9JZD2/F721U1UEU9JZD2",
             "md5": "52a72277c4447097cb3dcc08273a2bf7",
             "found_at": "2026-04-02T19:04:53.237370291+00:00"
+          },
+          {
+            "firmware": "F721U1UESAIZE2/F721U1OYMAIZE2/F721U1UESAIZE2",
+            "md5": "7458621ec45b3e3f0d4054bc43dbc326",
+            "found_at": "2026-05-08T06:02:55.331487908+00:00"
           }
         ]
       }
@@ -52654,6 +52659,11 @@
             "firmware": "X236BXXU4BZD8/X236BOXM4BZD8/X236BXXU4BZD8",
             "md5": "8ecd2b2109c6bfc8f044b89e56ddb591",
             "found_at": "2026-05-07T10:26:25.034244385+00:00"
+          },
+          {
+            "firmware": "X236BXXU4BZE1/X236BOXM4BZE1/X236BXXU4BZE1",
+            "md5": "d0d30fd87afaa9be8b49511754e4a497",
+            "found_at": "2026-05-08T05:58:45.939440340+00:00"
           }
         ]
       }

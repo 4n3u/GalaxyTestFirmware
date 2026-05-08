@@ -8304,6 +8304,11 @@
             "firmware": "A556BXXUEDZE2/A556BOXMEDZE2/A556BXXUEDZE2",
             "md5": "370e12e9799ce682202c25753f6638cc",
             "found_at": "2026-05-07T14:19:51.456184566+00:00"
+          },
+          {
+            "firmware": "A556BXXUEDZE3/A556BOXMEDZE3/A556BXXUEDZE3",
+            "md5": "89622def148c8afdb298ccff8f90645d",
+            "found_at": "2026-05-08T11:28:08.189377214+00:00"
           }
         ]
       }

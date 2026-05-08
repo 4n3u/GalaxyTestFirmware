@@ -4289,6 +4289,11 @@
             "firmware": "A266BXXU9CZE3/A266BOXM9CZE3/A266BXXU9CZE3",
             "md5": "c6ffc84e3c31a16a672eb76b5cb8956c",
             "found_at": "2026-05-07T14:13:39.113411299+00:00"
+          },
+          {
+            "firmware": "A266BXXU9BZE4/A266BOXM9BZE4/A266BXXU9BZE4",
+            "md5": "766ca373992431d07dcc83b5e4ed6bc3",
+            "found_at": "2026-05-08T15:27:32.754471339+00:00"
           }
         ]
       }
@@ -8704,6 +8709,11 @@
             "firmware": "A566BXXUACZDR/A566BOXMACZDR/A566BXXUACZDR",
             "md5": "ac8e4b8a924ce7183d52624cd15a50ae",
             "found_at": "2026-04-28T10:28:12.647856852+00:00"
+          },
+          {
+            "firmware": "A566BXXUACZE1/A566BOXMACZE1/A566BXXUACZE1",
+            "md5": "61e3383d1bf85a1d40938240a8a851e2",
+            "found_at": "2026-05-08T15:33:12.029725301+00:00"
           }
         ]
       }
@@ -48468,7 +48478,7 @@
     "name": "Galaxy S26",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S942BXXS2AZCO/S942BOXM2AZCO/S942BXXS2AZCO",
+        "latest_official": "S942BXXU2AZDE/S942BOXM2AZDE/S942BXXU2AZDE",
         "test_firmwares": [
           {
             "firmware": "S942BXXS1AZC7/S942BOXM1AZC7/S942BXXS1AZC7",
@@ -48664,6 +48674,11 @@
             "firmware": "S942BXXS2AZDC/S942BOXM2AZDC/S942BXXS2AZDC",
             "md5": "e21d1596f3b0106d10546928920b98d3",
             "found_at": "2026-04-22T11:09:36.101649051+00:00"
+          },
+          {
+            "firmware": "S942BXXU2AZE1/S942BOXM2AZE1/S942BXXU2AZE1",
+            "md5": "92408973cb00636c6e2fc56191fa2eb1",
+            "found_at": "2026-05-08T15:28:33.551714986+00:00"
           }
         ]
       }
@@ -49348,7 +49363,7 @@
     "name": "Galaxy S26+",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S947BXXS2AZCO/S947BOXM2AZCO/S947BXXS2AZCO",
+        "latest_official": "S947BXXU2AZDE/S947BOXM2AZDE/S947BXXU2AZDE",
         "test_firmwares": [
           {
             "firmware": "S947BXXS1AZC7/S947BOXM1AZC7/S947BXXS1AZC7",
@@ -49524,6 +49539,11 @@
             "firmware": "S947BXXU2AZDE/S947BOXM2AZDE/S947BXXU2AZDE",
             "md5": "94a9b5d09b70a2293388ddb965aed7f3",
             "found_at": "2026-04-22T02:42:25.376796255+00:00"
+          },
+          {
+            "firmware": "S947BXXU2AZE1/S947BOXM2AZE1/S947BXXU2AZE1",
+            "md5": "5579962f400197dc71a03f46902e809e",
+            "found_at": "2026-05-08T15:29:12.050646311+00:00"
           }
         ]
       }

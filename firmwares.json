@@ -9179,6 +9179,11 @@
             "firmware": "A576BXXU2AZD9/A576BOXM2AZD9/A576BXXU2AZD9",
             "md5": "eeb5e5a77137866360bde2a747ed2091",
             "found_at": "2026-04-27T14:02:13.583615840+00:00"
+          },
+          {
+            "firmware": "A576BXXU2AZE1/A576BOXM2AZE1/A576BXXU2AZE1",
+            "md5": "cf06a0b173fc952231a7256fe0242052",
+            "found_at": "2026-05-08T13:51:50.228642282+00:00"
           }
         ]
       }

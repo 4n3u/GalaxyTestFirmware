@@ -16888,7 +16888,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F936U1UES9IZC1/F936U1OYM9IZC1/F936U1UES9IZC1",
+        "latest_official": "F936U1UES9IZD1/F936U1OYM9IZD1/F936U1UES9IZD1",
         "test_firmwares": [
           {
             "firmware": "F936U1UES8HYDD/F936U1OYM8HYDD/F936U1UES8HYDD",
@@ -17194,6 +17194,11 @@
             "firmware": "F936U1UEU9JZD2/F936U1OYM9JZD2/F936U1UEU9JZD2",
             "md5": "d961383eead51a97c4d86818556ac364",
             "found_at": "2026-04-02T19:06:09.541294002+00:00"
+          },
+          {
+            "firmware": "F936U1UESAIZE2/F936U1OYMAIZE2/F936U1UESAIZE2",
+            "md5": "7e4fc7d45aae0668d5e1ccbe13b09ce0",
+            "found_at": "2026-05-08T07:52:47.590360759+00:00"
           }
         ]
       }
@@ -21918,7 +21923,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G736U1UESBGZC2/G736U1OYMBGZC2/G736U1UESBGZC2",
+        "latest_official": "G736U1UESBGZD1/G736U1OYMBGZD1/G736U1UESBGZD1",
         "test_firmwares": [
           {
             "firmware": "G736U1UESAFYF2/G736U1OYMAFYF2/G736U1UESAFYF2",
@@ -22089,6 +22094,11 @@
             "firmware": "G736U1UESBGZD1/G736U1OYMBGZD1/G736U1UESBGZD1",
             "md5": "2ce40cd8139317426078e0c557699920",
             "found_at": "2026-04-08T09:02:53.728782381+00:00"
+          },
+          {
+            "firmware": "G736U1UESCGZE1/G736U1OYMCGZE1/G736U1UESCGZE1",
+            "md5": "9c06d5f7814b4775f30498c9ff5aa7b7",
+            "found_at": "2026-05-08T07:51:59.496756347+00:00"
           }
         ]
       }
@@ -52759,6 +52769,11 @@
             "firmware": "X236CZCU4BZD8/X236CCHC4BZD8/X236CZCU4BZD8",
             "md5": "2a3de47a2696c8e87c5300353d945d00",
             "found_at": "2026-05-06T06:31:21.960108363+00:00"
+          },
+          {
+            "firmware": "X236CZCU4BZE1/X236CCHC4BZE1/X236CZCU4BZE1",
+            "md5": "4ce8db85b0978f69f17eaa3c51c797ef",
+            "found_at": "2026-05-08T07:47:18.933028717+00:00"
           }
         ]
       }

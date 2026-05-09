@@ -4294,6 +4294,11 @@
             "firmware": "A266BXXU9BZE4/A266BOXM9BZE4/A266BXXU9BZE4",
             "md5": "766ca373992431d07dcc83b5e4ed6bc3",
             "found_at": "2026-05-08T15:27:32.754471339+00:00"
+          },
+          {
+            "firmware": "A266BXXS9BZE5/A266BOXM9BZE5/A266BXXS9BZE5",
+            "md5": "dd966ad398ad3822807d4effaab0aa9e",
+            "found_at": "2026-05-09T06:21:15.972521314+00:00"
           }
         ]
       }
@@ -7534,6 +7539,11 @@
             "firmware": "A5460ZCSJEZE5/A5460CHCJEZE5/A5460ZCSJEZE5",
             "md5": "9370c1deae8669381dfe044b53082d1b",
             "found_at": "2026-05-07T14:19:31.224723819+00:00"
+          },
+          {
+            "firmware": "A5460ZCUJFZD9/A5460CHCJFZD9/A5460ZCUJFZD9",
+            "md5": "d276774c30e07dc18ea8ab8f9fde38c1",
+            "found_at": "2026-05-09T06:19:53.463102368+00:00"
           }
         ]
       }

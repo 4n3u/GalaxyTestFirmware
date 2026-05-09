@@ -53643,7 +53643,7 @@
     "name": "Galaxy Tab Active5 Pro 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X358UUES6BZC2/X358UOYM6BZC2/X358UUES6BZC2",
+        "latest_official": "X358UUES7BZD6/X358UOYM7BZD6/X358UUES7BZD6",
         "test_firmwares": [
           {
             "firmware": "X358UUES3AYI1/X358UOYM3AYI1/X358UUES3AYI1",
@@ -53814,6 +53814,11 @@
             "firmware": "X358UUEU7CZD8/X358UOYM7CZD8/X358UUEU7CZD8",
             "md5": "c565291d9c922eaa8c3373d42dd6a513",
             "found_at": "2026-04-29T21:07:36.817002687+00:00"
+          },
+          {
+            "firmware": "X358UUEU7CZE1/X358UOYM7CZE1/X358UUEU7CZE1",
+            "md5": "251eab01393956f7fd5d9f18ec492e18",
+            "found_at": "2026-05-09T11:07:05.056236829+00:00"
           }
         ]
       }

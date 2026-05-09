@@ -2954,6 +2954,11 @@
             "firmware": "A175FXXS5BZE5/A175FOXM5BZE5/A175FXXS5BZE5",
             "md5": "c300f8f84d33a410c7060b6dd15b1c79",
             "found_at": "2026-05-09T09:23:37.244195998+00:00"
+          },
+          {
+            "firmware": "A175FXXS5BZE6/A175FOXM5BZE6/A175FXXS5BZE6",
+            "md5": "3215da81d3fd3e8bb8fd51cd5887a572",
+            "found_at": "2026-05-09T13:21:29.635249669+00:00"
           }
         ]
       }
@@ -8104,6 +8109,11 @@
             "firmware": "A5560ZCUEDZE3/A5560CHCEDZE3/A5560ZCUEDZE3",
             "md5": "f14211953aa916c5e6db5884ba101008",
             "found_at": "2026-05-09T09:31:29.508753026+00:00"
+          },
+          {
+            "firmware": "A5560ZCSECZDE/A5560CHCECZDE/A5560ZCSECZDE",
+            "md5": "0d6c43439b54a385e6078725ad8400a5",
+            "found_at": "2026-05-09T13:29:10.525685597+00:00"
           }
         ]
       }
@@ -21789,6 +21799,11 @@
             "firmware": "G556BXXSFDZE1/G556BOXMFDZE1/G556BXXSFDZE1",
             "md5": "4fd50514422d3eac5bf4f9e2491e0ce8",
             "found_at": "2026-05-09T09:27:34.171974209+00:00"
+          },
+          {
+            "firmware": "G556BXXSFDZE2/G556BOXMFDZE2/G556BXXSFDZE1",
+            "md5": "53b166bfac30b3d24220f35fce3b6edf",
+            "found_at": "2026-05-09T13:26:42.956613721+00:00"
           }
         ]
       }

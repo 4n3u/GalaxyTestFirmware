@@ -27518,7 +27518,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S731BXXS6AZCH/S731BOXM6AZCH/S731BXXS6AZCH",
+        "latest_official": "S731BXXU6BZDP/S731BOXM6BZDP/S731BXXU6BZDP",
         "test_firmwares": [
           {
             "firmware": "S731BXXS2AYID/S731BOXM2AYID/S731BXXS2AYID",
@@ -27804,6 +27804,16 @@
             "firmware": "S731BXXU6BZDP/S731BOXM6BZDP/S731BXXU6BZDP",
             "md5": "9847c25ccefee5fbae35c29b98cc3e19",
             "found_at": "2026-04-24T02:46:03.401824391+00:00"
+          },
+          {
+            "firmware": "S731BXXS6BZE2/S731BOXM6BZE2/S731BXXS6BZE2",
+            "md5": "b5b4fc72489ff516d4fd1bc4452a3597",
+            "found_at": "2026-05-11T14:59:29.768155151+00:00"
+          },
+          {
+            "firmware": "S731BXXU6BZE1/S731BOXM6BZE1/S731BXXU6BZE1",
+            "md5": "d742239a2d54b59b630b19d6072d4e7d",
+            "found_at": "2026-05-11T14:59:30.159910635+00:00"
           }
         ]
       }
@@ -53468,7 +53478,7 @@
     "name": "Galaxy Tab Active5 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X308UUESACZB5/X308UOYMACZB5/X308UUESACZB5",
+        "latest_official": "X308UUESBCZD5/X308UOYMBCZD5/X308UUESBCZD5",
         "test_firmwares": [
           {
             "firmware": "X308UUES7BYI1/X308UOYM7BYI1/X308UUES7BYI1",
@@ -53619,6 +53629,31 @@
             "firmware": "X308UUEUADZC5/X308UOYMADZC5/X308UUEUADZC5",
             "md5": "b9b8f4ba2c1c54ec6cd04e041f56fe38",
             "found_at": "2026-03-26T19:07:23.023411768+00:00"
+          },
+          {
+            "firmware": "X308UUESBCZD4/X308UOYMBCZD4/X308UUESBCZD4",
+            "md5": "9d00b4235163aea7ef4833d3cd1c4d04",
+            "found_at": "2026-05-11T14:53:06.088258942+00:00"
+          },
+          {
+            "firmware": "X308UUESBCZD5/X308UOYMBCZD5/X308UUESBCZD5",
+            "md5": "c4f6cfa54fdedb620f2925ff1fa745ed",
+            "found_at": "2026-05-11T14:53:06.088880774+00:00"
+          },
+          {
+            "firmware": "X308UUEUBDZD4/X308UOYMBDZD4/X308UUEUBDZD4",
+            "md5": "64a1ffd04c27251057699cc981496dc7",
+            "found_at": "2026-05-11T14:53:06.650013473+00:00"
+          },
+          {
+            "firmware": "X308UUEUBDZE1/X308UOYMBDZE1/X308UUEUBDZE1",
+            "md5": "9196d96e969b790034b0f216dab99a10",
+            "found_at": "2026-05-11T14:53:06.682187296+00:00"
+          },
+          {
+            "firmware": "X308UUEUBDZE2/X308UOYMBDZE2/X308UUEUBDZE2",
+            "md5": "83e8f5b9e96805a0762e38f90802f432",
+            "found_at": "2026-05-11T14:53:06.685368012+00:00"
           }
         ]
       }
@@ -53849,6 +53884,11 @@
             "firmware": "X356BXXU7CZE1/X356BOXM7CZE1/X356BXXU7CZE1",
             "md5": "d96396fb020055a615e1900534c15774",
             "found_at": "2026-05-07T14:10:22.440442235+00:00"
+          },
+          {
+            "firmware": "X356BXXS7BZE2/X356BOXM7BZE2/X356BXXS7BZE2",
+            "md5": "e95b02a47c3b8561abb9a750e291bab8",
+            "found_at": "2026-05-11T14:53:10.928159377+00:00"
           }
         ]
       }

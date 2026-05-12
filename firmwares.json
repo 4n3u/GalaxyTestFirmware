@@ -3979,6 +3979,11 @@
             "firmware": "A256BXXUCEZE1/A256BOXMCEZE1/A256BXXUCEZE1",
             "md5": "fa024f517273c22f890a908b7171283e",
             "found_at": "2026-05-04T10:19:16.630337974+00:00"
+          },
+          {
+            "firmware": "A256BXXUCEZE3/A256BOXMCEZE3/A256BXXUCEZE3",
+            "md5": "edd05726ed9a50fdddd594c7296239ac",
+            "found_at": "2026-05-12T06:42:30.847779174+00:00"
           }
         ]
       }
@@ -27858,7 +27863,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S731NKSS6AZCH/S731NOKR6AZCH/S731NKSS6AZCG",
+        "latest_official": "S731NKSU6BZDP/S731NOKR6BZDP/S731NKSU6BZDP",
         "test_firmwares": [
           {
             "firmware": "S731NKSS1AYID/S731NOKR1AYID/S731NKSU1AYI5",
@@ -28109,6 +28114,11 @@
             "firmware": "S731NKSU6BZDP/S731NOKR6BZDP/S731NKSU6BZDP",
             "md5": "0362cc2762ba2b1d6d5c554a1b9a1c93",
             "found_at": "2026-04-23T21:00:45.110483178+00:00"
+          },
+          {
+            "firmware": "S731NKSS7BZE1/S731NOKR7BZE1/S731NKSS7BZE1",
+            "md5": "353b01effe2f98eca032ddadb4086594",
+            "found_at": "2026-05-12T06:39:26.709352088+00:00"
           }
         ]
       }
@@ -28424,6 +28434,11 @@
             "firmware": "S731USQU6BZDP/S731UOYN6BZDP/S731USQU6BZDP",
             "md5": "42eca2937799d2b432545f4cca8ab7d0",
             "found_at": "2026-05-11T07:49:03.624941445+00:00"
+          },
+          {
+            "firmware": "S731USQS7BZE1/S731UOYN7BZE1/S731USQS7BZE1",
+            "md5": "5189c0a193358f5ebdd56be7a16016bb",
+            "found_at": "2026-05-12T06:39:30.444158530+00:00"
           }
         ]
       }
@@ -45924,6 +45939,11 @@
             "firmware": "S937USQU6CZE7/S937UOYN6CZE7/S937USQU6CZE7",
             "md5": "a8edbc550d62028f2d3a14f3341c6e65",
             "found_at": "2026-05-11T07:48:53.162526906+00:00"
+          },
+          {
+            "firmware": "S937USQS7CZE1/S937UOYN7CZE1/S937USQS7CZE1",
+            "md5": "be95e2feff02b7cb31dcb6a8b0cb1533",
+            "found_at": "2026-05-12T06:39:19.534242696+00:00"
           }
         ]
       }
@@ -48164,6 +48184,11 @@
             "firmware": "S938USQU9CZE7/S938UOYN9CZE7/S938USQU9CZE7",
             "md5": "f6a4ccd2cb2742cc6e6d6aef8c854551",
             "found_at": "2026-05-11T07:49:17.579813691+00:00"
+          },
+          {
+            "firmware": "S938USQSACZE1/S938UOYNACZE1/S938USQSACZE1",
+            "md5": "392947133a7e255fbd3725801bf024dd",
+            "found_at": "2026-05-12T06:39:46.389909966+00:00"
           }
         ]
       }
@@ -53924,6 +53949,11 @@
             "firmware": "X356BXXS7BZE2/X356BOXM7BZE2/X356BXXS7BZE2",
             "md5": "e95b02a47c3b8561abb9a750e291bab8",
             "found_at": "2026-05-11T14:53:10.928159377+00:00"
+          },
+          {
+            "firmware": "X356BXXS7BZE3/X356BOXM7BZE3/X356BXXS7BZE3",
+            "md5": "13b5ddf25189a03a32fada2a841055f8",
+            "found_at": "2026-05-12T06:39:50.343494954+00:00"
           }
         ]
       }

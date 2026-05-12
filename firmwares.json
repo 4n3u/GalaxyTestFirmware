@@ -6568,7 +6568,7 @@
     "name": "Galaxy A37 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A376BXXS2AZC2/A376BOXM2AZC2/A376BXXS2AZC2",
+        "latest_official": "A376BXXU2AZD5/A376BOXM2AZD5/A376BXXU2AZD5",
         "test_firmwares": [
           {
             "firmware": "A376BXXS2AZC1/A376BOXM2AZC1/A376BXXS2AZC1",
@@ -6604,6 +6604,16 @@
             "firmware": "A376BXXU2AZD5/A376BOXM2AZD5/A376BXXU2AZD5",
             "md5": "8bf211371eebce76a01c482362a1f952",
             "found_at": "2026-04-27T14:00:15.108952211+00:00"
+          },
+          {
+            "firmware": "A376BXXS2AZE2/A376BOXM2AZE2/A376BXXS2AZE2",
+            "md5": "89eb070e99346047de93fbda4efdc47f",
+            "found_at": "2026-05-12T03:02:38.142724660+00:00"
+          },
+          {
+            "firmware": "A376BXXU2AZE1/A376BOXM2AZE1/A376BXXU2AZE1",
+            "md5": "b19417d55f88de47785291ea87d85905",
+            "found_at": "2026-05-12T03:02:38.494882369+00:00"
           }
         ]
       }

@@ -6258,7 +6258,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A366USQS6BZC2/A366UOYN6BZC2/A366USQS6BZC2",
+        "latest_official": "A366USQS7BZDB/A366UOYN7BZDB/A366USQS7BZDB",
         "test_firmwares": [
           {
             "firmware": "A366USQU3BYG1/A366UOYN3BYG1/A366USQU3BYG1",
@@ -6459,6 +6459,11 @@
             "firmware": "A366USQU7CZDD/A366UOYN7CZDD/A366USQU7CZDD",
             "md5": "4ab9ab1e9dfdd4ac454a386b6400fcb5",
             "found_at": "2026-04-28T14:14:33.048907196+00:00"
+          },
+          {
+            "firmware": "A366USQU7CZE1/A366UOYN7CZE1/A366USQU7CZE1",
+            "md5": "5ecf5e5d5dc0638618ea285844df005a",
+            "found_at": "2026-05-13T10:34:48.802566810+00:00"
           }
         ]
       }

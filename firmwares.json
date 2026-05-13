@@ -2354,6 +2354,11 @@
             "firmware": "A166BXXS8CZDG/A166BOXM8CZDG/A166BXXS8CZDG",
             "md5": "7ffdc126e21bfd2040ae803d2f94b1ae",
             "found_at": "2026-05-12T10:35:09.419847752+00:00"
+          },
+          {
+            "firmware": "A166BXXU8DZE7/A166BOXM8DZE7/A166BXXU8DZE7",
+            "md5": "dc55ec93ebd0e8c5f143d25950e40baa",
+            "found_at": "2026-05-13T06:50:59.017063446+00:00"
           }
         ]
       }
@@ -8229,6 +8234,11 @@
             "firmware": "A5560ZCSECZDF/A5560CHCECZDF/A5560ZCSECZDE",
             "md5": "3641a540d6826b507cff1881110bd454",
             "found_at": "2026-05-11T11:24:25.912999538+00:00"
+          },
+          {
+            "firmware": "A5560ZCUEDZE4/A5560CHCEDZE4/A5560ZCUEDZE4",
+            "md5": "fa5f04dec6bfb48619984e8723262d76",
+            "found_at": "2026-05-13T06:58:49.625605101+00:00"
           }
         ]
       }
@@ -21959,6 +21969,11 @@
             "firmware": "G556BXXUFEZE2/G556BOXMFEZE2/G556BXXUFEZE2",
             "md5": "2d7a0fea2105e7c53dae1d9720c8f4c1",
             "found_at": "2026-05-12T14:35:18.206050188+00:00"
+          },
+          {
+            "firmware": "G556BXXSFDZE4/G556BOXMFDZE4/G556BXXSFDZE4",
+            "md5": "595138ce95fc3bfada9b127efd5ea217",
+            "found_at": "2026-05-13T06:55:14.169671107+00:00"
           }
         ]
       }
@@ -24774,6 +24789,11 @@
             "firmware": "M356BXXU8DZE1/M356BOXM8DZE1/M356BXXU8DZE1",
             "md5": "9ff6565f814708e2ee92585df45fea12",
             "found_at": "2026-05-11T11:21:14.661700117+00:00"
+          },
+          {
+            "firmware": "M356BXXU8DZE2/M356BOXM8DZE2/M356BXXU8DZE2",
+            "md5": "5a8bf81a17fdf286298bb6536f392e81",
+            "found_at": "2026-05-13T06:48:56.845128064+00:00"
           }
         ]
       }
@@ -54504,6 +54524,11 @@
             "firmware": "X358UUEU7CZE1/X358UOYM7CZE1/X358UUEU7CZE1",
             "md5": "251eab01393956f7fd5d9f18ec492e18",
             "found_at": "2026-05-09T11:07:05.056236829+00:00"
+          },
+          {
+            "firmware": "X358UUES7BZE2/X358UOYM7BZE2/X358UUES7BZE2",
+            "md5": "872db7f22d2abd97e8ef2c9f15e50d23",
+            "found_at": "2026-05-13T06:50:10.219086503+00:00"
           }
         ]
       }

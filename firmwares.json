@@ -21003,7 +21003,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F966USQS8AZC1/F966UOYN8AZC1/F966USQS8AZC1",
+        "latest_official": "F966USQU9BZDN/F966UOYN9BZDN/F966USQU9BZDN",
         "test_firmwares": [
           {
             "firmware": "F966USQS5AYI5/F966UOYN5AYI5/F966USQS5AYI5",
@@ -21229,6 +21229,11 @@
             "firmware": "F966USQU9BZDN/F966UOYN9BZDN/F966USQU9BZDN",
             "md5": "97783d368effd27d63d22b0c2402d97e",
             "found_at": "2026-04-24T09:58:11.425408098+00:00"
+          },
+          {
+            "firmware": "F966USQSABZE3/F966UOYNABZE3/F966USQSABZE3",
+            "md5": "1a3f249d28187d793962ae880578e109",
+            "found_at": "2026-05-13T23:18:41.228222341+00:00"
           }
         ]
       }

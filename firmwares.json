@@ -1569,6 +1569,11 @@
             "firmware": "A156USQUBEZE1/A156UOYNBEZE1/A156USQUBEZE1",
             "md5": "3ea4a1d436723609bbb957b64ca9bea7",
             "found_at": "2026-05-12T14:28:10.415199548+00:00"
+          },
+          {
+            "firmware": "A156USQUBEZE7/A156UOYNBEZE7/A156USQUBEZE7",
+            "md5": "bf9d66d9f306610fbddc21969c50017f",
+            "found_at": "2026-05-14T21:12:26.939908998+00:00"
           }
         ]
       }

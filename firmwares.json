@@ -2739,6 +2739,11 @@
             "firmware": "A166U1UEU7DZE9/A166U1OYM7DZE9/A166U1UEU7DZE9",
             "md5": "1c8b99d2db1a47a16fdcb8c26392bd39",
             "found_at": "2026-05-14T10:18:34.178234150+00:00"
+          },
+          {
+            "firmware": "A166U1UEU7DZEA/A166U1OYM7DZEA/A166U1UEU7DZEA",
+            "md5": "405827d716c84847a9a0f456575b2d5a",
+            "found_at": "2026-05-14T14:15:05.102250879+00:00"
           }
         ]
       }
@@ -24864,6 +24869,11 @@
             "firmware": "M346B2ZHUCFZDO/M346B2OZSCFZDO/M346B2ZHUCFZDO",
             "md5": "192c787288535f268f6bbb47454c33a3",
             "found_at": "2026-05-14T10:15:37.019055276+00:00"
+          },
+          {
+            "firmware": "M346B2ZHUCFZE6/M346B2OZSCFZE6/M346B2ZHUCFZE6",
+            "md5": "f14d57d6078d235be0d50f065938f258",
+            "found_at": "2026-05-14T14:12:25.632727578+00:00"
           }
         ]
       }
@@ -40574,6 +40584,11 @@
             "firmware": "S9310ZCUBCZE9/S9310CHCBCZE9/S9310ZCUBCZE9",
             "md5": "b941fa0a9b1987e891be01918f59a2ee",
             "found_at": "2026-05-14T06:54:28.512763476+00:00"
+          },
+          {
+            "firmware": "S9310ZCSBCZE1/S9310CHCBCZE1/S9310ZCSBCZE1",
+            "md5": "db0d4a11e33ec7612223770936a88b03",
+            "found_at": "2026-05-14T14:19:12.765979394+00:00"
           }
         ]
       }
@@ -43009,6 +43024,11 @@
             "firmware": "S9360ZCUBCZE9/S9360CHCBCZE9/S9360ZCUBCZE9",
             "md5": "c59bda5ab77a81e6abd0817c3cad8dbf",
             "found_at": "2026-05-14T06:55:21.601727725+00:00"
+          },
+          {
+            "firmware": "S9360ZCSBCZE1/S9360CHCBCZE1/S9360ZCSBCZE1",
+            "md5": "2bb0e4541065846a5abbe750317d1b71",
+            "found_at": "2026-05-14T14:17:17.475989972+00:00"
           }
         ]
       }
@@ -45409,6 +45429,11 @@
             "firmware": "S9370ZCU8CZE9/S9370CHC8CZE9/S9370ZCU8CZE9",
             "md5": "90a37a48761cd36f757c96015be66a3f",
             "found_at": "2026-05-14T03:32:42.440389526+00:00"
+          },
+          {
+            "firmware": "S9370ZCS8CZE1/S9370CHC8CZE1/S9370ZCS8CZE1",
+            "md5": "85552cd364b4ea0e2829fb1ec2c13e8b",
+            "found_at": "2026-05-14T14:19:32.403217115+00:00"
           }
         ]
       }
@@ -47279,6 +47304,11 @@
             "firmware": "S9380ZCUBCZE9/S9380CHCBCZE9/S9380ZCUBCZE9",
             "md5": "f1209373745a80f51106f504b10b05fa",
             "found_at": "2026-05-14T06:55:05.862305883+00:00"
+          },
+          {
+            "firmware": "S9380ZCSBCZE1/S9380CHCBCZE1/S9380ZCSBCZE1",
+            "md5": "409db14129f79d0c212de8da9590b036",
+            "found_at": "2026-05-14T14:19:58.202000676+00:00"
           }
         ]
       }
@@ -54464,6 +54494,11 @@
             "firmware": "X308UUEUBDZE2/X308UOYMBDZE2/X308UUEUBDZE2",
             "md5": "83e8f5b9e96805a0762e38f90802f432",
             "found_at": "2026-05-11T14:53:06.685368012+00:00"
+          },
+          {
+            "firmware": "X308UUEUBDZE3/X308UOYMBDZE3/X308UUEUBDZE3",
+            "md5": "5e0658ed86754cccc4394a08a5302d48",
+            "found_at": "2026-05-14T14:13:52.725821243+00:00"
           }
         ]
       }
@@ -54904,6 +54939,11 @@
             "firmware": "X358UUEU7CZE4/X358UOYM7CZE4/X358UUEU7CZE4",
             "md5": "306ac2279d7aa99dfc48dd7540514bfc",
             "found_at": "2026-05-13T20:08:58.719420243+00:00"
+          },
+          {
+            "firmware": "X358UUEU7CZE5/X358UOYM7CZE5/X358UUEU7CZE5",
+            "md5": "43ed809085075cbf86ec415283c24e51",
+            "found_at": "2026-05-14T14:14:02.723395638+00:00"
           }
         ]
       }
@@ -55123,7 +55163,7 @@
     "name": "Galaxy Tab S9 FE 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X516BXXSBDZB4/X516BOXMBDZB4/X516BXXSBDZB4",
+        "latest_official": "X516BXXSCDZD6/X516BOXMCDZD6/X516BXXSCDZD6",
         "test_firmwares": [
           {
             "firmware": "X516BXXS8CYF1/X516BOXM8CYF1/X516BXXS8CYF1",
@@ -55314,6 +55354,36 @@
             "firmware": "X516BXXUBDZC5/X516BOXMBDZC5/X516BXXUBDZC5",
             "md5": "10ac42cfe63a15338d3cd9b511f097c5",
             "found_at": "2026-03-26T10:56:39.382062940+00:00"
+          },
+          {
+            "firmware": "X516BXXSCDZD4/X516BOXMCDZD4/X516BXXSCDZD4",
+            "md5": "cd3aba8ff015ed744bb12d13f1b7153a",
+            "found_at": "2026-05-14T14:15:35.768488376+00:00"
+          },
+          {
+            "firmware": "X516BXXSCDZD6/X516BOXMCDZD6/X516BXXSCDZD6",
+            "md5": "72ccf6565e949f3fe79e63fbf49a0ef1",
+            "found_at": "2026-05-14T14:15:35.769448742+00:00"
+          },
+          {
+            "firmware": "X516BXXUCDZD8/X516BOXMCDZD8/X516BXXUCDZD8",
+            "md5": "f99287d26a6eeb35a7161e8f7600d361",
+            "found_at": "2026-05-14T14:15:36.214099955+00:00"
+          },
+          {
+            "firmware": "X516BXXUCEZE1/X516BOXMCEZE1/X516BXXUCEZE1",
+            "md5": "2469a261bee05012f049c733a221605a",
+            "found_at": "2026-05-14T14:15:36.303634145+00:00"
+          },
+          {
+            "firmware": "X516BXXUCEZE2/X516BOXMCEZE2/X516BXXUCEZE2",
+            "md5": "4893cfd0e3f1ea2fc62849bf555e859e",
+            "found_at": "2026-05-14T14:15:36.304632266+00:00"
+          },
+          {
+            "firmware": "X516BXXUCEZE3/X516BOXMCEZE3/X516BXXUCEZE3",
+            "md5": "4dc56b4cbc6e2b245adfc39fbae15c73",
+            "found_at": "2026-05-14T14:15:36.305592096+00:00"
           }
         ]
       }

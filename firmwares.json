@@ -5844,6 +5844,11 @@
             "firmware": "A356USQUADZE8/A356UOYNADZE8/A356USQUADZE8",
             "md5": "a7f86ddc3def594e82fcd1e0171dfc3a",
             "found_at": "2026-05-13T14:41:55.761136339+00:00"
+          },
+          {
+            "firmware": "A356USQUADZE9/A356UOYNADZE9/A356USQUADZE9",
+            "md5": "a45ecb77f39bdcab5f066fec2b3a6c7b",
+            "found_at": "2026-05-14T19:50:57.655240860+00:00"
           }
         ]
       }

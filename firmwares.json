@@ -7849,6 +7849,11 @@
             "firmware": "A5460ZCUJFZD9/A5460CHCJFZD9/A5460ZCUJFZD9",
             "md5": "d276774c30e07dc18ea8ab8f9fde38c1",
             "found_at": "2026-05-09T06:19:53.463102368+00:00"
+          },
+          {
+            "firmware": "A5460ZCUJFZE9/A5460CHCJFZE9/A5460ZCUJFZE9",
+            "md5": "d36cea84943ad4a6a99de88692f2e2e1",
+            "found_at": "2026-05-15T03:35:32.758436615+00:00"
           }
         ]
       }
@@ -47009,6 +47014,11 @@
             "firmware": "S937U1UES7CZE2/S937U1OYM7CZE2/S937U1UES7CZE2",
             "md5": "83d9c0e059147c5a89520b838432b805",
             "found_at": "2026-05-13T18:11:13.370951925+00:00"
+          },
+          {
+            "firmware": "S937U1UEU7CZE9/S937U1OYM7CZE9/S937U1UEU7CZE9",
+            "md5": "facb9dfd2947558cd6674a9833a82fcd",
+            "found_at": "2026-05-15T03:37:08.459544912+00:00"
           }
         ]
       }

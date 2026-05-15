@@ -27789,6 +27789,11 @@
             "firmware": "S721USQUBDZDP/S721UOYNBDZDP/S721USQUBDZDP",
             "md5": "5a8fdaedcc024eb668647962909a1c44",
             "found_at": "2026-04-24T06:16:10.450995411+00:00"
+          },
+          {
+            "firmware": "S721USQSBDZE1/S721UOYNBDZE1/S721USQSBDZE1",
+            "md5": "87bd488366f086a513506774e1965f90",
+            "found_at": "2026-05-15T07:03:37.823576852+00:00"
           }
         ]
       }
@@ -53979,6 +53984,11 @@
             "firmware": "X236CZCU4BZE1/X236CCHC4BZE1/X236CZCU4BZE1",
             "md5": "4ce8db85b0978f69f17eaa3c51c797ef",
             "found_at": "2026-05-08T07:47:18.933028717+00:00"
+          },
+          {
+            "firmware": "X236CZCU4BZE6/X236CCHC4BZE6/X236CZCU4BZE6",
+            "md5": "62d303c21d7c8128a57ed9d897b7e52a",
+            "found_at": "2026-05-15T06:57:36.901677770+00:00"
           }
         ]
       }

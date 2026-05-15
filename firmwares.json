@@ -8088,7 +8088,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A546U1UESJEZD1/A546U1OYMJEZD1/A546U1UESJEZD1",
+        "latest_official": "A546U1UESJEZE2/A546U1OYMJEZE2/A546U1UESJEZE2",
         "test_firmwares": [
           {
             "firmware": "A546U1UESFDYI1/A546U1OYMFDYI1/A546U1UESFDYI1",
@@ -8269,6 +8269,11 @@
             "firmware": "A546U1UEUJFZE9/A546U1OYMJFZE9/A546U1UEUJFZE9",
             "md5": "989e6cbb229c127af37dd27f4862d2ef",
             "found_at": "2026-05-14T10:22:42.499908924+00:00"
+          },
+          {
+            "firmware": "A546U1UEUJFZEA/A546U1OYMJFZEA/A546U1UEUJFZEA",
+            "md5": "19d056c2ed9458625cbdd7bce799021f",
+            "found_at": "2026-05-15T10:35:23.189275089+00:00"
           }
         ]
       }
@@ -52069,6 +52074,11 @@
             "firmware": "W2022ZCSEKYK1/W2022CHCEKYK1/W2022ZCSEKYK1",
             "md5": "e0f113a5888e1f586199ae4b7bb7083c",
             "found_at": "2025-12-02T08:48:52.637536371+00:00"
+          },
+          {
+            "firmware": "W2022ZCUEKZE1/W2022CHCEKZE1/W2022ZCUEKZE1",
+            "md5": "5940401cf1c6b989219fff5bdfe7bb2a",
+            "found_at": "2026-05-15T10:36:18.621708795+00:00"
           }
         ]
       }

@@ -1764,6 +1764,11 @@
             "firmware": "A156U1UEUBEZE1/A156U1OYMBEZE1/A156U1UEUBEZE1",
             "md5": "df44e220d482b2af022bc96e633c599f",
             "found_at": "2026-05-14T17:51:46.410876588+00:00"
+          },
+          {
+            "firmware": "A156U1UEUBEZE7/A156U1OYMBEZE7/A156U1UEUBEZE7",
+            "md5": "16f82bdb3cd67d903f7ec3e4dd6a0330",
+            "found_at": "2026-05-15T14:10:51.856871766+00:00"
           }
         ]
       }
@@ -9304,6 +9309,11 @@
             "firmware": "A566U1UEU7CZE2/A566U1OYM7CZE2/A566U1UEU7CZE2",
             "md5": "9dd24ee12d93e074e1b2d6ffe5cb81e0",
             "found_at": "2026-05-07T17:51:43.956208760+00:00"
+          },
+          {
+            "firmware": "A566U1UES7CZE5/A566U1OYM7CZE5/A566U1UES7CZE5",
+            "md5": "5aa0d82d90019674ed91204324d1ee52",
+            "found_at": "2026-05-15T14:18:25.224765846+00:00"
           }
         ]
       }
@@ -12818,7 +12828,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F741NKSS3CZCS/F741NOKR3CZCS/F741NKSS3CZCS",
+        "latest_official": "F741NKSU3DZDP/F741NOKR3DZDP/F741NKSU3DZDP",
         "test_firmwares": [
           {
             "firmware": "F741NKSU2CYD5/F741NOKR2CYD5/F741NKSU2CYD5",
@@ -13154,6 +13164,11 @@
             "firmware": "F741NKSU3DZDP/F741NOKR3DZDP/F741NKSU3DZDP",
             "md5": "351e2a710521eadffe62c7b11a30ed96",
             "found_at": "2026-04-23T21:01:08.488579422+00:00"
+          },
+          {
+            "firmware": "F741NKSS4DZE1/F741NOKR4DZE1/F741NKSS4DZE1",
+            "md5": "eebbca6892c45ea2826969a6f4eb0cdc",
+            "found_at": "2026-05-15T14:14:26.786084735+00:00"
           }
         ]
       }
@@ -19048,7 +19063,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F956NKSS3CZCS/F956NOKR3CZCS/F956NKSS3CZCS",
+        "latest_official": "F956NKSU3DZDP/F956NOKR3DZDP/F956NKSU3DZDP",
         "test_firmwares": [
           {
             "firmware": "F956NKSU2CYD5/F956NOKR2CYD5/F956NKSU2CYD5",
@@ -19394,6 +19409,11 @@
             "firmware": "F956NKSU3DZDP/F956NOKR3DZDP/F956NKSU3DZDP",
             "md5": "2828a3cf293b7522341c685a32b1ebbb",
             "found_at": "2026-04-23T21:02:35.154759812+00:00"
+          },
+          {
+            "firmware": "F956NKSS4DZE1/F956NOKR4DZE1/F956NKSS4DZE1",
+            "md5": "c9e385a0105b16512ad50ce652b7d38c",
+            "found_at": "2026-05-15T14:14:22.703377461+00:00"
           }
         ]
       }
@@ -20023,7 +20043,7 @@
     "name": "Galaxy Z Fold Special Edition",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F958NKSS3CZCS/F958NOKR3CZCS/F958NKSS3CZCS",
+        "latest_official": "F958NKSU3DZDP/F958NOKR3DZDP/F958NKSU3DZDP",
         "test_firmwares": [
           {
             "firmware": "F958NKSU2CYD5/F958NOKR2CYD5/F958NKSU2CYD5",
@@ -20344,6 +20364,11 @@
             "firmware": "F958NKSU3DZDP/F958NOKR3DZDP/F958NKSU3DZDP",
             "md5": "9d8f2f7ed0f13ac808b60d02dc719e32",
             "found_at": "2026-04-23T21:01:40.744749389+00:00"
+          },
+          {
+            "firmware": "F958NKSS4DZE1/F958NOKR4DZE1/F958NKSS4DZE1",
+            "md5": "f62f714acd78a351c6dab175cad4f0b8",
+            "found_at": "2026-05-15T14:15:08.721098215+00:00"
           }
         ]
       }
@@ -26529,6 +26554,11 @@
             "firmware": "S711USQS7FZE3/S711UOYN7FZE3/S711USQS7FZE3",
             "md5": "0c397420dae4028d41c68c0d3581815e",
             "found_at": "2026-05-12T10:38:31.383595375+00:00"
+          },
+          {
+            "firmware": "S711USQS8FZE4/S711UOYN8FZE4/S711USQS8FZE4",
+            "md5": "8d522659bb2ae55642bd978a6f9f76cb",
+            "found_at": "2026-05-15T14:06:52.260902863+00:00"
           }
         ]
       }
@@ -49463,7 +49493,7 @@
     "name": "Galaxy S26",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9420ZCS2AZCO/S9420CHC2AZCO/S9420ZCS2AZCO",
+        "latest_official": "S9420ZCU2AZDE/S9420CHC2AZDE/S9420ZCU2AZD3",
         "test_firmwares": [
           {
             "firmware": "S9420ZCS1AZC7/S9420CHC1AZC7/S9420ZCS1AZC7",
@@ -49599,6 +49629,11 @@
             "firmware": "S9420ZCU2AZDE/S9420CHC2AZDE/S9420ZCU2AZD3",
             "md5": "13a510cd662a2107d2eed6f0cc14ffc9",
             "found_at": "2026-04-22T06:10:54.755349255+00:00"
+          },
+          {
+            "firmware": "S9420ZCS2AZE1/S9420CHC2AZE1/S9420ZCS2AZE1",
+            "md5": "db9bacd5557901f49bcd85818d34daa5",
+            "found_at": "2026-05-15T14:10:33.041694479+00:00"
           }
         ]
       }
@@ -50363,7 +50398,7 @@
     "name": "Galaxy S26+",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9470ZCS2AZCO/S9470CHC2AZCO/S9470ZCS2AZCO",
+        "latest_official": "S9470ZCU2AZDE/S9470CHC2AZDE/S9470ZCU2AZD3",
         "test_firmwares": [
           {
             "firmware": "S9470ZCS1AZC7/S9470CHC1AZC7/S9470ZCS1AZC7",
@@ -50499,6 +50534,11 @@
             "firmware": "S9470ZCU2AZDE/S9470CHC2AZDE/S9470ZCU2AZD3",
             "md5": "bcd806dc49199aff1413f971f8e9c0e7",
             "found_at": "2026-04-22T06:11:28.624538331+00:00"
+          },
+          {
+            "firmware": "S9470ZCS2AZE1/S9470CHC2AZE1/S9470ZCS2AZE1",
+            "md5": "4f1c24c44c919f1962d3e07512d6a42d",
+            "found_at": "2026-05-15T14:11:22.052301782+00:00"
           }
         ]
       }
@@ -51248,7 +51288,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9480ZCS2AZCO/S9480CHC2AZCO/S9480ZCS2AZCO",
+        "latest_official": "S9480ZCU2AZDE/S9480CHC2AZDE/S9480ZCU2AZD3",
         "test_firmwares": [
           {
             "firmware": "S9480ZCS1AZC7/S9480CHC1AZC7/S9480ZCS1AZC7",
@@ -51379,6 +51419,11 @@
             "firmware": "S9480ZCU2AZDE/S9480CHC2AZDE/S9480ZCU2AZD3",
             "md5": "5d6c6bdf19ae14211cd91fb4d6bbbf95",
             "found_at": "2026-04-22T06:11:12.104427070+00:00"
+          },
+          {
+            "firmware": "S9480ZCS2AZE1/S9480CHC2AZE1/S9480ZCS2AZE1",
+            "md5": "906b996b7c7aa978ffbe4050c6c2246e",
+            "found_at": "2026-05-15T14:10:57.202624079+00:00"
           }
         ]
       }

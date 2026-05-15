@@ -3094,6 +3094,11 @@
             "firmware": "A175FXXU5CZE8/A175FOXM5CZE8/A175FXXU5CZE7",
             "md5": "8bfafc0ec36d5b21387a9da58648e8bf",
             "found_at": "2026-05-14T06:50:07.469852446+00:00"
+          },
+          {
+            "firmware": "A175FXXU5CZE9/A175FOXM5CZE9/A175FXXU5CZE9",
+            "md5": "3b8651be6148bf20517c268e092a718c",
+            "found_at": "2026-05-15T17:30:00.721001376+00:00"
           }
         ]
       }
@@ -55499,6 +55504,11 @@
             "firmware": "X516BXXUCEZE3/X516BOXMCEZE3/X516BXXUCEZE3",
             "md5": "4dc56b4cbc6e2b245adfc39fbae15c73",
             "found_at": "2026-05-14T14:15:36.305592096+00:00"
+          },
+          {
+            "firmware": "X516BXXUCEZE4/X516BOXMCEZE4/X516BXXUCEZE4",
+            "md5": "72428eea14f4d5fe590c7925326ae025",
+            "found_at": "2026-05-15T17:30:18.453745784+00:00"
           }
         ]
       }
@@ -56779,6 +56789,11 @@
             "firmware": "X616BXXUCEZE3/X616BOXMCEZE3/X616BXXUCEZE3",
             "md5": "9ad028302470e0eaf66fcae4e569ab9f",
             "found_at": "2026-05-14T10:27:18.108752641+00:00"
+          },
+          {
+            "firmware": "X616BXXUCEZE4/X616BOXMCEZE4/X616BXXUCEZE4",
+            "md5": "a0f69a560efa9c38833186b50db4e400",
+            "found_at": "2026-05-15T17:30:27.185371343+00:00"
           }
         ]
       }

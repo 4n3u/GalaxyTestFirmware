@@ -3099,6 +3099,11 @@
             "firmware": "A175FXXU5CZE9/A175FOXM5CZE9/A175FXXU5CZE9",
             "md5": "3b8651be6148bf20517c268e092a718c",
             "found_at": "2026-05-15T17:30:00.721001376+00:00"
+          },
+          {
+            "firmware": "A175FXXU5CZEA/A175FOXM5CZEA/A175FXXU5CZE9",
+            "md5": "b819cac4ff233dd3c7453b568a657e94",
+            "found_at": "2026-05-16T06:25:04.065211386+00:00"
           }
         ]
       }
@@ -28929,6 +28934,11 @@
             "firmware": "S731USQS7BZE1/S731UOYN7BZE1/S731USQS7BZE1",
             "md5": "5189c0a193358f5ebdd56be7a16016bb",
             "found_at": "2026-05-12T06:39:30.444158530+00:00"
+          },
+          {
+            "firmware": "S731USQU6BZD7/S731UOYN6BZD7/S731USQU6BZD7",
+            "md5": "8d791fba948073714ef2609b0c05bd66",
+            "found_at": "2026-05-16T06:30:02.338225885+00:00"
           }
         ]
       }

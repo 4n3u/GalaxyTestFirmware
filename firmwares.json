@@ -2809,6 +2809,11 @@
             "firmware": "A166U1UEU7DZEA/A166U1OYM7DZEA/A166U1UEU7DZEA",
             "md5": "405827d716c84847a9a0f456575b2d5a",
             "found_at": "2026-05-14T14:15:05.102250879+00:00"
+          },
+          {
+            "firmware": "A166U1UEU7DZEB/A166U1OYM7DZEB/A166U1UEU7DZEB",
+            "md5": "5d656a51dc9e02ae19eb83b0b81fb762",
+            "found_at": "2026-05-18T16:50:21.870595723+00:00"
           }
         ]
       }

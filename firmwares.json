@@ -56764,6 +56764,11 @@
             "firmware": "X528USQU9CZE8/X528UOYN9CZE8/X528USQU9CZE8",
             "md5": "f4b29707d4e79cde9a920a035ba39bac",
             "found_at": "2026-05-18T08:15:18.790477280+00:00"
+          },
+          {
+            "firmware": "X528USQS9BZE2/X528UOYN9BZE2/X528USQS9BZE2",
+            "md5": "4b59a4f50c7deca24979fae94f55e156",
+            "found_at": "2026-05-18T23:04:40.756523538+00:00"
           }
         ]
       }

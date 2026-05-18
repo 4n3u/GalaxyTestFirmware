@@ -56084,6 +56084,11 @@
             "firmware": "X518USQUDEZE4/X518UOYNDEZE4/X518USQUDEZE4",
             "md5": "c7062bab8289ffc064e450fc08921a45",
             "found_at": "2026-05-14T10:27:12.459242+00:00"
+          },
+          {
+            "firmware": "X518USQUDEZE5/X518UOYNDEZE5/X518USQUDEZE5",
+            "md5": "c43459bb2d0dd5f0b6144ee807fc6f76",
+            "found_at": "2026-05-18T19:52:13.686248217+00:00"
           }
         ]
       }

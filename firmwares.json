@@ -20723,7 +20723,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F966BXXS9AZC8/F966BOXM9AZC8/F966BXXS9AZC8",
+        "latest_official": "F966BXXU9BZDP/F966BOXM9BZDP/F966BXXU9BZDP",
         "test_firmwares": [
           {
             "firmware": "F966BXXS5AYI5/F966BOXM5AYI5/F966BXXS5AYI5",
@@ -20984,6 +20984,11 @@
             "firmware": "F966BXXU9BZDP/F966BOXM9BZDP/F966BXXU9BZDP",
             "md5": "9c0bb00607903bd4a8019adec05818d0",
             "found_at": "2026-04-24T02:48:05.536187340+00:00"
+          },
+          {
+            "firmware": "F966BXXU9BZE9/F966BOXM9BZE9/F966BXXU9BZE9",
+            "md5": "280e958d946bab57ba7bd44072b2980c",
+            "found_at": "2026-05-19T03:42:51.696657862+00:00"
           }
         ]
       }
@@ -57023,7 +57028,7 @@
     "name": "Galaxy Tab S9 FE+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X616CZCSBDZB4/X616CCHCBDZB4/X616CZCSBDZB2",
+        "latest_official": "X616CZCSCDZD6/X616CCHCCDZD6/X616CZCSCDZD6",
         "test_firmwares": [
           {
             "firmware": "X616CZCS8CYG1/X616CCHC8CYG1/X616CZCS8CYG1",
@@ -57169,6 +57174,36 @@
             "firmware": "X616CZCUBDZC5/X616CCHCBDZC5/X616CZCUBDZC5",
             "md5": "d2ae9db54443d7137ad6ac2c2a81068e",
             "found_at": "2026-03-27T02:28:27.593364434+00:00"
+          },
+          {
+            "firmware": "X616CZCSCDZD6/X616CCHCCDZD6/X616CZCSCDZD6",
+            "md5": "43fa9bba1306def2d36e5e4777d9b494",
+            "found_at": "2026-05-19T03:41:27.238392179+00:00"
+          },
+          {
+            "firmware": "X616CZCUCDZD8/X616CCHCCDZD8/X616CZCUCDZD8",
+            "md5": "49e7e9d796473e979c0cd3d59be95633",
+            "found_at": "2026-05-19T03:41:27.592613580+00:00"
+          },
+          {
+            "firmware": "X616CZCUCEZE1/X616CCHCCEZE1/X616CZCUCEZE1",
+            "md5": "fe6417befd645fbe16cc6d471a7cfd63",
+            "found_at": "2026-05-19T03:41:27.665641970+00:00"
+          },
+          {
+            "firmware": "X616CZCUCEZE2/X616CCHCCEZE2/X616CZCUCEZE2",
+            "md5": "89e99c6029595410c1d272119c049270",
+            "found_at": "2026-05-19T03:41:27.666207989+00:00"
+          },
+          {
+            "firmware": "X616CZCUCEZE3/X616CCHCCEZE3/X616CZCUCEZE3",
+            "md5": "b19692fc390b83dddaedd39ad4aa67ca",
+            "found_at": "2026-05-19T03:41:27.666718507+00:00"
+          },
+          {
+            "firmware": "X616CZCUCEZE4/X616CCHCCEZE4/X616CZCUCEZE4",
+            "md5": "ddb169521a59611334a772d6e09e1c5f",
+            "found_at": "2026-05-19T03:41:27.667239550+00:00"
           }
         ]
       }

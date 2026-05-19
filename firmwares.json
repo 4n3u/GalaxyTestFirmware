@@ -26109,6 +26109,11 @@
             "firmware": "S7110ZCU7GZE2/S7110CHC7GZE2/S7110ZCU7GZE2",
             "md5": "ace0cc0020c69ebb4bde771239322693",
             "found_at": "2026-05-07T17:53:25.137316156+00:00"
+          },
+          {
+            "firmware": "S7110ZCS8GZE4/S7110CHC8GZE4/S7110ZCS8GZE4",
+            "md5": "eee12b51aa2e001bf0b51f18a199ebcf",
+            "found_at": "2026-05-19T11:24:24.590854524+00:00"
           }
         ]
       }
@@ -27054,6 +27059,11 @@
             "firmware": "S711U1UES7FZE3/S711U1OYM7FZE3/S711U1UES7FZE3",
             "md5": "8a940c87b5716a291889f48fff83ec11",
             "found_at": "2026-05-13T14:40:41.286710021+00:00"
+          },
+          {
+            "firmware": "S711U1UES8FZE4/S711U1OYM8FZE4/S711U1UES8FZE4",
+            "md5": "dd58f370d7d818de8ec4dfdbd82c6d17",
+            "found_at": "2026-05-19T11:24:30.214180913+00:00"
           }
         ]
       }
@@ -37463,7 +37473,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S921U1UES5CZD2/S921U1OYM5CZD2/S921U1UES5CZD2",
+        "latest_official": "S921U1UEU5DZDR/S921U1OYM5DZDR/S921U1UEU5DZDR",
         "test_firmwares": [
           {
             "firmware": "S921U1UES4CYIB/S921U1OYM4CYIB/S921U1UES4CYIB",
@@ -37744,6 +37754,11 @@
             "firmware": "S921U1UES5DZE1/S921U1OYM5DZE1/S921U1UES5DZE1",
             "md5": "d213196d691df9cef48180a1b4c41a44",
             "found_at": "2026-05-07T17:54:04.537008434+00:00"
+          },
+          {
+            "firmware": "S921U1UES6DZE2/S921U1OYM6DZE2/S921U1UES6DZE2",
+            "md5": "b61d574cf35f254d7cd5d51d60221aab",
+            "found_at": "2026-05-19T11:25:26.623357921+00:00"
           }
         ]
       }
@@ -57084,6 +57099,11 @@
             "firmware": "X616BXXUCEZE5/X616BOXMCEZE5/X616BXXUCEZE5",
             "md5": "16d4ef02a7d853a9a1047038dd5d6596",
             "found_at": "2026-05-18T13:55:49.746359523+00:00"
+          },
+          {
+            "firmware": "X616BXXUCEZE6/X616BOXMCEZE6/X616BXXUCEZE6",
+            "md5": "ba82383c56d6d96c381d6baad2a77b56",
+            "found_at": "2026-05-19T11:21:53.353169256+00:00"
           }
         ]
       }

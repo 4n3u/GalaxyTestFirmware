@@ -22998,7 +22998,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G766USQS7BZD8/G766UOYN7BZD8/G766USQS7BZD8",
+        "latest_official": "G766USQS7BZE2/G766UOYN7BZE2/G766USQS7BZE2",
         "test_firmwares": [
           {
             "firmware": "G766USQS3AYI1/G766UOYN3AYI1/G766USQS3AYI1",
@@ -23204,6 +23204,11 @@
             "firmware": "G766USQU7CZE6/G766UOYN7CZE6/G766USQU7CZE6",
             "md5": "e2ad2509ed8470662202112ff60d8a71",
             "found_at": "2026-05-13T18:10:28.054140809+00:00"
+          },
+          {
+            "firmware": "G766USQU7CZE7/G766UOYN7CZE7/G766USQU7CZE7",
+            "md5": "0f9bcedd3f58cdc21d346ae811884186",
+            "found_at": "2026-05-19T21:25:43.601038140+00:00"
           }
         ]
       }
@@ -56889,6 +56894,11 @@
             "firmware": "X528USQS9BZE2/X528UOYN9BZE2/X528USQS9BZE2",
             "md5": "4b59a4f50c7deca24979fae94f55e156",
             "found_at": "2026-05-18T23:04:40.756523538+00:00"
+          },
+          {
+            "firmware": "X528USQU9CZE9/X528UOYN9CZE9/X528USQU9CZE9",
+            "md5": "816dbe94b2229e38c0d36adac30602c7",
+            "found_at": "2026-05-19T21:21:24.525730395+00:00"
           }
         ]
       }

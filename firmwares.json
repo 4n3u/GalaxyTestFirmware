@@ -22394,6 +22394,11 @@
             "firmware": "G556BXXUFEZE9/G556BOXMFEZE9/G556BXXUFEZE9",
             "md5": "9ee85154c1fa4118f7c1cc2d7363846a",
             "found_at": "2026-05-13T14:42:06.396914409+00:00"
+          },
+          {
+            "firmware": "G556BXXUFEZEA/G556BOXMFEZEA/G556BXXUFEZEA",
+            "md5": "9f4148779da015baeb668a7dbb0f9324",
+            "found_at": "2026-05-19T15:32:54.092895632+00:00"
           }
         ]
       }
@@ -22979,6 +22984,11 @@
             "firmware": "G766BXXU7CZE5/G766BOXM7CZE5/G766BXXU7CZE5",
             "md5": "97862f0069e8e4faf97d7f642847dac3",
             "found_at": "2026-05-12T14:35:21.034213178+00:00"
+          },
+          {
+            "firmware": "G766BXXU7CZE7/G766BOXM7CZE7/G766BXXU7CZE7",
+            "md5": "9e6294df7be0412dc454444276ab9646",
+            "found_at": "2026-05-19T15:32:31.278743264+00:00"
           }
         ]
       }
@@ -23203,7 +23213,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G766U1UES7BZD8/G766U1OYM7BZD8/G766U1UES7BZD8",
+        "latest_official": "G766U1UES7BZE2/G766U1OYM7BZE2/G766U1UES7BZE2",
         "test_firmwares": [
           {
             "firmware": "G766U1UES3AYI1/G766U1OYM3AYI1/G766U1UES3AYI1",
@@ -23399,6 +23409,11 @@
             "firmware": "G766U1UEU7CZE6/G766U1OYM7CZE6/G766U1UEU7CZE6",
             "md5": "34e0ff54d7b5a0a4c7f77f8f742ad039",
             "found_at": "2026-05-13T18:10:33.245858900+00:00"
+          },
+          {
+            "firmware": "G766U1UEU7CZE7/G766U1OYM7CZE7/G766U1UEU7CZE7",
+            "md5": "47ad6e301c5a7631b43b30b2828fd56d",
+            "found_at": "2026-05-19T15:32:39.547964612+00:00"
           }
         ]
       }
@@ -38768,7 +38783,7 @@
     "name": "Galaxy S24+",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S926U1UES5CZD2/S926U1OYM5CZD2/S926U1UES5CZD2",
+        "latest_official": "S926U1UEU5DZDR/S926U1OYM5DZDR/S926U1UEU5DZDR",
         "test_firmwares": [
           {
             "firmware": "S926U1UES4CYIB/S926U1OYM4CYIB/S926U1UES4CYIB",
@@ -39049,6 +39064,11 @@
             "firmware": "S926U1UES5DZE1/S926U1OYM5DZE1/S926U1UES5DZE1",
             "md5": "fd06ae801b6e3dc53a97e940a704d237",
             "found_at": "2026-05-07T17:54:42.601749673+00:00"
+          },
+          {
+            "firmware": "S926U1UES6DZE2/S926U1OYM6DZE2/S926U1UES6DZE2",
+            "md5": "45f785284e047db4f27229a90150b1a2",
+            "found_at": "2026-05-19T15:28:28.088547263+00:00"
           }
         ]
       }
@@ -40263,7 +40283,7 @@
     "name": "Galaxy S24 Ultra",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S928U1UES5CZD2/S928U1OYM5CZD2/S928U1UES5CZD2",
+        "latest_official": "S928U1UEU5DZDR/S928U1OYM5DZDR/S928U1UEU5DZDR",
         "test_firmwares": [
           {
             "firmware": "S928U1UES4CYIB/S928U1OYM4CYIB/S928U1UES4CYIB",
@@ -40544,6 +40564,11 @@
             "firmware": "S928U1UES5DZE1/S928U1OYM5DZE1/S928U1UES5DZE1",
             "md5": "798301710e6260ecb9a3f43729e66d50",
             "found_at": "2026-05-07T17:54:34.341553652+00:00"
+          },
+          {
+            "firmware": "S928U1UES6DZE2/S928U1OYM6DZE2/S928U1UES6DZE2",
+            "md5": "9867ffb259e11b72e5ddbffd7ea2ff36",
+            "found_at": "2026-05-19T15:28:18.725344232+00:00"
           }
         ]
       }
@@ -49848,7 +49873,7 @@
     "name": "Galaxy S26",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S942BXXU2AZDE/S942BOXM2AZDE/S942BXXU2AZDE",
+        "latest_official": "S942BXXS2AZE2/S942BOXM2AZE2/S942BXXS2AZE2",
         "test_firmwares": [
           {
             "firmware": "S942BXXS1AZC7/S942BOXM1AZC7/S942BXXS1AZC7",
@@ -50054,6 +50079,11 @@
             "firmware": "S942BXXS2AZE2/S942BOXM2AZE2/S942BXXS2AZE2",
             "md5": "e7b9fbbd4155c0860c934771c61abf49",
             "found_at": "2026-05-09T02:56:45.947383607+00:00"
+          },
+          {
+            "firmware": "S942BXXS2AZE5/S942BOXM2AZE5/S942BXXS2AZE5",
+            "md5": "0ff84ad3b3f4b3e4ae2788e6a5f7443e",
+            "found_at": "2026-05-19T15:27:03.132678221+00:00"
           }
         ]
       }

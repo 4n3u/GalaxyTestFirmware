@@ -15964,6 +15964,11 @@
             "firmware": "F766USQSABZE3/F766UOYNABZE3/F766USQSABZE3",
             "md5": "c3bc1f60b5364db1c8c7150ceb182f46",
             "found_at": "2026-05-14T06:55:53.985698889+00:00"
+          },
+          {
+            "firmware": "F766USQSABZE5/F766UOYNABZE5/F766USQSABZE5",
+            "md5": "9aa1b6ad04d5329044a0ce08c658827a",
+            "found_at": "2026-05-20T07:46:10.395769309+00:00"
           }
         ]
       }
@@ -53268,7 +53273,7 @@
     "name": "Galaxy Tab A11",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X135FXXS4BZB6/X135FOXM4BZB6/X135FXXS4BZB6",
+        "latest_official": "X135FXXS4BZE4/X135FOXM4BZE4/X135FXXS4BZE2",
         "test_firmwares": [
           {
             "firmware": "X135FXXU1BYI3/X135FOXM1BYI3/X135FXXU1BYI3",
@@ -53434,6 +53439,51 @@
             "firmware": "X135FXXU4BZC8/X135FOXM4BZC8/X135FXXU4BZC7",
             "md5": "8786156a99579353e2f627b0256fd537",
             "found_at": "2026-03-30T13:21:29.861153932+00:00"
+          },
+          {
+            "firmware": "X135FXXS4BZE2/X135FOXM4BZE2/X135FXXS4BZE2",
+            "md5": "162e7aff7fd9bba2e469bb3e35eafbce",
+            "found_at": "2026-05-20T07:44:16.763168587+00:00"
+          },
+          {
+            "firmware": "X135FXXS4BZE4/X135FOXM4BZE4/X135FXXS4BZE2",
+            "md5": "0a0910b652f56c6bda1790ccb87238f4",
+            "found_at": "2026-05-20T07:44:16.767352266+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZD1/X135FOXM4BZD1/X135FXXU4BZD1",
+            "md5": "74a5290251c2c3798da5d85f5ea293c1",
+            "found_at": "2026-05-20T07:44:17.284162378+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZD3/X135FOXM4BZD3/X135FXXU4BZD3",
+            "md5": "0a514e95c82cf70f4e7941f3cb84f4e2",
+            "found_at": "2026-05-20T07:44:17.285550307+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZD4/X135FOXM4BZD4/X135FXXU4BZD4",
+            "md5": "fcdeade133c57cac7e9546d2d4255b8b",
+            "found_at": "2026-05-20T07:44:17.286256624+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZD5/X135FOXM4BZD5/X135FXXU4BZD5",
+            "md5": "75d5e449d00a2d114af4be3bd9c4e1f0",
+            "found_at": "2026-05-20T07:44:17.287040841+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZE1/X135FOXM4BZE1/X135FXXU4BZE1",
+            "md5": "31815bd859030ae6da61cd32393dcf20",
+            "found_at": "2026-05-20T07:44:17.303441131+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZE3/X135FOXM4BZE3/X135FXXU4BZE3",
+            "md5": "8001f7b02d096c5b0a6c39b8462321b9",
+            "found_at": "2026-05-20T07:44:17.304370250+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZE6/X135FOXM4BZE6/X135FXXU4BZE6",
+            "md5": "58e4c656c19e872514f4e35919a04b5b",
+            "found_at": "2026-05-20T07:44:17.306363911+00:00"
           }
         ]
       }

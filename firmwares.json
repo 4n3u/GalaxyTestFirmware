@@ -54503,7 +54503,7 @@
     "name": "Galaxy Tab Active5 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X306BXXSACZB3/X306BOXMACZB3/X306BXXSACZB3",
+        "latest_official": "X306BXXSACZE1/X306BOXMACZE1/X306BXXSACZE1",
         "test_firmwares": [
           {
             "firmware": "X306BXXS7BYI1/X306BOXM7BYI1/X306BXXS7BYI1",
@@ -54694,6 +54694,46 @@
             "firmware": "X306BXXUADZC5/X306BOXMADZC5/X306BXXUADZC5",
             "md5": "7460903bbdafe5a8a87c890eb0c03636",
             "found_at": "2026-03-26T15:07:09.937305854+00:00"
+          },
+          {
+            "firmware": "X306BXXSACZE1/X306BOXMACZE1/X306BXXSACZE1",
+            "md5": "bdac00e86af0701f62ceec69deb0b99a",
+            "found_at": "2026-05-20T03:35:13.946806948+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZD1/X306BOXMADZD1/X306BXXUADZD1",
+            "md5": "61fb44cdab2b47d0c0e9516626b2793e",
+            "found_at": "2026-05-20T03:35:14.442671905+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZD2/X306BOXMADZD2/X306BXXUADZD2",
+            "md5": "5321adee4a210233ced22a8dcfb144f0",
+            "found_at": "2026-05-20T03:35:14.443546855+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZD3/X306BOXMADZD3/X306BXXUADZD3",
+            "md5": "34bface9b11ce4b8a7d74de06ada85db",
+            "found_at": "2026-05-20T03:35:14.444303720+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZD4/X306BOXMADZD4/X306BXXUADZD4",
+            "md5": "82913b11a2e1963da0453e31216ef4f3",
+            "found_at": "2026-05-20T03:35:14.445067909+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZE1/X306BOXMADZE1/X306BXXUADZE1",
+            "md5": "86a42d25749dce7b0eecd25f5c1d3124",
+            "found_at": "2026-05-20T03:35:14.461462354+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZE2/X306BOXMADZE2/X306BXXUADZE2",
+            "md5": "266dcc0454259e37c2687b124588468b",
+            "found_at": "2026-05-20T03:35:14.462376317+00:00"
+          },
+          {
+            "firmware": "X306BXXUADZE3/X306BOXMADZE3/X306BXXUADZE3",
+            "md5": "4fc3c3e4f50f15c2a9baed40c528d072",
+            "found_at": "2026-05-20T03:35:14.463030862+00:00"
           }
         ]
       }
@@ -58343,7 +58383,7 @@
     "name": "Galaxy Tab S11 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X736BXXS5AZB8/X736BOXM5AZB8/X736BXXS5AZB8",
+        "latest_official": "X736BXXS5AZE2/X736BOXM5AZE2/X736BXXS5AZE2",
         "test_firmwares": [
           {
             "firmware": "X736BXXU2AYI2/X736BOXM2AYI2/X736BXXU2AYI2",
@@ -58454,6 +58494,56 @@
             "firmware": "X736BXXU5AZC5/X736BOXM5AZC5/X736BXXU5AZC5",
             "md5": "635452ab7aed807f62e2e03f12348ea2",
             "found_at": "2026-03-25T05:33:13.844014653+00:00"
+          },
+          {
+            "firmware": "X736BXXS5AZE2/X736BOXM5AZE2/X736BXXS5AZE2",
+            "md5": "9076601cbcfe9b599c3f75c042fe66a0",
+            "found_at": "2026-05-20T03:36:11.052311320+00:00"
+          },
+          {
+            "firmware": "X736BXXU5AZD1/X736BOXM5AZD1/X736BXXU5AZD1",
+            "md5": "5c651525ff2f6e293fcd9e99838bca8d",
+            "found_at": "2026-05-20T03:36:11.432638514+00:00"
+          },
+          {
+            "firmware": "X736BXXU5AZD2/X736BOXM5AZD2/X736BXXU5AZD2",
+            "md5": "e85f25783c0938edbbc93754d0b3d982",
+            "found_at": "2026-05-20T03:36:11.433078012+00:00"
+          },
+          {
+            "firmware": "X736BXXU5AZD4/X736BOXM5AZD4/X736BXXU5AZD4",
+            "md5": "9c3124a5f07237ac6d5dabc0d50c774e",
+            "found_at": "2026-05-20T03:36:11.433929012+00:00"
+          },
+          {
+            "firmware": "X736BXXU5AZD7/X736BOXM5AZD7/X736BXXU5AZD7",
+            "md5": "5f014c1a746e5aa39ce834a8a947bc53",
+            "found_at": "2026-05-20T03:36:11.435314871+00:00"
+          },
+          {
+            "firmware": "X736BXXU5BZD8/X736BOXM5BZD8/X736BXXU5BZD8",
+            "md5": "7e62e037f36cb22aec82cd5ed1192858",
+            "found_at": "2026-05-20T03:36:11.509424714+00:00"
+          },
+          {
+            "firmware": "X736BXXU5BZE1/X736BOXM5BZE1/X736BXXU5BZD8",
+            "md5": "74d84e623709c48781bcb71629f3a781",
+            "found_at": "2026-05-20T03:36:11.522983146+00:00"
+          },
+          {
+            "firmware": "X736BXXU5BZE3/X736BOXM5BZE3/X736BXXU5BZE3",
+            "md5": "edbe0f8688a0687ca98406789d21bf12",
+            "found_at": "2026-05-20T03:36:11.523905827+00:00"
+          },
+          {
+            "firmware": "X736BXXU5BZE4/X736BOXM5BZE4/X736BXXU5BZE4",
+            "md5": "0dfadc57913e4bcfe7f91a89b7a595d6",
+            "found_at": "2026-05-20T03:36:11.524348356+00:00"
+          },
+          {
+            "firmware": "X736BXXU5BZE5/X736BOXM5BZE5/X736BXXU5BZE5",
+            "md5": "2b33cf19a646575e599eb51fb93f2aed",
+            "found_at": "2026-05-20T03:36:11.524787715+00:00"
           }
         ]
       }

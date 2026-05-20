@@ -22594,6 +22594,21 @@
       }
     }
   },
+  "SM-G736U": {
+    "name": "Galaxy XCover6 Pro",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "G736USQSEGZE1/G736UOYNEGZE1/G736USQSEGZE1",
+        "test_firmwares": [
+          {
+            "firmware": "G736USQSEGZE1/G736UOYNEGZE1/G736USQSEGZE1",
+            "md5": "86b6f915da9792af4bec05454e363a80",
+            "found_at": "2026-05-20T15:27:12.134443524+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-G736U1": {
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
@@ -54373,7 +54388,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X238USQS4AZB7/X238UOYN4AZB7/X238USQS4AZB7",
+        "latest_official": "X238USQS5AZE1/X238UOYN5AZE1/X238USQS5AZE1",
         "test_firmwares": [
           {
             "firmware": "X238USQU3AZA5/X238UOYN3AZA5/X238USQU3AZA5",
@@ -54474,6 +54489,36 @@
             "firmware": "X238USQU4BZC6/X238UOYN4BZC6/X238USQU4BZC6",
             "md5": "bf058ff5b775297a698b34071522cd26",
             "found_at": "2026-03-26T10:54:31.799436107+00:00"
+          },
+          {
+            "firmware": "X238USQS5AZE1/X238UOYN5AZE1/X238USQS5AZE1",
+            "md5": "c996635a98c78219721b42234ba6d494",
+            "found_at": "2026-05-20T15:20:59.730761714+00:00"
+          },
+          {
+            "firmware": "X238USQS5AZE2/X238UOYN5AZE2/X238USQS5AZE2",
+            "md5": "84320996bc68928c18e6417b7698a4aa",
+            "found_at": "2026-05-20T15:20:59.731226895+00:00"
+          },
+          {
+            "firmware": "X238USQS5AZE3/X238UOYN5AZE3/X238USQS5AZE3",
+            "md5": "d50e6ba423687dac9a5511f74b8e6086",
+            "found_at": "2026-05-20T15:20:59.735877875+00:00"
+          },
+          {
+            "firmware": "X238USQU5BZE1/X238UOYN5BZE1/X238USQU5BZE1",
+            "md5": "3a39141d189d3bc94ab822b4ad9d1da9",
+            "found_at": "2026-05-20T15:21:00.841086695+00:00"
+          },
+          {
+            "firmware": "X238USQU5BZE6/X238UOYN5BZE6/X238USQU5BZE6",
+            "md5": "792f75f8d6f4d9310969af8716a55b55",
+            "found_at": "2026-05-20T15:21:00.844798764+00:00"
+          },
+          {
+            "firmware": "X238USQU5BZE8/X238UOYN5BZE8/X238USQU5BZE8",
+            "md5": "e08efaa5d0b8bd395e577fde0c06e8ac",
+            "found_at": "2026-05-20T15:21:00.848643902+00:00"
           }
         ]
       }
@@ -59668,7 +59713,7 @@
     "name": "Galaxy Tab S9+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X818USQS7DZB6/X818UOYN7DZB6/X818USQS7DZB6",
+        "latest_official": "X818USQS7DZE1/X818UOYN7DZE1/X818USQS7DZE1",
         "test_firmwares": [
           {
             "firmware": "X818USQS6CYF1/X818UOYN6CYF1/X818USQS6CYF1",
@@ -59824,6 +59869,41 @@
             "firmware": "X818USQU7EZC5/X818UOYN7EZC5/X818USQU7EZC5",
             "md5": "ea2ea7cd8d72076509e6e203c0a11e3f",
             "found_at": "2026-03-26T13:20:03.973809528+00:00"
+          },
+          {
+            "firmware": "X818USQS7DZE1/X818UOYN7DZE1/X818USQS7DZE1",
+            "md5": "9ce64f518e20d5671bc1d8fa3643a52c",
+            "found_at": "2026-05-20T15:23:58.869149061+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZD1/X818UOYN7EZD1/X818USQU7EZD1",
+            "md5": "6399a2652870c06f8d07f958f178a295",
+            "found_at": "2026-05-20T15:23:59.948873253+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZD2/X818UOYN7EZD2/X818USQU7EZD2",
+            "md5": "5d1f7d7bbbdbd229df3138fba39836e5",
+            "found_at": "2026-05-20T15:23:59.951967652+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZD3/X818UOYN7EZD3/X818USQU7EZD3",
+            "md5": "c5b14255445f57295819064880662652",
+            "found_at": "2026-05-20T15:23:59.953422946+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZD5/X818UOYN7EZD5/X818USQU7EZD5",
+            "md5": "b9a3a3e56e1391d9329da821f65cc76e",
+            "found_at": "2026-05-20T15:23:59.955636219+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZE2/X818UOYN7EZE2/X818USQU7EZE2",
+            "md5": "bb29a8f2afe64c10950763f0f1d63357",
+            "found_at": "2026-05-20T15:23:59.988024436+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZE3/X818UOYN7EZE3/X818USQU7EZE3",
+            "md5": "036c17ebfd7e0ae9ee628be8c6750649",
+            "found_at": "2026-05-20T15:23:59.991742104+00:00"
           }
         ]
       }

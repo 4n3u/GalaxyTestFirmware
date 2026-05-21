@@ -15463,7 +15463,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F766NKSU9BZDP/F766NOKR9BZDP/F766NKSU9BZDB",
+        "latest_official": "F766NKSSABZE1/F766NOKRABZE1/F766NKSSABZE1",
         "test_firmwares": [
           {
             "firmware": "F766NKSS5AYI5/F766NOKR5AYI5/F766NKSS5AYI5",
@@ -15734,6 +15734,11 @@
             "firmware": "F766NKSUABZE9/F766NOKRABZE9/F766NKSUABZE9",
             "md5": "22f5dc9301de7b92f93d9cc758144b75",
             "found_at": "2026-05-14T06:55:49.888184382+00:00"
+          },
+          {
+            "firmware": "F766NKSUABZEB/F766NOKRABZEB/F766NKSUABZE9",
+            "md5": "378e26d4f2ba23fa86c65366e24a1c94",
+            "found_at": "2026-05-21T18:07:04.503592893+00:00"
           }
         ]
       }
@@ -46408,7 +46413,7 @@
     "name": "Galaxy S25 Edge",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S937NKSU7CZDP/S937NOKR7CZDP/S937NKSU7CZDP",
+        "latest_official": "S937NKSS8CZE1/S937NOKR8CZE1/S937NKSS8CZE1",
         "test_firmwares": [
           {
             "firmware": "S937NKSS2BYI9/S937NOKR2BYI9/S937NKSU2BYI3",
@@ -46774,6 +46779,16 @@
             "firmware": "S937NKSS8CZE1/S937NOKR8CZE1/S937NKSS8CZE1",
             "md5": "a6f28bb902506fa38e2a2bf19390cfc0",
             "found_at": "2026-05-11T11:28:35.544610473+00:00"
+          },
+          {
+            "firmware": "S937NKSU8CZE9/S937NOKR8CZE9/S937NKSU8CZE9",
+            "md5": "5cdb1c804bccaaec2ce4f647206bf16f",
+            "found_at": "2026-05-21T18:05:59.952672161+00:00"
+          },
+          {
+            "firmware": "S937NKSU8CZEB/S937NOKR8CZEB/S937NKSU8CZE9",
+            "md5": "edccba5a78079785da73627bbd7651fb",
+            "found_at": "2026-05-21T18:05:59.954435666+00:00"
           }
         ]
       }

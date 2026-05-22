@@ -15213,7 +15213,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F766BXXS9AZD1/F766BOXM9AZD1/F766BXXS9AZD1",
+        "latest_official": "F766BXXS9BZE2/F766BOXM9BZDP/F766BXXS9BZE2",
         "test_firmwares": [
           {
             "firmware": "F766BXXS5AYI5/F766BOXM5AYI5/F766BXXS5AYI5",
@@ -15479,6 +15479,11 @@
             "firmware": "F766BXXU9BZDP/F766BOXM9BZDP/F766BXXU9BZDP",
             "md5": "b9659eed5ce8f46591043c6e6055a640",
             "found_at": "2026-04-24T02:48:20.096490150+00:00"
+          },
+          {
+            "firmware": "F766BXXU9BZEB/F766BOXM9BZEB/F766BXXU9BZEB",
+            "md5": "e2c95cef54b6b7e80fca35bc2e07e5af",
+            "found_at": "2026-05-22T14:41:26.949815635+00:00"
           }
         ]
       }

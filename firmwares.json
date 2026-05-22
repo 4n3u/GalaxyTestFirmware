@@ -9473,7 +9473,7 @@
     "name": "Galaxy A57 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5760ZCS2AZD3/A5760CHC2AZD3/A5760ZCS2AZD3",
+        "latest_official": "A5760ZCU2AZD9/A5760CHC2AZD9/A5760ZCU2AZD9",
         "test_firmwares": [
           {
             "firmware": "A5760ZCU1AZA3/A5760CHC1AZA3/A5760ZCU1AZA3",
@@ -9579,6 +9579,11 @@
             "firmware": "A5760ZCU2AZD9/A5760CHC2AZD9/A5760ZCU2AZD9",
             "md5": "cbf5e6bd932b9804243e77cd876eafd5",
             "found_at": "2026-04-28T03:00:13.499268775+00:00"
+          },
+          {
+            "firmware": "A5760ZCS2AZE2/A5760CHC2AZE2/A5760ZCS2AZE2",
+            "md5": "d1e63461edd0111914061d66ee8f8a38",
+            "found_at": "2026-05-22T07:54:44.014311971+00:00"
           }
         ]
       }
@@ -15184,6 +15189,11 @@
             "firmware": "F7660ZCUABZEB/F7660CHCABZEB/F7660ZCUABZE9",
             "md5": "fe0c0deef8906703533bb8f2b69fa92d",
             "found_at": "2026-05-22T03:40:37.805141834+00:00"
+          },
+          {
+            "firmware": "F7660ZCSABZE3/F7660CHCABZE3/F7660ZCSABZE1",
+            "md5": "458215c8ea4a4ea8d5903020110ea246",
+            "found_at": "2026-05-22T07:54:05.245342396+00:00"
           }
         ]
       }
@@ -22059,6 +22069,11 @@
             "firmware": "F9680ZCU5BZEB/F9680CHC5BZEB/F9680ZCU5BZEB",
             "md5": "e0566725ff82ae094661408ec0cdb1a7",
             "found_at": "2026-05-22T03:42:31.346553228+00:00"
+          },
+          {
+            "firmware": "F9680ZCS5BZE3/F9680CHC5BZE3/F9680ZCS5BZE3",
+            "md5": "019250237127655172e5b259f5f6e979",
+            "found_at": "2026-05-22T07:55:54.025237315+00:00"
           }
         ]
       }
@@ -54908,7 +54923,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X238U1UES4AZB7/X238U1OYM4AZB7/X238U1UES4AZB7",
+        "latest_official": "X238U1UES5AZE1/X238U1OYM5AZE1/X238U1UES5AZE1",
         "test_firmwares": [
           {
             "firmware": "X238U1UES3AZB2/X238U1OYM3AZB2/X238U1UES3AZB2",
@@ -54969,6 +54984,26 @@
             "firmware": "X238U1UEU4BZC6/X238U1OYM4BZC6/X238U1UEU4BZC6",
             "md5": "49d175c71289e88bcae583b3d111e726",
             "found_at": "2026-03-26T13:17:28.681601133+00:00"
+          },
+          {
+            "firmware": "X238U1UES5AZE1/X238U1OYM5AZE1/X238U1UES5AZE1",
+            "md5": "2e1271bc7538c8382fe300da61096bee",
+            "found_at": "2026-05-22T07:52:21.126526929+00:00"
+          },
+          {
+            "firmware": "X238U1UEU5BZE1/X238U1OYM5BZE1/X238U1UEU5BZE1",
+            "md5": "671843871ce12d3ffbda6fb01b3e6cf2",
+            "found_at": "2026-05-22T07:52:21.578221239+00:00"
+          },
+          {
+            "firmware": "X238U1UEU5BZE6/X238U1OYM5BZE6/X238U1UEU5BZE6",
+            "md5": "05ea2021b598cf495bd502f6cfb6403e",
+            "found_at": "2026-05-22T07:52:21.580149605+00:00"
+          },
+          {
+            "firmware": "X238U1UEU5BZE8/X238U1OYM5BZE8/X238U1UEU5BZE8",
+            "md5": "ac32f4b2fafcfa3017d9ba8a04502267",
+            "found_at": "2026-05-22T07:52:21.580938555+00:00"
           }
         ]
       }
@@ -60658,7 +60693,7 @@
     "name": "Galaxy Tab S10+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X828USQS7CZB5/X828UOYN7CZB5/X828USQS7CZB5",
+        "latest_official": "X828USQS7CZD8/X828UOYN7CZD8/X828USQS7CZD8",
         "test_firmwares": [
           {
             "firmware": "X828USQU4CYG3/X828UOYN4CYG3/X828USQU4CYG3",
@@ -60834,6 +60869,41 @@
             "firmware": "X828USQU7DZC4/X828UOYN7DZC4/X828USQU7DZC4",
             "md5": "5ee2244eed7b38fa8774ff48ccd33b46",
             "found_at": "2026-03-25T22:44:39.950182077+00:00"
+          },
+          {
+            "firmware": "X828USQS7CZD8/X828UOYN7CZD8/X828USQS7CZD8",
+            "md5": "f302967cb0ee9b899f97b6860baaa62f",
+            "found_at": "2026-05-22T07:53:47.340988582+00:00"
+          },
+          {
+            "firmware": "X828USQS7CZE1/X828UOYN7CZE1/X828USQS7CZE1",
+            "md5": "d81842672aaf90c12c8e24a703325855",
+            "found_at": "2026-05-22T07:53:47.353909298+00:00"
+          },
+          {
+            "firmware": "X828USQS7CZE2/X828UOYN7CZE2/X828USQS7CZE2",
+            "md5": "857cc945bb22d4eea798b38ed0ecbd55",
+            "found_at": "2026-05-22T07:53:47.354322666+00:00"
+          },
+          {
+            "firmware": "X828USQU7DZD5/X828UOYN7DZD5/X828USQU7DZD5",
+            "md5": "430de9da4d58b574bfdee2e392dea676",
+            "found_at": "2026-05-22T07:53:47.749038352+00:00"
+          },
+          {
+            "firmware": "X828USQU7DZD6/X828UOYN7DZD6/X828USQU7DZD6",
+            "md5": "28b05ff88c376ebb6712813d8bcc21e7",
+            "found_at": "2026-05-22T07:53:47.749496722+00:00"
+          },
+          {
+            "firmware": "X828USQU7DZD7/X828UOYN7DZD7/X828USQU7DZD7",
+            "md5": "29488e06dc49554c37e4aec0a7cfe6e0",
+            "found_at": "2026-05-22T07:53:47.749940406+00:00"
+          },
+          {
+            "firmware": "X828USQU7DZE3/X828UOYN7DZE3/X828USQU7DZE3",
+            "md5": "37bb00dc0e6a9e1f9be30a02603c4849",
+            "found_at": "2026-05-22T07:53:47.764963644+00:00"
           }
         ]
       }

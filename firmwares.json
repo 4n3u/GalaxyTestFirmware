@@ -6178,7 +6178,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3660ZHS6BZC2/A3660OZS6BZC2/A3660ZHS6BZC2",
+        "latest_official": "A3660ZHS7BZDA/A3660OZS7BZDA/A3660ZHS7BZDA",
         "test_firmwares": [
           {
             "firmware": "A3660ZHU3BYG2/A3660OZS3BYG2/A3660ZHU3BYG2",
@@ -6319,6 +6319,11 @@
             "firmware": "A3660ZHU7CZDD/A3660OZS7CZDD/A3660ZHU7CZDD",
             "md5": "9c4be39c96bd06f54a600a64ea1002ea",
             "found_at": "2026-04-28T14:14:24.489497804+00:00"
+          },
+          {
+            "firmware": "A3660ZHS8CZE3/A3660OZS8CZE3/A3660ZHS8CZE3",
+            "md5": "23593e86fd61f90371d5d23ac8ede279",
+            "found_at": "2026-05-22T10:59:22.517606527+00:00"
           }
         ]
       }
@@ -12478,7 +12483,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7410ZCS3CZC5/F7410CHC3CZC5/F7410ZCS3CZC5",
+        "latest_official": "F7410ZCU3DZDP/F7410CHC3DZDP/F7410ZCU3DZDP",
         "test_firmwares": [
           {
             "firmware": "F7410ZCS2CYIB/F7410CHC2CYIB/F7410ZCS2CYIB",
@@ -12654,6 +12659,11 @@
             "firmware": "F7410ZCU3DZDP/F7410CHC3DZDP/F7410ZCU3DZDP",
             "md5": "b229512110cfa2bf588e14fc88b78e9d",
             "found_at": "2026-04-29T06:33:28.415054599+00:00"
+          },
+          {
+            "firmware": "F7410ZCS4DZE1/F7410CHC4DZE1/F7410ZCS4DZE1",
+            "md5": "04a7964c52335e23adb38bc4e2c79ce0",
+            "found_at": "2026-05-22T11:01:41.366404468+00:00"
           }
         ]
       }
@@ -17308,7 +17318,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F936USQS9IZD1/F936UOYN9IZD1/F936USQS9IZD1",
+        "latest_official": "F936USQSAIZE2/F936UOYNAIZE2/F936USQSAIZE2",
         "test_firmwares": [
           {
             "firmware": "F936USQS8IYK1/F936UOYN8IYK1/F936USQS8IYK1",
@@ -17549,6 +17559,11 @@
             "firmware": "F936USQSAIZE2/F936UOYNAIZE2/F936USQSAIZE2",
             "md5": "cbd2c0ff2cd258685659b1e2a73082f5",
             "found_at": "2026-05-06T19:54:46.327942054+00:00"
+          },
+          {
+            "firmware": "F936USQSAIZE5/F936UOYNAIZE5/F936USQSAIZE5",
+            "md5": "3012ec0fcc86a017a040177f4276df38",
+            "found_at": "2026-05-22T11:03:08.945184511+00:00"
           }
         ]
       }
@@ -18753,7 +18768,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9560ZCS3CZC5/F9560CHC3CZC5/F9560ZCS3CZC5",
+        "latest_official": "F9560ZCU3DZDP/F9560CHC3DZDP/F9560ZCU3DZDP",
         "test_firmwares": [
           {
             "firmware": "F9560ZCS2CYIB/F9560CHC2CYIB/F9560ZCS2CYIB",
@@ -18919,6 +18934,11 @@
             "firmware": "F9560ZCU3DZDP/F9560CHC3DZDP/F9560ZCU3DZDP",
             "md5": "f1165434573a5155860000fb0805a029",
             "found_at": "2026-04-27T02:56:02.270931624+00:00"
+          },
+          {
+            "firmware": "F9560ZCS4DZE1/F9560CHC4DZE1/F9560ZCS4DZE1",
+            "md5": "4ffb27c72382d9a0f565b930d5c2895c",
+            "found_at": "2026-05-22T11:03:31.619974882+00:00"
           }
         ]
       }
@@ -53308,7 +53328,7 @@
     "name": "心系天下 三星 W25",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W9025ZCS3CZC5/W9025CHC3CZC5/W9025ZCS3CZC5",
+        "latest_official": "W9025ZCU3DZDP/W9025CHC3DZDP/W9025ZCU3DZDP",
         "test_firmwares": [
           {
             "firmware": "W9025ZCS2CYIB/W9025CHC2CYIB/W9025ZCS2CYIB",
@@ -53499,6 +53519,11 @@
             "firmware": "W9025ZCU3DZDP/W9025CHC3DZDP/W9025ZCU3DZDP",
             "md5": "50c0e923d3023bb0bf8d4e626a342d47",
             "found_at": "2026-04-27T02:57:16.690085863+00:00"
+          },
+          {
+            "firmware": "W9025ZCS4DZE1/W9025CHC4DZE1/W9025ZCS4DZE1",
+            "md5": "8d6bd3f42aad480ec7f24b9715948c43",
+            "found_at": "2026-05-22T11:04:27.200458546+00:00"
           }
         ]
       }

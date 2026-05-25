@@ -11763,7 +11763,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F731BXXS6FZC5/F731BOXM6FZB6/F731BXXS6FZC5",
+        "latest_official": "F731BXXU6GZE3/F731BOXM6GZE3/F731BXXU6GZE3",
         "test_firmwares": [
           {
             "firmware": "F731BXXU5FYG2/F731BOXM5FYG2/F731BXXU5FYG2",
@@ -11949,6 +11949,21 @@
             "firmware": "F731BXXU6GZDP/F731BOXM6GZDP/F731BXXU6GZDP",
             "md5": "164a5578790ace8280466b36193c8ec5",
             "found_at": "2026-04-24T02:47:51.390938797+00:00"
+          },
+          {
+            "firmware": "F731BXXS7GZE5/F731BOXM7GZE5/F731BXXS7GZE5",
+            "md5": "2d3b2f93abfe8408fddcd2c0fbb87110",
+            "found_at": "2026-05-25T13:32:42.620692386+00:00"
+          },
+          {
+            "firmware": "F731BXXU6GZE2/F731BOXM6GZE2/F731BXXU6GZE2",
+            "md5": "46ee2b11f6df8cfaf83a135195dce3b5",
+            "found_at": "2026-05-25T13:32:43.061655473+00:00"
+          },
+          {
+            "firmware": "F731BXXU6GZE3/F731BOXM6GZE3/F731BXXU6GZE3",
+            "md5": "1b8601681872edabcbf331851ad6479b",
+            "found_at": "2026-05-25T13:32:43.062125380+00:00"
           }
         ]
       }
@@ -17909,6 +17924,11 @@
             "firmware": "F936U1UESAIZE2/F936U1OYMAIZE2/F936U1UESAIZE2",
             "md5": "7e4fc7d45aae0668d5e1ccbe13b09ce0",
             "found_at": "2026-05-08T07:52:47.590360759+00:00"
+          },
+          {
+            "firmware": "F936U1UESAIZE5/F936U1OYMAIZE5/F936U1UESAIZE5",
+            "md5": "4a73080b78473e81f7783ebb65d0f9e8",
+            "found_at": "2026-05-25T13:34:45.869421616+00:00"
           }
         ]
       }
@@ -18058,7 +18078,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F946BXXS6FZC5/F946BOXM6FZB6/F946BXXS6FZC5",
+        "latest_official": "F946BXXU6GZE2/F946BOXM6GZE2/F946BXXU6GZE2",
         "test_firmwares": [
           {
             "firmware": "F946BXXU5FYG2/F946BOXM5FYG2/F946BXXU5FYG2",
@@ -18244,6 +18264,16 @@
             "firmware": "F946BXXU6GZDP/F946BOXM6GZDP/F946BXXU6GZDP",
             "md5": "7ffb8095a8aba1a150d61110083cb698",
             "found_at": "2026-04-24T02:47:37.718565940+00:00"
+          },
+          {
+            "firmware": "F946BXXS7GZE5/F946BOXM7GZE5/F946BXXS7GZE5",
+            "md5": "ceaecc9e56fb2c49add51963e82b015e",
+            "found_at": "2026-05-25T13:34:52.103606579+00:00"
+          },
+          {
+            "firmware": "F946BXXU6GZE2/F946BOXM6GZE2/F946BXXU6GZE2",
+            "md5": "2d4550e2074068c7a0e1104ac7258e64",
+            "found_at": "2026-05-25T13:34:52.506995561+00:00"
           }
         ]
       }
@@ -24784,6 +24814,11 @@
             "firmware": "M135FXXSEEZE6/M135FOXMEEZE6/M135FXXSEEZE5",
             "md5": "bebee9ef9a03880f90b2d2fd0536d43c",
             "found_at": "2026-05-25T08:21:12.982305177+00:00"
+          },
+          {
+            "firmware": "M135FXXSEEZE7/M135FOXMEEZE7/M135FXXSEEZE5",
+            "md5": "29351d53c4011041a8704e23ab1abc9f",
+            "found_at": "2026-05-25T13:29:46.149808974+00:00"
           }
         ]
       }
@@ -24793,7 +24828,7 @@
     "name": "Galaxy M15 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M156BXXS9CZB3/M156BOXM9CZB3/M156BXXS9CZB3",
+        "latest_official": "M156BXXSACZE1/M156BOXMACZE1/M156BXXSACZE1",
         "test_firmwares": [
           {
             "firmware": "M156BXXS7BYH1/M156BOXM7BYH1/M156BXXS7BYH1",
@@ -24929,6 +24964,36 @@
             "firmware": "M156BXXU9CZC4/M156BOXM9CZC4/M156BXXU9CZC4",
             "md5": "1a80f3c4d381e263ef3d29b18041b51d",
             "found_at": "2026-03-26T10:53:11.735657462+00:00"
+          },
+          {
+            "firmware": "M156BXXSACZE1/M156BOXMACZE1/M156BXXSACZE1",
+            "md5": "3ecd5061f25206e0304ee7d667ac9b22",
+            "found_at": "2026-05-25T13:29:57.549323152+00:00"
+          },
+          {
+            "firmware": "M156BXXUADZE2/M156BOXMADZE2/M156BXXUADZE2",
+            "md5": "78d2df522b781ee76d68f2010942fa24",
+            "found_at": "2026-05-25T13:29:58.144681149+00:00"
+          },
+          {
+            "firmware": "M156BXXUADZE3/M156BOXMADZE3/M156BXXUADZE3",
+            "md5": "d883333a5f9fe525b8092b11860096ce",
+            "found_at": "2026-05-25T13:29:58.145186849+00:00"
+          },
+          {
+            "firmware": "M156BXXUADZE5/M156BOXMADZE5/M156BXXUADZE5",
+            "md5": "b8e6f626484e3a396f4447cd0093ca5c",
+            "found_at": "2026-05-25T13:29:58.146242334+00:00"
+          },
+          {
+            "firmware": "M156BXXUADZE6/M156BOXMADZE6/M156BXXUADZE6",
+            "md5": "c99e78cca4af4d25498b9b7bd3b5eef0",
+            "found_at": "2026-05-25T13:29:58.146722631+00:00"
+          },
+          {
+            "firmware": "M156BXXUADZE7/M156BOXMADZE7/M156BXXUADZE7",
+            "md5": "19fefb67310a9d6c8c52cd4763edbdd9",
+            "found_at": "2026-05-25T13:29:58.147195874+00:00"
           }
         ]
       }
@@ -25528,7 +25593,7 @@
     "name": "Galaxy M53 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M536BXXSEGZB7/M536BOXMEGZB7/M536BXXSEGZB7",
+        "latest_official": "M536BXXSFGZE2/M536BOXMFGZE2/M536BXXSFGZE1",
         "test_firmwares": [
           {
             "firmware": "M536BXXSBFYG1/M536BOXMBFYG1/M536BXXSBFYG1",
@@ -25684,6 +25749,16 @@
             "firmware": "M536BXXUEHZC3/M536BOXMEHZC3/M536BXXUEHZC3",
             "md5": "cb2e0b43a4419a146c1df2e7ae1ed1f3",
             "found_at": "2026-03-19T16:59:48.274681146+00:00"
+          },
+          {
+            "firmware": "M536BXXSFGZE1/M536BOXMFGZE1/M536BXXSFGZE1",
+            "md5": "36faf022cdbae2359f2731c939caeee2",
+            "found_at": "2026-05-25T13:31:07.399979902+00:00"
+          },
+          {
+            "firmware": "M536BXXSFGZE2/M536BOXMFGZE2/M536BXXSFGZE1",
+            "md5": "f33985e3d15d1b476b29c7f42435b291",
+            "found_at": "2026-05-25T13:31:07.400614517+00:00"
           }
         ]
       }

@@ -3183,7 +3183,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A1760ZHS5BZBE/A1760OZS5BZBE/A1760ZHS5BZB7",
+        "latest_official": "A1760ZHS5BZE5/A1760OZS5BZE5/A1760ZHS5BZE5",
         "test_firmwares": [
           {
             "firmware": "A1760ZHU2BYI2/A1760OZS2BYI2/A1760ZHU2BYI2",
@@ -3269,6 +3269,36 @@
             "firmware": "A1760ZHU5CZCB/A1760OZS5CZCB/A1760ZHU5CZCB",
             "md5": "3197f17a3a69cd90f0f392a0f0ce80fb",
             "found_at": "2026-03-19T22:32:32.292244844+00:00"
+          },
+          {
+            "firmware": "A1760ZHS5BZE5/A1760OZS5BZE5/A1760ZHS5BZE5",
+            "md5": "591f33bc09572d70e96568fb1def8e86",
+            "found_at": "2026-05-26T03:34:14.947673199+00:00"
+          },
+          {
+            "firmware": "A1760ZHU5CZD1/A1760OZS5CZD1/A1760ZHU5CZD1",
+            "md5": "e4b0c15bf285b761972948c3b33cdd35",
+            "found_at": "2026-05-26T03:34:15.465247554+00:00"
+          },
+          {
+            "firmware": "A1760ZHU5CZDB/A1760OZS5CZDB/A1760ZHU5CZDB",
+            "md5": "080283d9afa1d35b95019c667efe86c4",
+            "found_at": "2026-05-26T03:34:15.470007068+00:00"
+          },
+          {
+            "firmware": "A1760ZHU5CZE1/A1760OZS5CZE1/A1760ZHU5CZE1",
+            "md5": "5da188b12d0987f98e29b0f97d1a42a0",
+            "found_at": "2026-05-26T03:34:15.483059644+00:00"
+          },
+          {
+            "firmware": "A1760ZHU5CZE7/A1760OZS5CZE7/A1760ZHU5CZE7",
+            "md5": "7bf47048d9425031aeb284a3591a6324",
+            "found_at": "2026-05-26T03:34:15.485901025+00:00"
+          },
+          {
+            "firmware": "A1760ZHU5CZE9/A1760OZS5CZE9/A1760ZHU5CZE9",
+            "md5": "bdd31b7aa3ec067e000f7f6d3c87d3bc",
+            "found_at": "2026-05-26T03:34:15.486999748+00:00"
           }
         ]
       }

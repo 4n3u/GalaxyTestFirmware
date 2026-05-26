@@ -17659,6 +17659,11 @@
             "firmware": "F936USQSAIZE5/F936UOYNAIZE5/F936USQSAIZE5",
             "md5": "3012ec0fcc86a017a040177f4276df38",
             "found_at": "2026-05-22T11:03:08.945184511+00:00"
+          },
+          {
+            "firmware": "F936USQSAIZE6/F936UOYNAIZE6/F936USQSAIZE6",
+            "md5": "1b41e1e0f5d700c866d5a6d234c948d9",
+            "found_at": "2026-05-26T15:36:52.669772274+00:00"
           }
         ]
       }
@@ -50719,6 +50724,11 @@
             "firmware": "S942BXXS2AZE5/S942BOXM2AZE5/S942BXXS2AZE5",
             "md5": "0ff84ad3b3f4b3e4ae2788e6a5f7443e",
             "found_at": "2026-05-19T15:27:03.132678221+00:00"
+          },
+          {
+            "firmware": "S942BXXS2AZEA/S942BOXM2AZEA/S942BXXS2AZEA",
+            "md5": "983129a01642b35bcf65cf56dc7839a9",
+            "found_at": "2026-05-26T15:35:55.488706131+00:00"
           }
         ]
       }

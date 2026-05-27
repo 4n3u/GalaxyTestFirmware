@@ -52819,6 +52819,11 @@
             "firmware": "S948USQS2AZE2/S948UOYN2AZE2/S948USQS2AZE2",
             "md5": "e49b0d3a3991752c51aab945c7f04498",
             "found_at": "2026-05-19T07:55:02.488864159+00:00"
+          },
+          {
+            "firmware": "S948USQS2AZE4/S948UOYN2AZE4/S948USQS2AZE4",
+            "md5": "608d7dbd7647fe41e685c76104d42748",
+            "found_at": "2026-05-27T03:54:22.665752752+00:00"
           }
         ]
       }

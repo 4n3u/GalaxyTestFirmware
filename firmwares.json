@@ -30013,7 +30013,7 @@
     "name": "Galaxy S22",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S901BXXSMGZB2/S901BOXMMGZB2/S901BXXSMGZB2",
+        "latest_official": "S901BXXSNGZD7/S901BOXMNGZD7/S901BXXSNGZD7",
         "test_firmwares": [
           {
             "firmware": "S901BXXSJGYJ1/S901BOXMJGYJ1/S901BXXSJGYJ1",
@@ -30149,6 +30149,16 @@
             "firmware": "S901BXXUMHZCB/S901BOXMMHZCB/S901BXXUMHZCB",
             "md5": "38161cd17862de46b9d327a51db2bc8f",
             "found_at": "2026-03-19T08:49:19.029247954+00:00"
+          },
+          {
+            "firmware": "S901BXXSNGZD5/S901BOXMNGZD5/S901BXXSNGZD5",
+            "md5": "200cfadf5e4cfec638a62205bf0fb31b",
+            "found_at": "2026-05-27T12:57:13.081414777+00:00"
+          },
+          {
+            "firmware": "S901BXXSNGZD7/S901BOXMNGZD7/S901BXXSNGZD7",
+            "md5": "0f230c2903fe7661a7d703ef2d64eb3a",
+            "found_at": "2026-05-27T12:57:13.082627333+00:00"
           }
         ]
       }
@@ -31133,7 +31143,7 @@
     "name": "Galaxy S22+",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S906BXXSMGZB2/S906BOXMMGZB2/S906BXXSMGZB2",
+        "latest_official": "S906BXXSNGZD7/S906BOXMNGZD7/S906BXXSNGZD7",
         "test_firmwares": [
           {
             "firmware": "S906BXXSJGYJ1/S906BOXMJGYJ1/S906BXXSJGYJ1",
@@ -31269,6 +31279,36 @@
             "firmware": "S906BXXUMHZCB/S906BOXMMHZCB/S906BXXUMHZCB",
             "md5": "266ec3647eaae131ad1db94daa4f3e69",
             "found_at": "2026-03-19T08:49:46.544972159+00:00"
+          },
+          {
+            "firmware": "S906BXXSNGZD1/S906BOXMNGZD1/S906BXXSNGZD1",
+            "md5": "c7d6d4b6674dbfa0243cb7b8fee0fafb",
+            "found_at": "2026-05-27T12:57:45.030371510+00:00"
+          },
+          {
+            "firmware": "S906BXXSNGZD3/S906BOXMNGZD3/S906BXXSNGZD3",
+            "md5": "d7e5e177b3bcc4260c51a7153157cb06",
+            "found_at": "2026-05-27T12:57:45.031416814+00:00"
+          },
+          {
+            "firmware": "S906BXXSNGZD5/S906BOXMNGZD5/S906BXXSNGZD5",
+            "md5": "f6c63624a9246990e9eab2b30184a423",
+            "found_at": "2026-05-27T12:57:45.033111369+00:00"
+          },
+          {
+            "firmware": "S906BXXSNGZD7/S906BOXMNGZD7/S906BXXSNGZD7",
+            "md5": "839d33280d653b6c5ece7e510834f62e",
+            "found_at": "2026-05-27T12:57:45.034450100+00:00"
+          },
+          {
+            "firmware": "S906BXXSNGZE1/S906BOXMNGZE1/S906BXXSNGZE1",
+            "md5": "9c2c27e562fa17b3ed7465cbc1cb2557",
+            "found_at": "2026-05-27T12:57:45.053242684+00:00"
+          },
+          {
+            "firmware": "S906BXXSNGZE3/S906BOXMNGZE3/S906BXXSNGZE3",
+            "md5": "dec4124cf4a3eea1ba44f28af3c9569f",
+            "found_at": "2026-05-27T12:57:45.054226091+00:00"
           }
         ]
       }

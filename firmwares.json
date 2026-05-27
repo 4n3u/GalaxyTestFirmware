@@ -8893,7 +8893,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5660ZCSABZD1/A5660CHCABZD1/A5660ZCSABZD1",
+        "latest_official": "A5660ZCUACZDR/A5660CHCACZDR/A5660ZCUACZDR",
         "test_firmwares": [
           {
             "firmware": "A5660ZCS6BYJ4/A5660CHC6BYJ4/A5660ZCS6BYJ4",
@@ -9049,6 +9049,11 @@
             "firmware": "A5660ZCUACZDR/A5660CHCACZDR/A5660ZCUACZDR",
             "md5": "c000cca0b34511013082a862f068bbe5",
             "found_at": "2026-04-29T10:10:21.712656475+00:00"
+          },
+          {
+            "firmware": "A5660ZCSACZE2/A5660CHCACZE2/A5660ZCSACZE2",
+            "md5": "626be8c017bba6fca4f6d3de199c9fff",
+            "found_at": "2026-05-27T08:15:39.857598170+00:00"
           }
         ]
       }
@@ -24899,6 +24904,11 @@
             "firmware": "M135FXXSEEZE7/M135FOXMEEZE7/M135FXXSEEZE5",
             "md5": "29351d53c4011041a8704e23ab1abc9f",
             "found_at": "2026-05-25T13:29:46.149808974+00:00"
+          },
+          {
+            "firmware": "M135FXXSEEZE9/M135FOXMEEZE9/M135FXXSEEZE5",
+            "md5": "ad3582bad46a5c2d894b65377203cb4b",
+            "found_at": "2026-05-27T08:04:27.428171688+00:00"
           }
         ]
       }
@@ -32243,7 +32253,7 @@
     "name": "Galaxy S22 Ultra",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S908BXXSMGZB2/S908BOXMMGZB2/S908BXXSMGZB2",
+        "latest_official": "S908BXXSNGZD7/S908BOXMNGZD7/S908BXXSNGZD7",
         "test_firmwares": [
           {
             "firmware": "S908BXXSIFYI1/S908BOXMIFYI1/S908BXXSIFYI1",
@@ -32389,6 +32399,16 @@
             "firmware": "S908BXXUMHZCB/S908BOXMMHZCB/S908BXXUMHZCB",
             "md5": "014794ac5349a69b05eda105fbb04df2",
             "found_at": "2026-03-19T08:49:32.618089417+00:00"
+          },
+          {
+            "firmware": "S908BXXSNGZD5/S908BOXMNGZD5/S908BXXSNGZD5",
+            "md5": "bc16eb2439be382eb910ba706bf7d055",
+            "found_at": "2026-05-27T08:10:41.847575638+00:00"
+          },
+          {
+            "firmware": "S908BXXSNGZD7/S908BOXMNGZD7/S908BXXSNGZD7",
+            "md5": "6d0a3c65d9496178bdf0896cf1ed4cca",
+            "found_at": "2026-05-27T08:10:41.848533849+00:00"
           }
         ]
       }

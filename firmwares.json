@@ -16278,7 +16278,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F766U1UEU9BZDP/F766U1OYM9BZDP/F766U1UEU9BZDP",
+        "latest_official": "F766U1UESABZE3/F766U1OYMABZE3/F766U1UESABZE3",
         "test_firmwares": [
           {
             "firmware": "F766U1UES5AYI5/F766U1OYM5AYI5/F766U1UES5AYI5",
@@ -16484,6 +16484,11 @@
             "firmware": "F766U1UESABZE3/F766U1OYMABZE3/F766U1UESABZE3",
             "md5": "214a01224ba4c54db028f375405f88de",
             "found_at": "2026-05-14T03:36:01.614852912+00:00"
+          },
+          {
+            "firmware": "F766U1UEUABZEF/F766U1OYMABZEF/F766U1UEUABZEF",
+            "md5": "0e75e6fe2a5a9d2f696b51cb302a5f40",
+            "found_at": "2026-05-29T08:03:12.739718162+00:00"
           }
         ]
       }
@@ -21958,7 +21963,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F966U1UEU9BZDN/F966U1OYM9BZDN/F966U1UEU9BZDN",
+        "latest_official": "F966U1UESABZE3/F966U1OYMABZE3/F966U1UESABZE3",
         "test_firmwares": [
           {
             "firmware": "F966U1UES5AYI5/F966U1OYM5AYI5/F966U1UES5AYI5",
@@ -22149,6 +22154,11 @@
             "firmware": "F966U1UESABZE3/F966U1OYMABZE3/F966U1UESABZE3",
             "md5": "291bdad9169c7b396a562bb15e5adc95",
             "found_at": "2026-05-14T03:35:50.889927609+00:00"
+          },
+          {
+            "firmware": "F966U1UEUABZEF/F966U1OYMABZEF/F966U1UEUABZEF",
+            "md5": "7883bc29c6bf029e56a029ae7d92c30a",
+            "found_at": "2026-05-29T08:04:53.541451499+00:00"
           }
         ]
       }
@@ -22158,7 +22168,7 @@
     "name": "Galaxy Z TriFold",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9680ZCU4BZDP/F9680CHC4BZDP/F9680ZCU4BZDH",
+        "latest_official": "F9680ZCS5BZE3/F9680CHC5BZE3/F9680ZCS5BZE3",
         "test_firmwares": [
           {
             "firmware": "F9680ZCS1AYL2/F9680CHC1AYL2/F9680ZCS1AYL2",
@@ -22354,6 +22364,11 @@
             "firmware": "F9680ZCS5BZE3/F9680CHC5BZE3/F9680ZCS5BZE3",
             "md5": "019250237127655172e5b259f5f6e979",
             "found_at": "2026-05-22T07:55:54.025237315+00:00"
+          },
+          {
+            "firmware": "F9680ZCU5BZEF/F9680CHC5BZEF/F9680ZCU5BZEF",
+            "md5": "81736a903cfb10413f866cefde4fb875",
+            "found_at": "2026-05-29T08:04:59.983625713+00:00"
           }
         ]
       }
@@ -22528,7 +22543,7 @@
     "name": "Galaxy Z TriFold",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F968U1UEU3BZDP/F968U1OYM3BZDP/F968U1UEU3BZDP",
+        "latest_official": "F968U1UES4BZE3/F968U1OYM4BZE3/F968U1UES4BZE3",
         "test_firmwares": [
           {
             "firmware": "F968U1UES2AZB1/F968U1OYM2AZB1/F968U1UES2AZB1",
@@ -22599,6 +22614,11 @@
             "firmware": "F968U1UES4BZE3/F968U1OYM4BZE3/F968U1UES4BZE3",
             "md5": "d663f55bfa88fa227ad56944b8435eb1",
             "found_at": "2026-05-14T03:35:28.196903577+00:00"
+          },
+          {
+            "firmware": "F968U1UEU4BZEF/F968U1OYM4BZEF/F968U1UEU4BZEF",
+            "md5": "d255570673c64a23b289b66138286fe2",
+            "found_at": "2026-05-29T08:05:05.264692593+00:00"
           }
         ]
       }

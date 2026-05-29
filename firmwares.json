@@ -29353,7 +29353,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S731USQU6BZDP/S731UOYN6BZDP/S731USQU6BZDP",
+        "latest_official": "S731USQS7BZE1/S731UOYN7BZE1/S731USQS7BZE1",
         "test_firmwares": [
           {
             "firmware": "S731USQS2AYID/S731UOYN2AYID/S731USQS2AYID",
@@ -29669,6 +29669,11 @@
             "firmware": "S731USQU6BZD7/S731UOYN6BZD7/S731USQU6BZD7",
             "md5": "8d791fba948073714ef2609b0c05bd66",
             "found_at": "2026-05-16T06:30:02.338225885+00:00"
+          },
+          {
+            "firmware": "S731USQS7BZF1/S731UOYN7BZF1/S731USQS7BZF1",
+            "md5": "c247a311cb67742156d2169be8cc0939",
+            "found_at": "2026-05-29T11:39:53.025875984+00:00"
           }
         ]
       }
@@ -51444,6 +51449,11 @@
             "firmware": "S942BXXS2AZEA/S942BOXM2AZEA/S942BXXS2AZEA",
             "md5": "983129a01642b35bcf65cf56dc7839a9",
             "found_at": "2026-05-26T15:35:55.488706131+00:00"
+          },
+          {
+            "firmware": "S942BXXS3AZF1/S942BOXM3AZF1/S942BXXS3AZF1",
+            "md5": "1236f334fcd92279852f93c1ff657a56",
+            "found_at": "2026-05-29T11:40:57.796965361+00:00"
           }
         ]
       }

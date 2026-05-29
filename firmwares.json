@@ -15108,7 +15108,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7660ZCU9BZDP/F7660CHC9BZDP/F7660ZCU9BZDH",
+        "latest_official": "F7660ZCSABZE3/F7660CHCABZE3/F7660ZCSABZE1",
         "test_firmwares": [
           {
             "firmware": "F7660ZCS5AYI5/F7660CHC5AYI5/F7660ZCS5AYI5",
@@ -15344,6 +15344,11 @@
             "firmware": "F7660ZCSABZE3/F7660CHCABZE3/F7660ZCSABZE1",
             "md5": "458215c8ea4a4ea8d5903020110ea246",
             "found_at": "2026-05-22T07:54:05.245342396+00:00"
+          },
+          {
+            "firmware": "F7660ZCUABZEF/F7660CHCABZEF/F7660ZCUABZEF",
+            "md5": "ecb91499e1adf0e5302fb910b1af071b",
+            "found_at": "2026-05-29T03:45:25.832962779+00:00"
           }
         ]
       }
@@ -20863,7 +20868,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9660ZCU9BZDP/F9660CHC9BZDP/F9660ZCU9BZDH",
+        "latest_official": "F9660ZCSABZE3/F9660CHCABZE3/F9660ZCSABZE3",
         "test_firmwares": [
           {
             "firmware": "F9660ZCS5AYI5/F9660CHC5AYI5/F9660ZCS5AYI5",
@@ -21114,6 +21119,11 @@
             "firmware": "F9660ZCUABZEB/F9660CHCABZEB/F9660ZCSABZE3",
             "md5": "94d3b969d53a6d6cbc6899d42608ec6a",
             "found_at": "2026-05-22T03:42:14.436003049+00:00"
+          },
+          {
+            "firmware": "F9660ZCUABZEF/F9660CHCABZEF/F9660ZCUABZEF",
+            "md5": "410aac323517fcad1ac9f5d6b850980d",
+            "found_at": "2026-05-29T03:45:20.143332373+00:00"
           }
         ]
       }

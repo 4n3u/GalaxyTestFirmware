@@ -15349,6 +15349,11 @@
             "firmware": "F7660ZCUABZEF/F7660CHCABZEF/F7660ZCUABZEF",
             "md5": "ecb91499e1adf0e5302fb910b1af071b",
             "found_at": "2026-05-29T03:45:25.832962779+00:00"
+          },
+          {
+            "firmware": "F7660ZCUABZEH/F7660CHCABZEH/F7660ZCUABZEF",
+            "md5": "e7e6c0a5886bb325c1656a1e75be8071",
+            "found_at": "2026-05-30T03:25:51.463638269+00:00"
           }
         ]
       }

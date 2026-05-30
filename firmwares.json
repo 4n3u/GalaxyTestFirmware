@@ -14638,7 +14638,7 @@
     "name": "Galaxy Flip7 FE",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F761NKSU9BZDP/F761NOKR9BZDP/F761NKSU9BZDB",
+        "latest_official": "F761NKSSABZE1/F761NOKRABZE1/F761NKSSABZE1",
         "test_firmwares": [
           {
             "firmware": "F761NKSS5AYI5/F761NOKR5AYI5/F761NKSS5AYI5",
@@ -14884,6 +14884,11 @@
             "firmware": "F761NKSSABZE1/F761NOKRABZE1/F761NKSSABZE1",
             "md5": "930ab4c53dbdf93d48eb96d5aab260c9",
             "found_at": "2026-05-11T18:01:56.387781821+00:00"
+          },
+          {
+            "firmware": "F761NKSSABZES/F761NOKRABZES/F761NKSSABZE1",
+            "md5": "fefd6dd2b4dcd121522acdbed94f78b3",
+            "found_at": "2026-05-30T10:05:26.989715436+00:00"
           }
         ]
       }

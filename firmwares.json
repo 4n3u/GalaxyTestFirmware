@@ -24774,6 +24774,26 @@
       }
     }
   },
+  "SM-G990U": {
+    "name": "Galaxy S21 FE 5G",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "G990USQSNIZE3/G990UOYNNIZE3/G990USQSNIZE3",
+        "test_firmwares": [
+          {
+            "firmware": "G990USQSNIZE1/G990UOYNNIZE1/G990USQSNIZE1",
+            "md5": "5dc9724df0262f18a57b4bf6dde708dd",
+            "found_at": "2026-06-01T21:36:52.473857459+00:00"
+          },
+          {
+            "firmware": "G990USQSNIZE3/G990UOYNNIZE3/G990USQSNIZE3",
+            "md5": "873c5191c01731d327d48656a5e926bb",
+            "found_at": "2026-06-01T21:36:52.474699992+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-G990U1": {
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
@@ -24834,6 +24854,26 @@
             "firmware": "G990U1UESMIZB2/G990U1OYMMIZB2/G990U1UESMIZB2",
             "md5": "fa2609fd4e05c4e0ca06d404b3ba8237",
             "found_at": "2026-02-13T16:51:37.851262829+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-G990U2": {
+    "name": "Galaxy S21 FE 5G",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "G990U2SQSLIZE3/G990U2OYNLIZE3/G990U2SQSLIZE3",
+        "test_firmwares": [
+          {
+            "firmware": "G990U2SQSLIZE1/G990U2OYNLIZE1/G990U2SQSLIZE1",
+            "md5": "5582e277b9a068ea3cd81486be53fe12",
+            "found_at": "2026-06-01T21:36:56.082389998+00:00"
+          },
+          {
+            "firmware": "G990U2SQSLIZE3/G990U2OYNLIZE3/G990U2SQSLIZE3",
+            "md5": "b1e32560c1cacfa1a08b90c8fb26b237",
+            "found_at": "2026-06-01T21:36:56.083373764+00:00"
           }
         ]
       }

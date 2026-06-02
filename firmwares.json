@@ -15754,6 +15754,11 @@
             "firmware": "F766BXXUABZEH/F766BOXMABZEH/F766BXXUABZEH",
             "md5": "c037759e491cfd86510898271ecd023c",
             "found_at": "2026-05-29T15:40:31.895520713+00:00"
+          },
+          {
+            "firmware": "F766BXXUABZF1/F766BOXMABZF1/F766BXXUABZF1",
+            "md5": "1b604156745eafad0413d90e6f334d6c",
+            "found_at": "2026-06-02T19:43:16.126334602+00:00"
           }
         ]
       }
@@ -16054,6 +16059,11 @@
             "firmware": "F766NKSUABZEH/F766NOKRABZEH/F766NKSUABZE9",
             "md5": "10ea03583c175049114b011af310a05c",
             "found_at": "2026-05-29T15:40:33.507947964+00:00"
+          },
+          {
+            "firmware": "F766NKSUABZF1/F766NOKRABZF1/F766NKSUABZE9",
+            "md5": "3a9d6dafe7f6adba7075b10959bb0a7d",
+            "found_at": "2026-06-02T19:43:18.712668460+00:00"
           }
         ]
       }
@@ -16399,6 +16409,11 @@
             "firmware": "F766USQUABZEH/F766UOYNABZEH/F766USQUABZEH",
             "md5": "dca9c93dde5c15691a717adf8365e350",
             "found_at": "2026-05-29T23:20:48.656591398+00:00"
+          },
+          {
+            "firmware": "F766USQUABZF1/F766UOYNABZF1/F766USQUABZF1",
+            "md5": "4c03e1a138cf636edbcbb795a5adc73a",
+            "found_at": "2026-06-02T19:43:22.220251285+00:00"
           }
         ]
       }
@@ -22134,6 +22149,11 @@
             "firmware": "F966USQUABZEH/F966UOYNABZEH/F966USQUABZEH",
             "md5": "cb79a1dc27fac7d682428407cf8bbf06",
             "found_at": "2026-05-29T23:22:15.383391300+00:00"
+          },
+          {
+            "firmware": "F966USQUABZF1/F966UOYNABZF1/F966USQUABZF1",
+            "md5": "09bea3d0dfcdb7cc607db58121566703",
+            "found_at": "2026-06-02T19:44:55.071806809+00:00"
           }
         ]
       }
@@ -29409,6 +29429,11 @@
             "firmware": "S731BXXS6BZF1/S731BOXM6BZF1/S731BXXS6BZF1",
             "md5": "0b5be6c4f9075749e3516dd85a3c69db",
             "found_at": "2026-06-02T14:11:50.715901196+00:00"
+          },
+          {
+            "firmware": "S731BXXS7BZF2/S731BOXM7BZF2/S731BXXS7BZF2",
+            "md5": "a3e3dd84738d04e6a85cd8ed4a053789",
+            "found_at": "2026-06-02T19:48:36.110978397+00:00"
           }
         ]
       }

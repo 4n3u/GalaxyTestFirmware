@@ -3963,7 +3963,7 @@
     "name": "Galaxy A23 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A236U1UESEEZC4/A236U1OYMEEZC4/A236U1UESEEZC4",
+        "latest_official": "A236U1UESFEZE5/A236U1OYMFEZE5/A236U1UESFEZE5",
         "test_firmwares": [
           {
             "firmware": "A236U1UESBEYG2/A236U1OYMBEYG2/A236U1UESBEYG2",
@@ -4004,6 +4004,21 @@
             "firmware": "A236U1UESEEZC4/A236U1OYMEEZC4/A236U1UESEEZC4",
             "md5": "badd346544550d6c876c235de0049b8b",
             "found_at": "2026-03-30T11:09:33.045038365+00:00"
+          },
+          {
+            "firmware": "A236U1UESFEZE1/A236U1OYMFEZE1/A236U1UESFEZE1",
+            "md5": "0d346b86dd2d3d86b96e504fc59a057a",
+            "found_at": "2026-06-03T11:03:20.243971972+00:00"
+          },
+          {
+            "firmware": "A236U1UESFEZE4/A236U1OYMFEZE4/A236U1UESFEZE4",
+            "md5": "3d8d8e3616568af707cf6abcc6a831e1",
+            "found_at": "2026-06-03T11:03:20.245124790+00:00"
+          },
+          {
+            "firmware": "A236U1UESFEZE5/A236U1OYMFEZE5/A236U1UESFEZE5",
+            "md5": "d75efa7511049066988857b6e362dbbf",
+            "found_at": "2026-06-03T11:03:20.245556947+00:00"
           }
         ]
       }
@@ -23113,7 +23128,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G736BXXSBGZD1/G736BOXMBGZD1/G736BXXSBGZD1",
+        "latest_official": "G736BXXSCGZE2/G736BOXMCGZE2/G736BXXSCGZE2",
         "test_firmwares": [
           {
             "firmware": "G736BXXSAFYF1/G736BOXMAFYF1/G736BXXSAFYF1",
@@ -23289,6 +23304,11 @@
             "firmware": "G736BXXSCGZE2/G736BOXMCGZE2/G736BXXSCGZE2",
             "md5": "f0cd4190791c7f9566701c05cb02ae08",
             "found_at": "2026-05-06T14:19:01.464449026+00:00"
+          },
+          {
+            "firmware": "G736BXXSCGZF1/G736BOXMCGZF1/G736BXXSCGZF1",
+            "md5": "22357058a983503384b1f3de88cc27e2",
+            "found_at": "2026-06-03T11:06:33.180556397+00:00"
           }
         ]
       }
@@ -23304,6 +23324,11 @@
             "firmware": "G736USQSEGZE1/G736UOYNEGZE1/G736USQSEGZE1",
             "md5": "86b6f915da9792af4bec05454e363a80",
             "found_at": "2026-05-20T15:27:12.134443524+00:00"
+          },
+          {
+            "firmware": "G736USQSEGZF1/G736UOYNEGZF1/G736USQSEGZF1",
+            "md5": "1ff089956ca47c932669540c889a9de0",
+            "found_at": "2026-06-03T11:06:35.430620046+00:00"
           }
         ]
       }
@@ -51159,6 +51184,11 @@
             "firmware": "S938USQUACZEH/S938UOYNACZEH/S938USQUACZEH",
             "md5": "1cb9d2298958436451c304d9cf9656e5",
             "found_at": "2026-05-29T15:39:50.750808663+00:00"
+          },
+          {
+            "firmware": "S938USQUACZF1/S938UOYNACZF1/S938USQUACZF1",
+            "md5": "9c453942aeb27442b78c51b02bdf9e96",
+            "found_at": "2026-06-03T11:07:44.609505332+00:00"
           }
         ]
       }

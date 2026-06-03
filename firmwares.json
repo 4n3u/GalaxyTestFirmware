@@ -14464,6 +14464,11 @@
             "firmware": "F7610ZCSABZF1/F7610CHCABZF1/F7610ZCSABZE1",
             "md5": "79f6913865e1101506d742e58e661ce8",
             "found_at": "2026-06-01T11:44:47.961168776+00:00"
+          },
+          {
+            "firmware": "F7610ZCSABZF2/F7610CHCABZF2/F7610ZCSABZE1",
+            "md5": "6a2baa10c5d09a840f6d5d7c2c98dad0",
+            "found_at": "2026-06-03T04:13:04.243822218+00:00"
           }
         ]
       }
@@ -15459,6 +15464,11 @@
             "firmware": "F7660ZCUABZF1/F7660CHCABZF1/F7660ZCUABZEF",
             "md5": "333a539747b0587fb87d2218935d41b9",
             "found_at": "2026-06-02T04:06:02.584128702+00:00"
+          },
+          {
+            "firmware": "F7660ZCUABZF2/F7660CHCABZF2/F7660ZCUABZEF",
+            "md5": "ef4c7c5f23a1a07a33b2e355241be879",
+            "found_at": "2026-06-03T04:12:49.512983521+00:00"
           }
         ]
       }

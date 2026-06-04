@@ -15519,6 +15519,11 @@
             "firmware": "F7660ZCUABZF2/F7660CHCABZF2/F7660ZCUABZEF",
             "md5": "ef4c7c5f23a1a07a33b2e355241be879",
             "found_at": "2026-06-03T04:12:49.512983521+00:00"
+          },
+          {
+            "firmware": "F7660ZCUABZF3/F7660CHCABZF3/F7660ZCUABZEF",
+            "md5": "9b20ad6124de5eae64bdddc905dc3cd9",
+            "found_at": "2026-06-04T17:03:16.912240724+00:00"
           }
         ]
       }
@@ -23423,7 +23428,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G736U1UESBGZD1/G736U1OYMBGZD1/G736U1UESBGZD1",
+        "latest_official": "G736U1UESCGZE1/G736U1OYMCGZE1/G736U1UESCGZE1",
         "test_firmwares": [
           {
             "firmware": "G736U1UESAFYF2/G736U1OYMAFYF2/G736U1UESAFYF2",
@@ -23599,6 +23604,11 @@
             "firmware": "G736U1UESCGZE1/G736U1OYMCGZE1/G736U1UESCGZE1",
             "md5": "9c06d5f7814b4775f30498c9ff5aa7b7",
             "found_at": "2026-05-08T07:51:59.496756347+00:00"
+          },
+          {
+            "firmware": "G736U1UESCGZF1/G736U1OYMCGZF1/G736U1UESCGZF1",
+            "md5": "04aaa10da1c3ca29c64368fc69de9a34",
+            "found_at": "2026-06-04T17:01:29.323264133+00:00"
           }
         ]
       }

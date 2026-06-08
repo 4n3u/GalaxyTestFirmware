@@ -60738,7 +60738,7 @@
     "name": "Galaxy Tab S8 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X706CZCSAEZB6/X706CCHCAEZB6/X706CZCSAEZB2",
+        "latest_official": "X706CZCSBEZE1/X706CCHCBEZE1/X706CZCSBEZE1",
         "test_firmwares": [
           {
             "firmware": "X706CZCS9DYF4/X706CCHC9DYF4/X706CZCS9DYF4",
@@ -60949,6 +60949,11 @@
             "firmware": "X706CZCUAEZC3/X706CCHCAEZC3/X706CZCUAEZC3",
             "md5": "46bb0c98ad77c4fce8ecdbddef2e1b4a",
             "found_at": "2026-03-19T20:49:13.379248862+00:00"
+          },
+          {
+            "firmware": "X706CZCSBEZE1/X706CCHCBEZE1/X706CZCSBEZE1",
+            "md5": "7b85f6cc94657f03cfaa5448228f64be",
+            "found_at": "2026-06-08T04:02:44.780606782+00:00"
           }
         ]
       }
@@ -61758,7 +61763,7 @@
     "name": "Galaxy Tab S8+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X806CZCSAEZB6/X806CCHCAEZB6/X806CZCSAEZB2",
+        "latest_official": "X806CZCSBEZE1/X806CCHCBEZE1/X806CZCSBEZE1",
         "test_firmwares": [
           {
             "firmware": "X806CZCS9DYF4/X806CCHC9DYF4/X806CZCS9DYF4",
@@ -61969,6 +61974,11 @@
             "firmware": "X806CZCUAEZC3/X806CCHCAEZC3/X806CZCUAEZC3",
             "md5": "a08b370711d254a4748b0ed707111403",
             "found_at": "2026-03-19T19:01:28.048925773+00:00"
+          },
+          {
+            "firmware": "X806CZCSBEZE1/X806CCHCBEZE1/X806CZCSBEZE1",
+            "md5": "77aa56d1c4943dcd455df76510de181d",
+            "found_at": "2026-06-08T04:03:01.897769354+00:00"
           }
         ]
       }
@@ -63408,7 +63418,7 @@
     "name": "Galaxy Tab S8 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X906CZCSAEZB6/X906CCHCAEZB6/X906CZCSAEZB2",
+        "latest_official": "X906CZCSBEZE1/X906CCHCBEZE1/X906CZCSBEZE1",
         "test_firmwares": [
           {
             "firmware": "X906CZCS9DYF4/X906CCHC9DYF4/X906CZCS9DYF4",
@@ -63619,6 +63629,11 @@
             "firmware": "X906CZCUAEZC3/X906CCHCAEZC3/X906CZCUAEZC3",
             "md5": "0167d4e5960e36272202af6febb84b8a",
             "found_at": "2026-03-19T19:01:22.602988134+00:00"
+          },
+          {
+            "firmware": "X906CZCSBEZE1/X906CCHCBEZE1/X906CZCSBEZE1",
+            "md5": "0c1b904893961b2480945987a0ccab45",
+            "found_at": "2026-06-08T04:02:53.177611064+00:00"
           }
         ]
       }

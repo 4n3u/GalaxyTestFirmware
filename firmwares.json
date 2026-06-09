@@ -16239,6 +16239,11 @@
             "firmware": "F766NKSUABZF2/F766NOKRABZF2/F766NKSUABZE9",
             "md5": "b10379b7668f84ae87903f89edf6519a",
             "found_at": "2026-06-04T13:00:11.818812930+00:00"
+          },
+          {
+            "firmware": "F766NKSUABZF3/F766NOKRABZF3/F766NKSUABZE9",
+            "md5": "b7de6424cdc33b806b51e808265229ef",
+            "found_at": "2026-06-09T03:38:11.909842756+00:00"
           }
         ]
       }
@@ -16918,7 +16923,7 @@
     "name": "Galaxy Z Fold3 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9260ZCSDKYGB/F9260CHCDKYGB/F9260ZCSDKYFD",
+        "latest_official": "F9260ZCSGKZE1/F9260CHCGKZE1/F9260ZCSGKZE1",
         "test_firmwares": [
           {
             "firmware": "F9260ZCSDKYFD/F9260CHCDKYFD/F9260ZCSDKYFD",
@@ -16934,6 +16939,11 @@
             "firmware": "F9260ZCSDKYGB/F9260CHCDKYGB/F9260ZCSDKYFD",
             "md5": "19a8c5c178e23ba1e4dee5591d1a5a36",
             "found_at": "2025-10-18T03:35:30.922538+00:00"
+          },
+          {
+            "firmware": "F9260ZCSGKZE1/F9260CHCGKZE1/F9260ZCSGKZE1",
+            "md5": "42f43d1ac8ce1fa2e538c4b36a3cee70",
+            "found_at": "2026-06-09T03:38:50.540396314+00:00"
           }
         ]
       }

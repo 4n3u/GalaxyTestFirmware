@@ -13718,7 +13718,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F741USQU3DZDP/F741UOYN3DZDP/F741USQU3DZDP",
+        "latest_official": "F741USQS4DZE1/F741UOYN4DZE1/F741USQS4DZE1",
         "test_firmwares": [
           {
             "firmware": "F741USQS2CYIB/F741UOYN2CYIB/F741USQS2CYIB",
@@ -14084,6 +14084,11 @@
             "firmware": "F741USQS4DZE1/F741UOYN4DZE1/F741USQS4DZE1",
             "md5": "a48f13012efbc6709d1df623bc478b2a",
             "found_at": "2026-05-26T07:54:29.680493431+00:00"
+          },
+          {
+            "firmware": "F741USQS4DZF1/F741UOYN4DZF1/F741USQS4DZF1",
+            "md5": "530fd85766a68ab1e7cc8c1c75e07c57",
+            "found_at": "2026-06-09T07:58:48.475056514+00:00"
           }
         ]
       }
@@ -20328,7 +20333,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F956USQU3DZDQ/F956UOYN3DZDQ/F956USQU3DZDQ",
+        "latest_official": "F956USQS4DZE1/F956UOYN4DZE1/F956USQS4DZE1",
         "test_firmwares": [
           {
             "firmware": "F956USQS2CYIA/F956UOYN2CYIA/F956USQS2CYIA",
@@ -20699,6 +20704,11 @@
             "firmware": "F956USQS4DZE1/F956UOYN4DZE1/F956USQS4DZE1",
             "md5": "d2a1fb8168fcea440f81afd349181c24",
             "found_at": "2026-05-26T07:56:05.991095216+00:00"
+          },
+          {
+            "firmware": "F956USQS4DZF1/F956UOYN4DZF1/F956USQS4DZF1",
+            "md5": "a32a7267f3dd4591f4f9e4d2100426a4",
+            "found_at": "2026-06-09T08:00:27.974315535+00:00"
           }
         ]
       }
@@ -27593,7 +27603,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S711USQS7EZD2/S711UOYN7EZD2/S711USQS7EZD2",
+        "latest_official": "S711USQS8FZE4/S711UOYN8FZE4/S711USQS8FZE4",
         "test_firmwares": [
           {
             "firmware": "S711USQS6DYE1/S711UOYN6DYE1/S711USQS6DYE1",
@@ -27964,6 +27974,11 @@
             "firmware": "S711USQS8FZE4/S711UOYN8FZE4/S711USQS8FZE4",
             "md5": "8d522659bb2ae55642bd978a6f9f76cb",
             "found_at": "2026-05-15T14:06:52.260902863+00:00"
+          },
+          {
+            "firmware": "S711USQS8FZF1/S711UOYN8FZF1/S711USQS8FZF1",
+            "md5": "2e158967b293d18d91f8389321924dd8",
+            "found_at": "2026-06-09T07:55:32.988492728+00:00"
           }
         ]
       }
@@ -28959,6 +28974,11 @@
             "firmware": "S721NKSSCDZF2/S721NOKRCDZF2/S721NKSSCDZE1",
             "md5": "b2a0252b4c83915cea5cc40daf72a632",
             "found_at": "2026-06-05T03:49:59.661847710+00:00"
+          },
+          {
+            "firmware": "S721NKSSCDZF3/S721NOKRCDZF3/S721NKSSCDZE1",
+            "md5": "292559e44310c042e813eb6b8e0f4142",
+            "found_at": "2026-06-09T07:56:37.676089278+00:00"
           }
         ]
       }
@@ -28968,7 +28988,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S721USQSBCZD1/S721UOYNBCZD1/S721USQSBCZD1",
+        "latest_official": "S721USQSBDZE1/S721UOYNBDZE1/S721USQSBDZE1",
         "test_firmwares": [
           {
             "firmware": "S721USQS7CYJ2/S721UOYN7CYJ2/S721USQS7CYJ2",
@@ -29269,6 +29289,11 @@
             "firmware": "S721USQSBDZE1/S721UOYNBDZE1/S721USQSBDZE1",
             "md5": "87bd488366f086a513506774e1965f90",
             "found_at": "2026-05-15T07:03:37.823576852+00:00"
+          },
+          {
+            "firmware": "S721USQSCDZF1/S721UOYNCDZF1/S721USQSCDZF1",
+            "md5": "747dc7c00965b5cce90331abb70a4ca6",
+            "found_at": "2026-06-09T07:56:42.152840434+00:00"
           }
         ]
       }
@@ -35319,6 +35344,11 @@
             "firmware": "S911USQU7FZE2/S911UOYN7FZE2/S911USQU7FZE2",
             "md5": "34b217ff0b1437514ca7aa0e499c71d6",
             "found_at": "2026-05-28T15:59:44.527482820+00:00"
+          },
+          {
+            "firmware": "S911USQS8FZF1/S911UOYN8FZF1/S911USQS8FZF1",
+            "md5": "35d5bde81e11a2e896928fc682f69b9d",
+            "found_at": "2026-06-09T07:55:24.217835618+00:00"
           }
         ]
       }

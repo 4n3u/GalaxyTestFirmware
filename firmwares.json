@@ -15404,6 +15404,11 @@
             "firmware": "F761U1UESABZF2/F761U1OYMABZF2/F761U1UESABZF2",
             "md5": "25ad8c32ac1103396b5c5c7a25218a81",
             "found_at": "2026-06-02T08:46:31.381810212+00:00"
+          },
+          {
+            "firmware": "F761U1UESABZF4/F761U1OYMABZF4/F761U1UESABZF4",
+            "md5": "a78fa690427574ef0fbfffc8596907d7",
+            "found_at": "2026-06-09T23:27:34.630946826+00:00"
           }
         ]
       }

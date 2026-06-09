@@ -22499,6 +22499,11 @@
             "firmware": "F966USQUABZF1/F966UOYNABZF1/F966USQUABZF1",
             "md5": "09bea3d0dfcdb7cc607db58121566703",
             "found_at": "2026-06-02T19:44:55.071806809+00:00"
+          },
+          {
+            "firmware": "F966USQUABZEB/F966UOYNABZEB/F966USQUABZEB",
+            "md5": "34fa25906cbafe67455d418ae6535fe8",
+            "found_at": "2026-06-09T18:09:31.982257394+00:00"
           }
         ]
       }

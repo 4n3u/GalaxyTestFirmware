@@ -56828,7 +56828,7 @@
     "name": "Galaxy Tab A9+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X218USQSBEZBE/X218UOYNBEZBE/X218USQSBEZBE",
+        "latest_official": "X218USQSCEZE8/X218UOYNCEZE8/X218USQSCEZE8",
         "test_firmwares": [
           {
             "firmware": "X218USQS8DYF2/X218UOYN8DYF2/X218USQS8DYF2",
@@ -56979,6 +56979,21 @@
             "firmware": "X218USQUBFZC3/X218UOYNBFZC3/X218USQUBFZC3",
             "md5": "71957cfaefd383e8d8326d14c35861f0",
             "found_at": "2026-03-20T10:40:47.538161907+00:00"
+          },
+          {
+            "firmware": "X218USQSCEZE1/X218UOYNCEZE1/X218USQSCEZE1",
+            "md5": "a250710def530b3bece2931c65f5189e",
+            "found_at": "2026-06-11T08:49:48.005417059+00:00"
+          },
+          {
+            "firmware": "X218USQSCEZE8/X218UOYNCEZE8/X218USQSCEZE8",
+            "md5": "89f87f308ba1ff39732a469ff05cc4eb",
+            "found_at": "2026-06-11T08:49:48.008296817+00:00"
+          },
+          {
+            "firmware": "X218USQSCEZF1/X218UOYNCEZF1/X218USQSCEZF1",
+            "md5": "95af578d30a8304b4995764a7f2a6b1a",
+            "found_at": "2026-06-11T08:49:48.021984030+00:00"
           }
         ]
       }
@@ -58154,6 +58169,11 @@
             "firmware": "X356BXXS7CZF1/X356BOXM7CZF1/X356BXXS7CZF1",
             "md5": "8dd764cf0e059d16d3fe60d1b2b4e468",
             "found_at": "2026-06-08T09:01:42.662023905+00:00"
+          },
+          {
+            "firmware": "X356BXXS8CZF2/X356BOXM8CZF2/X356BXXS8CZF2",
+            "md5": "3214711d8529bb7b9b2d3fb8e5b11f6b",
+            "found_at": "2026-06-11T08:50:03.052675567+00:00"
           }
         ]
       }

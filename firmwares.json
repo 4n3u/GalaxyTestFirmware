@@ -28604,6 +28604,11 @@
             "firmware": "S711U1UES8FZF1/S711U1OYM8FZF1/S711U1UES8FZF1",
             "md5": "61d7b66757de5e8b660a53eaf784b061",
             "found_at": "2026-06-09T11:23:42.142765603+00:00"
+          },
+          {
+            "firmware": "S711U1UES8FZF2/S711U1OYM8FZF2/S711U1UES8FZF2",
+            "md5": "0ceed3817118b48b2f45b0336eb6d319",
+            "found_at": "2026-06-12T20:16:03.690985523+00:00"
           }
         ]
       }

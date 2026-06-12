@@ -23358,7 +23358,7 @@
     "name": "Galaxy XCover7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G556BXXSFDZE2/G556BOXMFDZE2/G556BXXSFDZE1",
+        "latest_official": "G556BXXUFEZEB/G556BOXMFEZEB/G556BXXUFEZEB",
         "test_firmwares": [
           {
             "firmware": "G556BXXSBDYJ1/G556BOXMBDYJ1/G556BXXSBDYJ1",
@@ -23589,6 +23589,11 @@
             "firmware": "G556BXXUFEZEB/G556BOXMFEZEB/G556BXXUFEZEB",
             "md5": "ce63d6c6603f48afd1e41a55bc4259ec",
             "found_at": "2026-05-22T03:38:57.745013359+00:00"
+          },
+          {
+            "firmware": "G556BXXSGEZF1/G556BOXMGEZF1/G556BXXSGEZF1",
+            "md5": "ed59ba8112361e75a92917dffb329db8",
+            "found_at": "2026-06-12T08:36:48.144157263+00:00"
           }
         ]
       }
@@ -58523,7 +58528,7 @@
     "name": "Galaxy Tab S10 Lite 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X406BXXS4BZE3/X406BOXM4BZE3/X406BXXS4BZE3",
+        "latest_official": "X406BXXU4CZE5/X406BOXM4CZE5/X406BXXU4CZE5",
         "test_firmwares": [
           {
             "firmware": "X406BXXU1BYH1/X406BOXM1BYH1/X406BXXU1BYH1",
@@ -58769,6 +58774,11 @@
             "firmware": "X406BXXU4CZE5/X406BOXM4CZE5/X406BXXU4CZE5",
             "md5": "8e035f5fe37ce4d1239540f0d679ffde",
             "found_at": "2026-05-21T03:41:38.478916404+00:00"
+          },
+          {
+            "firmware": "X406BXXS4CZF1/X406BOXM4CZF1/X406BXXS4CZF1",
+            "md5": "f9cfb2872ba204f1177e9b6f2d7a220a",
+            "found_at": "2026-06-12T08:35:29.201806573+00:00"
           }
         ]
       }

@@ -50538,7 +50538,7 @@
     "name": "Galaxy S25 Ultra",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S938BXXS9CZE1/S938BOXM9CZE1/S938BXXS9CZE1",
+        "latest_official": "S938BXXUACZF1/S938BOXMACZF1/S938BXXUACZF1",
         "test_firmwares": [
           {
             "firmware": "S938BXXS6BYIF/S938BOXM6BYIF/S938BXXS6BYIF",
@@ -51049,6 +51049,11 @@
             "firmware": "S938BXXUACZF1/S938BOXMACZF1/S938BXXUACZF1",
             "md5": "2e27e53f354617592926580e6b428f03",
             "found_at": "2026-06-02T04:05:29.892125973+00:00"
+          },
+          {
+            "firmware": "S938BXXSACZF2/S938BOXMACZF2/S938BXXUACZF1",
+            "md5": "94796ee2a080153f62f3934f64fe217b",
+            "found_at": "2026-06-15T18:28:44.747638242+00:00"
           }
         ]
       }

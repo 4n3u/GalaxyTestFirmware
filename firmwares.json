@@ -7299,6 +7299,11 @@
             "firmware": "A376BXXS3AZF1/A376BOXM3AZF1/A376BXXS3AZF1",
             "md5": "8fafe9e3eb877dca13050b1d8e9ec269",
             "found_at": "2026-06-02T08:46:32.362794755+00:00"
+          },
+          {
+            "firmware": "A376BXXS3AZF5/A376BOXM3AZF5/A376BXXS3AZF5",
+            "md5": "d3d1274bf533e09a75c621c4df20da27",
+            "found_at": "2026-06-15T04:22:28.169317487+00:00"
           }
         ]
       }

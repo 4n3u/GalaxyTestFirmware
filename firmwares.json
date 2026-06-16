@@ -7438,7 +7438,7 @@
     "name": "Galaxy A37 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A376U1UEU2AZD6/A376U1OYM2AZD6/A376U1UEU2AZD6",
+        "latest_official": "A376U1UES3AZE1/A376U1OYM3AZE1/A376U1UES3AZE1",
         "test_firmwares": [
           {
             "firmware": "A376U1UES2AZC1/A376U1OYM2AZC1/A376U1UES2AZC1",
@@ -7474,6 +7474,11 @@
             "firmware": "A376U1UES3AZE1/A376U1OYM3AZE1/A376U1UES3AZE1",
             "md5": "496a3f1fedcad428a980b71bc7f1c8bd",
             "found_at": "2026-05-21T11:33:58.830723951+00:00"
+          },
+          {
+            "firmware": "A376U1UES3AZF1/A376U1OYM3AZF1/A376U1UES3AZF1",
+            "md5": "c1fb00e02b77bea672a7832b08eb1a54",
+            "found_at": "2026-06-16T17:03:58.484374520+00:00"
           }
         ]
       }
@@ -17448,7 +17453,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9360ZCS9IZD1/F9360CHC9IZD1/F9360ZCS9IZD1",
+        "latest_official": "F9360ZCSAIZE2/F9360CHCAIZE2/F9360ZCSAIZE2",
         "test_firmwares": [
           {
             "firmware": "F9360ZCS8HYE2/F9360CHC8HYE2/F9360ZCS8HYE2",
@@ -17694,6 +17699,11 @@
             "firmware": "F9360ZCSAIZE2/F9360CHCAIZE2/F9360ZCSAIZE2",
             "md5": "aafcdadb769d2738b4b0079a000fb001",
             "found_at": "2026-05-19T07:55:30.238638916+00:00"
+          },
+          {
+            "firmware": "F9360ZCSAIZF1/F9360CHCAIZF1/F9360ZCSAIZF1",
+            "md5": "8953a5f23f257320e4e7e07ae59a3fb0",
+            "found_at": "2026-06-16T16:58:13.272628259+00:00"
           }
         ]
       }
@@ -31984,6 +31994,11 @@
             "firmware": "S901USQSAGZF1/S901UOYNAGZF1/S901USQSAGZF1",
             "md5": "34600e9b2c96147d3978e5f89352a0d1",
             "found_at": "2026-06-05T12:45:02.736000894+00:00"
+          },
+          {
+            "firmware": "S901USQSAGZF3/S901UOYNAGZF3/S901USQSAGZF3",
+            "md5": "58e05df5460d37f7e571c2bd9b58da83",
+            "found_at": "2026-06-16T17:00:40.718168602+00:00"
           }
         ]
       }
@@ -33179,6 +33194,11 @@
             "firmware": "S906USQSAGZF1/S906UOYNAGZF1/S906USQSAGZF1",
             "md5": "d75bb91890a87a70cc1fc5f25544b53a",
             "found_at": "2026-06-05T12:45:41.827640232+00:00"
+          },
+          {
+            "firmware": "S906USQSAGZF3/S906UOYNAGZF3/S906USQSAGZF3",
+            "md5": "aa3bcae5e07732d25145f92de1fe528a",
+            "found_at": "2026-06-16T17:01:37.696957577+00:00"
           }
         ]
       }
@@ -34369,6 +34389,11 @@
             "firmware": "S908USQSAGZF1/S908UOYNAGZF1/S908USQSAGZF1",
             "md5": "9ad3d934cf73f035fd18c7a724ac0f67",
             "found_at": "2026-06-05T12:45:22.527407966+00:00"
+          },
+          {
+            "firmware": "S908USQSAGZF3/S908UOYNAGZF3/S908USQSAGZF3",
+            "md5": "0d32237de0db33b2bd9f534b8e3aa0ae",
+            "found_at": "2026-06-16T17:01:09.564989628+00:00"
           }
         ]
       }
@@ -55813,7 +55838,7 @@
     "name": "心系天下 三星 W23",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W9023ZCS9IZD1/W9023CHC9IZD1/W9023ZCS9IZD1",
+        "latest_official": "W9023ZCSAIZE2/W9023CHCAIZE2/W9023ZCSAIZE2",
         "test_firmwares": [
           {
             "firmware": "W9023ZCS8HYE2/W9023CHC8HYE2/W9023ZCS8HYE2",
@@ -56069,6 +56094,11 @@
             "firmware": "W9023ZCSAIZE2/W9023CHCAIZE2/W9023ZCSAIZE2",
             "md5": "37c13cd19f75256639fad5cdcbd31470",
             "found_at": "2026-05-19T07:57:09.456730293+00:00"
+          },
+          {
+            "firmware": "W9023ZCSAIZF1/W9023CHCAIZF1/W9023ZCSAIZF1",
+            "md5": "49777b7ed77534fc9bb3f654c4214e17",
+            "found_at": "2026-06-16T17:00:41.098611658+00:00"
           }
         ]
       }

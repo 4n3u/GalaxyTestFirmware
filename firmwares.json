@@ -55133,7 +55133,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S948USQS2AZE1/S948UOYN2AZE1/S948USQS2AZE1",
+        "latest_official": "S948USQS3AZF1/S948UOYN3AZF1/S948USQS3AZF1",
         "test_firmwares": [
           {
             "firmware": "S948USQS1AZC7/S948UOYN1AZC7/S948USQS1AZC7",
@@ -55354,6 +55354,11 @@
             "firmware": "S948USQS3AZF1/S948UOYN3AZF1/S948USQS3AZF1",
             "md5": "d79a031361c619a00cf67e1169d21825",
             "found_at": "2026-06-01T17:45:48.034484774+00:00"
+          },
+          {
+            "firmware": "S948USQS3AZG1/S948UOYN3AZG1/S948USQS3AZG1",
+            "md5": "e80f4e84bda3df16af0f0181e7230566",
+            "found_at": "2026-06-17T04:11:58.449664236+00:00"
           }
         ]
       }

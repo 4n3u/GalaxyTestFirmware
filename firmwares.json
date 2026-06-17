@@ -65699,6 +65699,11 @@
             "firmware": "X936BXXS6BZF2/X936BOXM6BZF2/X936BXXS6BZF2",
             "md5": "c95d5c80dd28eec4e56af7ffb5c85d3b",
             "found_at": "2026-06-15T12:23:22.177332185+00:00"
+          },
+          {
+            "firmware": "X936BXXS6BZF4/X936BOXM6BZF4/X936BXXS6BZF4",
+            "md5": "8e0ab7d04698ae37b13bcb90cfc56b82",
+            "found_at": "2026-06-17T23:50:16.096294290+00:00"
           }
         ]
       }

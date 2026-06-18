@@ -4114,6 +4114,11 @@
             "firmware": "A236BXXSFEZE8/A236BOXMFEZE8/A236BXXSFEZE4",
             "md5": "cb5e2965c75b9d293d9baa5b11bf8c3a",
             "found_at": "2026-05-28T11:46:40.419073868+00:00"
+          },
+          {
+            "firmware": "A236BXXSFEZF1/A236BOXMFEZF1/A236BXXSFEZF1",
+            "md5": "396e1d34ff84a3f30929158290a2eee5",
+            "found_at": "2026-06-18T08:53:34.737510596+00:00"
           }
         ]
       }
@@ -16568,7 +16573,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F766USQSABZE3/F766UOYNABZE3/F766USQSABZE3",
+        "latest_official": "F766USQUABZF3/F766UOYNABZF3/F766USQUABZF3",
         "test_firmwares": [
           {
             "firmware": "F766USQS4AYI2/F766UOYN4AYI2/F766USQS4AYI2",
@@ -16919,6 +16924,11 @@
             "firmware": "F766USQUABZF3/F766UOYNABZF3/F766USQUABZF3",
             "md5": "979491ddc0417357ad7c1a28a925d2d6",
             "found_at": "2026-06-08T14:19:28.478343603+00:00"
+          },
+          {
+            "firmware": "F766USQSABZF5/F766UOYNABZF5/F766USQSABZF5",
+            "md5": "5d5eb08db77d98640d06c5ee336343dd",
+            "found_at": "2026-06-18T09:00:18.057575138+00:00"
           }
         ]
       }
@@ -44134,6 +44144,11 @@
             "firmware": "S931BXXSACZF2/S931BOXMACZF2/S931BXXUACZF1",
             "md5": "5ebd66a2418d604c04cbe4a67d4932ac",
             "found_at": "2026-06-15T12:21:47.397735636+00:00"
+          },
+          {
+            "firmware": "S931BXXSACZF3/S931BOXMACZF3/S931BXXUACZF1",
+            "md5": "05e79de14aa0a54913fdc2e13513650e",
+            "found_at": "2026-06-18T08:58:14.518780494+00:00"
           }
         ]
       }
@@ -59164,6 +59179,11 @@
             "firmware": "X406BXXS4CZF1/X406BOXM4CZF1/X406BXXS4CZF1",
             "md5": "f9cfb2872ba204f1177e9b6f2d7a220a",
             "found_at": "2026-06-12T08:35:29.201806573+00:00"
+          },
+          {
+            "firmware": "X406BXXS5CZF2/X406BOXM5CZF2/X406BXXS5CZF2",
+            "md5": "1a0b71a8446ed2cfbdd0e629f081fc29",
+            "found_at": "2026-06-18T08:51:33.427998630+00:00"
           }
         ]
       }
@@ -60084,6 +60104,11 @@
             "firmware": "X526BXXS8CZF1/X526BOXM8CZF1/X526BXXS8CZF1",
             "md5": "d0ee4a2e66782fb56e582e968150c394",
             "found_at": "2026-06-15T12:22:23.837682826+00:00"
+          },
+          {
+            "firmware": "X526BXXS8CZF2/X526BOXM8CZF2/X526BXXS8CZF2",
+            "md5": "c529d26ae338b45f76772932ddaf49c2",
+            "found_at": "2026-06-18T08:51:05.250773683+00:00"
           }
         ]
       }
@@ -60479,6 +60504,11 @@
             "firmware": "X526EXXS8CZF1/X526EOXM8CZF1/X526EXXS8CZF1",
             "md5": "4750c47fb2ee30fdc5e68de9ef5e6690",
             "found_at": "2026-06-15T12:22:29.066979144+00:00"
+          },
+          {
+            "firmware": "X526EXXS8CZF2/X526EOXM8CZF2/X526EXXS8CZF2",
+            "md5": "8842aea04b7a84a0ced1e9231d7728a3",
+            "found_at": "2026-06-18T08:51:12.050977627+00:00"
           }
         ]
       }
@@ -61324,6 +61354,11 @@
             "firmware": "X626BXXS8CZF1/X626BOXM8CZF1/X626BXXS8CZF1",
             "md5": "79bcb42cdf34e8b0773cef11af7242c2",
             "found_at": "2026-06-15T12:22:38.365284487+00:00"
+          },
+          {
+            "firmware": "X626BXXS8CZF2/X626BOXM8CZF2/X626BXXS8CZF2",
+            "md5": "a68c1405d275135eb04fd275d3b0d38d",
+            "found_at": "2026-06-18T08:51:23.643821915+00:00"
           }
         ]
       }
@@ -62224,6 +62259,11 @@
             "firmware": "X716BXXU6EZE3/X716BOXM6EZE3/X716BXXU6EZE3",
             "md5": "2060dad46c71d2d5f28669728e0ebc51",
             "found_at": "2026-06-01T17:47:08.898699090+00:00"
+          },
+          {
+            "firmware": "X716BXXS6EZF1/X716BOXM6EZF1/X716BXXS6EZF1",
+            "md5": "dcc74ba0cde5fe588d92da69b4471583",
+            "found_at": "2026-06-18T08:52:59.833730750+00:00"
           }
         ]
       }
@@ -63549,6 +63589,11 @@
             "firmware": "X816BXXU6EZE3/X816BOXM6EZE3/X816BXXU6EZE3",
             "md5": "f3a040cabf329335ad1d7e752cef58eb",
             "found_at": "2026-06-01T17:47:39.771294547+00:00"
+          },
+          {
+            "firmware": "X816BXXS6EZF1/X816BOXM6EZF1/X816BXXS6EZF1",
+            "md5": "0bcede297d5dd3e77f337aa342bb31fd",
+            "found_at": "2026-06-18T08:53:44.987995963+00:00"
           }
         ]
       }
@@ -63954,6 +63999,11 @@
             "firmware": "X826BXXS8DZF1/X826BOXM8DZF1/X826BXXS8DZF1",
             "md5": "25f8a05b15702278f89960d05f24c559",
             "found_at": "2026-06-15T12:23:02.726771873+00:00"
+          },
+          {
+            "firmware": "X826BXXS8DZF2/X826BOXM8DZF2/X826BXXS8DZF2",
+            "md5": "0075364c09d353471fd6e520f228fc9d",
+            "found_at": "2026-06-18T08:51:49.973456048+00:00"
           }
         ]
       }
@@ -64934,6 +64984,11 @@
             "firmware": "X916BXXU6EZE3/X916BOXM6EZE3/X916BXXU6EZE3",
             "md5": "391ee1c39bc947d839caa43543e57cb5",
             "found_at": "2026-06-01T17:47:32.878866466+00:00"
+          },
+          {
+            "firmware": "X916BXXS6EZF1/X916BOXM6EZF1/X916BXXS6EZF1",
+            "md5": "11c03b4edf306647c34d44e0696d1186",
+            "found_at": "2026-06-18T08:53:30.467780621+00:00"
           }
         ]
       }
@@ -65424,6 +65479,11 @@
             "firmware": "X926BXXS8DZF1/X926BOXM8DZF1/X926BXXS8DZF1",
             "md5": "98b73be9c5f656a352c3cafcdf069307",
             "found_at": "2026-06-15T12:22:53.853340107+00:00"
+          },
+          {
+            "firmware": "X926BXXS8DZF2/X926BOXM8DZF2/X926BXXS8DZF2",
+            "md5": "736fb929f60d108658b31a308e4000d6",
+            "found_at": "2026-06-18T08:51:40.195070124+00:00"
           }
         ]
       }

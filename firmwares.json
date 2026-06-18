@@ -6648,7 +6648,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A366BXXS9BZDA/A366BOXM9BZDA/A366BXXS9BZDA",
+        "latest_official": "A366BXXSACZE3/A366BOXMACZE3/A366BXXSACZE3",
         "test_firmwares": [
           {
             "firmware": "A366BXXU4BYG1/A366BOXM4BYG1/A366BXXU4BYG1",
@@ -6874,6 +6874,11 @@
             "firmware": "A366BXXSACZE3/A366BOXMACZE3/A366BXXSACZE3",
             "md5": "faeee57d6fbb465f87a79f88c2428f11",
             "found_at": "2026-05-21T03:45:47.917317718+00:00"
+          },
+          {
+            "firmware": "A366BXXSACZF1/A366BOXMACZF1/A366BXXSACZF1",
+            "md5": "9380c39ec133c985803a701db03b3c7c",
+            "found_at": "2026-06-18T17:06:24.801161003+00:00"
           }
         ]
       }
@@ -24144,6 +24149,11 @@
             "firmware": "G736U1UESCGZF1/G736U1OYMCGZF1/G736U1UESCGZF1",
             "md5": "04aaa10da1c3ca29c64368fc69de9a34",
             "found_at": "2026-06-04T17:01:29.323264133+00:00"
+          },
+          {
+            "firmware": "G736U1UESCGZF2/G736U1OYMCGZF2/G736U1UESCGZF2",
+            "md5": "143c179bc2010c5063a42452d2654fc0",
+            "found_at": "2026-06-18T17:07:04.424182510+00:00"
           }
         ]
       }
@@ -59633,7 +59643,7 @@
     "name": "Galaxy Tab S9 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X518USQSDDZD6/X518UOYNDDZD6/X518USQSDDZD6",
+        "latest_official": "X518USQUDEZE6/X518UOYNDEZE6/X518USQUDEZE6",
         "test_firmwares": [
           {
             "firmware": "X518USQSACYH2/X518UOYNACYH2/X518USQSACYH2",
@@ -59879,6 +59889,11 @@
             "firmware": "X518USQUDEZE6/X518UOYNDEZE6/X518USQUDEZE6",
             "md5": "2d144c9453555c5accabd1b385084eff",
             "found_at": "2026-05-19T18:09:01.586160103+00:00"
+          },
+          {
+            "firmware": "X518USQSEEZF1/X518UOYNEEZF1/X518USQSEEZF1",
+            "md5": "eca6d763c66bbb195849a2b3543dfa5d",
+            "found_at": "2026-06-18T17:02:37.321241972+00:00"
           }
         ]
       }

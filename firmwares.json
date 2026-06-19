@@ -6888,7 +6888,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A366USQU7CZE1/A366UOYN7CZE1/A366USQU7CZE1",
+        "latest_official": "A366USQS8CZE3/A366UOYN8CZE3/A366USQS8CZE3",
         "test_firmwares": [
           {
             "firmware": "A366USQU3BYG1/A366UOYN3BYG1/A366USQU3BYG1",
@@ -7099,6 +7099,11 @@
             "firmware": "A366USQS8CZE3/A366UOYN8CZE3/A366USQS8CZE3",
             "md5": "ecd4f8a2e6736ae5bd5ade11392a27f9",
             "found_at": "2026-05-28T16:00:56.979372606+00:00"
+          },
+          {
+            "firmware": "A366USQS8CZF1/A366UOYN8CZF1/A366USQS8CZF1",
+            "md5": "d8e6c3d996ab681405457f21ade856d6",
+            "found_at": "2026-06-19T10:35:55.474544085+00:00"
           }
         ]
       }
@@ -16254,6 +16259,11 @@
             "firmware": "F766BXXUABZF3/F766BOXMABZF3/F766BXXUABZF3",
             "md5": "637a2ededd7934dcc2bb3ad6b296e39b",
             "found_at": "2026-06-08T18:34:50.403568026+00:00"
+          },
+          {
+            "firmware": "F766BXXSABZF4/F766BOXMABZF4/F766BXXSABZF4",
+            "md5": "4007b165054dd3864c687450289232b5",
+            "found_at": "2026-06-19T10:39:12.079168984+00:00"
           }
         ]
       }
@@ -58494,6 +58504,11 @@
             "firmware": "X308UUEUBDZF1/X308UOYMBDZF1/X308UUEUBDZF1",
             "md5": "3e19cb6009a57460dd6eb4d91b414698",
             "found_at": "2026-06-17T10:57:50.908532916+00:00"
+          },
+          {
+            "firmware": "X308UUESCDZF3/X308UOYMCDZF3/X308UUESCDZF3",
+            "md5": "79013117545e05931993a555e1733913",
+            "found_at": "2026-06-19T10:29:04.413368676+00:00"
           }
         ]
       }
@@ -60743,7 +60758,7 @@
     "name": "Galaxy Tab S9 FE+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X616BXXSCDZD6/X616BOXMCDZD6/X616BXXSCDZD6",
+        "latest_official": "X616BXXUCEZE6/X616BOXMCEZE6/X616BXXUCEZE6",
         "test_firmwares": [
           {
             "firmware": "X616BXXS8CYF1/X616BOXM8CYF1/X616BXXS8CYF1",
@@ -60984,6 +60999,11 @@
             "firmware": "X616BXXUCEZE6/X616BOXMCEZE6/X616BXXUCEZE6",
             "md5": "ba82383c56d6d96c381d6baad2a77b56",
             "found_at": "2026-05-19T11:21:53.353169256+00:00"
+          },
+          {
+            "firmware": "X616BXXSDEZF1/X616BOXMDEZF1/X616BXXSDEZF1",
+            "md5": "7458fe3e5936f5e03f848b380c63fee6",
+            "found_at": "2026-06-19T10:31:58.165977696+00:00"
           }
         ]
       }

@@ -21948,7 +21948,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F966BXXS9BZE2/F966BOXM9BZDP/F966BXXS9BZE2",
+        "latest_official": "F966BXXUABZF1/F966BOXMABZF1/F966BXXUABZF1",
         "test_firmwares": [
           {
             "firmware": "F966BXXS5AYI5/F966BOXM5AYI5/F966BXXS5AYI5",
@@ -22239,6 +22239,11 @@
             "firmware": "F966BXXUABZF1/F966BOXMABZF1/F966BXXUABZF1",
             "md5": "4b28bd2be82be3ecd1fea9111601f2a5",
             "found_at": "2026-06-01T17:48:27.292947543+00:00"
+          },
+          {
+            "firmware": "F966BXXSABZF4/F966BOXMABZF4/F966BXXSABZF4",
+            "md5": "86f6a026e4585603884635e33dcbbfe0",
+            "found_at": "2026-06-19T04:26:59.633940095+00:00"
           }
         ]
       }
@@ -55054,6 +55059,11 @@
             "firmware": "S948BXXS3AZF4/S948BOXM3AZF4/S948BXXS3AZF4",
             "md5": "0c3d4295bdd6adda3f35762d849e05fa",
             "found_at": "2026-06-15T12:19:23.552417551+00:00"
+          },
+          {
+            "firmware": "S948BXXS3AZG1/S948BOXM3AZG1/S948BXXS3AZG1",
+            "md5": "294811a69db73603e2ff0e226a1982e9",
+            "found_at": "2026-06-19T04:21:54.642364442+00:00"
           }
         ]
       }

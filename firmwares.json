@@ -1073,7 +1073,7 @@
     "name": "Galaxy A15",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "A155NKSS9CZB4/A155NOKR9CZB4/A155NKSS9CZB4",
+        "latest_official": "A155NKSU9DZF1/A155NOKR9DZF1/A155NKSU9DZE2",
         "test_firmwares": [
           {
             "firmware": "A155NKSS6BYH1/A155NOKR6BYH1/A155NKSS6BYH1",
@@ -1214,6 +1214,31 @@
             "firmware": "A155NKSU9DZC4/A155NOKR9DZC4/A155NKSU9DZC4",
             "md5": "4f8f6a90480be6b1374f8e939e006bd4",
             "found_at": "2026-03-26T13:18:42.214844607+00:00"
+          },
+          {
+            "firmware": "A155NKSU9DZD1/A155NOKR9DZD1/A155NKSU9DZD1",
+            "md5": "209d64769865cc21acfd78d4505e6ca0",
+            "found_at": "2026-06-22T04:14:21.875404726+00:00"
+          },
+          {
+            "firmware": "A155NKSU9DZD3/A155NOKR9DZD3/A155NKSU9DZD3",
+            "md5": "e0d757f91204e3273c08b319d8e08df4",
+            "found_at": "2026-06-22T04:14:21.876252458+00:00"
+          },
+          {
+            "firmware": "A155NKSU9DZE1/A155NOKR9DZE1/A155NKSU9DZE1",
+            "md5": "d3e9e4c12ba9b5e2d67e28ce5456381e",
+            "found_at": "2026-06-22T04:14:21.890596625+00:00"
+          },
+          {
+            "firmware": "A155NKSU9DZE2/A155NOKR9DZE2/A155NKSU9DZE2",
+            "md5": "94c2ad47a82f0a2ba7f57e7ae958e73b",
+            "found_at": "2026-06-22T04:14:21.890986181+00:00"
+          },
+          {
+            "firmware": "A155NKSU9DZF1/A155NOKR9DZF1/A155NKSU9DZE2",
+            "md5": "0049e4f17a7366cf26f3e0d84aaab412",
+            "found_at": "2026-06-22T04:14:21.905916570+00:00"
           }
         ]
       }

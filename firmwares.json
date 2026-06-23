@@ -1374,6 +1374,11 @@
             "firmware": "A1560ZHU9EZE9/A1560OZS9EZE9/A1560ZHU9EZE9",
             "md5": "1ca483049ec4acc1fe4b5642446e8951",
             "found_at": "2026-06-15T12:15:57.704745834+00:00"
+          },
+          {
+            "firmware": "A1560ZHS9EZF6/A1560OZS9EZF6/A1560ZHU9EZE9",
+            "md5": "993318ae65faf09b0939598e0b892db5",
+            "found_at": "2026-06-23T07:52:52.076004250+00:00"
           }
         ]
       }
@@ -6583,7 +6588,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3660ZHS7BZDA/A3660OZS7BZDA/A3660ZHS7BZDA",
+        "latest_official": "A3660ZHS8CZE3/A3660OZS8CZE3/A3660ZHS8CZE3",
         "test_firmwares": [
           {
             "firmware": "A3660ZHU3BYG2/A3660OZS3BYG2/A3660ZHU3BYG2",
@@ -6729,6 +6734,11 @@
             "firmware": "A3660ZHS8CZE3/A3660OZS8CZE3/A3660ZHS8CZE3",
             "md5": "23593e86fd61f90371d5d23ac8ede279",
             "found_at": "2026-05-22T10:59:22.517606527+00:00"
+          },
+          {
+            "firmware": "A3660ZHS8CZF1/A3660OZS8CZF1/A3660ZHS8CZF1",
+            "md5": "763d6985318986d84e93a141ea7f0322",
+            "found_at": "2026-06-23T07:50:16.844561908+00:00"
           }
         ]
       }
@@ -27488,7 +27498,7 @@
     "name": "Galaxy Watch4 Classic",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "R8950ZCU1JYL6/R8950CHC1JYL6/R8950ZCU1JYL6",
+        "latest_official": "R8950ZCS2JZE1/R8950CHC2JZE1/R8950ZCS2JZE1",
         "test_firmwares": [
           {
             "firmware": "R8950ZCU1IYB3/R8950CHC1IYB3/R8950ZCU1IYB3",
@@ -27689,6 +27699,11 @@
             "firmware": "R8950ZCU2JZC1/R8950CHC2JZC1/R8950ZCU2JZC1",
             "md5": "e1af608590dc0cbc9eb76f82998caa50",
             "found_at": "2026-03-03T13:03:38.587965302+00:00"
+          },
+          {
+            "firmware": "R8950ZCS2JZE1/R8950CHC2JZE1/R8950ZCS2JZE1",
+            "md5": "ee7aa0135ecfbb507bc28067259070ec",
+            "found_at": "2026-06-23T08:02:07.406554460+00:00"
           }
         ]
       }

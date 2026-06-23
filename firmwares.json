@@ -24079,6 +24079,11 @@
             "firmware": "G736USQSEGZF1/G736UOYNEGZF1/G736USQSEGZF1",
             "md5": "1ff089956ca47c932669540c889a9de0",
             "found_at": "2026-06-03T11:06:35.430620046+00:00"
+          },
+          {
+            "firmware": "G736USQSEGZF2/G736UOYNEGZF2/G736USQSEGZF2",
+            "md5": "d2b1138ea8551dfba65209da2b4036fb",
+            "found_at": "2026-06-23T14:56:24.659655694+00:00"
           }
         ]
       }

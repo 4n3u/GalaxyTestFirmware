@@ -25519,6 +25519,11 @@
             "firmware": "G9900ZHSKIZE1/G9900OZSKIZE1/G9900ZHSKIZE1",
             "md5": "f62beedfcb7b7f559b7d06037bb3f15a",
             "found_at": "2026-06-04T08:28:30.340015077+00:00"
+          },
+          {
+            "firmware": "G9900ZHSKIZF2/G9900OZSKIZF2/G9900ZHSKIZF2",
+            "md5": "5ae5f1bb95838e1c8268c0dc438289ca",
+            "found_at": "2026-06-23T11:23:22.515114246+00:00"
           }
         ]
       }

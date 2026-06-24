@@ -58239,6 +58239,11 @@
             "firmware": "X238U1UES6BZF2/X238U1OYM6BZF2/X238U1UES6BZF2",
             "md5": "7a7a87b9581b579b505c9b5e22165e6a",
             "found_at": "2026-06-19T15:17:18.272350008+00:00"
+          },
+          {
+            "firmware": "X238U1UES6BZF4/X238U1OYM6BZF4/X238U1UES6BZF4",
+            "md5": "7b60122fc0c8aadce140250b13e43a0f",
+            "found_at": "2026-06-24T10:59:42.494691018+00:00"
           }
         ]
       }
@@ -62814,6 +62819,11 @@
             "firmware": "X736CZCU5BZE3/X736CCHC5BZE3/X736CZCU5BZE3",
             "md5": "01a45f6d4703abc70c0d270cb2758095",
             "found_at": "2026-06-01T11:37:23.250384052+00:00"
+          },
+          {
+            "firmware": "X736CZCS6BZF4/X736CCHC6BZF4/X736CZCS6BZF4",
+            "md5": "b1196c3694d2ce866edf313a7e7d1ef8",
+            "found_at": "2026-06-24T11:02:13.482744721+00:00"
           }
         ]
       }
@@ -66154,6 +66164,11 @@
             "firmware": "X936CZCU5BZE3/X936CCHC5BZE3/X936CZCU5BZE3",
             "md5": "f5ad05c2e5aa196168dd00096cffed92",
             "found_at": "2026-06-01T11:37:32.933008575+00:00"
+          },
+          {
+            "firmware": "X936CZCS6BZF4/X936CCHC6BZF4/X936CZCS6BZF4",
+            "md5": "8c367214d037abafd1462a4e195ff031",
+            "found_at": "2026-06-24T11:02:26.003141606+00:00"
           }
         ]
       }

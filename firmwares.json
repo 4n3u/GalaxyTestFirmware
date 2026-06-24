@@ -58134,6 +58134,11 @@
             "firmware": "X238USQS6BZF2/X238UOYN6BZF2/X238USQS6BZF2",
             "md5": "8531be88c8ade79da7de48c6e8bc81cb",
             "found_at": "2026-06-19T15:17:13.691947215+00:00"
+          },
+          {
+            "firmware": "X238USQS6BZF3/X238UOYN6BZF3/X238USQS6BZF3",
+            "md5": "9e00414bbaf901bb3b7871136f89924e",
+            "found_at": "2026-06-24T03:34:51.884597264+00:00"
           }
         ]
       }

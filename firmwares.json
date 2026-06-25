@@ -18634,6 +18634,11 @@
             "firmware": "F936USQSAIZF1/F936UOYNAIZF1/F936USQSAIZF1",
             "md5": "316fedcf2c5b179009cbf4ec5d826a06",
             "found_at": "2026-06-08T09:10:04.749165940+00:00"
+          },
+          {
+            "firmware": "F936USQSAIZF5/F936UOYNAIZF5/F936USQSAIZF5",
+            "md5": "a188f6986ebe0aa7dbd48f71abfb33ae",
+            "found_at": "2026-06-25T07:52:59.665238243+00:00"
           }
         ]
       }
@@ -57923,7 +57928,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X236CZCS4AZD4/X236CCHC4AZD4/X236CZCS4AZD4",
+        "latest_official": "X236CZCU4BZE8/X236CCHC4BZE8/X236CZCU4BZE8",
         "test_firmwares": [
           {
             "firmware": "X236CZCU2AZA4/X236CCHC2AZA4/X236CZCU2AZA4",
@@ -58024,6 +58029,11 @@
             "firmware": "X236CZCU4BZE8/X236CCHC4BZE8/X236CZCU4BZE8",
             "md5": "717fdea94f4ec4c5a271c519b8328b18",
             "found_at": "2026-05-18T08:15:22.779488505+00:00"
+          },
+          {
+            "firmware": "X236CZCS5BZF2/X236CCHC5BZF2/X236CZCS5BZF2",
+            "md5": "d5e654986b873d0a2a32de633c9e6f06",
+            "found_at": "2026-06-25T07:49:29.719147650+00:00"
           }
         ]
       }
@@ -59703,7 +59713,7 @@
     "name": "Galaxy Tab S9 FE 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X516CZCSCDZD6/X516CCHCCDZD6/X516CZCSCDZD6",
+        "latest_official": "X516CZCUCEZE4/X516CCHCCEZE4/X516CZCUCEZE4",
         "test_firmwares": [
           {
             "firmware": "X516CZCS8CYG1/X516CCHC8CYG1/X516CZCS8CYG1",
@@ -59879,6 +59889,11 @@
             "firmware": "X516CZCUCEZE4/X516CCHCCEZE4/X516CZCUCEZE4",
             "md5": "83bdea3ce9f18e0c3bb323d041a183f7",
             "found_at": "2026-05-18T08:16:29.932376657+00:00"
+          },
+          {
+            "firmware": "X516CZCSDEZF1/X516CCHCDEZF1/X516CZCSDEZF1",
+            "md5": "e51c81af12b27a09afe31bf97e355731",
+            "found_at": "2026-06-25T07:52:18.658958105+00:00"
           }
         ]
       }
@@ -65594,6 +65609,11 @@
             "firmware": "X916CZCU6EZE3/X916CCHC6EZE3/X916CZCU6EZE3",
             "md5": "3031ba03e227cec77bd0188ca8e8ef6b",
             "found_at": "2026-06-04T08:28:29.667063108+00:00"
+          },
+          {
+            "firmware": "X916CZCS6EZF1/X916CCHC6EZF1/X916CZCS6EZF1",
+            "md5": "a535282088240db54d168622044d6d3b",
+            "found_at": "2026-06-25T07:52:37.156940586+00:00"
           }
         ]
       }

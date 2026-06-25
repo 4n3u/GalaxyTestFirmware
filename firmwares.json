@@ -898,7 +898,7 @@
     "name": "Galaxy A15",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A155FXXSADZB5/A155FOXMADZB5/A155FXXSADZB5",
+        "latest_official": "A155FXXUAEZF1/A155FOXMAEZE3/A155FXXUAEZE3",
         "test_firmwares": [
           {
             "firmware": "A155FXXS7CYG1/A155FOXM7CYG1/A155FXXS7CYG1",
@@ -1064,6 +1064,26 @@
             "firmware": "A155FXXUAEZC4/A155FOXMAEZC4/A155FXXUAEZC4",
             "md5": "b408cd397146bdb18b620263b9807672",
             "found_at": "2026-03-26T10:55:44.254993582+00:00"
+          },
+          {
+            "firmware": "A155FXXUAEZD1/A155FOXMAEZD1/A155FXXUAEZD1",
+            "md5": "5acbe09d07be5749bf70cc2eaeb44b03",
+            "found_at": "2026-06-25T14:35:17.393947842+00:00"
+          },
+          {
+            "firmware": "A155FXXUAEZD3/A155FOXMAEZD3/A155FXXUAEZD3",
+            "md5": "a17269c8fef580a977e81cb047c82b41",
+            "found_at": "2026-06-25T14:35:17.394978056+00:00"
+          },
+          {
+            "firmware": "A155FXXUAEZE1/A155FOXMAEZE1/A155FXXUAEZE1",
+            "md5": "49200d8babcb98dc934a58b51e48a9d9",
+            "found_at": "2026-06-25T14:35:17.409742948+00:00"
+          },
+          {
+            "firmware": "A155FXXUAEZE2/A155FOXMAEZE2/A155FXXUAEZE2",
+            "md5": "568a59a9288579791b6c96cb3c8ce7fa",
+            "found_at": "2026-06-25T14:35:17.410146635+00:00"
           }
         ]
       }
@@ -53479,6 +53499,11 @@
             "firmware": "S942BXXS3AZG1/S942BOXM3AZG1/S942BXXS3AZG1",
             "md5": "b10d7ef12f969b25be4080181026048a",
             "found_at": "2026-06-17T15:33:13.462284585+00:00"
+          },
+          {
+            "firmware": "S942BXXS3AZG2/S942BOXM3AZG2/S942BXXS3AZG1",
+            "md5": "cbab3d44f7d5966eee25557b0b82fc43",
+            "found_at": "2026-06-25T14:43:14.438452435+00:00"
           }
         ]
       }

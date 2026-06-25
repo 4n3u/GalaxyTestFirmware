@@ -24134,6 +24134,11 @@
             "firmware": "G736USQSEGZF2/G736UOYNEGZF2/G736USQSEGZF2",
             "md5": "d2b1138ea8551dfba65209da2b4036fb",
             "found_at": "2026-06-23T14:56:24.659655694+00:00"
+          },
+          {
+            "firmware": "G736USQSEGZF3/G736UOYNEGZF3/G736USQSEGZF3",
+            "md5": "d0712da5876e83e205a45b18d5ff5de5",
+            "found_at": "2026-06-25T18:19:13.690498555+00:00"
           }
         ]
       }
@@ -63719,6 +63724,26 @@
             "firmware": "X806EXXSBEZE1/X806EOXMBEZE1/X806EXXSBEZE1",
             "md5": "d14779a7722922e728709bf1506cfc24",
             "found_at": "2026-06-02T14:13:55.459402262+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-X808U": {
+    "name": "Galaxy Tab S8+ 5G",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "X808USQSAEZF1/X808UOYNAEZF1/X808USQSAEZF1",
+        "test_firmwares": [
+          {
+            "firmware": "X808USQSAEZE2/X808UOYNAEZE2/X808USQSAEZE2",
+            "md5": "d169a216cfd4c1ed92dbe870aa691bf6",
+            "found_at": "2026-06-25T18:20:16.310920630+00:00"
+          },
+          {
+            "firmware": "X808USQSAEZF1/X808UOYNAEZF1/X808USQSAEZF1",
+            "md5": "a6bbc1eba579d5aaa8c856df08d1fe30",
+            "found_at": "2026-06-25T18:20:16.342027628+00:00"
           }
         ]
       }

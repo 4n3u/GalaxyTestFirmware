@@ -12618,7 +12618,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F731NKSS6FZCS/F731NOKR6FZCS/F731NKSS6FZCS",
+        "latest_official": "F731NKSS6GZF2/F731NOKR6GZF2/F731NKSU6GZDQ",
         "test_firmwares": [
           {
             "firmware": "F731NKSS5FYIA/F731NOKR5FYIA/F731NKSU5FYI2",
@@ -12894,6 +12894,16 @@
             "firmware": "F731NKSU6GZDU/F731NOKR6GZDU/F731NKSU6GZDQ",
             "md5": "4ee45036f7041cac5f12f1ea4db98122",
             "found_at": "2026-05-09T09:29:04.805544830+00:00"
+          },
+          {
+            "firmware": "F731NKSS6GZF1/F731NOKR6GZF1/F731NKSU6GZDQ",
+            "md5": "4115eda4c782bd42a4f4ce07bb1e2b49",
+            "found_at": "2026-06-25T03:34:50.478132886+00:00"
+          },
+          {
+            "firmware": "F731NKSS6GZF2/F731NOKR6GZF2/F731NKSU6GZDQ",
+            "md5": "d627d648b6817346d371597f91832d80",
+            "found_at": "2026-06-25T03:34:50.481896936+00:00"
           }
         ]
       }
@@ -19308,7 +19318,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F946NKSS6FZCS/F946NOKR6FZCS/F946NKSS6FZCS",
+        "latest_official": "F946NKSS6GZF2/F946NOKR6GZF2/F946NKSU6GZDN",
         "test_firmwares": [
           {
             "firmware": "F946NKSS5FYIA/F946NOKR5FYIA/F946NKSU5FYI2",
@@ -19574,6 +19584,16 @@
             "firmware": "F946NKSU6GZDT/F946NOKR6GZDT/F946NKSU6GZDN",
             "md5": "68b7068537ac39bcb525ca5b87688b20",
             "found_at": "2026-05-07T17:57:31.509020811+00:00"
+          },
+          {
+            "firmware": "F946NKSS6GZF1/F946NOKR6GZF1/F946NKSU6GZDN",
+            "md5": "1db891e4f7b8ad8a01bf78a0f78415e6",
+            "found_at": "2026-06-25T03:36:43.541763690+00:00"
+          },
+          {
+            "firmware": "F946NKSS6GZF2/F946NOKR6GZF2/F946NKSU6GZDN",
+            "md5": "233a9f78f430ace02af6bdaa5e0acbf6",
+            "found_at": "2026-06-25T03:36:43.542182512+00:00"
           }
         ]
       }
@@ -35618,7 +35638,7 @@
     "name": "Galaxy S23",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S911NKSS7EZCI/S911NOKR7EZCI/S911NKSS7EZCI",
+        "latest_official": "S911NKSS8FZF1/S911NOKR8FZF1/S911NKSS8FZF1",
         "test_firmwares": [
           {
             "firmware": "S911NKSS6EYI9/S911NOKR6EYI9/S911NKSU6EYI7",
@@ -35959,6 +35979,11 @@
             "firmware": "S911NKSU7FZDT/S911NOKR7FZDT/S911NKSU7FZDP",
             "md5": "5a17b9f601a4fb67cb1d184efa74a105",
             "found_at": "2026-05-08T02:58:30.795700639+00:00"
+          },
+          {
+            "firmware": "S911NKSS8FZF1/S911NOKR8FZF1/S911NKSS8FZF1",
+            "md5": "4f38ebfa5d87d007d474e30cce913c0c",
+            "found_at": "2026-06-25T03:38:52.565000141+00:00"
           }
         ]
       }
@@ -37013,7 +37038,7 @@
     "name": "Galaxy S23+",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S916NKSS7EZCI/S916NOKR7EZCI/S916NKSS7EZCI",
+        "latest_official": "S916NKSS8FZF1/S916NOKR8FZF1/S916NKSS8FZF1",
         "test_firmwares": [
           {
             "firmware": "S916NKSS6EYI9/S916NOKR6EYI9/S916NKSU6EYI7",
@@ -37359,6 +37384,11 @@
             "firmware": "S916NKSU7FZDT/S916NOKR7FZDT/S916NKSU7FZDP",
             "md5": "fc65a3a0329a9d72d377d9ef6f8d5d18",
             "found_at": "2026-05-08T02:59:04.010506424+00:00"
+          },
+          {
+            "firmware": "S916NKSS8FZF1/S916NOKR8FZF1/S916NKSS8FZF1",
+            "md5": "13921a55259bd39a23eae2209ce57dd7",
+            "found_at": "2026-06-25T03:39:45.991249504+00:00"
           }
         ]
       }
@@ -38423,7 +38453,7 @@
     "name": "Galaxy S23 Ultra",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S918NKSS7EZCI/S918NOKR7EZCI/S918NKSS7EZCI",
+        "latest_official": "S918NKSS8FZF1/S918NOKR8FZF1/S918NKSS8FZF1",
         "test_firmwares": [
           {
             "firmware": "S918NKSS6EYI9/S918NOKR6EYI9/S918NKSU6EYI7",
@@ -38764,6 +38794,11 @@
             "firmware": "S918NKSU7FZDT/S918NOKR7FZDT/S918NKSU7FZDP",
             "md5": "82c1e405746dc3c4d8511f14803f5d51",
             "found_at": "2026-05-08T02:58:52.639427323+00:00"
+          },
+          {
+            "firmware": "S918NKSS8FZF1/S918NOKR8FZF1/S918NKSS8FZF1",
+            "md5": "70020d0a81bc365fdd00d462f2715851",
+            "found_at": "2026-06-25T03:39:28.232970181+00:00"
           }
         ]
       }
@@ -60519,6 +60554,11 @@
             "firmware": "X526CZCU7CZE3/X526CCHC7CZE3/X526CZCU7CZE3",
             "md5": "75ed6a605a332270265c9ea236523015",
             "found_at": "2026-06-04T08:26:02.175540398+00:00"
+          },
+          {
+            "firmware": "X526CZCS8CZF2/X526CCHC8CZF2/X526CZCS8CZF2",
+            "md5": "b96e30ea79750111dc43e455b09209ff",
+            "found_at": "2026-06-25T03:34:33.974929589+00:00"
           }
         ]
       }
@@ -61779,6 +61819,11 @@
             "firmware": "X626CZCU7CZE3/X626CCHC7CZE3/X626CZCU7CZE3",
             "md5": "21e2a2b491c63e24e19fcc2eea205159",
             "found_at": "2026-06-04T08:26:17.223164261+00:00"
+          },
+          {
+            "firmware": "X626CZCS8CZF2/X626CCHC8CZF2/X626CZCS8CZF2",
+            "md5": "759b2a92185f9f8f9ac33a860d035c76",
+            "found_at": "2026-06-25T03:34:49.272631374+00:00"
           }
         ]
       }
@@ -65874,6 +65919,11 @@
             "firmware": "X926CZCU7DZE3/X926CCHC7DZE3/X926CZCU7DZE3",
             "md5": "d78a8d197a03f55898a88c7a8936b320",
             "found_at": "2026-06-04T08:26:33.619594421+00:00"
+          },
+          {
+            "firmware": "X926CZCS8DZF2/X926CCHC8DZF2/X926CZCS8DZF2",
+            "md5": "9a01548fcd3e675cbcf2df71c99a6a7f",
+            "found_at": "2026-06-25T03:35:04.674292805+00:00"
           }
         ]
       }

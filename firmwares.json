@@ -17549,6 +17549,11 @@
             "firmware": "F926BXXSIJZF3/F926BOXMIJZF3/F926BXXSIJZE5",
             "md5": "6c6e560c76ef39d1982aa748cfb58dcc",
             "found_at": "2026-06-24T14:41:55.138958097+00:00"
+          },
+          {
+            "firmware": "F926BXXSIJZF4/F926BOXMIJZF4/F926BXXSIJZE5",
+            "md5": "9a0d83b898fb4fd76da6b344c77f9a6e",
+            "found_at": "2026-06-26T11:06:14.136804533+00:00"
           }
         ]
       }

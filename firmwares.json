@@ -17079,6 +17079,11 @@
             "firmware": "F766USQSABZF5/F766UOYNABZF5/F766USQSABZF5",
             "md5": "5d5eb08db77d98640d06c5ee336343dd",
             "found_at": "2026-06-18T09:00:18.057575138+00:00"
+          },
+          {
+            "firmware": "F766USQSABZF6/F766UOYNABZF6/F766USQSABZF6",
+            "md5": "097ac8e9d8dd99e3d893dcd71f96cc4d",
+            "found_at": "2026-06-26T03:46:34.319117962+00:00"
           }
         ]
       }
@@ -61283,7 +61288,7 @@
     "name": "Galaxy Tab S9 FE+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X616CZCSCDZD6/X616CCHCCDZD6/X616CZCSCDZD6",
+        "latest_official": "X616CZCUCEZE5/X616CCHCCEZE5/X616CZCUCEZE5",
         "test_firmwares": [
           {
             "firmware": "X616CZCS8CYG1/X616CCHC8CYG1/X616CZCS8CYG1",
@@ -61464,6 +61469,11 @@
             "firmware": "X616CZCUCEZE5/X616CCHCCEZE5/X616CZCUCEZE5",
             "md5": "7364092668c0dd2c4fb70dc92b82b59e",
             "found_at": "2026-05-19T07:49:30.409904490+00:00"
+          },
+          {
+            "firmware": "X616CZCSDEZF1/X616CCHCDEZF1/X616CZCSDEZF1",
+            "md5": "7d2ab3a0df061d928bb4693a630ff67e",
+            "found_at": "2026-06-26T03:43:33.458846207+00:00"
           }
         ]
       }

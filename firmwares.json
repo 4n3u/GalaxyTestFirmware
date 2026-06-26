@@ -25884,6 +25884,11 @@
             "firmware": "G990U1UESNIZF2/G990U1OYMNIZF2/G990U1UESNIZF2",
             "md5": "3b05c322b4c79c1bfdb54d6c5ee149c4",
             "found_at": "2026-06-22T12:00:41.342895822+00:00"
+          },
+          {
+            "firmware": "G990U1UESNIZF3/G990U1OYMNIZF3/G990U1UESNIZF3",
+            "md5": "53bd0e1b115fad13fe6ee359bac3aa1a",
+            "found_at": "2026-06-26T14:31:12.211032293+00:00"
           }
         ]
       }
@@ -25994,6 +25999,11 @@
             "firmware": "G990U3UESLIZF2/G990U3OYMLIZF2/G990U3UESLIZF2",
             "md5": "7c27db12f8a6c9e276f68ee766860571",
             "found_at": "2026-06-22T12:00:47.231341445+00:00"
+          },
+          {
+            "firmware": "G990U3UESLIZF3/G990U3OYMLIZF3/G990U3UESLIZF3",
+            "md5": "6340b33c463cf6e00920364c9a9e73cc",
+            "found_at": "2026-06-26T14:31:19.064356645+00:00"
           }
         ]
       }

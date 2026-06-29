@@ -3773,7 +3773,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A176USQS5AZD2/A176UOYN5AZD2/A176USQS5AZD2",
+        "latest_official": "A176USQU5BZEB/A176UOYN5BZEB/A176USQU5BZEB",
         "test_firmwares": [
           {
             "firmware": "A176USQS2AZA3/A176UOYN2AZA3/A176USQS2AZA3",
@@ -3914,6 +3914,11 @@
             "firmware": "A176USQU5BZEB/A176UOYN5BZEB/A176USQU5BZEB",
             "md5": "008911371c95dd272813f6b66c16c132",
             "found_at": "2026-05-14T10:18:49.840472952+00:00"
+          },
+          {
+            "firmware": "A176USQS6BZF3/A176UOYN6BZF3/A176USQS6BZF3",
+            "md5": "e0e3daa762a1960472388b36bc760411",
+            "found_at": "2026-06-29T09:03:04.979933221+00:00"
           }
         ]
       }
@@ -9563,7 +9568,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A566BXXSACZE2/A566BOXMACZE2/A566BXXSACZE2",
+        "latest_official": "A566BXXSBCZF5/A566BOXMBCZF5/A566BXXSBCZF5",
         "test_firmwares": [
           {
             "firmware": "A566BXXU6BYGI/A566BOXM6BYGI/A566BXXU6BYGI",
@@ -9804,6 +9809,11 @@
             "firmware": "A566BXXSBCZF5/A566BOXMBCZF5/A566BXXSBCZF5",
             "md5": "682746ff929ebf2f882ab73159957006",
             "found_at": "2026-06-09T11:27:16.588481187+00:00"
+          },
+          {
+            "firmware": "A566BXXSCCZFE/A566BOXMCCZFE/A566BXXSCCZFE",
+            "md5": "f855f1f7873ecdf9eaaa7b7d720369b8",
+            "found_at": "2026-06-29T09:11:55.187226909+00:00"
           }
         ]
       }

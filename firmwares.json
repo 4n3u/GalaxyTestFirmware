@@ -53538,7 +53538,7 @@
     "name": "Galaxy S26",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S942NKSS2AZE1/S942NOKR2AZE1/S942NKSS2AZE1",
+        "latest_official": "S942NKSS3AZF1/S942NOKR3AZF1/S942NKSS3AZF1",
         "test_firmwares": [
           {
             "firmware": "S942NKSS1AZC7/S942NOKR1AZC7/S942NKSU1AZAQ",
@@ -53729,6 +53729,11 @@
             "firmware": "S942NKSS3AZF1/S942NOKR3AZF1/S942NKSS3AZF1",
             "md5": "747ddd294d3706f6cc7cc83ee57d6244",
             "found_at": "2026-06-01T04:11:56.049012537+00:00"
+          },
+          {
+            "firmware": "S942NKSS4AZG1/S942NOKR4AZG1/S942NKSS4AZG1",
+            "md5": "55491f9e8eba1b5e60335fd89a1fc67b",
+            "found_at": "2026-06-29T04:04:04.309099001+00:00"
           }
         ]
       }
@@ -54458,7 +54463,7 @@
     "name": "Galaxy S26+",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S947NKSS2AZE1/S947NOKR2AZE1/S947NKSS2AZE1",
+        "latest_official": "S947NKSS3AZF1/S947NOKR3AZF1/S947NKSS3AZF1",
         "test_firmwares": [
           {
             "firmware": "S947NKSS1AZC7/S947NOKR1AZC7/S947NKSU1AZAQ",
@@ -54649,6 +54654,11 @@
             "firmware": "S947NKSS3AZF1/S947NOKR3AZF1/S947NKSS3AZF1",
             "md5": "2f3d6f2ec222b57a5d7124e5620355a9",
             "found_at": "2026-06-01T04:12:37.667976865+00:00"
+          },
+          {
+            "firmware": "S947NKSS4AZG1/S947NOKR4AZG1/S947NKSS4AZG1",
+            "md5": "3d6c53def943bcb8119abc3df3069595",
+            "found_at": "2026-06-29T04:04:43.493947190+00:00"
           }
         ]
       }
@@ -55328,7 +55338,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S948NKSS2AZE1/S948NOKR2AZE1/S948NKSS2AZE1",
+        "latest_official": "S948NKSS3AZF1/S948NOKR3AZF1/S948NKSS3AZF1",
         "test_firmwares": [
           {
             "firmware": "S948NKSS1AZC7/S948NOKR1AZC7/S948NKSU1AZAB",
@@ -55469,6 +55479,11 @@
             "firmware": "S948NKSS3AZF1/S948NOKR3AZF1/S948NKSS3AZF1",
             "md5": "564b6af1213e9af349270f975dbdfb53",
             "found_at": "2026-06-01T04:12:05.530193879+00:00"
+          },
+          {
+            "firmware": "S948NKSS4AZG1/S948NOKR4AZG1/S948NKSS4AZG1",
+            "md5": "a5ded0f2515f7792dfbb33b43c243d57",
+            "found_at": "2026-06-29T04:04:14.802400647+00:00"
           }
         ]
       }

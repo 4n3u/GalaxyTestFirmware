@@ -6193,7 +6193,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A356USQSACZD5/A356UOYNACZD5/A356USQSACZD5",
+        "latest_official": "A356USQUADZE8/A356UOYNADZE8/A356USQUADZE8",
         "test_firmwares": [
           {
             "firmware": "A356USQU6CYG6/A356UOYN6CYG6/A356USQU6CYG6",
@@ -6429,6 +6429,11 @@
             "firmware": "A356USQUADZE9/A356UOYNADZE9/A356USQUADZE9",
             "md5": "a45ecb77f39bdcab5f066fec2b3a6c7b",
             "found_at": "2026-05-14T19:50:57.655240860+00:00"
+          },
+          {
+            "firmware": "A356USQSBDZF1/A356UOYNBDZF1/A356USQSBDZF1",
+            "md5": "15a3e837ef4bd02e93002f06c8e21b2c",
+            "found_at": "2026-06-30T11:05:18.528588996+00:00"
           }
         ]
       }
@@ -22463,7 +22468,7 @@
     "name": "Galaxy Z Fold7",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F966NKSSABZE1/F966NOKRABZE1/F966NKSSABZE1",
+        "latest_official": "F966NKSUABZF1/F966NOKRABZF1/F966NKSUABZE9",
         "test_firmwares": [
           {
             "firmware": "F966NKSS5AYI5/F966NOKR5AYI5/F966NKSS5AYI5",
@@ -22759,6 +22764,11 @@
             "firmware": "F966NKSUABZF1/F966NOKRABZF1/F966NKSUABZE9",
             "md5": "838eed29078da729326e675a51926d67",
             "found_at": "2026-06-01T17:48:29.162204667+00:00"
+          },
+          {
+            "firmware": "F966NKSSBBZG1/F966NOKRBBZG1/F966NKSSBBZG1",
+            "md5": "1105b49f912b1d911ad3328905e2ddeb",
+            "found_at": "2026-06-30T11:10:30.298809869+00:00"
           }
         ]
       }
@@ -23453,7 +23463,7 @@
     "name": "Galaxy Z TriFold",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F968NKSS5BZE1/F968NOKR5BZE1/F968NKSS5BZE1",
+        "latest_official": "F968NKSU5BZF1/F968NOKR5BZF1/F968NKSU5BZE9",
         "test_firmwares": [
           {
             "firmware": "F968NKSS2AZA1/F968NOKR2AZA1/F968NKSS2AZA1",
@@ -23619,6 +23629,11 @@
             "firmware": "F968NKSU5BZF1/F968NOKR5BZF1/F968NKSU5BZE9",
             "md5": "fca407e78563cbd9055d6e86f544f435",
             "found_at": "2026-06-01T17:48:34.505992066+00:00"
+          },
+          {
+            "firmware": "F968NKSS6BZG1/F968NOKR6BZG1/F968NKSS6BZG1",
+            "md5": "3561590a0fa7727ab846c43c23165799",
+            "found_at": "2026-06-30T11:10:49.235852666+00:00"
           }
         ]
       }

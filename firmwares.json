@@ -114,6 +114,11 @@
             "firmware": "A047FXXSFEZE2/A047FOXMFEZE2/A047FXXSFEZE1",
             "md5": "8673ad2a50569e8673b9eb6b98392ce9",
             "found_at": "2026-05-25T08:21:22.120239289+00:00"
+          },
+          {
+            "firmware": "A047FXXSFEZF2/A047FOXMFEZF2/A047FXXSFEZF2",
+            "md5": "a0da11d15274e694b16d4ac68eb6a4e0",
+            "found_at": "2026-06-30T03:37:03.866837282+00:00"
           }
         ]
       }

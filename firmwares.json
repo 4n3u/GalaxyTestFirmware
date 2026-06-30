@@ -6439,6 +6439,11 @@
             "firmware": "A356USQSBDZF1/A356UOYNBDZF1/A356USQSBDZF1",
             "md5": "15a3e837ef4bd02e93002f06c8e21b2c",
             "found_at": "2026-06-30T11:05:18.528588996+00:00"
+          },
+          {
+            "firmware": "A356USQSBDZF2/A356UOYNBDZF2/A356USQSBDZF2",
+            "md5": "237eb31df1eae5966162702501bc1d40",
+            "found_at": "2026-06-30T17:59:06.147535092+00:00"
           }
         ]
       }
@@ -6448,7 +6453,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A356U1UESACZD5/A356U1OYMACZD5/A356U1UESACZD5",
+        "latest_official": "A356U1UEUADZE8/A356U1OYMADZE8/A356U1UEUADZE8",
         "test_firmwares": [
           {
             "firmware": "A356U1UEU6CYG7/A356U1OYM6CYG7/A356U1UEU6CYG7",
@@ -6624,6 +6629,11 @@
             "firmware": "A356U1UEUADZE8/A356U1OYMADZE8/A356U1UEUADZE8",
             "md5": "0edb0c7105cdcaa2384eaa6f4ae57a56",
             "found_at": "2026-05-13T18:09:44.974910127+00:00"
+          },
+          {
+            "firmware": "A356U1UESBDZF1/A356U1OYMBDZF1/A356U1UESBDZF1",
+            "md5": "84af696c3b75ea105332c50aa1610510",
+            "found_at": "2026-06-30T17:59:08.113609994+00:00"
           }
         ]
       }

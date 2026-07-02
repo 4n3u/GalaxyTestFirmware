@@ -8183,7 +8183,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A536USQSMGZE1/A536UOYNMGZE1/A536USQSMGZE1",
+        "latest_official": "A536USQSMGZF1/A536UOYNMGZF1/A536USQSMGZF1",
         "test_firmwares": [
           {
             "firmware": "A536USQSIGYK1/A536UOYNIGYK1/A536USQSIGYK1",
@@ -8294,6 +8294,11 @@
             "firmware": "A536USQSMGZF1/A536UOYNMGZF1/A536USQSMGZF1",
             "md5": "97c6e632c98d7f16c872e744df313b3a",
             "found_at": "2026-06-08T14:20:15.651861781+00:00"
+          },
+          {
+            "firmware": "A536USQUNGZG1/A536UOYNNGZG1/A536USQUNGZG1",
+            "md5": "7b2457699ed4449f546a00f00f0f4b70",
+            "found_at": "2026-07-02T10:52:12.935037735+00:00"
           }
         ]
       }
@@ -15409,6 +15414,11 @@
             "firmware": "F761BXXSBBZG1/F761BOXMBBZG1/F761BXXSBBZG1",
             "md5": "0355a24fefedbd4b7d87d09e1f66e51e",
             "found_at": "2026-07-01T08:18:13.921108946+00:00"
+          },
+          {
+            "firmware": "F761BXXSBBZG3/F761BOXMBBZG3/F761BXXSBBZG3",
+            "md5": "da8f31098156e8ea2f245eb23e206d53",
+            "found_at": "2026-07-02T10:52:15.007384886+00:00"
           }
         ]
       }
@@ -24834,6 +24844,11 @@
             "firmware": "G766BXXS9CZG1/G766BOXM9CZG1/G766BXXS9CZG1",
             "md5": "fb24a3faf6d3fabac11a9708131a499e",
             "found_at": "2026-07-01T12:49:25.437097881+00:00"
+          },
+          {
+            "firmware": "G766BXXS9CZG2/G766BOXM9CZG2/G766BXXS9CZG2",
+            "md5": "f14190f2f9ba110ded27e9e96aeb77c6",
+            "found_at": "2026-07-02T10:49:40.196312796+00:00"
           }
         ]
       }

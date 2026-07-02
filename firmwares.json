@@ -28358,7 +28358,7 @@
     "name": "Galaxy S23 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S711BXXSFGZE2/S711BOXMFGZE2/S711BXXSFGZE2",
+        "latest_official": "S711BXXSGGZF2/S711BOXMGGZF2/S711BXXSGGZF2",
         "test_firmwares": [
           {
             "firmware": "S711BXXSBFYJ1/S711BOXMBFYJ1/S711BXXSBFYJ1",
@@ -28559,6 +28559,11 @@
             "firmware": "S711BXXSGGZF2/S711BOXMGGZF2/S711BXXSGGZF2",
             "md5": "ac934124a4c61520a7c743b93b6d629d",
             "found_at": "2026-06-10T13:04:58.148739599+00:00"
+          },
+          {
+            "firmware": "S711BXXSHGZG1/S711BOXMHGZG1/S711BXXSHGZG1",
+            "md5": "99eb8880d57a664adcf79abcc4041f3c",
+            "found_at": "2026-07-02T16:15:04.049655136+00:00"
           }
         ]
       }

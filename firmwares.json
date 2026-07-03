@@ -24408,7 +24408,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G736USQSEGZE1/G736UOYNEGZE1/G736USQSEGZE1",
+        "latest_official": "G736USQSEGZF3/G736UOYNEGZF3/G736USQSEGZF3",
         "test_firmwares": [
           {
             "firmware": "G736USQSEGZE1/G736UOYNEGZE1/G736USQSEGZE1",
@@ -24429,6 +24429,11 @@
             "firmware": "G736USQSEGZF3/G736UOYNEGZF3/G736USQSEGZF3",
             "md5": "d0712da5876e83e205a45b18d5ff5de5",
             "found_at": "2026-06-25T18:19:13.690498555+00:00"
+          },
+          {
+            "firmware": "G736USQSEGZG1/G736UOYNEGZG1/G736USQSEGZG1",
+            "md5": "dee26724c3aba8e7c26da41f5c0ac9b1",
+            "found_at": "2026-07-03T07:21:53.609021082+00:00"
           }
         ]
       }
@@ -24873,7 +24878,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G766USQU7CZE7/G766UOYN7CZE7/G766USQU7CZE7",
+        "latest_official": "G766USQS8CZF1/G766UOYN8CZF1/G766USQS8CZF1",
         "test_firmwares": [
           {
             "firmware": "G766USQS3AYI1/G766UOYN3AYI1/G766USQS3AYI1",
@@ -25089,6 +25094,11 @@
             "firmware": "G766USQS8CZF1/G766UOYN8CZF1/G766USQS8CZF1",
             "md5": "cf8927570b7bfafe0bfc37398ecc98e3",
             "found_at": "2026-06-15T12:25:16.524636438+00:00"
+          },
+          {
+            "firmware": "G766USQS9CZG1/G766UOYN9CZG1/G766USQS9CZG1",
+            "md5": "03f594d4a9ec8a08c5778b6d46577d9c",
+            "found_at": "2026-07-03T07:22:09.993548053+00:00"
           }
         ]
       }
@@ -29984,6 +29994,11 @@
             "firmware": "S721NKSSDDZG1/S721NOKRDDZG1/S721NKSSDDZG1",
             "md5": "6a760a268d11c1f306f7d43e961633b7",
             "found_at": "2026-07-03T03:02:33.707072592+00:00"
+          },
+          {
+            "firmware": "S721NKSSDDZG3/S721NOKRDDZG3/S721NKSSDDZG1",
+            "md5": "b43ae05a7fd34863214c0dac8a273989",
+            "found_at": "2026-07-03T07:28:37.195782039+00:00"
           }
         ]
       }

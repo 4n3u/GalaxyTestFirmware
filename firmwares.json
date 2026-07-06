@@ -8819,6 +8819,11 @@
             "firmware": "A546BXXSLFZG1/A546BOXMLFZG1/A546BXXSLFZG1",
             "md5": "f3b6b6cdd63089a83932060b6e7721e6",
             "found_at": "2026-07-03T10:40:28.295690730+00:00"
+          },
+          {
+            "firmware": "A546BXXSLFZG3/A546BOXMLFZG3/A546BXXSLFZG1",
+            "md5": "cd7daf5db9fc5e8aeebaf938a1c9255c",
+            "found_at": "2026-07-06T08:26:53.448644910+00:00"
           }
         ]
       }
@@ -10278,7 +10283,7 @@
     "name": "Galaxy A57 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A576BXXS2AZE2/A576BOXM2AZE2/A576BXXS2AZE2",
+        "latest_official": "A576BXXS3AZF4/A576BOXM3AZF4/A576BXXS3AZF4",
         "test_firmwares": [
           {
             "firmware": "A576BXXU1AZA2/A576BOXM1AZA2/A576BXXU1AZA2",
@@ -10424,6 +10429,11 @@
             "firmware": "A576BXXS3AZF4/A576BOXM3AZF4/A576BXXS3AZF4",
             "md5": "7822e3521456b94fbb41e706dc533677",
             "found_at": "2026-06-09T11:27:35.695831707+00:00"
+          },
+          {
+            "firmware": "A576BXXS4AZG1/A576BOXM4AZG1/A576BXXS4AZG1",
+            "md5": "147fbbff1dcef6e4254c3f23e520b9e2",
+            "found_at": "2026-07-06T08:27:29.598681317+00:00"
           }
         ]
       }
@@ -23993,7 +24003,7 @@
     "name": "Galaxy XCover7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G556BXXUFEZEB/G556BOXMFEZEB/G556BXXUFEZEB",
+        "latest_official": "G556BXXSGEZF1/G556BOXMGEZF1/G556BXXSGEZF1",
         "test_firmwares": [
           {
             "firmware": "G556BXXSBDYJ1/G556BOXMBDYJ1/G556BXXSBDYJ1",
@@ -24229,6 +24239,11 @@
             "firmware": "G556BXXSGEZF1/G556BOXMGEZF1/G556BXXSGEZF1",
             "md5": "ed59ba8112361e75a92917dffb329db8",
             "found_at": "2026-06-12T08:36:48.144157263+00:00"
+          },
+          {
+            "firmware": "G556BXXSHEZG1/G556BOXMHEZG1/G556BXXSHEZG1",
+            "md5": "adafa6e3b4a56f90f782c91fbe58e812",
+            "found_at": "2026-07-06T08:30:54.138400078+00:00"
           }
         ]
       }
@@ -40413,7 +40428,7 @@
     "name": "Galaxy S24",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S921USQS6DZE2/S921UOYN6DZE2/S921USQS6DZE2",
+        "latest_official": "S921USQS6DZF2/S921UOYN6DZF2/S921USQS6DZF2",
         "test_firmwares": [
           {
             "firmware": "S921USQS4CYIB/S921UOYN4CYIB/S921USQS4CYIB",
@@ -40664,6 +40679,11 @@
             "firmware": "S921USQS6DZF2/S921UOYN6DZF2/S921USQS6DZF2",
             "md5": "fa678220e0366c2381cc90e5b56cb036",
             "found_at": "2026-06-10T08:13:40.670112412+00:00"
+          },
+          {
+            "firmware": "S921USQS6DZG1/S921UOYN6DZG1/S921USQS6DZG1",
+            "md5": "fbf42ce7c4f2d14e66ec001c93c281f6",
+            "found_at": "2026-07-06T08:27:37.279863298+00:00"
           }
         ]
       }
@@ -54284,6 +54304,11 @@
             "firmware": "S942NKSS4AZG3/S942NOKR4AZG3/S942NKSS4AZG1",
             "md5": "169bfbd3bb7a937272727ac1de24f790",
             "found_at": "2026-07-02T03:38:42.612646146+00:00"
+          },
+          {
+            "firmware": "S942NKSS4AZG5/S942NOKR4AZG5/S942NKSS4AZG1",
+            "md5": "eb96986b19845c05d6a494494ab381cc",
+            "found_at": "2026-07-06T08:30:14.639483694+00:00"
           }
         ]
       }

@@ -11809,6 +11809,11 @@
             "firmware": "F721NKSS8IZG1/F721NOKR8IZG1/F721NKSS8IZE2",
             "md5": "d305816882c3145abb2751fd33f905c2",
             "found_at": "2026-07-08T02:48:31.471275032+00:00"
+          },
+          {
+            "firmware": "F721NKSS8IZG2/F721NOKR8IZG2/F721NKSS8IZE2",
+            "md5": "7ec42f70fdd35fdea16b3188a9b1ae67",
+            "found_at": "2026-07-09T07:43:37.752330815+00:00"
           }
         ]
       }
@@ -13079,6 +13084,11 @@
             "firmware": "F731NKSS6GZF2/F731NOKR6GZF2/F731NKSU6GZDQ",
             "md5": "d627d648b6817346d371597f91832d80",
             "found_at": "2026-06-25T03:34:50.481896936+00:00"
+          },
+          {
+            "firmware": "F731NKSS6GZG3/F731NOKR6GZG3/F731NKSU6GZDQ",
+            "md5": "da1915836c2c499bf8c6b11f86517591",
+            "found_at": "2026-07-09T07:43:53.539496310+00:00"
           }
         ]
       }
@@ -18679,6 +18689,11 @@
             "firmware": "F936NKSS8IZG1/F936NOKR8IZG1/F936NKSS8IZE1",
             "md5": "5bcdb5b3e5db2a27b2b048c89512d151",
             "found_at": "2026-07-08T02:48:17.129206105+00:00"
+          },
+          {
+            "firmware": "F936NKSS8IZG2/F936NOKR8IZG2/F936NKSS8IZE1",
+            "md5": "bedd280e4e59a05399916d101825eb94",
+            "found_at": "2026-07-09T07:45:23.868489488+00:00"
           }
         ]
       }
@@ -19929,6 +19944,11 @@
             "firmware": "F946NKSS6GZF2/F946NOKR6GZF2/F946NKSU6GZDN",
             "md5": "233a9f78f430ace02af6bdaa5e0acbf6",
             "found_at": "2026-06-25T03:36:43.542182512+00:00"
+          },
+          {
+            "firmware": "F946NKSS6GZG3/F946NOKR6GZG3/F946NKSU6GZDN",
+            "md5": "463788ec49654e572b2fb0220c83ba86",
+            "found_at": "2026-07-09T07:45:37.500178363+00:00"
           }
         ]
       }

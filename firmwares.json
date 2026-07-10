@@ -6823,7 +6823,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A366BXXSACZE3/A366BOXMACZE3/A366BXXSACZE3",
+        "latest_official": "A366BXXSACZF1/A366BOXMACZF1/A366BXXSACZF1",
         "test_firmwares": [
           {
             "firmware": "A366BXXU4BYG1/A366BOXM4BYG1/A366BXXU4BYG1",
@@ -7054,6 +7054,11 @@
             "firmware": "A366BXXSACZF1/A366BOXMACZF1/A366BXXSACZF1",
             "md5": "9380c39ec133c985803a701db03b3c7c",
             "found_at": "2026-06-18T17:06:24.801161003+00:00"
+          },
+          {
+            "firmware": "A366BXXSBCZG1/A366BOXMBCZG1/A366BXXSBCZG1",
+            "md5": "5cc8e04f2aec90d6bfdeeea902299209",
+            "found_at": "2026-07-10T14:26:03.193696461+00:00"
           }
         ]
       }

@@ -7308,7 +7308,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A366U1UES8CZE3/A366U1OYM8CZE3/A366U1UES8CZE3",
+        "latest_official": "A366U1UES8CZF1/A366U1OYM8CZF1/A366U1UES8CZF1",
         "test_firmwares": [
           {
             "firmware": "A366U1UEU3BYG3/A366U1OYM3BYG3/A366U1UEU3BYG3",
@@ -7509,6 +7509,11 @@
             "firmware": "A366U1UES8CZF1/A366U1OYM8CZF1/A366U1UES8CZF1",
             "md5": "459a6ec3ec2ce6b85aa72abc8f0fb0fc",
             "found_at": "2026-06-19T18:04:22.437224049+00:00"
+          },
+          {
+            "firmware": "A366U1UES9CZG2/A366U1OYM9CZG2/A366U1UES9CZG2",
+            "md5": "6e7c877951a68e51b0bb937a029101b7",
+            "found_at": "2026-07-13T14:33:40.057235467+00:00"
           }
         ]
       }
@@ -7518,7 +7523,7 @@
     "name": "Galaxy A37 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A376BXXS2AZE2/A376BOXM2AZE2/A376BXXS2AZE2",
+        "latest_official": "A376BXXS3AZF5/A376BOXM3AZF5/A376BXXS3AZF5",
         "test_firmwares": [
           {
             "firmware": "A376BXXS2AZC1/A376BOXM2AZC1/A376BXXS2AZC1",
@@ -7574,6 +7579,11 @@
             "firmware": "A376BXXS3AZF5/A376BOXM3AZF5/A376BXXS3AZF5",
             "md5": "d3d1274bf533e09a75c621c4df20da27",
             "found_at": "2026-06-15T04:22:28.169317487+00:00"
+          },
+          {
+            "firmware": "A376BXXS4AZG4/A376BOXM4AZG4/A376BXXS4AZG4",
+            "md5": "be8fd955a0afbf5c74ffa9b95994f5ed",
+            "found_at": "2026-07-13T14:33:49.379625767+00:00"
           }
         ]
       }
@@ -13473,7 +13483,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7410ZCS4DZE1/F7410CHC4DZE1/F7410ZCS4DZE1",
+        "latest_official": "F7410ZCS4DZF2/F7410CHC4DZF2/F7410ZCS4DZF2",
         "test_firmwares": [
           {
             "firmware": "F7410ZCS2CYIB/F7410CHC2CYIB/F7410ZCS2CYIB",
@@ -13659,6 +13669,11 @@
             "firmware": "F7410ZCS4DZF2/F7410CHC4DZF2/F7410ZCS4DZF2",
             "md5": "1ea14570ee8990c88674851fa0b56d6d",
             "found_at": "2026-06-15T12:23:37.132989003+00:00"
+          },
+          {
+            "firmware": "F7410ZCS4DZG3/F7410CHC4DZG3/F7410ZCS4DZG3",
+            "md5": "f634fe12a5a334eb7f9b00b2a1c288f5",
+            "found_at": "2026-07-13T14:42:51.668013777+00:00"
           }
         ]
       }
@@ -24629,6 +24644,11 @@
             "firmware": "G736BXXSCGZG1/G736BOXMCGZG1/G736BXXSCGZG1",
             "md5": "d5862cbd08365a0973fa66d0d28abc93",
             "found_at": "2026-07-02T07:40:38.017894087+00:00"
+          },
+          {
+            "firmware": "G736BXXSCGZG2/G736BOXMCGZG2/G736BXXSCGZG2",
+            "md5": "2a9ba4d41d7d4814a4d3ec48f35c9218",
+            "found_at": "2026-07-13T14:43:29.325990623+00:00"
           }
         ]
       }
@@ -24664,6 +24684,11 @@
             "firmware": "G736USQSEGZG1/G736UOYNEGZG1/G736USQSEGZG1",
             "md5": "dee26724c3aba8e7c26da41f5c0ac9b1",
             "found_at": "2026-07-03T07:21:53.609021082+00:00"
+          },
+          {
+            "firmware": "G736USQSEGZG2/G736UOYNEGZG2/G736USQSEGZG2",
+            "md5": "76274e9551b75fa44f8e842a3720be2e",
+            "found_at": "2026-07-13T14:43:32.433258959+00:00"
           }
         ]
       }
@@ -24864,6 +24889,11 @@
             "firmware": "G736U1UESCGZG1/G736U1OYMCGZG1/G736U1UESCGZG1",
             "md5": "943d94f83f15cd143033e147fa0c54ab",
             "found_at": "2026-07-06T13:53:44.175049066+00:00"
+          },
+          {
+            "firmware": "G736U1UESCGZG2/G736U1OYMCGZG2/G736U1UESCGZG2",
+            "md5": "15a6cd1f158d4a62fc5eb24d684390e0",
+            "found_at": "2026-07-13T14:43:34.227220678+00:00"
           }
         ]
       }

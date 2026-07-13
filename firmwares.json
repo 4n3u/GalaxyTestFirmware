@@ -10203,7 +10203,7 @@
     "name": "Galaxy A57 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5760ZCS2AZE2/A5760CHC2AZE2/A5760ZCS2AZE2",
+        "latest_official": "A5760ZCS3AZF4/A5760CHC3AZF4/A5760ZCS3AZF4",
         "test_firmwares": [
           {
             "firmware": "A5760ZCU1AZA3/A5760CHC1AZA3/A5760ZCU1AZA3",
@@ -10319,6 +10319,11 @@
             "firmware": "A5760ZCS3AZF4/A5760CHC3AZF4/A5760ZCS3AZF4",
             "md5": "2e218c2107cc00c7ab45be7fe89eab18",
             "found_at": "2026-06-15T12:25:14.514749367+00:00"
+          },
+          {
+            "firmware": "A5760ZCS4AZG3/A5760CHC4AZG3/A5760ZCS4AZG3",
+            "md5": "a1e8b5a80e88edba0d80f1a945539e85",
+            "found_at": "2026-07-13T07:05:10.521964469+00:00"
           }
         ]
       }
@@ -13114,6 +13119,11 @@
             "firmware": "F731NKSS6GZG3/F731NOKR6GZG3/F731NKSU6GZDQ",
             "md5": "da1915836c2c499bf8c6b11f86517591",
             "found_at": "2026-07-09T07:43:53.539496310+00:00"
+          },
+          {
+            "firmware": "F731NKSS6GZG4/F731NOKR6GZG4/F731NKSU6GZDQ",
+            "md5": "b8bed6170918f38a46a2082c1e1237d1",
+            "found_at": "2026-07-13T07:03:27.087049046+00:00"
           }
         ]
       }

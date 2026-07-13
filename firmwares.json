@@ -24389,6 +24389,11 @@
             "firmware": "G556BXXSHEZG2/G556BOXMHEZG2/G556BXXSHEZG1",
             "md5": "f01081821876929d3c2c8f57ed6d5777",
             "found_at": "2026-07-06T13:53:48.110799067+00:00"
+          },
+          {
+            "firmware": "G556BXXUHEZGA/G556BOXMHEZGA/G556BXXUHEZGA",
+            "md5": "1a19eac46f20bd8936fd498ea241a046",
+            "found_at": "2026-07-13T02:52:11.559381571+00:00"
           }
         ]
       }

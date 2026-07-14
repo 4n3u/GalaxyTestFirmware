@@ -11148,7 +11148,7 @@
     "name": "Galaxy Z Flip4",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F7210ZCSAIZE2/F7210CHCAIZE2/F7210ZCSAIZE2",
+        "latest_official": "F7210ZCSAIZF1/F7210ZACAIZF1/F7210ZCSAIZF1",
         "test_firmwares": [
           {
             "firmware": "F7210ZCS8HYE2/F7210CHC8HYE2/F7210ZCS8HYE2",
@@ -11399,6 +11399,11 @@
             "firmware": "F7210ZCSAIZF1/F7210CHCAIZF1/F7210ZCSAIZF1",
             "md5": "4ffe466e2dc457057afa615f44c2d859",
             "found_at": "2026-06-16T11:23:21.276864111+00:00"
+          },
+          {
+            "firmware": "F7210ZCSAIZG1/F7210CHCAIZG1/F7210ZCSAIZG1",
+            "md5": "03e6c933ada123fee1971342584487ad",
+            "found_at": "2026-07-14T13:52:23.191426371+00:00"
           }
         ]
       }
@@ -57078,7 +57083,7 @@
     "name": "心系天下 三星 W23 Flip",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W7023ZCSAIZE2/W7023CHCAIZE2/W7023ZCSAIZE2",
+        "latest_official": "W7023ZCSAIZF1/W7023CHCAIZF1/W7023ZCSAIZF1",
         "test_firmwares": [
           {
             "firmware": "W7023ZCS8HYE2/W7023CHC8HYE2/W7023ZCS8HYE2",
@@ -57324,6 +57329,11 @@
             "firmware": "W7023ZCSAIZF1/W7023CHCAIZF1/W7023ZCSAIZF1",
             "md5": "8ea130552102a6647c6e140f1cfd1eec",
             "found_at": "2026-06-16T11:26:19.727142787+00:00"
+          },
+          {
+            "firmware": "W7023ZCSAIZG1/W7023CHCAIZG1/W7023ZCSAIZG1",
+            "md5": "833ae288265291178e8e83c07f13e0b0",
+            "found_at": "2026-07-14T13:54:54.175383894+00:00"
           }
         ]
       }
@@ -65608,7 +65618,7 @@
     "name": "Galaxy Tab S10+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X828USQU7DZE3/X828UOYN7DZE3/X828USQU7DZE3",
+        "latest_official": "X828USQS8DZF2/X828UOYN8DZF2/X828USQS8DZF2",
         "test_firmwares": [
           {
             "firmware": "X828USQU4CYG3/X828UOYN4CYG3/X828USQU4CYG3",
@@ -65829,6 +65839,11 @@
             "firmware": "X828USQS8DZF2/X828UOYN8DZF2/X828USQS8DZF2",
             "md5": "87b0b1cfa6032fe045cd69ed45eb6ad1",
             "found_at": "2026-06-18T12:57:24.224943464+00:00"
+          },
+          {
+            "firmware": "X828USQS9DZG3/X828UOYN9DZG3/X828USQS9DZG3",
+            "md5": "3f7252bea8636095c09afffc918165bb",
+            "found_at": "2026-07-14T13:45:44.630566742+00:00"
           }
         ]
       }

@@ -4519,6 +4519,11 @@
             "firmware": "A245NKSSAFZG3/A245NOKRAFZG3/A245NKSSAFZG3",
             "md5": "7c21ecf7d5aa616c18b9be24bf543c58",
             "found_at": "2026-07-13T11:17:17.841545205+00:00"
+          },
+          {
+            "firmware": "A245NKSSAFZG4/A245NOKRAFZG4/A245NKSSAFZG4",
+            "md5": "710435724210f0fe7ac7a725f4cf0c2e",
+            "found_at": "2026-07-14T02:31:36.783891046+00:00"
           }
         ]
       }
@@ -58863,7 +58868,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X236BXXU4BZEA/X236BOXM4BZEA/X236BXXU4BZEA",
+        "latest_official": "X236BXXS5BZF2/X236BOXM5BZF2/X236BXXS5BZF2",
         "test_firmwares": [
           {
             "firmware": "X236BXXU2AZA4/X236BOXM2AZA4/X236BXXU2AZA4",
@@ -59014,6 +59019,11 @@
             "firmware": "X236BXXS5BZF2/X236BOXM5BZF2/X236BXXS5BZF2",
             "md5": "518a6e798f6260884df871ea2e6e8e72",
             "found_at": "2026-06-18T03:58:30.576875317+00:00"
+          },
+          {
+            "firmware": "X236BXXS6BZG1/X236BOXM6BZG1/X236BXXS6BZG1",
+            "md5": "b7c65703a941c178e81107d723ba79fc",
+            "found_at": "2026-07-14T02:28:11.637860206+00:00"
           }
         ]
       }

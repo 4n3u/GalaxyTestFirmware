@@ -2234,6 +2234,11 @@
             "firmware": "A165FXXSADZG3/A165FOXMADZG3/A165FXXSADZF3",
             "md5": "f18aecaa49b04846e933277b6c36d786",
             "found_at": "2026-07-15T13:45:37.436769018+00:00"
+          },
+          {
+            "firmware": "A165FXXSADZF2/A165FOXMADZF2/A165FXXSADZF3",
+            "md5": "0c97a56644db14e47184060dc9c7db1e",
+            "found_at": "2026-07-15T15:29:22.930016709+00:00"
           }
         ]
       }
@@ -62148,7 +62153,7 @@
     "name": "Galaxy Tab S10 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X528USQU9CZE9/X528UOYN9CZE9/X528USQU9CZE9",
+        "latest_official": "X528USQSACZF3/X528UOYNACZF3/X528USQSACZF3",
         "test_firmwares": [
           {
             "firmware": "X528USQU6BYI4/X528UOYN6BYI4/X528USQU6BYI4",
@@ -62319,6 +62324,11 @@
             "firmware": "X528USQSACZF3/X528UOYNACZF3/X528USQSACZF3",
             "md5": "03766a4c933e74384cd8c6f1dd7d72cc",
             "found_at": "2026-06-18T12:56:29.087393076+00:00"
+          },
+          {
+            "firmware": "X528USQSBCZG3/X528UOYNBCZG3/X528USQSBCZG3",
+            "md5": "908931de04762cf6e53226fae6d4efc5",
+            "found_at": "2026-07-15T15:29:11.610740705+00:00"
           }
         ]
       }

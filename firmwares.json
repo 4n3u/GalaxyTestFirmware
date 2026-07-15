@@ -18073,7 +18073,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9360ZCSAIZE2/F9360CHCAIZE2/F9360ZCSAIZE2",
+        "latest_official": "F9360ZCSAIZF1/F9360CHCAIZF1/F9360ZCSAIZF1",
         "test_firmwares": [
           {
             "firmware": "F9360ZCS8HYE2/F9360CHC8HYE2/F9360ZCS8HYE2",
@@ -18324,6 +18324,11 @@
             "firmware": "F9360ZCSAIZF1/F9360CHCAIZF1/F9360ZCSAIZF1",
             "md5": "8953a5f23f257320e4e7e07ae59a3fb0",
             "found_at": "2026-06-16T16:58:13.272628259+00:00"
+          },
+          {
+            "firmware": "F9360ZCSAIZG1/F9360CHCAIZG1/F9360ZCSAIZG1",
+            "md5": "41d0718aa07f31822850fc4f91e2a629",
+            "found_at": "2026-07-15T10:06:50.474731473+00:00"
           }
         ]
       }
@@ -24529,6 +24534,11 @@
             "firmware": "G556BXXUHEZGA/G556BOXMHEZGA/G556BXXUHEZGA",
             "md5": "1a19eac46f20bd8936fd498ea241a046",
             "found_at": "2026-07-13T02:52:11.559381571+00:00"
+          },
+          {
+            "firmware": "G556BXXUHEZGB/G556BOXMHEZGB/G556BXXUHEZGA",
+            "md5": "64d1d1e47a02382e044297b2b479a55f",
+            "found_at": "2026-07-15T10:03:50.697798110+00:00"
           }
         ]
       }
@@ -27023,7 +27033,7 @@
     "name": "Galaxy M15 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "M156BXXUADZE7/M156BOXMADZE7/M156BXXUADZE7",
+        "latest_official": "M156BXXSADZF2/M156BOXMADZF2/M156BXXSADZF2",
         "test_firmwares": [
           {
             "firmware": "M156BXXS7BYH1/M156BOXM7BYH1/M156BXXS7BYH1",
@@ -27199,6 +27209,11 @@
             "firmware": "M156BXXSADZF2/M156BOXMADZF2/M156BXXSADZF2",
             "md5": "f8dd2c7806fd1ca9b170c4b469100db9",
             "found_at": "2026-06-22T11:54:16.767622377+00:00"
+          },
+          {
+            "firmware": "M156BXXSBDZG5/M156BOXMBDZG5/M156BXXSBDZG5",
+            "md5": "b840b2d628dc97a3ada8960992c86580",
+            "found_at": "2026-07-15T10:02:46.406039036+00:00"
           }
         ]
       }
@@ -57363,7 +57378,7 @@
     "name": "心系天下 三星 W23",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "W9023ZCSAIZE2/W9023CHCAIZE2/W9023ZCSAIZE2",
+        "latest_official": "W9023ZCSAIZF1/W9023CHCAIZF1/W9023ZCSAIZF1",
         "test_firmwares": [
           {
             "firmware": "W9023ZCS8HYE2/W9023CHC8HYE2/W9023ZCS8HYE2",
@@ -57624,6 +57639,11 @@
             "firmware": "W9023ZCSAIZF1/W9023CHCAIZF1/W9023ZCSAIZF1",
             "md5": "49777b7ed77534fc9bb3f654c4214e17",
             "found_at": "2026-06-16T17:00:41.098611658+00:00"
+          },
+          {
+            "firmware": "W9023ZCSAIZG1/W9023CHCAIZG1/W9023ZCSAIZG1",
+            "md5": "b7dfc7f106872ac03445c555f30e159a",
+            "found_at": "2026-07-15T10:08:30.201798516+00:00"
           }
         ]
       }
@@ -59788,7 +59808,7 @@
     "name": "Galaxy Tab Active5 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X308UUEUBDZF1/X308UOYMBDZF1/X308UUEUBDZF1",
+        "latest_official": "X308UUESCDZF3/X308UOYMCDZF3/X308UUESCDZF3",
         "test_firmwares": [
           {
             "firmware": "X308UUES7BYI1/X308UOYM7BYI1/X308UUES7BYI1",
@@ -59979,6 +59999,11 @@
             "firmware": "X308UUESCDZF3/X308UOYMCDZF3/X308UUESCDZF3",
             "md5": "79013117545e05931993a555e1733913",
             "found_at": "2026-06-19T10:29:04.413368676+00:00"
+          },
+          {
+            "firmware": "X308UUESDDZG1/X308UOYMDDZG1/X308UUESDDZG1",
+            "md5": "4e69eeeb465779b0c38ce2854bece40e",
+            "found_at": "2026-07-15T10:04:50.581728078+00:00"
           }
         ]
       }
@@ -62263,7 +62288,7 @@
     "name": "Galaxy Tab S9 FE+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X616BXXUCEZE6/X616BOXMCEZE6/X616BXXUCEZE6",
+        "latest_official": "X616BXXSDEZF1/X616BOXMDEZF1/X616BXXSDEZF1",
         "test_firmwares": [
           {
             "firmware": "X616BXXS8CYF1/X616BOXM8CYF1/X616BXXS8CYF1",
@@ -62509,6 +62534,11 @@
             "firmware": "X616BXXSDEZF1/X616BOXMDEZF1/X616BXXSDEZF1",
             "md5": "7458fe3e5936f5e03f848b380c63fee6",
             "found_at": "2026-06-19T10:31:58.165977696+00:00"
+          },
+          {
+            "firmware": "X616BXXSEEZG3/X616BOXMEEZG3/X616BXXSEEZG3",
+            "md5": "7301a7fd32e56e85abf7da3b6f172c29",
+            "found_at": "2026-07-15T10:07:06.995725527+00:00"
           }
         ]
       }

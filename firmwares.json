@@ -1578,7 +1578,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A156USQUBEZE9/A156UOYNBEZE9/A156USQUBEZE9",
+        "latest_official": "A156USQSBEZF6/A156UOYNBEZF6/A156USQSBEZF6",
         "test_firmwares": [
           {
             "firmware": "A156USQU7DYF2/A156UOYN7DYF2/A156USQU7DYF2",
@@ -1809,6 +1809,11 @@
             "firmware": "A156USQSBEZF6/A156UOYNBEZF6/A156USQSBEZF6",
             "md5": "98fab2ea8f06ce77d2178dd7aa9f57f4",
             "found_at": "2026-06-22T11:57:45.853183128+00:00"
+          },
+          {
+            "firmware": "A156USQSCEZG1/A156UOYNCEZG1/A156USQSCEZG1",
+            "md5": "09d62aa9678ab1e4654e4ea5d4d2eae4",
+            "found_at": "2026-07-15T13:45:27.698569007+00:00"
           }
         ]
       }
@@ -2028,7 +2033,7 @@
     "name": "Galaxy A16",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A165FXXS9CZE4/A165FOXM9CZE4/A165FXXS9CZE3",
+        "latest_official": "A165FXXSADZF2/A165FOXMADZF2/A165FXXSADZF3",
         "test_firmwares": [
           {
             "firmware": "A165FXXS5BYJ1/A165FOXM5BYJ1/A165FXXS5BYJ1",
@@ -2219,6 +2224,16 @@
             "firmware": "A165FXXSADZF2/A165FOXMADZF2/A165FXXSADZF2",
             "md5": "54140b8688caa51fa5f8e4b030447b5e",
             "found_at": "2026-06-15T12:16:13.953447595+00:00"
+          },
+          {
+            "firmware": "A165FXXSADZG3/A165FOXMADZG3/A165FXXSADZF2",
+            "md5": "49dfe7024bd1014d57bdae24a5c3e2d6",
+            "found_at": "2026-07-15T13:45:37.436654136+00:00"
+          },
+          {
+            "firmware": "A165FXXSADZG3/A165FOXMADZG3/A165FXXSADZF3",
+            "md5": "f18aecaa49b04846e933277b6c36d786",
+            "found_at": "2026-07-15T13:45:37.436769018+00:00"
           }
         ]
       }
@@ -8379,6 +8394,11 @@
             "firmware": "A536USQSNGZG3/A536UOYNNGZG3/A536USQSNGZG3",
             "md5": "5b87f889003bf275a56a95f96bcc51f0",
             "found_at": "2026-07-14T11:38:42.590139114+00:00"
+          },
+          {
+            "firmware": "A536USQUNGZG5/A536UOYNNGZG5/A536USQUNGZG5",
+            "md5": "0540eddc7651b010542bc1ff8f8eb5d2",
+            "found_at": "2026-07-15T13:53:34.889902251+00:00"
           }
         ]
       }
@@ -8524,6 +8544,11 @@
             "firmware": "A536U1UEUNGZG1/A536U1OYMNGZG1/A536U1UEUNGZG1",
             "md5": "36fa6380c30dec934a1c8ba1ea40ce9c",
             "found_at": "2026-07-02T14:04:01.871297194+00:00"
+          },
+          {
+            "firmware": "A536U1UESNGZG3/A536U1OYMNGZG3/A536U1UESNGZG3",
+            "md5": "4e4579588e97d3cb964def319e330212",
+            "found_at": "2026-07-15T13:53:37.250774224+00:00"
           }
         ]
       }
@@ -10399,6 +10424,11 @@
             "firmware": "A5760ZCS4AZG3/A5760CHC4AZG3/A5760ZCS4AZG3",
             "md5": "a1e8b5a80e88edba0d80f1a945539e85",
             "found_at": "2026-07-13T07:05:10.521964469+00:00"
+          },
+          {
+            "firmware": "A5760ZCS4AZG5/A5760CHC4AZG5/A5760ZCS4AZG5",
+            "md5": "b1428a8ffbb4d42f6b29668d20c4a912",
+            "found_at": "2026-07-15T13:54:20.458190712+00:00"
           }
         ]
       }
@@ -17504,6 +17534,11 @@
             "firmware": "F766USQSBBZG5/F766UOYNBBZG5/F766USQSBBZG5",
             "md5": "9c7d38dd5fd65fa3a64e270454bc4737",
             "found_at": "2026-07-14T10:08:51.970566326+00:00"
+          },
+          {
+            "firmware": "F766USQSBBZG6/F766UOYNBBZG6/F766USQSBBZG6",
+            "md5": "a7266c65f366e495f429ddd242ae715f",
+            "found_at": "2026-07-15T13:53:30.794377522+00:00"
           }
         ]
       }
@@ -60004,6 +60039,11 @@
             "firmware": "X308UUESDDZG1/X308UOYMDDZG1/X308UUESDDZG1",
             "md5": "4e69eeeb465779b0c38ce2854bece40e",
             "found_at": "2026-07-15T10:04:50.581728078+00:00"
+          },
+          {
+            "firmware": "X308UUESDDZG3/X308UOYMDDZG3/X308UUESDDZG3",
+            "md5": "8398c7bffdb8c3ad44fcd070af267049",
+            "found_at": "2026-07-15T13:44:56.199163978+00:00"
           }
         ]
       }

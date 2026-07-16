@@ -6718,7 +6718,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3660ZHS8CZE3/A3660OZS8CZE3/A3660ZHS8CZE3",
+        "latest_official": "A3660ZHS8CZF1/A3660OZS8CZF1/A3660ZHS8CZF1",
         "test_firmwares": [
           {
             "firmware": "A3660ZHU3BYG2/A3660OZS3BYG2/A3660ZHU3BYG2",
@@ -6869,6 +6869,11 @@
             "firmware": "A3660ZHS8CZF1/A3660OZS8CZF1/A3660ZHS8CZF1",
             "md5": "763d6985318986d84e93a141ea7f0322",
             "found_at": "2026-06-23T07:50:16.844561908+00:00"
+          },
+          {
+            "firmware": "A3660ZHS9CZG1/A3660OZS9CZG1/A3660ZHS9CZG1",
+            "md5": "d48eda249990f7cce10a93fee74a5f01",
+            "found_at": "2026-07-16T13:56:26.475503408+00:00"
           }
         ]
       }
@@ -24323,7 +24328,7 @@
     "name": "Galaxy XCover7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G556BXXSGEZF1/G556BOXMGEZF1/G556BXXSGEZF1",
+        "latest_official": "G556BXXSHEZG2/G556BOXMHEZG2/G556BXXSHEZG1",
         "test_firmwares": [
           {
             "firmware": "G556BXXSBDYJ1/G556BOXMBDYJ1/G556BXXSBDYJ1",
@@ -24579,6 +24584,11 @@
             "firmware": "G556BXXUHEZGB/G556BOXMHEZGB/G556BXXUHEZGA",
             "md5": "64d1d1e47a02382e044297b2b479a55f",
             "found_at": "2026-07-15T10:03:50.697798110+00:00"
+          },
+          {
+            "firmware": "G556BXXUHEZGC/G556BOXMHEZGC/G556BXXUHEZGA",
+            "md5": "2973460aba53f3610028c4aa7ccbf7ba",
+            "found_at": "2026-07-16T13:57:28.176985737+00:00"
           }
         ]
       }
@@ -58093,7 +58103,7 @@
     "name": "Galaxy Tab A11",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X135FXXU4BZE6/X135FOXM4BZE6/X135FXXU4BZE8",
+        "latest_official": "X135FXXS4BZF7/X135FOXM4BZF7/X135FXXS4BZF7",
         "test_firmwares": [
           {
             "firmware": "X135FXXU1BYI3/X135FOXM1BYI3/X135FXXU1BYI3",
@@ -58319,6 +58329,11 @@
             "firmware": "X135FXXS4BZF7/X135FOXM4BZF7/X135FXXS4BZF7",
             "md5": "b2c652e9517b1b158ec9a781a5822421",
             "found_at": "2026-06-19T15:16:46.742791098+00:00"
+          },
+          {
+            "firmware": "X135FXXS4BZG6/X135FOXM4BZG6/X135FXXS4BZG6",
+            "md5": "8813b15cc064f3e783f2f503fadb07d4",
+            "found_at": "2026-07-16T13:50:17.023858266+00:00"
           }
         ]
       }
@@ -58668,7 +58683,7 @@
     "name": "Galaxy Tab A9+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X216RXXU6CZE3/X216ROXM6CZE3/X216RXXU6CZE2",
+        "latest_official": "X216RXXS6CZF4/X216ROXM6CZF4/X216RXXS6CZF3",
         "test_firmwares": [
           {
             "firmware": "X216RXXS4AYI1/X216ROXM4AYI1/X216RXXS4AYI1",
@@ -58864,6 +58879,11 @@
             "firmware": "X216RXXS6CZF4/X216ROXM6CZF4/X216RXXS6CZF3",
             "md5": "9077a092426ff6923ac7c4e2576eab0f",
             "found_at": "2026-06-18T12:55:34.256445563+00:00"
+          },
+          {
+            "firmware": "X216RXXS7CZG4/X216ROXM7CZG4/X216RXXS7CZG4",
+            "md5": "ac6013c85d4b24959cb0d65b0f394bb1",
+            "found_at": "2026-07-16T13:51:13.421304415+00:00"
           }
         ]
       }
@@ -61243,7 +61263,7 @@
     "name": "Galaxy Tab S9 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X518USQUDEZE6/X518UOYNDEZE6/X518USQUDEZE6",
+        "latest_official": "X518USQSEEZF1/X518UOYNEEZF1/X518USQSEEZF1",
         "test_firmwares": [
           {
             "firmware": "X518USQSACYH2/X518UOYNACYH2/X518USQSACYH2",
@@ -61494,6 +61514,11 @@
             "firmware": "X518USQSEEZF1/X518UOYNEEZF1/X518USQSEEZF1",
             "md5": "eca6d763c66bbb195849a2b3543dfa5d",
             "found_at": "2026-06-18T17:02:37.321241972+00:00"
+          },
+          {
+            "firmware": "X518USQSFEZG3/X518UOYNFEZG3/X518USQSFEZG3",
+            "md5": "33b899fa3a0d7bcc00c8841214d06866",
+            "found_at": "2026-07-16T13:53:31.736198809+00:00"
           }
         ]
       }

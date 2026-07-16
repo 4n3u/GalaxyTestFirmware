@@ -1823,7 +1823,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A156U1UEUBEZEA/A156U1OYMBEZEA/A156U1UEUBEZEA",
+        "latest_official": "A156U1UESBEZF6/A156U1OYMBEZF6/A156U1UESBEZF6",
         "test_firmwares": [
           {
             "firmware": "A156U1UES7CYF1/A156U1OYM7CYF1/A156U1UES7CYF1",
@@ -2024,6 +2024,11 @@
             "firmware": "A156U1UESBEZF6/A156U1OYMBEZF6/A156U1UESBEZF6",
             "md5": "92c9650cb985142c20f0971502515739",
             "found_at": "2026-06-22T11:57:50.845312190+00:00"
+          },
+          {
+            "firmware": "A156U1UESCEZG1/A156U1OYMCEZG1/A156U1UESCEZG1",
+            "md5": "1699c75de76813d7af5f866de6372ea7",
+            "found_at": "2026-07-16T15:41:31.355737331+00:00"
           }
         ]
       }
@@ -8559,6 +8564,11 @@
             "firmware": "A536U1UESNGZG3/A536U1OYMNGZG3/A536U1UESNGZG3",
             "md5": "4e4579588e97d3cb964def319e330212",
             "found_at": "2026-07-15T13:53:37.250774224+00:00"
+          },
+          {
+            "firmware": "A536U1UEUNGZG5/A536U1OYMNGZG5/A536U1UEUNGZG5",
+            "md5": "baa7bccad116e49809ed05039a1f6287",
+            "found_at": "2026-07-16T15:49:06.584700880+00:00"
           }
         ]
       }

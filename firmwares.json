@@ -65363,7 +65363,7 @@
     "name": "Galaxy Tab S9+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X818USQU7EZE3/X818UOYN7EZE3/X818USQU7EZE3",
+        "latest_official": "X818USQS7EZF1/X818UOYN7EZF1/X818USQS7EZF1",
         "test_firmwares": [
           {
             "firmware": "X818USQS6CYF1/X818UOYN6CYF1/X818USQS6CYF1",
@@ -65559,6 +65559,11 @@
             "firmware": "X818USQS7EZF1/X818UOYN7EZF1/X818USQS7EZF1",
             "md5": "9eb34bf4b8d520a87c04af75b0885a5b",
             "found_at": "2026-06-18T12:59:42.927064454+00:00"
+          },
+          {
+            "firmware": "X818USQS7EZG3/X818UOYN7EZG3/X818USQS7EZG3",
+            "md5": "8c25fea30656e415099ddc582846201b",
+            "found_at": "2026-07-17T06:19:57.531133236+00:00"
           }
         ]
       }

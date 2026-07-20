@@ -56388,7 +56388,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S948BXXS3AZF1/S948BOXM3AZF1/S948BXXS3AZF1",
+        "latest_official": "S948BXXS4AZG5/S948BOXM4AZG5/S948BXXS4AZG5",
         "test_firmwares": [
           {
             "firmware": "S948BXXS1AZC7/S948BOXM1AZC7/S948BXXS1AZC7",
@@ -56544,6 +56544,11 @@
             "firmware": "S948BXXS4AZG5/S948BOXM4AZG5/S948BXXS4AZG5",
             "md5": "dbd2575a9b3dc5a5de7e71094125d850",
             "found_at": "2026-07-02T07:42:42.254414231+00:00"
+          },
+          {
+            "firmware": "S948BXXU4AZG7/S948BOXM4AZG7/S948BXXU4AZG7",
+            "md5": "2758b0c68d4c57ac6cad5b96b76b8092",
+            "found_at": "2026-07-20T18:07:27.080914812+00:00"
           }
         ]
       }
@@ -56709,6 +56714,11 @@
             "firmware": "S948NKSU4AZFA/S948NOKR4AZFA/S948NKSU4AZFA",
             "md5": "6567d499f58ff7de596464d27f4d7795",
             "found_at": "2026-07-14T10:08:42.112180194+00:00"
+          },
+          {
+            "firmware": "S948NKSU4AZG7/S948NOKR4AZG7/S948NKSU4AZG7",
+            "md5": "e1797d163e2fdc2084195aa7ece965eb",
+            "found_at": "2026-07-20T18:07:35.757189645+00:00"
           }
         ]
       }
@@ -56718,7 +56728,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S948USQS3AZF1/S948UOYN3AZF1/S948USQS3AZF1",
+        "latest_official": "S948USQS4AZG3/S948UOYN4AZG3/S948USQS4AZG3",
         "test_firmwares": [
           {
             "firmware": "S948USQS1AZC7/S948UOYN1AZC7/S948USQS1AZC7",
@@ -56954,6 +56964,11 @@
             "firmware": "S948USQS4AZG3/S948UOYN4AZG3/S948USQS4AZG3",
             "md5": "14c6daa9ca5554518b9b4924a05c9607",
             "found_at": "2026-07-02T14:08:58.464579541+00:00"
+          },
+          {
+            "firmware": "S948USQU4AZG7/S948UOYN4AZG7/S948USQU4AZG7",
+            "md5": "5dc37086e83c84395385ae9326909354",
+            "found_at": "2026-07-20T18:07:42.818599768+00:00"
           }
         ]
       }

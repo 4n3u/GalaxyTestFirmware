@@ -66848,7 +66848,7 @@
     "name": "Galaxy Tab S9 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X916CZCU6EZE3/X916CCHC6EZE3/X916CZCU6EZE3",
+        "latest_official": "X916CZCS6EZF1/X916CCHC6EZF1/X916CZCS6EZF1",
         "test_firmwares": [
           {
             "firmware": "X916CZCS5CYG1/X916CCHC5CYG1/X916CZCS5CYG1",
@@ -67134,6 +67134,11 @@
             "firmware": "X916CZCS6EZF1/X916CCHC6EZF1/X916CZCS6EZF1",
             "md5": "a535282088240db54d168622044d6d3b",
             "found_at": "2026-06-25T07:52:37.156940586+00:00"
+          },
+          {
+            "firmware": "X916CZCS6EZG3/X916CCHC6EZG3/X916CZCS6EZG3",
+            "md5": "66af97564d873d7d33bacf5b11171015",
+            "found_at": "2026-07-21T13:53:05.682297+00:00"
           }
         ]
       }

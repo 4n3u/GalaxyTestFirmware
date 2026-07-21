@@ -56233,7 +56233,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "S9480ZCS3AZF1/S9480CHC3AZF1/S9480ZCS3AZF1",
+        "latest_official": "S9480ZCS4AZG1/S9480CHC4AZG1/S9480ZCS4AZG1",
         "test_firmwares": [
           {
             "firmware": "S9480ZCS1AZC7/S9480CHC1AZC7/S9480ZCS1AZC7",
@@ -56379,6 +56379,11 @@
             "firmware": "S9480ZCS4AZG1/S9480CHC4AZG1/S9480ZCS4AZG1",
             "md5": "e09852ddf666d1c3144abc242c3ac2b3",
             "found_at": "2026-07-03T14:08:53.316743601+00:00"
+          },
+          {
+            "firmware": "S9480ZCU4AZG7/S9480CHC4AZG7/S9480ZCU4AZG7",
+            "md5": "3a22cde59f525f788b6427119460541c",
+            "found_at": "2026-07-21T02:46:49.903120485+00:00"
           }
         ]
       }

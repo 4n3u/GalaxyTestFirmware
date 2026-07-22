@@ -6293,7 +6293,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A356USQUADZE8/A356UOYNADZE8/A356USQUADZE8",
+        "latest_official": "A356USQSBDZG4/A356UOYNBDZG4/A356USQSBDZG4",
         "test_firmwares": [
           {
             "firmware": "A356USQU6CYG6/A356UOYN6CYG6/A356USQU6CYG6",
@@ -6539,6 +6539,26 @@
             "firmware": "A356USQSBDZF2/A356UOYNBDZF2/A356USQSBDZF2",
             "md5": "237eb31df1eae5966162702501bc1d40",
             "found_at": "2026-06-30T17:59:06.147535092+00:00"
+          },
+          {
+            "firmware": "A356USQSBDZG2/A356UOYNBDZG2/A356USQSBDZG2",
+            "md5": "edf20b80d24090002340eda10dcdb323",
+            "found_at": "2026-07-22T10:25:24.277661258+00:00"
+          },
+          {
+            "firmware": "A356USQSBDZG3/A356UOYNBDZG3/A356USQSBDZG3",
+            "md5": "31444f8bbd4a569d915feb707563f80b",
+            "found_at": "2026-07-22T10:25:24.278108945+00:00"
+          },
+          {
+            "firmware": "A356USQSBDZG4/A356UOYNBDZG4/A356USQSBDZG4",
+            "md5": "1a58b5ec19e287bb1c5ec6f87b0110dd",
+            "found_at": "2026-07-22T10:25:24.278558349+00:00"
+          },
+          {
+            "firmware": "A356USQSBDZG5/A356UOYNBDZG5/A356USQSBDZG5",
+            "md5": "340ae2bce8b680d56852e122cf2162fe",
+            "found_at": "2026-07-22T10:25:24.279077764+00:00"
           }
         ]
       }

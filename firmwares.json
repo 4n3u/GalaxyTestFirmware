@@ -1288,7 +1288,7 @@
     "name": "Galaxy A15 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A1560ZHU9EZE9/A1560OZS9EZE9/A1560ZHU9EZE9",
+        "latest_official": "A1560ZHS9EZF6/A1560OZS9EZF6/A1560ZHU9EZE9",
         "test_firmwares": [
           {
             "firmware": "A1560ZHU6DYH3/A1560OZS6DYH3/A1560ZHU6DYH3",
@@ -1419,6 +1419,11 @@
             "firmware": "A1560ZHS9EZF6/A1560OZS9EZF6/A1560ZHU9EZE9",
             "md5": "993318ae65faf09b0939598e0b892db5",
             "found_at": "2026-06-23T07:52:52.076004250+00:00"
+          },
+          {
+            "firmware": "A1560ZHSAEZG1/A1560OZSAEZG1/A1560ZHSAEZG1",
+            "md5": "213708850a3d8fb6a5fd3216aad1d078",
+            "found_at": "2026-07-22T06:30:42.262308712+00:00"
           }
         ]
       }

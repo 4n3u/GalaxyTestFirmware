@@ -5983,7 +5983,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3560ZHS9CZD6/A3560OZS9CZD6/A3560ZHS9CZD6",
+        "latest_official": "A3560ZHSADZG2/A3560OZSADZG2/A3560ZHSADZG2",
         "test_firmwares": [
           {
             "firmware": "A3560ZHU5CYG6/A3560OZS5CYG6/A3560ZHU5CYG6",
@@ -6124,6 +6124,11 @@
             "firmware": "A3560ZHU9DZE8/A3560OZS9DZE8/A3560ZHU9DZE8",
             "md5": "b00cf9f6e9dc38ee08e1c68e29ce8d8e",
             "found_at": "2026-05-14T06:53:31.565257954+00:00"
+          },
+          {
+            "firmware": "A3560ZHSADZG2/A3560OZSADZG2/A3560ZHSADZG2",
+            "md5": "cec579bed54f107196b89a125edd8936",
+            "found_at": "2026-07-23T10:29:27.687880182+00:00"
           }
         ]
       }

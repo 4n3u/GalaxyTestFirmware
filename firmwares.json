@@ -56414,6 +56414,11 @@
             "firmware": "S9480ZCU4AZG7/S9480CHC4AZG7/S9480ZCU4AZG7",
             "md5": "3a22cde59f525f788b6427119460541c",
             "found_at": "2026-07-21T02:46:49.903120485+00:00"
+          },
+          {
+            "firmware": "S9480ZCU4AZG9/S9480CHC4AZG9/S9480ZCU4AZG7",
+            "md5": "882e2679fa4651fbf49500e720c4caa8",
+            "found_at": "2026-07-24T02:46:00.200906282+00:00"
           }
         ]
       }
@@ -56584,6 +56589,11 @@
             "firmware": "S948BXXU4AZG7/S948BOXM4AZG7/S948BXXU4AZG7",
             "md5": "2758b0c68d4c57ac6cad5b96b76b8092",
             "found_at": "2026-07-20T18:07:27.080914812+00:00"
+          },
+          {
+            "firmware": "S948BXXU4AZG9/S948BOXM4AZG9/S948BXXU4AZG9",
+            "md5": "7ce0ae974798ffc0c1bd441853ccb732",
+            "found_at": "2026-07-24T02:46:04.762808633+00:00"
           }
         ]
       }
@@ -56754,6 +56764,11 @@
             "firmware": "S948NKSU4AZG7/S948NOKR4AZG7/S948NKSU4AZG7",
             "md5": "e1797d163e2fdc2084195aa7ece965eb",
             "found_at": "2026-07-20T18:07:35.757189645+00:00"
+          },
+          {
+            "firmware": "S948NKSU4AZG9/S948NOKR4AZG9/S948NKSU4AZG9",
+            "md5": "e44d9a96434a5a9d7ec03b213be14d73",
+            "found_at": "2026-07-24T02:46:09.538749796+00:00"
           }
         ]
       }
@@ -57004,6 +57019,11 @@
             "firmware": "S948USQU4AZG7/S948UOYN4AZG7/S948USQU4AZG7",
             "md5": "5dc37086e83c84395385ae9326909354",
             "found_at": "2026-07-20T18:07:42.818599768+00:00"
+          },
+          {
+            "firmware": "S948USQU4AZG9/S948UOYN4AZG9/S948USQU4AZG9",
+            "md5": "6b3fad344a842fd0246765575e56bd6c",
+            "found_at": "2026-07-24T02:46:13.550147544+00:00"
           }
         ]
       }
@@ -57013,7 +57033,7 @@
     "name": "Galaxy S26 Ultra",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S948U1UES3AZF1/S948U1OYM3AZF1/S948U1UES3AZF1",
+        "latest_official": "S948U1UES4AZG3/S948U1OYM4AZG3/S948U1UES4AZG3",
         "test_firmwares": [
           {
             "firmware": "S948U1UES1AZC7/S948U1OYM1AZC7/S948U1UES1AZC7",
@@ -57159,6 +57179,11 @@
             "firmware": "S948U1UES4AZG3/S948U1OYM4AZG3/S948U1UES4AZG3",
             "md5": "5ef3d7117cdf3dd4014aeaebd796d28f",
             "found_at": "2026-07-03T03:05:07.580755109+00:00"
+          },
+          {
+            "firmware": "S948U1UEU4AZG9/S948U1OYM4AZG9/S948U1UEU4AZG9",
+            "md5": "4605e6094b4dd319479be1ceec96b2de",
+            "found_at": "2026-07-24T02:46:16.932827786+00:00"
           }
         ]
       }

@@ -4938,7 +4938,7 @@
     "name": "Galaxy A26 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A266BXXS9BZD4/A266BOXM9BZD4/A266BXXS9BZD4",
+        "latest_official": "A266BXXSBCZG2/A266BOXMBCZG2/A266BXXSBCZG2",
         "test_firmwares": [
           {
             "firmware": "A266BXXU4BYH1/A266BOXM4BYH1/A266BXXU4BYH1",
@@ -5124,6 +5124,11 @@
             "firmware": "A266BXXU9CZEA/A266BOXM9CZEA/A266BXXU9CZEA",
             "md5": "131ff754b268cadedfb7fb46d1cee7fa",
             "found_at": "2026-05-13T18:07:35.995727847+00:00"
+          },
+          {
+            "firmware": "A266BXXSBCZG2/A266BOXMBCZG2/A266BXXSBCZG2",
+            "md5": "7a180c2e88e9f1cc70ed67ada29f2d70",
+            "found_at": "2026-07-27T11:26:00.803205368+00:00"
           }
         ]
       }
@@ -5294,6 +5299,21 @@
             "firmware": "A266U1UES9CZF2/A266U1OYM9CZF2/A266U1UES9CZF2",
             "md5": "02ccd0e0ed37b9b7ad3dbe49ae466515",
             "found_at": "2026-07-02T14:05:45.442389549+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-A276B": {
+    "name": "Galaxy A27 5G",
+    "regional_firmwares": {
+      "EUX": {
+        "latest_official": "A276BXXS2AZG1/A276BOXM2AZG1/A276BXXS2AZG1",
+        "test_firmwares": [
+          {
+            "firmware": "A276BXXS2AZG1/A276BOXM2AZG1/A276BXXS2AZG1",
+            "md5": "7437814a5c4caf1547ac0b786fab0d03",
+            "found_at": "2026-07-27T11:26:13.226769466+00:00"
           }
         ]
       }

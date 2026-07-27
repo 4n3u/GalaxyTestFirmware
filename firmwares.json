@@ -6613,7 +6613,7 @@
     "name": "Galaxy A35 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A356U1UEUADZE8/A356U1OYMADZE8/A356U1UEUADZE8",
+        "latest_official": "A356U1UESBDZG4/A356U1OYMBDZG4/A356U1UESBDZG4",
         "test_firmwares": [
           {
             "firmware": "A356U1UEU6CYG7/A356U1OYM6CYG7/A356U1UEU6CYG7",
@@ -6794,6 +6794,16 @@
             "firmware": "A356U1UESBDZF1/A356U1OYMBDZF1/A356U1UESBDZF1",
             "md5": "84af696c3b75ea105332c50aa1610510",
             "found_at": "2026-06-30T17:59:08.113609994+00:00"
+          },
+          {
+            "firmware": "A356U1UESBDZG2/A356U1OYMBDZG2/A356U1UESBDZG2",
+            "md5": "c7adaab9f9d479d72e75048d9f3c95ee",
+            "found_at": "2026-07-27T17:47:12.985380929+00:00"
+          },
+          {
+            "firmware": "A356U1UESBDZG4/A356U1OYMBDZG4/A356U1UESBDZG4",
+            "md5": "cb5d2f01b6c0e865fba8bd1db58c6b69",
+            "found_at": "2026-07-27T17:47:12.986423734+00:00"
           }
         ]
       }
@@ -58503,7 +58513,7 @@
     "name": "Galaxy Tab A9+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X216BXXSCEZE8/X216BOXMCEZE8/X216BXXSCEZE1",
+        "latest_official": "X216BXXSCEZG6/X216BOXMCEZG6/X216BXXSCEZG2",
         "test_firmwares": [
           {
             "firmware": "X216BXXS8DYH1/X216BOXM8DYH1/X216BXXS8DYH1",
@@ -58679,6 +58689,16 @@
             "firmware": "X216BXXUCFZD4/X216BOXMCFZD4/X216BXXUCFZD4",
             "md5": "8ebaf974cca53715b8dba2540a478df6",
             "found_at": "2026-06-11T14:09:18.029278048+00:00"
+          },
+          {
+            "firmware": "X216BXXSCEZG2/X216BOXMCEZG2/X216BXXSCEZG2",
+            "md5": "ed7d22c0547ad3bde8e13ef0e6362bc3",
+            "found_at": "2026-07-27T17:47:55.920182563+00:00"
+          },
+          {
+            "firmware": "X216BXXSCEZG6/X216BOXMCEZG6/X216BXXSCEZG2",
+            "md5": "234dfb345e75ca0a6852c3f06d769686",
+            "found_at": "2026-07-27T17:47:55.922043276+00:00"
           }
         ]
       }

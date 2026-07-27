@@ -9668,7 +9668,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5660ZCSACZE2/A5660CHCACZE2/A5660ZCSACZE3",
+        "latest_official": "A5660ZCSCCZG7/A5660CHCCCZG7/A5660ZCSCCZG7",
         "test_firmwares": [
           {
             "firmware": "A5660ZCS6BYJ4/A5660CHC6BYJ4/A5660ZCS6BYJ4",
@@ -9834,6 +9834,11 @@
             "firmware": "A5660ZCSBCZF5/A5660CHCBCZF5/A5660ZCSBCZF5",
             "md5": "0ad155fc4a736eb36a117562be8cc4fa",
             "found_at": "2026-06-15T12:25:03.533221537+00:00"
+          },
+          {
+            "firmware": "A5660ZCSCCZG7/A5660CHCCCZG7/A5660ZCSCCZG7",
+            "md5": "d218a0983c18319e61abc46f2c288dc3",
+            "found_at": "2026-07-27T07:41:30.338129937+00:00"
           }
         ]
       }

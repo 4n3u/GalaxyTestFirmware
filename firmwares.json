@@ -2593,7 +2593,7 @@
     "name": "Galaxy A16 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A166BXXS8CZDG/A166BOXM8CZDG/A166BXXS8CZDG",
+        "latest_official": "A166BXXS9DZG1/A166BOXM9DZG1/A166BXXS9DZG1",
         "test_firmwares": [
           {
             "firmware": "A166BXXU4CYG1/A166BOXM4CYG1/A166BXXU4CYG1",
@@ -2754,6 +2754,11 @@
             "firmware": "A166BXXU8DZE9/A166BOXM8DZE9/A166BXXU8DZE9",
             "md5": "131357594723a840431a19e2162ce2ab",
             "found_at": "2026-05-14T06:49:51.420472878+00:00"
+          },
+          {
+            "firmware": "A166BXXS9DZG1/A166BOXM9DZG1/A166BXXS9DZG1",
+            "md5": "71b0003a34323a5ebb25e46c7fdd5a4a",
+            "found_at": "2026-07-27T14:37:37.704337059+00:00"
           }
         ]
       }
@@ -5473,7 +5478,7 @@
     "name": "Galaxy A33 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A336BXXSIGZE1/A336BOXMIGZE1/A336BXXSIGZE1",
+        "latest_official": "A336BXXSJGZG3/A336BOXMJGZG3/A336BXXSJGZG3",
         "test_firmwares": [
           {
             "firmware": "A336BXXSEFYG8/A336BOXMEFYG8/A336BXXSEFYG8",
@@ -5624,6 +5629,21 @@
             "firmware": "A336BXXSIGZE1/A336BOXMIGZE1/A336BXXSIGZE1",
             "md5": "6fb86e9cc861a4ee349d2769a74b9cc4",
             "found_at": "2026-05-25T08:27:51.566002712+00:00"
+          },
+          {
+            "firmware": "A336BXXSJGZG3/A336BOXMJGZG3/A336BXXSJGZG3",
+            "md5": "73de19e9d5d082d4fca1f5ead163c1c2",
+            "found_at": "2026-07-27T14:32:47.934670083+00:00"
+          },
+          {
+            "firmware": "A336BXXUJGZG1/A336BOXMJGZG1/A336BXXUJGZG1",
+            "md5": "a7552e7103c0ced82ffac042ffb10e4c",
+            "found_at": "2026-07-27T14:32:48.527861075+00:00"
+          },
+          {
+            "firmware": "A336BXXUJGZG5/A336BOXMJGZG5/A336BXXUJGZG5",
+            "md5": "35231cd5ee6d5ee337b7e46a4b19c705",
+            "found_at": "2026-07-27T14:32:48.529387803+00:00"
           }
         ]
       }

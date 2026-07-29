@@ -15553,7 +15553,7 @@
     "name": "Galaxy Flip7 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F761BXXSABZF3/F761BOXMABZF3/F761BXXSABZF3",
+        "latest_official": "F761BXXSBBZG3/F761BOXMBBZG3/F761BXXSBBZG3",
         "test_firmwares": [
           {
             "firmware": "F761BXXS5AYI5/F761BOXM5AYI5/F761BXXS5AYI5",
@@ -15804,6 +15804,11 @@
             "firmware": "F761BXXSBBZG3/F761BOXMBBZG3/F761BXXSBBZG3",
             "md5": "da8f31098156e8ea2f245eb23e206d53",
             "found_at": "2026-07-02T10:52:15.007384886+00:00"
+          },
+          {
+            "firmware": "F761BXXSCBZH1/F761BOXMCBZH1/F761BXXSCBZH1",
+            "md5": "b3fa75aedf2e6d0527a94b66dd35bc9a",
+            "found_at": "2026-07-29T02:41:36.673940919+00:00"
           }
         ]
       }
@@ -16623,7 +16628,7 @@
     "name": "Galaxy Z Flip7",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "F766BXXUABZF3/F766BOXMABZF3/F766BXXUABZF3",
+        "latest_official": "F766BXXSBBZG3/F766BOXMBBZG3/F766BXXSBBZG3",
         "test_firmwares": [
           {
             "firmware": "F766BXXS5AYI5/F766BOXM5AYI5/F766BXXS5AYI5",
@@ -16939,6 +16944,11 @@
             "firmware": "F766BXXSBBZG3/F766BOXMBBZG3/F766BXXSBBZG3",
             "md5": "c8514d6ca3bfb9924f4fbe944baae084",
             "found_at": "2026-07-02T07:42:46.806486353+00:00"
+          },
+          {
+            "firmware": "F766BXXSCBZH1/F766BOXMCBZH1/F766BXXSCBZH1",
+            "md5": "d1c87b517ce90a0853426ec401754bdf",
+            "found_at": "2026-07-29T02:41:20.949553168+00:00"
           }
         ]
       }
@@ -31448,7 +31458,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S731NKSS7BZF1/S731NOKR7BZF1/S731NKSS7BZE1",
+        "latest_official": "S731NKSS8BZG3/S731NOKR8BZG3/S731NKSS8BZG1",
         "test_firmwares": [
           {
             "firmware": "S731NKSS1AYID/S731NOKR1AYID/S731NKSU1AYI5",
@@ -31719,6 +31729,11 @@
             "firmware": "S731NKSS8BZG3/S731NOKR8BZG3/S731NKSS8BZG1",
             "md5": "e2639234f3871579d54a16090d60ff2e",
             "found_at": "2026-07-02T03:41:28.789497988+00:00"
+          },
+          {
+            "firmware": "S731NKSS9BZH1/S731NOKR9BZH1/S731NKSS9BZH1",
+            "md5": "c64eb9a0f3bd83e2feec11a3acd70679",
+            "found_at": "2026-07-29T02:40:49.290522959+00:00"
           }
         ]
       }

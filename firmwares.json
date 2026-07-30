@@ -31158,7 +31158,7 @@
     "name": "Galaxy S25 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S731BXXS7BZF3/S731BOXM7BZF3/S731BXXS7BZF3",
+        "latest_official": "S731BXXS8BZG1/S731BOXM8BZG1/S731BXXS8BZG1",
         "test_firmwares": [
           {
             "firmware": "S731BXXS2AYID/S731BOXM2AYID/S731BXXS2AYID",
@@ -31474,6 +31474,11 @@
             "firmware": "S731BXXS8BZG1/S731BOXM8BZG1/S731BXXS8BZG1",
             "md5": "e38290311f320278da314a0345ab59f4",
             "found_at": "2026-07-07T07:46:07.653762328+00:00"
+          },
+          {
+            "firmware": "S731BXXS9BZG3/S731BOXM9BZG3/S731BXXS9BZG3",
+            "md5": "4897f03897b536d6629402695bf96fad",
+            "found_at": "2026-07-30T02:28:55.006682196+00:00"
           }
         ]
       }
@@ -55109,6 +55114,11 @@
             "firmware": "S942NKSU4AZGA/S942NOKR4AZGA/S942NKSU4AZGA",
             "md5": "c2f3b8e94f76bbfe7c0817739dd49d2d",
             "found_at": "2026-07-29T10:47:24.914467305+00:00"
+          },
+          {
+            "firmware": "S942NKSS4AZH1/S942NOKR4AZH1/S942NKSS4AZG1",
+            "md5": "d53e893c07b66dad8ac6d92cc49df377",
+            "found_at": "2026-07-30T02:29:52.782829808+00:00"
           }
         ]
       }
@@ -56079,6 +56089,11 @@
             "firmware": "S947NKSU4AZGA/S947NOKR4AZGA/S947NKSU4AZGA",
             "md5": "07fb584f39f144b2fcf886e94910c9e2",
             "found_at": "2026-07-29T10:48:03.650224777+00:00"
+          },
+          {
+            "firmware": "S947NKSS4AZH1/S947NOKR4AZH1/S947NKSS4AZG1",
+            "md5": "32fc7f3af2dba97f2aed34b3cd08d257",
+            "found_at": "2026-07-30T02:30:29.360716497+00:00"
           }
         ]
       }
@@ -56969,6 +56984,11 @@
             "firmware": "S948NKSU4AZG9/S948NOKR4AZG9/S948NKSU4AZG9",
             "md5": "e44d9a96434a5a9d7ec03b213be14d73",
             "found_at": "2026-07-24T02:46:09.538749796+00:00"
+          },
+          {
+            "firmware": "S948NKSS4AZH1/S948NOKR4AZH1/S948NKSS4AZG1",
+            "md5": "3878a8efb1cd1d2095720169b0cbff15",
+            "found_at": "2026-07-30T02:30:02.092817283+00:00"
           }
         ]
       }

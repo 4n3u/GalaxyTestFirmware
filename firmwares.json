@@ -2768,7 +2768,7 @@
     "name": "Galaxy A16 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A166USQU7DZEA/A166UOYN7DZEA/A166USQU7DZEA",
+        "latest_official": "A166USQS8DZG1/A166UOYN8DZG1/A166USQS8DZG1",
         "test_firmwares": [
           {
             "firmware": "A166USQU3CYF6/A166UOYN3CYF6/A166USQU3CYF6",
@@ -2959,6 +2959,11 @@
             "firmware": "A166USQS8DZF2/A166UOYN8DZF2/A166USQS8DZF2",
             "md5": "f705fcea04d03a1702ef1545bfad35d2",
             "found_at": "2026-07-01T08:17:41.837178399+00:00"
+          },
+          {
+            "firmware": "A166USQS8DZG1/A166UOYN8DZG1/A166USQS8DZG1",
+            "md5": "4fc96dc97d0025e29ee3bf7a80e6be25",
+            "found_at": "2026-07-30T10:27:22.076833787+00:00"
           }
         ]
       }
@@ -58714,6 +58719,11 @@
             "firmware": "X135FXXS4BZG6/X135FOXM4BZG6/X135FXXS4BZG6",
             "md5": "8813b15cc064f3e783f2f503fadb07d4",
             "found_at": "2026-07-16T13:50:17.023858266+00:00"
+          },
+          {
+            "firmware": "X135FXXU4BZGF/X135FOXM4BZGF/X135FXXU4BZGF",
+            "md5": "035570a86bb2ab01de86b83cf8a10189",
+            "found_at": "2026-07-30T10:31:27.156565794+00:00"
           }
         ]
       }
@@ -58924,6 +58934,11 @@
             "firmware": "X216BXXSCEZG6/X216BOXMCEZG6/X216BXXSCEZG2",
             "md5": "234dfb345e75ca0a6852c3f06d769686",
             "found_at": "2026-07-27T17:47:55.922043276+00:00"
+          },
+          {
+            "firmware": "X216BXXUDEZGF/X216BOXMDEZGF/X216BXXUDEZGF",
+            "md5": "bf6c60697e21d713581d0226ab547777",
+            "found_at": "2026-07-30T10:32:15.886837239+00:00"
           }
         ]
       }

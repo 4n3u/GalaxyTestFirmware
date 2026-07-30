@@ -2973,7 +2973,7 @@
     "name": "Galaxy A16 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A166U1UEU7DZEB/A166U1OYM7DZEB/A166U1UEU7DZEB",
+        "latest_official": "A166U1UES8DZG1/A166U1OYM8DZG1/A166U1UES8DZG1",
         "test_firmwares": [
           {
             "firmware": "A166U1UES3BYF4/A166U1OYM3BYF4/A166U1UES3BYF4",
@@ -3159,6 +3159,11 @@
             "firmware": "A166U1UES8DZF2/A166U1OYM8DZF2/A166U1UES8DZF2",
             "md5": "7ca7d73d51235054b5155866467ed674",
             "found_at": "2026-07-01T08:17:47.952025668+00:00"
+          },
+          {
+            "firmware": "A166U1UES8DZG1/A166U1OYM8DZG1/A166U1UES8DZG1",
+            "md5": "2cafd9ad6d5b5199f030c392ece586f3",
+            "found_at": "2026-07-30T17:29:23.876404567+00:00"
           }
         ]
       }

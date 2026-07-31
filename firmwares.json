@@ -30183,7 +30183,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S721BXXSCDZF3/S721BOXMCDZF3/S721BXXSCDZF3",
+        "latest_official": "S721BXXSDDZG1/S721BOXMDDZG1/S721BXXSDDZG1",
         "test_firmwares": [
           {
             "firmware": "S721BXXS8CYJ1/S721BOXM8CYJ1/S721BXXS8CYJ1",
@@ -30429,6 +30429,11 @@
             "firmware": "S721BXXSDDZG1/S721BOXMDDZG1/S721BXXSDDZG1",
             "md5": "101a06625ce6df6d0d0f67cb56bff49c",
             "found_at": "2026-07-03T14:05:13.545750419+00:00"
+          },
+          {
+            "firmware": "S721BXXSEDZG3/S721BOXMEDZG3/S721BXXSEDZG3",
+            "md5": "5dcc111b57d471d7901d177694bf7273",
+            "found_at": "2026-07-31T14:11:10.330011770+00:00"
           }
         ]
       }
@@ -59373,7 +59378,7 @@
     "name": "Galaxy Tab A9+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X218USQSCEZE8/X218UOYNCEZE8/X218USQSCEZE8",
+        "latest_official": "X218USQSCEZF3/X218UOYNCEZF3/X218USQSCEZF3",
         "test_firmwares": [
           {
             "firmware": "X218USQS8DYF2/X218UOYN8DYF2/X218USQS8DYF2",
@@ -59544,6 +59549,11 @@
             "firmware": "X218USQSCEZF3/X218UOYNCEZF3/X218USQSCEZF3",
             "md5": "ea309e89bd773bbc382f8f63d922ae9c",
             "found_at": "2026-06-16T11:22:15.246613177+00:00"
+          },
+          {
+            "firmware": "X218USQUDEZGF/X218UOYNDEZGF/X218USQUDEZGF",
+            "md5": "f17e3dbb00591624c7767e2a2082f839",
+            "found_at": "2026-07-31T14:11:33.085001340+00:00"
           }
         ]
       }

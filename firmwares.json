@@ -14298,7 +14298,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F741NKSS4DZF3/F741NOKR4DZF3/F741NKSS4DZE1",
+        "latest_official": "F741NKSS4DZG1/F741NOKR4DZG1/F741NKSS4DZE1",
         "test_firmwares": [
           {
             "firmware": "F741NKSU2CYD5/F741NOKR2CYD5/F741NKSU2CYD5",
@@ -14654,6 +14654,11 @@
             "firmware": "F741NKSS4DZG1/F741NOKR4DZG1/F741NKSS4DZE1",
             "md5": "e985732b70f1d27d48a6a90b0026f313",
             "found_at": "2026-07-03T14:16:06.849485322+00:00"
+          },
+          {
+            "firmware": "F741NKSS4DZH1/F741NOKR4DZH1/F741NKSS4DZE1",
+            "md5": "2d51ab94cc3371a9f6692dae2e35b103",
+            "found_at": "2026-07-31T10:47:42.910012589+00:00"
           }
         ]
       }
@@ -21233,7 +21238,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F956NKSS4DZF3/F956NOKR4DZF3/F956NKSS4DZE1",
+        "latest_official": "F956NKSS4DZG1/F956NOKR4DZG1/F956NKSS4DZE1",
         "test_firmwares": [
           {
             "firmware": "F956NKSU2CYD5/F956NOKR2CYD5/F956NKSU2CYD5",
@@ -21599,6 +21604,11 @@
             "firmware": "F956NKSS4DZG1/F956NOKR4DZG1/F956NKSS4DZE1",
             "md5": "50b01a0a1a7475713bc6ec27748a522b",
             "found_at": "2026-07-03T14:16:01.158887808+00:00"
+          },
+          {
+            "firmware": "F956NKSS4DZH1/F956NOKR4DZH1/F956NKSS4DZE1",
+            "md5": "48d19e833f8f4737c871888b7e19f7ea",
+            "found_at": "2026-07-31T10:49:19.918325225+00:00"
           }
         ]
       }
@@ -22263,7 +22273,7 @@
     "name": "Galaxy Z Fold Special Edition",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F958NKSS4DZF3/F958NOKR4DZF3/F958NKSS4DZE1",
+        "latest_official": "F958NKSS4DZG1/F958NOKR4DZG1/F958NKSS4DZE1",
         "test_firmwares": [
           {
             "firmware": "F958NKSU2CYD5/F958NOKR2CYD5/F958NKSU2CYD5",
@@ -22604,6 +22614,11 @@
             "firmware": "F958NKSS4DZG1/F958NOKR4DZG1/F958NKSS4DZE1",
             "md5": "2aabfdf5ff71e5066137cc6eb684c331",
             "found_at": "2026-07-03T10:50:06.060362128+00:00"
+          },
+          {
+            "firmware": "F958NKSS4DZH1/F958NOKR4DZH1/F958NKSS4DZE1",
+            "md5": "f0faec5c97169227c811af1609f0a29d",
+            "found_at": "2026-07-31T10:48:37.557409123+00:00"
           }
         ]
       }

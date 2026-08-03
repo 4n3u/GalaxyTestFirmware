@@ -30443,7 +30443,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "S721NKSSCDZF3/S721NOKRCDZF3/S721NKSSCDZE1",
+        "latest_official": "S721NKSSDDZG3/S721NOKRDDZG3/S721NKSSDDZG1",
         "test_firmwares": [
           {
             "firmware": "S721NKSS6BYG1/S721NOKR6BYG1/S721NKSS6BYG1",
@@ -30694,6 +30694,11 @@
             "firmware": "S721NKSSDDZG3/S721NOKRDDZG3/S721NKSSDDZG1",
             "md5": "b43ae05a7fd34863214c0dac8a273989",
             "found_at": "2026-07-03T07:28:37.195782039+00:00"
+          },
+          {
+            "firmware": "S721NKSSEDZH1/S721NOKREDZH1/S721NKSSEDZH1",
+            "md5": "d6168f23f59d84dc35d2d6ff66e24350",
+            "found_at": "2026-08-03T02:49:51.742248253+00:00"
           }
         ]
       }

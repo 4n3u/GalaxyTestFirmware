@@ -8863,7 +8863,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A546BXXSKFZF3/A546BOXMKFZF3/A546BXXSKFZF1",
+        "latest_official": "A546BXXSLFZG3/A546BOXMLFZG3/A546BXXSLFZG1",
         "test_firmwares": [
           {
             "firmware": "A546BXXSGEYJ1/A546BOXMGEYJ1/A546BXXSGEYJ1",
@@ -9099,6 +9099,11 @@
             "firmware": "A546BXXSLFZG3/A546BOXMLFZG3/A546BXXSLFZG1",
             "md5": "cd7daf5db9fc5e8aeebaf938a1c9255c",
             "found_at": "2026-07-06T08:26:53.448644910+00:00"
+          },
+          {
+            "firmware": "A546BXXSMFZH1/A546BOXMMFZH1/A546BXXSMFZH1",
+            "md5": "b849f70e845ba0c882cd55a030a05a67",
+            "found_at": "2026-08-04T10:41:38.630680328+00:00"
           }
         ]
       }
@@ -9108,7 +9113,7 @@
     "name": "Galaxy A54 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A546USQSKFZF3/A546UOYNKFZF3/A546USQSKFZF3",
+        "latest_official": "A546USQSLFZG3/A546UOYNLFZG3/A546USQSLFZG3",
         "test_firmwares": [
           {
             "firmware": "A546USQSKFZF1/A546UOYNKFZF1/A546USQSKFZF1",
@@ -9124,6 +9129,11 @@
             "firmware": "A546USQSLFZG3/A546UOYNLFZG3/A546USQSLFZG3",
             "md5": "2cb1d57b85d040e7afac3cbc2f89e948",
             "found_at": "2026-07-09T11:05:05.562364943+00:00"
+          },
+          {
+            "firmware": "A546USQSMFZH1/A546UOYNMFZH1/A546USQSMFZH1",
+            "md5": "9a4c721e0ee4576da79181f57b40928f",
+            "found_at": "2026-08-04T10:41:43.074400985+00:00"
           }
         ]
       }
@@ -15088,7 +15098,7 @@
     "name": "Galaxy Z Flip6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F741U1UES4DZF2/F741U1OYM4DZF2/F741U1UES4DZF2",
+        "latest_official": "F741U1UES4DZG3/F741U1OYM4DZG3/F741U1UES4DZG3",
         "test_firmwares": [
           {
             "firmware": "F741U1UES2CYIB/F741U1OYM2CYIB/F741U1UES2CYIB",
@@ -15329,6 +15339,11 @@
             "firmware": "F741U1UES4DZG3/F741U1OYM4DZG3/F741U1UES4DZG3",
             "md5": "8fe8251e95cc8564cc17db108bbe1f02",
             "found_at": "2026-07-07T11:02:44.359403785+00:00"
+          },
+          {
+            "firmware": "F741U1UES4DZH1/F741U1OYM4DZH1/F741U1UES4DZH1",
+            "md5": "c74917414bae9c236fd64824ed64a770",
+            "found_at": "2026-08-04T10:47:15.783533151+00:00"
           }
         ]
       }
@@ -22053,7 +22068,7 @@
     "name": "Galaxy Z Fold6",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F956U1UES4DZF2/F956U1OYM4DZF2/F956U1UES4DZF2",
+        "latest_official": "F956U1UES4DZG3/F956U1OYM4DZG3/F956U1UES4DZG3",
         "test_firmwares": [
           {
             "firmware": "F956U1UES2CYIB/F956U1OYM2CYIB/F956U1UES2CYIB",
@@ -22304,6 +22319,11 @@
             "firmware": "F956U1UES4DZG3/F956U1OYM4DZG3/F956U1UES4DZG3",
             "md5": "0078045a7ab4654d2cae1f34a0eefc05",
             "found_at": "2026-07-07T11:04:31.658757221+00:00"
+          },
+          {
+            "firmware": "F956U1UES4DZH1/F956U1OYM4DZH1/F956U1UES4DZH1",
+            "md5": "061a03ad27c3013f0e244833e483b24c",
+            "found_at": "2026-08-04T10:48:46.240911357+00:00"
           }
         ]
       }

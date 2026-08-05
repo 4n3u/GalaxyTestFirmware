@@ -2458,7 +2458,7 @@
     "name": "Galaxy A16 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A1660ZHS8CZDG/A1660OZS8CZDG/A1660ZHS8CZDG",
+        "latest_official": "A1660ZHS9DZG1/A1660OZS9DZG1/A1660ZHS9DZG1",
         "test_firmwares": [
           {
             "firmware": "A1660ZHU4CYG3/A1660OZS4CYG3/A1660ZHU4CYG3",
@@ -2584,6 +2584,11 @@
             "firmware": "A1660ZHU8DZE9/A1660OZS8DZE9/A1660ZHU8DZE9",
             "md5": "54782f16b18bda6e38fc51ac8e861b8e",
             "found_at": "2026-05-18T03:42:01.995751363+00:00"
+          },
+          {
+            "firmware": "A1660ZHS9DZG1/A1660OZS9DZG1/A1660ZHS9DZG1",
+            "md5": "2cdc625267cd85690aac9f24933f9621",
+            "found_at": "2026-08-05T06:30:58.162070983+00:00"
           }
         ]
       }
@@ -36433,7 +36438,7 @@
     "name": "Galaxy S23",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S911BXXSAFZF5/S911BOXMAFZF5/S911BXXSAFZE1",
+        "latest_official": "S911BXXSAFZG1/S911BOXMAFZG1/S911BXXSAFZE1",
         "test_firmwares": [
           {
             "firmware": "S911BXXU8EYFB/S911BOXM8EYFB/S911BXXU8EYFB",
@@ -36864,6 +36869,11 @@
             "firmware": "S911BXXSAFZG1/S911BOXMAFZG1/S911BXXSAFZE1",
             "md5": "cd49eeb7acc2da8a790f5e897c41f2dc",
             "found_at": "2026-07-07T03:26:12.368412438+00:00"
+          },
+          {
+            "firmware": "S911BXXSAFZH1/S911BOXMAFZH1/S911BXXSAFZE1",
+            "md5": "9896eb2a0e7d4c0504a1d254e711dfad",
+            "found_at": "2026-08-05T06:33:54.632164960+00:00"
           }
         ]
       }
@@ -37858,7 +37868,7 @@
     "name": "Galaxy S23+",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S916BXXSAFZF5/S916BOXMAFZF5/S916BXXSAFZE1",
+        "latest_official": "S916BXXSAFZG1/S916BOXMAFZG1/S916BXXSAFZE1",
         "test_firmwares": [
           {
             "firmware": "S916BXXU8EYFB/S916BOXM8EYFB/S916BXXU8EYFB",
@@ -38289,6 +38299,11 @@
             "firmware": "S916BXXSAFZG1/S916BOXMAFZG1/S916BXXSAFZE1",
             "md5": "ae8018839e315d1ff823ba697eaa4dc8",
             "found_at": "2026-07-07T03:26:58.482496345+00:00"
+          },
+          {
+            "firmware": "S916BXXSAFZH1/S916BOXMAFZH1/S916BXXSAFZE1",
+            "md5": "5518be24bd060badc9b845ab70cea0e6",
+            "found_at": "2026-08-05T06:34:47.613118728+00:00"
           }
         ]
       }
@@ -39288,7 +39303,7 @@
     "name": "Galaxy S23 Ultra",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "S918BXXSAFZF5/S918BOXMAFZF5/S918BXXSAFZE1",
+        "latest_official": "S918BXXSAFZG1/S918BOXMAFZG1/S918BXXSAFZE1",
         "test_firmwares": [
           {
             "firmware": "S918BXXU8EYFB/S918BOXM8EYFB/S918BXXU8EYFB",
@@ -39729,6 +39744,11 @@
             "firmware": "S918BXXSAFZG1/S918BOXMAFZG1/S918BXXSAFZE1",
             "md5": "d71b6c09530754e228909ad5cc326b04",
             "found_at": "2026-07-07T03:26:42.411487619+00:00"
+          },
+          {
+            "firmware": "S918BXXSAFZH1/S918BOXMAFZH1/S918BXXSAFZE1",
+            "md5": "7bcea9ef3197c3bda9bdeabe6df8093c",
+            "found_at": "2026-08-05T06:34:28.843426035+00:00"
           }
         ]
       }

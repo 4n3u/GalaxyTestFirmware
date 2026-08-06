@@ -13538,7 +13538,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F731U1UES8GZF1/F731U1OYM8GZF1/F731U1UES8GZF1",
+        "latest_official": "F731U1UES8GZG3/F731U1OYM8GZG3/F731U1UES8GZG3",
         "test_firmwares": [
           {
             "firmware": "F731U1UES6FYJ1/F731U1OYM6FYJ1/F731U1UES6FYJ1",
@@ -13824,6 +13824,11 @@
             "firmware": "F731U1UES8GZG3/F731U1OYM8GZG3/F731U1UES8GZG3",
             "md5": "d4faeb0c69bf95cd975138bc9997b4ef",
             "found_at": "2026-07-08T14:14:35.712889873+00:00"
+          },
+          {
+            "firmware": "F731U1UES8GZH1/F731U1OYM8GZH1/F731U1UES8GZH1",
+            "md5": "892148a32afc18e5d51c15b47391bfa1",
+            "found_at": "2026-08-06T10:39:44.074094448+00:00"
           }
         ]
       }
@@ -20513,7 +20518,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F946U1UES8GZF1/F946U1OYM8GZF1/F946U1UES8GZF1",
+        "latest_official": "F946U1UES8GZG3/F946U1OYM8GZG3/F946U1UES8GZG3",
         "test_firmwares": [
           {
             "firmware": "F946U1UES6FYJ1/F946U1OYM6FYJ1/F946U1UES6FYJ1",
@@ -20794,6 +20799,11 @@
             "firmware": "F946U1UES8GZG3/F946U1OYM8GZG3/F946U1UES8GZG3",
             "md5": "c134d8d88e74f1f119939edf9499e9e8",
             "found_at": "2026-07-08T14:16:23.776772070+00:00"
+          },
+          {
+            "firmware": "F946U1UES8GZH1/F946U1OYM8GZH1/F946U1UES8GZH1",
+            "md5": "48816a1dd761e2dadf555cd4e1a27454",
+            "found_at": "2026-08-06T10:41:41.878466019+00:00"
           }
         ]
       }

@@ -24178,7 +24178,7 @@
     "name": "Galaxy Z TriFold",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "F9680ZCU5BZF1/F9680CHC5BZF1/F9680ZCU5BZEF",
+        "latest_official": "F9680ZCS6BZG3/F9680CHC6BZG3/F9680ZCS6BZG1",
         "test_firmwares": [
           {
             "firmware": "F9680ZCS1AYL2/F9680CHC1AYL2/F9680ZCS1AYL2",
@@ -24394,6 +24394,11 @@
             "firmware": "F9680ZCS6BZG3/F9680CHC6BZG3/F9680ZCS6BZG1",
             "md5": "6fa8cd8da66dd0a00d313468b82dd664",
             "found_at": "2026-07-03T03:06:02.983774296+00:00"
+          },
+          {
+            "firmware": "F9680ZCS7BZH1/F9680CHC7BZH1/F9680ZCS7BZH1",
+            "md5": "f3cbf1ea269cbf361d0c9da9cfcaa87c",
+            "found_at": "2026-08-06T02:34:33.929537982+00:00"
           }
         ]
       }

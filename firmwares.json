@@ -42039,6 +42039,11 @@
             "firmware": "S921U1UES6DZH1/S921U1OYM6DZH1/S921U1UES6DZH1",
             "md5": "0e7dfe24fc93f39f944f92f6d70ede04",
             "found_at": "2026-08-03T14:43:03.245901863+00:00"
+          },
+          {
+            "firmware": "S921U1UES6DZH2/S921U1OYM6DZH2/S921U1UES6DZH2",
+            "md5": "a503062f122c54316429b87f1f85d257",
+            "found_at": "2026-08-06T23:58:33.841268441+00:00"
           }
         ]
       }
@@ -43429,6 +43434,11 @@
             "firmware": "S926U1UES6DZH1/S926U1OYM6DZH1/S926U1UES6DZH1",
             "md5": "b99368a6eba9a3503a78a025d659277d",
             "found_at": "2026-08-03T14:43:49.952148498+00:00"
+          },
+          {
+            "firmware": "S926U1UES6DZH2/S926U1OYM6DZH2/S926U1UES6DZH2",
+            "md5": "732cbbe85f3f27da73172da947d3abaf",
+            "found_at": "2026-08-06T23:59:19.568749999+00:00"
           }
         ]
       }
@@ -45024,6 +45034,11 @@
             "firmware": "S928U1UES6DZH1/S928U1OYM6DZH1/S928U1UES6DZH1",
             "md5": "a78eb1421d5efc64de8ab655deb86cb4",
             "found_at": "2026-08-03T14:43:39.912527766+00:00"
+          },
+          {
+            "firmware": "S928U1UES6DZH2/S928U1OYM6DZH2/S928U1UES6DZH2",
+            "md5": "77b6aa83b4f9c2b2c6288c01899c6ded",
+            "found_at": "2026-08-06T23:59:09.192786708+00:00"
           }
         ]
       }

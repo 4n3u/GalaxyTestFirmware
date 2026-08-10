@@ -8469,6 +8469,11 @@
             "firmware": "A536BXXUNGZG5/A536BOXMNGZG5/A536BXXUNGZG5",
             "md5": "f9ca92a519c3481a8aa6ba2230446007",
             "found_at": "2026-07-30T14:08:47.997374779+00:00"
+          },
+          {
+            "firmware": "A536BXXUNGZH1/A536BOXMNGZH1/A536BXXUNGZH1",
+            "md5": "e3b1bac59fb547e8c26e27e16139df0f",
+            "found_at": "2026-08-10T09:26:30.191641087+00:00"
           }
         ]
       }
@@ -17484,6 +17489,11 @@
             "firmware": "F766NKSUCBZGA/F766NOKRCBZGA/F766NKSUCBZGA",
             "md5": "361cb09e27e41aa86d621f198e9c3011",
             "found_at": "2026-07-29T10:46:23.056697978+00:00"
+          },
+          {
+            "firmware": "F766NKSUCBZGB/F766NOKRCBZGB/F766NKSUCBZGB",
+            "md5": "16ba492c1f5bf234ccd3f7dce6bf848b",
+            "found_at": "2026-08-10T09:27:40.680267296+00:00"
           }
         ]
       }
@@ -66268,7 +66278,7 @@
     "name": "Galaxy Tab S9+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X818USQS7EZF1/X818UOYN7EZF1/X818USQS7EZF1",
+        "latest_official": "X818USQS7EZG3/X818UOYN7EZG3/X818USQS7EZG3",
         "test_firmwares": [
           {
             "firmware": "X818USQS6CYF1/X818UOYN6CYF1/X818USQS6CYF1",
@@ -66469,6 +66479,11 @@
             "firmware": "X818USQS7EZG3/X818UOYN7EZG3/X818USQS7EZG3",
             "md5": "8c25fea30656e415099ddc582846201b",
             "found_at": "2026-07-17T06:19:57.531133236+00:00"
+          },
+          {
+            "firmware": "X818USQU7EZD8/X818UOYN7EZD8/X818USQU7EZD8",
+            "md5": "b9db10b5eb1fd2aaceefab70c7e83819",
+            "found_at": "2026-08-10T09:23:33.707916800+00:00"
           }
         ]
       }

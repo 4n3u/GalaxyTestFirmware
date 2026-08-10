@@ -3518,7 +3518,7 @@
     "name": "Galaxy A17 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A1760ZHS5BZE5/A1760OZS5BZE5/A1760ZHS5BZE5",
+        "latest_official": "A1760ZHS6CZG7/A1760OZS6CZG7/A1760ZHS6CZG7",
         "test_firmwares": [
           {
             "firmware": "A1760ZHU2BYI2/A1760OZS2BYI2/A1760ZHU2BYI2",
@@ -3634,6 +3634,11 @@
             "firmware": "A1760ZHU5CZE9/A1760OZS5CZE9/A1760ZHU5CZE9",
             "md5": "bdd31b7aa3ec067e000f7f6d3c87d3bc",
             "found_at": "2026-05-26T03:34:15.486999748+00:00"
+          },
+          {
+            "firmware": "A1760ZHS6CZG7/A1760OZS6CZG7/A1760ZHS6CZG7",
+            "md5": "5be3a0e289b564fbf3b23b67b4924d02",
+            "found_at": "2026-08-10T03:56:47.025267752+00:00"
           }
         ]
       }

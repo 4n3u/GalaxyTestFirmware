@@ -5719,6 +5719,11 @@
             "firmware": "A336BXXUJGZG5/A336BOXMJGZG5/A336BXXUJGZG5",
             "md5": "35231cd5ee6d5ee337b7e46a4b19c705",
             "found_at": "2026-07-27T14:32:48.529387803+00:00"
+          },
+          {
+            "firmware": "A336BXXUJGZH1/A336BOXMJGZH1/A336BXXUJGZH1",
+            "md5": "90447591e49abd8a7d74ac5733bd9734",
+            "found_at": "2026-08-10T07:45:26.261872421+00:00"
           }
         ]
       }
@@ -55579,6 +55584,11 @@
             "firmware": "S942NKSS4AZH1/S942NOKR4AZH1/S942NKSS4AZG1",
             "md5": "d53e893c07b66dad8ac6d92cc49df377",
             "found_at": "2026-07-30T02:29:52.782829808+00:00"
+          },
+          {
+            "firmware": "S942NKSU4AZGB/S942NOKR4AZGB/S942NKSU4AZGB",
+            "md5": "1f3771b61984d29ec41dfe78842f1710",
+            "found_at": "2026-08-10T07:47:58.949384089+00:00"
           }
         ]
       }
@@ -56574,6 +56584,11 @@
             "firmware": "S947NKSS4AZH1/S947NOKR4AZH1/S947NKSS4AZG1",
             "md5": "32fc7f3af2dba97f2aed34b3cd08d257",
             "found_at": "2026-07-30T02:30:29.360716497+00:00"
+          },
+          {
+            "firmware": "S947NKSU4AZGB/S947NOKR4AZGB/S947NKSU4AZGB",
+            "md5": "4c1e35e8cae97554ff07366f2b27407b",
+            "found_at": "2026-08-10T07:48:35.935484269+00:00"
           }
         ]
       }

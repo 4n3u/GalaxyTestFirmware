@@ -8483,7 +8483,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A536USQSMGZF1/A536UOYNMGZF1/A536USQSMGZF1",
+        "latest_official": "A536USQSNGZG3/A536UOYNNGZG3/A536USQSNGZG3",
         "test_firmwares": [
           {
             "firmware": "A536USQSIGYK1/A536UOYNIGYK1/A536USQSIGYK1",
@@ -8609,6 +8609,11 @@
             "firmware": "A536USQUNGZG5/A536UOYNNGZG5/A536USQUNGZG5",
             "md5": "0540eddc7651b010542bc1ff8f8eb5d2",
             "found_at": "2026-07-15T13:53:34.889902251+00:00"
+          },
+          {
+            "firmware": "A536USQUNGZH1/A536UOYNNGZH1/A536USQUNGZH1",
+            "md5": "76ac076839433a1f9b93f62832d6b3c2",
+            "found_at": "2026-08-10T13:17:15.381921712+00:00"
           }
         ]
       }

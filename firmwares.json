@@ -37514,6 +37514,11 @@
             "firmware": "S911USQS8FZH1/S911UOYN8FZH1/S911USQS8FZH1",
             "md5": "27ea57c28aaa4b595db6081bae9075fb",
             "found_at": "2026-08-05T10:33:14.773934894+00:00"
+          },
+          {
+            "firmware": "S911USQS8FZH3/S911UOYN8FZH3/S911USQS8FZH3",
+            "md5": "72ea67f66c24003768ac2b0bf167400f",
+            "found_at": "2026-08-11T14:56:12.094584246+00:00"
           }
         ]
       }

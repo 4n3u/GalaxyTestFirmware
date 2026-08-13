@@ -7558,7 +7558,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A366U1UES8CZF1/A366U1OYM8CZF1/A366U1UES8CZF1",
+        "latest_official": "A366U1UES9CZG2/A366U1OYM9CZG2/A366U1UES9CZG2",
         "test_firmwares": [
           {
             "firmware": "A366U1UEU3BYG3/A366U1OYM3BYG3/A366U1UEU3BYG3",
@@ -7764,6 +7764,11 @@
             "firmware": "A366U1UES9CZG2/A366U1OYM9CZG2/A366U1UES9CZG2",
             "md5": "6e7c877951a68e51b0bb937a029101b7",
             "found_at": "2026-07-13T14:33:40.057235467+00:00"
+          },
+          {
+            "firmware": "A366U1UESACZH1/A366U1OYMACZH1/A366U1UESACZH1",
+            "md5": "44b4b392b4ecdbf60b033af2c5aa4b35",
+            "found_at": "2026-08-13T17:01:59.357491967+00:00"
           }
         ]
       }
@@ -12524,6 +12529,11 @@
             "firmware": "F721USQSAIZH1/F721UOYNAIZH1/F721USQSAIZH1",
             "md5": "6349ce0ccf5f683a2035d5f05530d906",
             "found_at": "2026-08-04T14:10:42.686675946+00:00"
+          },
+          {
+            "firmware": "F721USQSAIZH2/F721UOYNAIZH2/F721USQSAIZH2",
+            "md5": "116fde65492b3709205a8363f18b2610",
+            "found_at": "2026-08-13T17:55:33.775487078+00:00"
           }
         ]
       }
@@ -13894,6 +13904,11 @@
             "firmware": "F731U1UES8GZH1/F731U1OYM8GZH1/F731U1UES8GZH1",
             "md5": "892148a32afc18e5d51c15b47391bfa1",
             "found_at": "2026-08-06T10:39:44.074094448+00:00"
+          },
+          {
+            "firmware": "F731U1UES8GZH5/F731U1OYM8GZH5/F731U1UES8GZH5",
+            "md5": "a4392f1faa429d09c8cf58db82548bde",
+            "found_at": "2026-08-13T18:00:58.694415641+00:00"
           }
         ]
       }
@@ -20939,6 +20954,11 @@
             "firmware": "F946U1UES8GZH1/F946U1OYM8GZH1/F946U1UES8GZH1",
             "md5": "48816a1dd761e2dadf555cd4e1a27454",
             "found_at": "2026-08-06T10:41:41.878466019+00:00"
+          },
+          {
+            "firmware": "F946U1UES8GZH5/F946U1OYM8GZH5/F946U1UES8GZH5",
+            "md5": "5c224352a2bdf7b4be567dc985f49da3",
+            "found_at": "2026-08-13T18:10:09.723697128+00:00"
           }
         ]
       }

@@ -56669,6 +56669,11 @@
             "firmware": "S947BXXS4AZGD/S947BOXM4AZGD/S947BXXS4AZGD",
             "md5": "e43d08d7a705f2b4e35032dd19123324",
             "found_at": "2026-07-30T06:33:17.420730270+00:00"
+          },
+          {
+            "firmware": "S947BXXS4AZH1/S947BOXM4AZH1/S947BXXS4AZH1",
+            "md5": "c6f9ce0e7e5752d7c01a7680c8434d04",
+            "found_at": "2026-08-13T04:51:35.742635024+00:00"
           }
         ]
       }

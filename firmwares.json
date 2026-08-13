@@ -55659,6 +55659,11 @@
             "firmware": "S942BXXS4AZGD/S942BOXM4AZGD/S942BXXS4AZGD",
             "md5": "5b57a213f730ed846e689d2c832dd552",
             "found_at": "2026-07-30T06:36:10.944662156+00:00"
+          },
+          {
+            "firmware": "S942BXXS4AZH1/S942BOXM4AZH1/S942BXXS4AZH1",
+            "md5": "d1e5cd8c905fbb0566eb909ec39a3ff3",
+            "found_at": "2026-08-13T00:21:52.680861960+00:00"
           }
         ]
       }
@@ -55894,6 +55899,11 @@
             "firmware": "S942NKSU4AZGB/S942NOKR4AZGB/S942NKSU4AZGB",
             "md5": "1f3771b61984d29ec41dfe78842f1710",
             "found_at": "2026-08-10T07:47:58.949384089+00:00"
+          },
+          {
+            "firmware": "S942NKSS4AZH3/S942NOKR4AZH3/S942NKSS4AZG1",
+            "md5": "3ea102eec0623aa67c033b476d8b64da",
+            "found_at": "2026-08-13T00:22:49.192959351+00:00"
           }
         ]
       }

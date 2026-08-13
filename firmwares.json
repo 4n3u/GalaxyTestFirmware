@@ -56904,6 +56904,11 @@
             "firmware": "S947NKSU4AZGB/S947NOKR4AZGB/S947NKSU4AZGB",
             "md5": "4c1e35e8cae97554ff07366f2b27407b",
             "found_at": "2026-08-10T07:48:35.935484269+00:00"
+          },
+          {
+            "firmware": "S947NKSS4AZH3/S947NOKR4AZH3/S947NKSS4AZG1",
+            "md5": "00d1eb0f4165aea6b0ebf6ebce9ec619",
+            "found_at": "2026-08-13T03:23:35.873969344+00:00"
           }
         ]
       }

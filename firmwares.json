@@ -58189,6 +58189,11 @@
             "firmware": "S948NKSU4AZH3/S948NOKR4AZH3/S948NKSS4AZG1",
             "md5": "25906ac3e63e5928fa0eff137ac85bd5",
             "found_at": "2026-08-12T11:08:26.676379678+00:00"
+          },
+          {
+            "firmware": "S948NKSU4AZHA/S948NOKR4AZHA/S948NKSS4AZG1",
+            "md5": "f6230dc927ced78b9603730131cc18f6",
+            "found_at": "2026-08-14T16:39:50.840086691+00:00"
           }
         ]
       }
@@ -58634,6 +58639,11 @@
             "firmware": "S948U1UEU4AZH3/S948U1OYM4AZH3/S948U1UEU4AZH3",
             "md5": "609eacc5488a63d36097e51cccb6ddab",
             "found_at": "2026-08-12T15:05:10.897795931+00:00"
+          },
+          {
+            "firmware": "S948U1UEU4AZH5/S948U1OYM4AZH5/S948U1UEU4AZH5",
+            "md5": "b7af270da7682e9ef8b2b8fc7291f320",
+            "found_at": "2026-08-14T18:17:47.492036615+00:00"
           }
         ]
       }

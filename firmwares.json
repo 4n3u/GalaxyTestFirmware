@@ -5174,6 +5174,11 @@
             "firmware": "A266BXXSBCZG2/A266BOXMBCZG2/A266BXXSBCZG2",
             "md5": "7a180c2e88e9f1cc70ed67ada29f2d70",
             "found_at": "2026-07-27T11:26:00.803205368+00:00"
+          },
+          {
+            "firmware": "A266BXXSCCZH3/A266BOXMCCZH3/A266BXXSCCZH3",
+            "md5": "ed74b885f87b5a912cfa93eb74db9d04",
+            "found_at": "2026-08-15T05:36:45.966129645+00:00"
           }
         ]
       }

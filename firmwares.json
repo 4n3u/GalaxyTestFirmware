@@ -31204,6 +31204,11 @@
             "firmware": "S721NKSSEDZH1/S721NOKREDZH1/S721NKSSEDZH1",
             "md5": "d6168f23f59d84dc35d2d6ff66e24350",
             "found_at": "2026-08-03T02:49:51.742248253+00:00"
+          },
+          {
+            "firmware": "S721NKSSEDZH3/S721NOKREDZH3/S721NKSSEDZH1",
+            "md5": "148779a6d483206aad26ea6fe61dc771",
+            "found_at": "2026-08-16T10:48:34.741313534+00:00"
           }
         ]
       }

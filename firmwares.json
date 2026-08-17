@@ -9239,6 +9239,11 @@
             "firmware": "A546USQSMFZH1/A546UOYNMFZH1/A546USQSMFZH1",
             "md5": "9a4c721e0ee4576da79181f57b40928f",
             "found_at": "2026-08-04T10:41:43.074400985+00:00"
+          },
+          {
+            "firmware": "A546USQSMFZH2/A546UOYNMFZH2/A546USQSMFZH2",
+            "md5": "9b0dd42e4f465486896971779bbf3c74",
+            "found_at": "2026-08-17T09:34:02.284058403+00:00"
           }
         ]
       }
@@ -9894,6 +9899,11 @@
             "firmware": "A556BXXSHDZH1/A556BOXMHDZH1/A556BXXSHDZH1",
             "md5": "949c735ca6fd404d8c034c7308ef7f16",
             "found_at": "2026-08-04T14:19:16.073006197+00:00"
+          },
+          {
+            "firmware": "A556BXXSHDZH4/A556BOXMHDZH4/A556BXXSHDZH4",
+            "md5": "75c92505fdf6039a022c0a0023d2d381",
+            "found_at": "2026-08-17T09:32:04.932756311+00:00"
           }
         ]
       }
@@ -62183,7 +62193,7 @@
     "name": "Galaxy Tab S10 Lite 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X406BXXS5CZF2/X406BOXM5CZF2/X406BXXS5CZF2",
+        "latest_official": "X406BXXS6CZG3/X406BOXM6CZG3/X406BXXS6CZG3",
         "test_firmwares": [
           {
             "firmware": "X406BXXU1BYH1/X406BOXM1BYH1/X406BXXU1BYH1",
@@ -62444,6 +62454,11 @@
             "firmware": "X406BXXS6CZG3/X406BOXM6CZG3/X406BXXS6CZG3",
             "md5": "fb653b0cce790d14b83e675b39fe99f5",
             "found_at": "2026-07-16T06:20:34.132895250+00:00"
+          },
+          {
+            "firmware": "X406BXXS7CZH4/X406BOXM7CZH4/X406BXXS7CZH4",
+            "md5": "0b372d66e897959dd0e419c36e40f4e3",
+            "found_at": "2026-08-17T08:20:03.233043742+00:00"
           }
         ]
       }
@@ -67219,6 +67234,11 @@
             "firmware": "X818USQU7EZD8/X818UOYN7EZD8/X818USQU7EZD8",
             "md5": "b9db10b5eb1fd2aaceefab70c7e83819",
             "found_at": "2026-08-10T09:23:33.707916800+00:00"
+          },
+          {
+            "firmware": "X818USQS7EZH3/X818UOYN7EZH3/X818USQS7EZH3",
+            "md5": "e66645433655b8a848cf82b4362adcea",
+            "found_at": "2026-08-17T08:49:23.360555684+00:00"
           }
         ]
       }

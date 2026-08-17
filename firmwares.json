@@ -4818,7 +4818,7 @@
     "name": "Galaxy A25 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A256U1UESCDZD7/A256U1OYMCDZD7/A256U1UESCDZD7",
+        "latest_official": "A256U1UESDEZG4/A256U1OYMDEZG4/A256U1UESDEZG4",
         "test_firmwares": [
           {
             "firmware": "A256U1UEU8DYG8/A256U1OYM8DYG8/A256U1UEU8DYG8",
@@ -4979,6 +4979,16 @@
             "firmware": "A256U1UEUCEZE6/A256U1OYMCEZE6/A256U1UEUCEZE6",
             "md5": "0b0180e66df3ed40137f4ab6e71155b6",
             "found_at": "2026-05-13T18:07:32.062523123+00:00"
+          },
+          {
+            "firmware": "A256U1UESDEZG3/A256U1OYMDEZG3/A256U1UESDEZG3",
+            "md5": "b9c7ce26f3df7a60d8c296a2aa675107",
+            "found_at": "2026-08-17T11:13:01.067990778+00:00"
+          },
+          {
+            "firmware": "A256U1UESDEZG4/A256U1OYMDEZG4/A256U1UESDEZG4",
+            "md5": "61761a9503fb59f94593ef67f51eea04",
+            "found_at": "2026-08-17T11:13:01.093285582+00:00"
           }
         ]
       }
@@ -6714,6 +6724,11 @@
             "firmware": "A356USQSBDZG5/A356UOYNBDZG5/A356USQSBDZG5",
             "md5": "340ae2bce8b680d56852e122cf2162fe",
             "found_at": "2026-07-22T10:25:24.279077764+00:00"
+          },
+          {
+            "firmware": "A356USQSCDZH1/A356UOYNCDZH1/A356USQSCDZH1",
+            "md5": "dd09f892efd75ad72f7aa272ac2e374f",
+            "found_at": "2026-08-17T10:54:32.012985506+00:00"
           }
         ]
       }
@@ -9459,6 +9474,11 @@
             "firmware": "A546U1UESMFZH1/A546U1OYMMFZH1/A546U1UESMFZH1",
             "md5": "4b99997d7e82340d2a79916d107621de",
             "found_at": "2026-08-05T10:43:47.052811362+00:00"
+          },
+          {
+            "firmware": "A546U1UESMFZH2/A546U1OYMMFZH2/A546U1UESMFZH2",
+            "md5": "73eb48107c06d289483490e5919b3dbb",
+            "found_at": "2026-08-17T17:26:36.212346857+00:00"
           }
         ]
       }
@@ -26028,7 +26048,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G766USQS8CZF1/G766UOYN8CZF1/G766USQS8CZF1",
+        "latest_official": "G766USQS9CZG1/G766UOYN9CZG1/G766USQS9CZG1",
         "test_firmwares": [
           {
             "firmware": "G766USQS3AYI1/G766UOYN3AYI1/G766USQS3AYI1",
@@ -26249,6 +26269,11 @@
             "firmware": "G766USQS9CZG1/G766UOYN9CZG1/G766USQS9CZG1",
             "md5": "03f594d4a9ec8a08c5778b6d46577d9c",
             "found_at": "2026-07-03T07:22:09.993548053+00:00"
+          },
+          {
+            "firmware": "G766USQS9CZH1/G766UOYN9CZH1/G766USQS9CZH1",
+            "md5": "364ce791de7e7c959c0588d2dea0586b",
+            "found_at": "2026-08-17T17:57:42.529644930+00:00"
           }
         ]
       }
@@ -26258,7 +26283,7 @@
     "name": "Galaxy XCover7 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G766U1UES8CZF1/G766U1OYM8CZF1/G766U1UES8CZF1",
+        "latest_official": "G766U1UES9CZG1/G766U1OYM9CZG1/G766U1UES9CZG1",
         "test_firmwares": [
           {
             "firmware": "G766U1UES3AYI1/G766U1OYM3AYI1/G766U1UES3AYI1",
@@ -26469,6 +26494,11 @@
             "firmware": "G766U1UES9CZG1/G766U1OYM9CZG1/G766U1UES9CZG1",
             "md5": "0b04fe32580b4d5a07151d0d483f797d",
             "found_at": "2026-07-06T13:54:01.111945560+00:00"
+          },
+          {
+            "firmware": "G766U1UES9CZH1/G766U1OYM9CZH1/G766U1UES9CZH1",
+            "md5": "7f2cb03b07a2cbeea641778be5cc6d2b",
+            "found_at": "2026-08-17T12:27:23.456067472+00:00"
           }
         ]
       }
@@ -31569,6 +31599,11 @@
             "firmware": "S721USQSEDZH2/S721UOYNEDZH2/S721USQSEDZH2",
             "md5": "1a1d107fa83660b302a96f3024175b2f",
             "found_at": "2026-08-05T14:14:31.229459351+00:00"
+          },
+          {
+            "firmware": "S721USQSEDZH9/S721UOYNEDZH9/S721USQSEDZH9",
+            "md5": "a23bc405759b19a8641874f1de022991",
+            "found_at": "2026-08-17T11:44:29.635353828+00:00"
           }
         ]
       }
@@ -31789,6 +31824,11 @@
             "firmware": "S721U1UESEDZH2/S721U1OYMEDZH2/S721U1UESEDZH2",
             "md5": "effd78154213091fb5812153a97bfcb6",
             "found_at": "2026-08-05T14:14:33.928090213+00:00"
+          },
+          {
+            "firmware": "S721U1UESEDZH9/S721U1OYMEDZH9/S721U1UESEDZH9",
+            "md5": "7b100b3a5dbb1146af688c9883e73437",
+            "found_at": "2026-08-17T17:57:51.181807356+00:00"
           }
         ]
       }

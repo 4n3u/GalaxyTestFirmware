@@ -10919,6 +10919,11 @@
             "firmware": "A576BXXS5AZH1/A576BOXM5AZH1/A576BXXS5AZH1",
             "md5": "a055da92df228735148b1a854e3c00a1",
             "found_at": "2026-08-03T11:32:13.060003975+00:00"
+          },
+          {
+            "firmware": "A576BXXS5AZH3/A576BOXM5AZH3/A576BXXS5AZH3",
+            "md5": "76a6eb0a888c55b7df8e3c05d35b0738",
+            "found_at": "2026-08-17T00:58:46.788759996+00:00"
           }
         ]
       }

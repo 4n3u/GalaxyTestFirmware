@@ -3178,7 +3178,7 @@
     "name": "Galaxy A17",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A175FXXS5CZF1/A175FOXM5CZF1/A175FXXS5CZF1",
+        "latest_official": "A175FXXS6CZG1/A175FOXM6CZG1/A175FXXS6CZG1",
         "test_firmwares": [
           {
             "firmware": "A175FXXU1BYI1/A175FOXM1BYI1/A175FXXU1BYI1",
@@ -3509,6 +3509,11 @@
             "firmware": "A175FXXS6CZG2/A175FOXM6CZG2/A175FXXS6CZG1",
             "md5": "c1d08e80251c092eba361d9d101f7f30",
             "found_at": "2026-07-15T06:17:05.923225969+00:00"
+          },
+          {
+            "firmware": "A175FXXS7CZH3/A175FOXM7CZH3/A175FXXS7CZH3",
+            "md5": "accb88f6ad27e617d08beb801278df34",
+            "found_at": "2026-08-18T12:04:26.143255189+00:00"
           }
         ]
       }

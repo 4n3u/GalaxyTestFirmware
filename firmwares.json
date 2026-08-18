@@ -6729,6 +6729,11 @@
             "firmware": "A356USQSCDZH1/A356UOYNCDZH1/A356USQSCDZH1",
             "md5": "dd09f892efd75ad72f7aa272ac2e374f",
             "found_at": "2026-08-17T10:54:32.012985506+00:00"
+          },
+          {
+            "firmware": "A356USQSCDZH2/A356UOYNCDZH2/A356USQSCDZH2",
+            "md5": "a4469251108b55770b616ce0625e69b7",
+            "found_at": "2026-08-18T07:37:01.036780372+00:00"
           }
         ]
       }
@@ -7883,7 +7888,7 @@
     "name": "Galaxy A37 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A376USQS3AZF1/A376UOYN3AZF1/A376USQS3AZF1",
+        "latest_official": "A376USQS4AZG1/A376UOYN4AZG1/A376USQS4AZG1",
         "test_firmwares": [
           {
             "firmware": "A376USQS2AZC1/A376UOYN2AZC1/A376USQS2AZC1",
@@ -7949,6 +7954,11 @@
             "firmware": "A376USQS4AZG1/A376UOYN4AZG1/A376USQS4AZG1",
             "md5": "b1a4f1359711d2051c8cca454ed7d439",
             "found_at": "2026-07-14T11:35:44.227116850+00:00"
+          },
+          {
+            "firmware": "A376USQS5AZH1/A376UOYN5AZH1/A376USQS5AZH1",
+            "md5": "6d243160c7ff5cc90a8216bf5285303c",
+            "found_at": "2026-08-18T07:42:43.765933329+00:00"
           }
         ]
       }
@@ -61768,7 +61778,7 @@
     "name": "Galaxy Tab Active5 Pro 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X356BXXS8CZF2/X356BOXM8CZF2/X356BXXS8CZF2",
+        "latest_official": "X356BXXS9CZG3/X356BOXM9CZG3/X356BXXS9CZG3",
         "test_firmwares": [
           {
             "firmware": "X356BXXS3AYI1/X356BOXM3AYI1/X356BXXS3AYI1",
@@ -62019,6 +62029,11 @@
             "firmware": "X356BXXS9CZG3/X356BOXM9CZG3/X356BXXS9CZG3",
             "md5": "4ef9de59ae1def7a37e6f3bde4788cbb",
             "found_at": "2026-07-09T11:04:23.238039440+00:00"
+          },
+          {
+            "firmware": "X356BXXSACZH4/X356BOXMACZH4/X356BXXSACZH4",
+            "md5": "7130768bd3f10503860d7c16e6d95219",
+            "found_at": "2026-08-18T06:57:22.769012733+00:00"
           }
         ]
       }

@@ -10673,7 +10673,7 @@
     "name": "Galaxy A57 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5760ZCS3AZF4/A5760CHC3AZF4/A5760ZCS3AZF4",
+        "latest_official": "A5760ZCS4AZG5/A5760CHC4AZG5/A5760ZCS4AZG5",
         "test_firmwares": [
           {
             "firmware": "A5760ZCU1AZA3/A5760CHC1AZA3/A5760ZCU1AZA3",
@@ -10799,6 +10799,11 @@
             "firmware": "A5760ZCS4AZG5/A5760CHC4AZG5/A5760ZCS4AZG5",
             "md5": "b1428a8ffbb4d42f6b29668d20c4a912",
             "found_at": "2026-07-15T13:54:20.458190712+00:00"
+          },
+          {
+            "firmware": "A5760ZCS5AZH3/A5760CHC5AZH3/A5760ZCS5AZH3",
+            "md5": "83e18b1cff868863d5947b504697ede6",
+            "found_at": "2026-08-18T15:31:36.088141041+00:00"
           }
         ]
       }
@@ -62048,7 +62053,7 @@
     "name": "Galaxy Tab Active5 Pro 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X358UUES8CZF1/X358UOYM8CZF1/X358UUES8CZF1",
+        "latest_official": "X358UUES9CZG3/X358UOYM9CZG3/X358UUES9CZG3",
         "test_firmwares": [
           {
             "firmware": "X358UUES3AYI1/X358UOYM3AYI1/X358UUES3AYI1",
@@ -62249,6 +62254,11 @@
             "firmware": "X358UUES9CZG3/X358UOYM9CZG3/X358UUES9CZG3",
             "md5": "9a088c9cd331f9c5ecd5187781b463bd",
             "found_at": "2026-07-09T15:07:16.188793159+00:00"
+          },
+          {
+            "firmware": "X358UUESACZH4/X358UOYMACZH4/X358UUESACZH4",
+            "md5": "6b2679ff468431a5151823c6c7eea1a9",
+            "found_at": "2026-08-18T16:47:19.565260228+00:00"
           }
         ]
       }

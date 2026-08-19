@@ -8734,6 +8734,11 @@
             "firmware": "A536USQUNGZH1/A536UOYNNGZH1/A536USQUNGZH1",
             "md5": "76ac076839433a1f9b93f62832d6b3c2",
             "found_at": "2026-08-10T13:17:15.381921712+00:00"
+          },
+          {
+            "firmware": "A536USQSOGZH2/A536UOYNOGZH2/A536USQSOGZH2",
+            "md5": "6c5f7eba5046f841cab035499f77ac7b",
+            "found_at": "2026-08-19T11:46:23.174166040+00:00"
           }
         ]
       }
@@ -11038,7 +11043,7 @@
     "name": "Galaxy A57 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A576U1UES3AZF4/A576U1OYM3AZF4/A576U1UES3AZF4",
+        "latest_official": "A576U1UES4AZG5/A576U1OYM4AZG5/A576U1UES4AZG5",
         "test_firmwares": [
           {
             "firmware": "A576U1UEU1AZA3/A576U1OYM1AZA3/A576U1UEU1AZA3",
@@ -11169,6 +11174,11 @@
             "firmware": "A576U1UES4AZG5/A576U1OYM4AZG5/A576U1UES4AZG5",
             "md5": "fa4f7b82009dab65a8e527bd3eb50961",
             "found_at": "2026-07-15T02:32:17.778854564+00:00"
+          },
+          {
+            "firmware": "A576U1UES5AZH3/A576U1OYM5AZH3/A576U1UES5AZH3",
+            "md5": "07f43180e13989687de56ffdbbca8032",
+            "found_at": "2026-08-19T12:02:32.477586635+00:00"
           }
         ]
       }
@@ -25628,7 +25638,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G736USQSEGZF3/G736UOYNEGZF3/G736USQSEGZF3",
+        "latest_official": "G736USQSEGZG2/G736UOYNEGZG2/G736USQSEGZG2",
         "test_firmwares": [
           {
             "firmware": "G736USQSEGZE1/G736UOYNEGZE1/G736USQSEGZE1",
@@ -25659,6 +25669,11 @@
             "firmware": "G736USQSEGZG2/G736UOYNEGZG2/G736USQSEGZG2",
             "md5": "76274e9551b75fa44f8e842a3720be2e",
             "found_at": "2026-07-13T14:43:32.433258959+00:00"
+          },
+          {
+            "firmware": "G736USQSEGZH1/G736UOYNEGZH1/G736USQSEGZH1",
+            "md5": "029b0c8fc0cc6aa3b545d8ae6195e530",
+            "found_at": "2026-08-19T12:22:54.178580954+00:00"
           }
         ]
       }
@@ -25668,7 +25683,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "G736U1UESCGZF2/G736U1OYMCGZF2/G736U1UESCGZF2",
+        "latest_official": "G736U1UESCGZG2/G736U1OYMCGZG2/G736U1UESCGZG2",
         "test_firmwares": [
           {
             "firmware": "G736U1UESAFYF2/G736U1OYMAFYF2/G736U1UESAFYF2",
@@ -25864,6 +25879,11 @@
             "firmware": "G736U1UESCGZG2/G736U1OYMCGZG2/G736U1UESCGZG2",
             "md5": "15a6cd1f158d4a62fc5eb24d684390e0",
             "found_at": "2026-07-13T14:43:34.227220678+00:00"
+          },
+          {
+            "firmware": "G736U1UESCGZH1/G736U1OYMCGZH1/G736U1UESCGZH1",
+            "md5": "3f4dffb791389bf0f5e440a8f2251954",
+            "found_at": "2026-08-19T12:23:32.292072528+00:00"
           }
         ]
       }
@@ -58159,6 +58179,11 @@
             "firmware": "S948BXXU4AZHA/S948BOXM4AZHA/S948BXXU4AZHA",
             "md5": "97cc7d680b21cd4fea5cf6c17509778e",
             "found_at": "2026-08-14T14:04:04.955456897+00:00"
+          },
+          {
+            "firmware": "S948BXXU4AZHC/S948BOXM4AZHC/S948BXXU4AZHC",
+            "md5": "1158521c7e15343f944289d3eac8c413",
+            "found_at": "2026-08-19T15:12:28.307335870+00:00"
           }
         ]
       }
@@ -58354,6 +58379,11 @@
             "firmware": "S948NKSU4AZHA/S948NOKR4AZHA/S948NKSS4AZG1",
             "md5": "f6230dc927ced78b9603730131cc18f6",
             "found_at": "2026-08-14T16:39:50.840086691+00:00"
+          },
+          {
+            "firmware": "S948NKSU4AZHC/S948NOKR4AZHC/S948NKSS4AZG1",
+            "md5": "276019d15f18347b44de574deb42af63",
+            "found_at": "2026-08-19T12:59:30.578698425+00:00"
           }
         ]
       }
@@ -58629,6 +58659,11 @@
             "firmware": "S948USQU4AZH5/S948UOYN4AZH5/S948USQU4AZH5",
             "md5": "697741f45525c37acc34f237b2ef1a2e",
             "found_at": "2026-08-14T14:06:30.933531966+00:00"
+          },
+          {
+            "firmware": "S948USQU4AZHC/S948UOYN4AZHC/S948USQU4AZHC",
+            "md5": "4f28f0427ec57b570abbc36806b5ef64",
+            "found_at": "2026-08-19T13:00:13.836745436+00:00"
           }
         ]
       }
@@ -58804,6 +58839,11 @@
             "firmware": "S948U1UEU4AZH5/S948U1OYM4AZH5/S948U1UEU4AZH5",
             "md5": "b7af270da7682e9ef8b2b8fc7291f320",
             "found_at": "2026-08-14T18:17:47.492036615+00:00"
+          },
+          {
+            "firmware": "S948U1UEU4AZHC/S948U1OYM4AZHC/S948U1UEU4AZHC",
+            "md5": "e40fa85f90f996e43ab9bb54eb2b6139",
+            "found_at": "2026-08-19T15:15:04.294641100+00:00"
           }
         ]
       }
@@ -60823,7 +60863,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "X236BXXS5BZF2/X236BOXM5BZF2/X236BXXS5BZF2",
+        "latest_official": "X236BXXS6BZG2/X236BOXM6BZG2/X236BXXS6BZG2",
         "test_firmwares": [
           {
             "firmware": "X236BXXU2AZA4/X236BOXM2AZA4/X236BXXU2AZA4",
@@ -60984,6 +61024,11 @@
             "firmware": "X236BXXS6BZG2/X236BOXM6BZG2/X236BXXS6BZG2",
             "md5": "8b9f863e4947387f1d94489e459ba8bf",
             "found_at": "2026-07-14T09:59:28.812691477+00:00"
+          },
+          {
+            "firmware": "X236BXXS7BZH2/X236BOXM7BZH2/X236BXXS7BZH2",
+            "md5": "c23a37d0dca05ef6cb146fb56dc26e89",
+            "found_at": "2026-08-19T12:21:22.068479102+00:00"
           }
         ]
       }

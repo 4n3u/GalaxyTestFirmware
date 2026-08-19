@@ -2048,7 +2048,7 @@
     "name": "Galaxy A16",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A165FXXSADZF2/A165FOXMADZF2/A165FXXSADZF3",
+        "latest_official": "A165FXXSADZG3/A165FOXMADZG3/A165FXXSADZF3",
         "test_firmwares": [
           {
             "firmware": "A165FXXS5BYJ1/A165FOXM5BYJ1/A165FXXS5BYJ1",
@@ -2254,6 +2254,11 @@
             "firmware": "A165FXXSADZF2/A165FOXMADZF2/A165FXXSADZF3",
             "md5": "0c97a56644db14e47184060dc9c7db1e",
             "found_at": "2026-07-15T15:29:22.930016709+00:00"
+          },
+          {
+            "firmware": "A165FXXSBDZH3/A165FOXMBDZH3/A165FXXSBDZH3",
+            "md5": "d55e8cc9a1b5a075765852b38a6379c2",
+            "found_at": "2026-08-19T07:07:38.104771696+00:00"
           }
         ]
       }
@@ -3514,6 +3519,11 @@
             "firmware": "A175FXXS7CZH3/A175FOXM7CZH3/A175FXXS7CZH3",
             "md5": "accb88f6ad27e617d08beb801278df34",
             "found_at": "2026-08-18T12:04:26.143255189+00:00"
+          },
+          {
+            "firmware": "A175FXXS7CZH4/A175FOXM7CZH4/A175FXXS7CZH3",
+            "md5": "65fadbf9b6ca2d247b8d42c931217e68",
+            "found_at": "2026-08-19T05:18:53.345079679+00:00"
           }
         ]
       }
@@ -4388,7 +4398,7 @@
     "name": "Galaxy A24",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "A245NKSU9FZF1/A245NOKR9FZF1/A245NKSU9FZE8",
+        "latest_official": "A245NKSSAFZG4/A245NOKRAFZG4/A245NKSSAFZG4",
         "test_firmwares": [
           {
             "firmware": "A245NKSS7DYH1/A245NOKR7DYH1/A245NKSS7DYH1",
@@ -4624,6 +4634,11 @@
             "firmware": "A245NKSSAFZG4/A245NOKRAFZG4/A245NKSSAFZG4",
             "md5": "710435724210f0fe7ac7a725f4cf0c2e",
             "found_at": "2026-07-14T02:31:36.783891046+00:00"
+          },
+          {
+            "firmware": "A245NKSSBFZH4/A245NOKRBFZH4/A245NKSSBFZH4",
+            "md5": "d48ded29d0f56af8b9dd184b00e65de3",
+            "found_at": "2026-08-19T07:19:29.346236162+00:00"
           }
         ]
       }
@@ -7978,7 +7993,7 @@
     "name": "Galaxy A37 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A376U1UES3AZF1/A376U1OYM3AZF1/A376U1UES3AZF1",
+        "latest_official": "A376U1UES4AZG1/A376U1OYM4AZG1/A376U1UES4AZG1",
         "test_firmwares": [
           {
             "firmware": "A376U1UES2AZC1/A376U1OYM2AZC1/A376U1UES2AZC1",
@@ -8024,6 +8039,11 @@
             "firmware": "A376U1UES4AZG1/A376U1OYM4AZG1/A376U1UES4AZG1",
             "md5": "b6e224fb86253b2c40abdc29676e3ba9",
             "found_at": "2026-07-15T06:21:35.702156421+00:00"
+          },
+          {
+            "firmware": "A376U1UES5AZH1/A376U1OYM5AZH1/A376U1UES5AZH1",
+            "md5": "6425f00ccd4be506feeab881cbffdae2",
+            "found_at": "2026-08-19T05:51:19.485174287+00:00"
           }
         ]
       }
@@ -25383,7 +25403,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G736BXXSCGZF2/G736BOXMCGZF2/G736BXXSCGZF2",
+        "latest_official": "G736BXXSCGZG2/G736BOXMCGZG2/G736BXXSCGZG2",
         "test_firmwares": [
           {
             "firmware": "G736BXXSAFYF1/G736BOXMAFYF1/G736BXXSAFYF1",
@@ -25579,6 +25599,11 @@
             "firmware": "G736BXXSCGZG2/G736BOXMCGZG2/G736BXXSCGZG2",
             "md5": "2a9ba4d41d7d4814a4d3ec48f35c9218",
             "found_at": "2026-07-13T14:43:29.325990623+00:00"
+          },
+          {
+            "firmware": "G736BXXSCGZH1/G736BOXMCGZH1/G736BXXSCGZH1",
+            "md5": "5f4624b46f58da01121847ca0802d0f4",
+            "found_at": "2026-08-19T05:41:50.627636416+00:00"
           }
         ]
       }
@@ -33129,6 +33154,11 @@
             "firmware": "S731U1UES9BZF7/S731U1OYM9BZF7/S731U1UES9BZF7",
             "md5": "33c51a2cb30a66d2de89d5d5889967ee",
             "found_at": "2026-07-29T10:46:31.971628494+00:00"
+          },
+          {
+            "firmware": "S731U1UES9BZF9/S731U1OYM9BZF9/S731U1UES9BZF9",
+            "md5": "f90ec2a2b0af18c055aebb319dc3361c",
+            "found_at": "2026-08-19T06:02:39.626351489+00:00"
           }
         ]
       }

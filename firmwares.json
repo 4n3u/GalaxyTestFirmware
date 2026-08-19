@@ -5754,6 +5754,11 @@
             "firmware": "A336BXXUJGZH1/A336BOXMJGZH1/A336BXXUJGZH1",
             "md5": "90447591e49abd8a7d74ac5733bd9734",
             "found_at": "2026-08-10T07:45:26.261872421+00:00"
+          },
+          {
+            "firmware": "A336BXXSKGZH2/A336BOXMKGZH2/A336BXXSKGZH2",
+            "md5": "617a5dcdc669cac59ebae3194c03f5c0",
+            "found_at": "2026-08-19T03:53:30.691594310+00:00"
           }
         ]
       }
@@ -8549,6 +8554,11 @@
             "firmware": "A536BXXUNGZH1/A536BOXMNGZH1/A536BXXUNGZH1",
             "md5": "e3b1bac59fb547e8c26e27e16139df0f",
             "found_at": "2026-08-10T09:26:30.191641087+00:00"
+          },
+          {
+            "firmware": "A536BXXSOGZH2/A536BOXMOGZH2/A536BXXSOGZH2",
+            "md5": "59d94711936aa769e1be3ceffa33ad91",
+            "found_at": "2026-08-19T04:23:25.368707222+00:00"
           }
         ]
       }

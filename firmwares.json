@@ -2268,7 +2268,7 @@
     "name": "Galaxy A16",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "A165NKSS7DZF1/A165NOKR7DZF1/A165NKSU7DZE7",
+        "latest_official": "A165NKSS8DZG1/A165NOKR8DZG1/A165NKSS8DZG1",
         "test_firmwares": [
           {
             "firmware": "A165NKSS3BYH1/A165NOKR3BYH1/A165NKSS3BYH1",
@@ -2454,6 +2454,11 @@
             "firmware": "A165NKSS8DZG1/A165NOKR8DZG1/A165NKSS8DZG1",
             "md5": "4c1cdd0fc210e9ad7bbec00351cf3f16",
             "found_at": "2026-07-08T14:07:30.831103591+00:00"
+          },
+          {
+            "firmware": "A165NKSS9DZH3/A165NOKR9DZH3/A165NKSS9DZH3",
+            "md5": "498de076beabf5d7ad1d18e35e0aa098",
+            "found_at": "2026-08-19T09:03:11.220887006+00:00"
           }
         ]
       }
@@ -5424,6 +5429,11 @@
             "firmware": "A276BXXS3AZH1/A276BOXM3AZH1/A276BXXS3AZH1",
             "md5": "da02e3a3160ce4c2699b14461a425f44",
             "found_at": "2026-08-12T11:04:21.098388947+00:00"
+          },
+          {
+            "firmware": "A276BXXU2AZH4/A276BOXM2AZH4/A276BXXU2AZH4",
+            "md5": "691aef94fc25944cbe47f6dfcd0f7dea",
+            "found_at": "2026-08-19T09:28:19.347768466+00:00"
           }
         ]
       }
@@ -6959,6 +6969,11 @@
             "firmware": "A356U1UESBDZG4/A356U1OYMBDZG4/A356U1UESBDZG4",
             "md5": "cb5d2f01b6c0e865fba8bd1db58c6b69",
             "found_at": "2026-07-27T17:47:12.986423734+00:00"
+          },
+          {
+            "firmware": "A356U1UESCDZH1/A356U1OYMCDZH1/A356U1UESCDZH1",
+            "md5": "f8a7adae8dba3f8dace2c40a95241de7",
+            "found_at": "2026-08-19T08:43:18.308716499+00:00"
           }
         ]
       }

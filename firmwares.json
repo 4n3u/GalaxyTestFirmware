@@ -3899,6 +3899,11 @@
             "firmware": "A176BXXS6CZG7/A176BOXM6CZG7/A176BXXS6CZG7",
             "md5": "462569eb4fa94b04aa2cd5aa19a7064f",
             "found_at": "2026-08-03T11:25:07.920257090+00:00"
+          },
+          {
+            "firmware": "A176BXXS7CZH2/A176BOXM7CZH2/A176BXXS7CZH2",
+            "md5": "ec4f97817584e9a53f9d1f206980af9f",
+            "found_at": "2026-08-20T07:19:27.072332096+00:00"
           }
         ]
       }
@@ -4059,6 +4064,11 @@
             "firmware": "A176USQS6BZG2/A176UOYN6BZG2/A176USQS6BZG2",
             "md5": "e15666c85c8143e76641308393fd4545",
             "found_at": "2026-07-30T06:30:33.726327596+00:00"
+          },
+          {
+            "firmware": "A176USQS7BZH9/A176UOYN7BZH9/A176USQS7BZH9",
+            "md5": "b1fac922a28b62b89b3f3bbc508cf6e1",
+            "found_at": "2026-08-20T07:20:10.712083371+00:00"
           }
         ]
       }
@@ -9994,6 +10004,11 @@
             "firmware": "A556BXXSHDZH4/A556BOXMHDZH4/A556BXXSHDZH4",
             "md5": "75c92505fdf6039a022c0a0023d2d381",
             "found_at": "2026-08-17T09:32:04.932756311+00:00"
+          },
+          {
+            "firmware": "A556BXXSHDZH6/A556BOXMHDZH6/A556BXXSHDZH6",
+            "md5": "c823c9272d59f3960cc0ce79be0bf5c4",
+            "found_at": "2026-08-20T08:54:20.243026873+00:00"
           }
         ]
       }
@@ -29183,7 +29198,7 @@
     "name": "Galaxy Watch4 Classic",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "R8950ZCS2JZE1/R8950CHC2JZE1/R8950ZCS2JZE1",
+        "latest_official": "R8950ZCS2JZG3/R8950CHC2JZG3/R8950ZCS2JZG3",
         "test_firmwares": [
           {
             "firmware": "R8950ZCU1IYB3/R8950CHC1IYB3/R8950ZCU1IYB3",
@@ -29389,6 +29404,11 @@
             "firmware": "R8950ZCS2JZE1/R8950CHC2JZE1/R8950ZCS2JZE1",
             "md5": "ee7aa0135ecfbb507bc28067259070ec",
             "found_at": "2026-06-23T08:02:07.406554460+00:00"
+          },
+          {
+            "firmware": "R8950ZCS2JZG3/R8950CHC2JZG3/R8950ZCS2JZG3",
+            "md5": "3cc18864b228c4e521da70b3a61e46f6",
+            "found_at": "2026-08-20T08:32:17.037932050+00:00"
           }
         ]
       }

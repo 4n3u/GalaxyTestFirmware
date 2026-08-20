@@ -4204,6 +4204,11 @@
             "firmware": "A176U1UES6BZG2/A176U1OYM6BZG2/A176U1UES6BZG2",
             "md5": "26a31ed148433b328631dd7e9c427fe7",
             "found_at": "2026-08-04T14:12:18.324335401+00:00"
+          },
+          {
+            "firmware": "A176U1UES7BZH9/A176U1OYM7BZH9/A176U1UES7BZH9",
+            "md5": "7cfa229f891d7125d01b6a9a497265b7",
+            "found_at": "2026-08-20T18:12:19.404457871+00:00"
           }
         ]
       }
@@ -5034,6 +5039,11 @@
             "firmware": "A256U1UESDEZG4/A256U1OYMDEZG4/A256U1UESDEZG4",
             "md5": "61761a9503fb59f94593ef67f51eea04",
             "found_at": "2026-08-17T11:13:01.093285582+00:00"
+          },
+          {
+            "firmware": "A256U1UESEEZH9/A256U1OYMEEZH9/A256U1UESEEZH9",
+            "md5": "c66791999b3272943f8764c1171467d4",
+            "found_at": "2026-08-20T16:09:56.488436803+00:00"
           }
         ]
       }
@@ -8944,6 +8954,11 @@
             "firmware": "A536U1UEUNGZH1/A536U1OYMNGZH1/A536U1UEUNGZH1",
             "md5": "ecbbe60f37daa241dea4b3d579bff485",
             "found_at": "2026-08-11T13:13:28.200805381+00:00"
+          },
+          {
+            "firmware": "A536U1UESOGZH2/A536U1OYMOGZH2/A536U1UESOGZH2",
+            "md5": "c14162084e26832bf4130c8c8cb3c990",
+            "found_at": "2026-08-20T17:01:21.680053232+00:00"
           }
         ]
       }
@@ -9374,6 +9389,11 @@
             "firmware": "A546USQSMFZH2/A546UOYNMFZH2/A546USQSMFZH2",
             "md5": "9b0dd42e4f465486896971779bbf3c74",
             "found_at": "2026-08-17T09:34:02.284058403+00:00"
+          },
+          {
+            "firmware": "A546USQSMFZH3/A546UOYNMFZH3/A546USQSMFZH3",
+            "md5": "2de47578796a390ec38f7acdd8ac42dc",
+            "found_at": "2026-08-20T17:04:03.060517136+00:00"
           }
         ]
       }
@@ -61408,7 +61428,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X238U1UES6BZF4/X238U1OYM6BZF4/X238U1UES6BZF4",
+        "latest_official": "X238U1UES7BZG2/X238U1OYM7BZG2/X238U1UES7BZG2",
         "test_firmwares": [
           {
             "firmware": "X238U1UES3AZB2/X238U1OYM3AZB2/X238U1UES3AZB2",
@@ -61504,6 +61524,11 @@
             "firmware": "X238U1UES7BZG2/X238U1OYM7BZG2/X238U1UES7BZG2",
             "md5": "16d1748c6f078ecae2561421d5806015",
             "found_at": "2026-07-16T10:16:46.534396439+00:00"
+          },
+          {
+            "firmware": "X238U1UES8BZH2/X238U1OYM8BZH2/X238U1UES8BZH2",
+            "md5": "de26d613a233d15e400559b4cb802c78",
+            "found_at": "2026-08-20T15:13:09.398743541+00:00"
           }
         ]
       }
@@ -61974,6 +61999,11 @@
             "firmware": "X308UUESEDZH1/X308UOYMEDZH1/X308UUESEDZH1",
             "md5": "fce8c5581f943009daee8892406aa40b",
             "found_at": "2026-08-20T14:08:06.092903756+00:00"
+          },
+          {
+            "firmware": "X308UUESEDZH2/X308UOYMEDZH2/X308UUESEDZH2",
+            "md5": "2abe34f340b6de932317316f77600cc8",
+            "found_at": "2026-08-20T17:45:56.000385329+00:00"
           }
         ]
       }
@@ -63188,7 +63218,7 @@
     "name": "Galaxy Tab S9 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X518USQSEEZF1/X518UOYNEEZF1/X518USQSEEZF1",
+        "latest_official": "X518USQSFEZG3/X518UOYNFEZG3/X518USQSFEZG3",
         "test_firmwares": [
           {
             "firmware": "X518USQSACYH2/X518UOYNACYH2/X518USQSACYH2",
@@ -63444,6 +63474,11 @@
             "firmware": "X518USQSFEZG3/X518UOYNFEZG3/X518USQSFEZG3",
             "md5": "33b899fa3a0d7bcc00c8841214d06866",
             "found_at": "2026-07-16T13:53:31.736198809+00:00"
+          },
+          {
+            "firmware": "X518USQSGEZH5/X518UOYNGEZH5/X518USQSGEZH5",
+            "md5": "c0ffa93f4e4d843f1c86cd83fba7d133",
+            "found_at": "2026-08-20T18:22:56.609653947+00:00"
           }
         ]
       }

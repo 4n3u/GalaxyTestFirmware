@@ -903,7 +903,7 @@
     "name": "Galaxy A15",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A155FXXUAEZF1/A155FOXMAEZE3/A155FXXUAEZE3",
+        "latest_official": "A155FXXSBEZG1/A155FOXMBEZG1/A155FXXSBEZG2",
         "test_firmwares": [
           {
             "firmware": "A155FXXS7CYG1/A155FOXM7CYG1/A155FXXS7CYG1",
@@ -1099,6 +1099,16 @@
             "firmware": "A155FXXSBEZG1/A155FOXMBEZG1/A155FXXSBEZG2",
             "md5": "886691a813bb876c8a7623d38462bfb4",
             "found_at": "2026-07-14T06:13:25.513334824+00:00"
+          },
+          {
+            "firmware": "A155FXXSCEZH1/A155FOXMCEZH1/A155FXXSCEZH1",
+            "md5": "c8f7e6038f87cbb0c9c3f14dbfe42e9a",
+            "found_at": "2026-08-21T02:11:18.643610333+00:00"
+          },
+          {
+            "firmware": "A155FXXSCEZH1/A155FOXMCEZH1/A155FXXSCEZH2",
+            "md5": "e168b8af7214455603420d3204529d17",
+            "found_at": "2026-08-21T02:11:18.644042047+00:00"
           }
         ]
       }

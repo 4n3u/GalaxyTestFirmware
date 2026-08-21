@@ -7048,7 +7048,7 @@
     "name": "Galaxy A36 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "A3660ZHS8CZF1/A3660OZS8CZF1/A3660ZHS8CZF1",
+        "latest_official": "A3660ZHS9CZG1/A3660OZS9CZG1/A3660ZHS9CZG1",
         "test_firmwares": [
           {
             "firmware": "A3660ZHU3BYG2/A3660OZS3BYG2/A3660ZHU3BYG2",
@@ -7204,6 +7204,11 @@
             "firmware": "A3660ZHS9CZG1/A3660OZS9CZG1/A3660ZHS9CZG1",
             "md5": "d48eda249990f7cce10a93fee74a5f01",
             "found_at": "2026-07-16T13:56:26.475503408+00:00"
+          },
+          {
+            "firmware": "A3660ZHSACZH1/A3660OZSACZH1/A3660ZHSACZH1",
+            "md5": "a2c747a34682048bf392879392b87a13",
+            "found_at": "2026-08-21T05:44:33.926108335+00:00"
           }
         ]
       }
@@ -9624,6 +9629,11 @@
             "firmware": "A546U1UESMFZH2/A546U1OYMMFZH2/A546U1UESMFZH2",
             "md5": "73eb48107c06d289483490e5919b3dbb",
             "found_at": "2026-08-17T17:26:36.212346857+00:00"
+          },
+          {
+            "firmware": "A546U1UESMFZH3/A546U1OYMMFZH3/A546U1UESMFZH3",
+            "md5": "4f37b30aebae83aa5db00938c8a86998",
+            "found_at": "2026-08-21T05:51:14.407629358+00:00"
           }
         ]
       }
@@ -46794,6 +46804,11 @@
             "firmware": "S931BXXSCCZH1/S931BOXMCCZH1/S931BXXSCCZH1",
             "md5": "c70622fd26f86fabd1c4bc65631b5168",
             "found_at": "2026-08-11T10:58:10.869601632+00:00"
+          },
+          {
+            "firmware": "S931BXXSCCZH3/S931BOXMCCZH3/S931BXXSCCZH1",
+            "md5": "78d9cb9ffc7a31c5101494cf79d7c6e3",
+            "found_at": "2026-08-21T04:47:05.327157201+00:00"
           }
         ]
       }
@@ -64178,7 +64193,7 @@
     "name": "Galaxy Tab S10 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X528USQSACZF3/X528UOYNACZF3/X528USQSACZF3",
+        "latest_official": "X528USQSBCZG3/X528UOYNBCZG3/X528USQSBCZG3",
         "test_firmwares": [
           {
             "firmware": "X528USQU6BYI4/X528UOYN6BYI4/X528USQU6BYI4",
@@ -64354,6 +64369,11 @@
             "firmware": "X528USQSBCZG3/X528UOYNBCZG3/X528USQSBCZG3",
             "md5": "908931de04762cf6e53226fae6d4efc5",
             "found_at": "2026-07-15T15:29:11.610740705+00:00"
+          },
+          {
+            "firmware": "X528USQSCCZH6/X528UOYNCCZH6/X528USQSCCZH6",
+            "md5": "494c16100ce7f8662276de4aa1d5277a",
+            "found_at": "2026-08-21T04:47:05.962371704+00:00"
           }
         ]
       }

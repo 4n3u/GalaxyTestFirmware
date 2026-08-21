@@ -10264,6 +10264,11 @@
             "firmware": "A5660ZCSCCZG7/A5660CHCCCZG7/A5660ZCSCCZG7",
             "md5": "d218a0983c18319e61abc46f2c288dc3",
             "found_at": "2026-07-27T07:41:30.338129937+00:00"
+          },
+          {
+            "firmware": "A5660ZCSDCZHB/A5660CHCDCZHB/A5660ZCSDCZHB",
+            "md5": "ac91da9b5fd9095c55a0de92a05ee599",
+            "found_at": "2026-08-21T10:33:15.242866198+00:00"
           }
         ]
       }
@@ -58509,6 +58514,11 @@
             "firmware": "S948NKSU4AZHC/S948NOKR4AZHC/S948NKSS4AZG1",
             "md5": "276019d15f18347b44de574deb42af63",
             "found_at": "2026-08-19T12:59:30.578698425+00:00"
+          },
+          {
+            "firmware": "S948NKSU4AZHE/S948NOKR4AZHE/S948NKSS4AZG1",
+            "md5": "b2c4f97a5a007e66f7efa34b68371a8e",
+            "found_at": "2026-08-21T08:29:01.952527450+00:00"
           }
         ]
       }
@@ -58789,6 +58799,11 @@
             "firmware": "S948USQU4AZHC/S948UOYN4AZHC/S948USQU4AZHC",
             "md5": "4f28f0427ec57b570abbc36806b5ef64",
             "found_at": "2026-08-19T13:00:13.836745436+00:00"
+          },
+          {
+            "firmware": "S948USQU4AZHE/S948UOYN4AZHE/S948USQU4AZHE",
+            "md5": "18a9073e48f9ebf4c873fa69c78a9d66",
+            "found_at": "2026-08-21T08:29:57.255218522+00:00"
           }
         ]
       }
@@ -58969,6 +58984,11 @@
             "firmware": "S948U1UEU4AZHC/S948U1OYM4AZHC/S948U1UEU4AZHC",
             "md5": "e40fa85f90f996e43ab9bb54eb2b6139",
             "found_at": "2026-08-19T15:15:04.294641100+00:00"
+          },
+          {
+            "firmware": "S948U1UEU4AZHE/S948U1OYM4AZHE/S948U1UEU4AZHE",
+            "md5": "01f759351ab9a279e5c400b07008caa2",
+            "found_at": "2026-08-21T08:30:41.324482402+00:00"
           }
         ]
       }

@@ -58314,6 +58314,11 @@
             "firmware": "S948BXXU4AZHC/S948BOXM4AZHC/S948BXXU4AZHC",
             "md5": "1158521c7e15343f944289d3eac8c413",
             "found_at": "2026-08-19T15:12:28.307335870+00:00"
+          },
+          {
+            "firmware": "S948BXXU4AZHJ/S948BOXM4AZHJ/S948BXXU4AZHJ",
+            "md5": "07d237c97b903f5eb1b80ff3cc3e77e5",
+            "found_at": "2026-08-22T15:31:44.215695957+00:00"
           }
         ]
       }
@@ -58524,6 +58529,11 @@
             "firmware": "S948NKSU4AZHG/S948NOKR4AZHG/S948NKSS4AZG1",
             "md5": "bccf1af26c975506f2e482e98466e7ed",
             "found_at": "2026-08-22T08:12:07.514462258+00:00"
+          },
+          {
+            "firmware": "S948NKSU4AZHJ/S948NOKR4AZHJ/S948NKSS4AZG1",
+            "md5": "72cd85a78db7e255756c384e2ffd094a",
+            "found_at": "2026-08-22T13:27:57.705485839+00:00"
           }
         ]
       }
@@ -58814,6 +58824,11 @@
             "firmware": "S948USQU4AZHG/S948UOYN4AZHG/S948USQU4AZHG",
             "md5": "0b6a00bc3609da7cde75c1d8b2ad0ed5",
             "found_at": "2026-08-22T06:35:21.387614267+00:00"
+          },
+          {
+            "firmware": "S948USQU4AZHJ/S948UOYN4AZHJ/S948USQU4AZHJ",
+            "md5": "420ac727a9b8585cbe719f9082e97600",
+            "found_at": "2026-08-22T13:28:51.779422999+00:00"
           }
         ]
       }

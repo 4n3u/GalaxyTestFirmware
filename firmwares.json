@@ -58519,6 +58519,11 @@
             "firmware": "S948NKSU4AZHE/S948NOKR4AZHE/S948NKSS4AZG1",
             "md5": "b2c4f97a5a007e66f7efa34b68371a8e",
             "found_at": "2026-08-21T08:29:01.952527450+00:00"
+          },
+          {
+            "firmware": "S948NKSU4AZHG/S948NOKR4AZHG/S948NKSS4AZG1",
+            "md5": "bccf1af26c975506f2e482e98466e7ed",
+            "found_at": "2026-08-22T08:12:07.514462258+00:00"
           }
         ]
       }

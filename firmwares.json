@@ -58804,6 +58804,11 @@
             "firmware": "S948USQU4AZHE/S948UOYN4AZHE/S948USQU4AZHE",
             "md5": "18a9073e48f9ebf4c873fa69c78a9d66",
             "found_at": "2026-08-21T08:29:57.255218522+00:00"
+          },
+          {
+            "firmware": "S948USQU4AZHG/S948UOYN4AZHG/S948USQU4AZHG",
+            "md5": "0b6a00bc3609da7cde75c1d8b2ad0ed5",
+            "found_at": "2026-08-22T06:35:21.387614267+00:00"
           }
         ]
       }

@@ -3559,6 +3559,11 @@
             "firmware": "A175FXXS7CZH4/A175FOXM7CZH4/A175FXXS7CZH3",
             "md5": "65fadbf9b6ca2d247b8d42c931217e68",
             "found_at": "2026-08-19T05:18:53.345079679+00:00"
+          },
+          {
+            "firmware": "A175FXXS7CZH6/A175FOXM7CZH6/A175FXXS7CZH6",
+            "md5": "6b094df0c693283c109c5790df2664fa",
+            "found_at": "2026-08-24T14:18:02.021548495+00:00"
           }
         ]
       }

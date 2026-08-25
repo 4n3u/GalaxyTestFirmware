@@ -2494,6 +2494,11 @@
             "firmware": "A165NKSS9DZH3/A165NOKR9DZH3/A165NKSS9DZH3",
             "md5": "498de076beabf5d7ad1d18e35e0aa098",
             "found_at": "2026-08-19T09:03:11.220887006+00:00"
+          },
+          {
+            "firmware": "A165NKSS9DZH6/A165NOKR9DZH6/A165NKSS9DZH6",
+            "md5": "d256a8068f2544ca52d28a95454e112e",
+            "found_at": "2026-08-25T17:34:04.247662279+00:00"
           }
         ]
       }

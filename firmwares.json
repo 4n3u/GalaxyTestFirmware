@@ -1109,6 +1109,16 @@
             "firmware": "A155FXXSCEZH1/A155FOXMCEZH1/A155FXXSCEZH2",
             "md5": "e168b8af7214455603420d3204529d17",
             "found_at": "2026-08-21T02:11:18.644042047+00:00"
+          },
+          {
+            "firmware": "A155FXXSCEZH3/A155FOXMCEZH3/A155FXXSCEZH3",
+            "md5": "c30da95247e2cd58785fe016141fc396",
+            "found_at": "2026-08-26T09:48:06.893187876+00:00"
+          },
+          {
+            "firmware": "A155FXXSCEZH3/A155FOXMCEZH3/A155FXXSCEZH2",
+            "md5": "5ec73be81d97c5f92827a38e2893ada8",
+            "found_at": "2026-08-26T09:48:06.895762651+00:00"
           }
         ]
       }
@@ -5569,6 +5579,11 @@
             "firmware": "A276U1UEU2AZH2/A276U1OYM2AZH2/A276U1UEU2AZH2",
             "md5": "6dee9b8212c35585de8f2ae787ab3278",
             "found_at": "2026-08-20T13:37:30.727871589+00:00"
+          },
+          {
+            "firmware": "A276U1UEU2AZH3/A276U1OYM2AZH3/A276U1UEU2AZH3",
+            "md5": "2b4e938661ed4eb8d5dfde677e0991ff",
+            "found_at": "2026-08-26T10:25:50.298378233+00:00"
           }
         ]
       }

@@ -28613,7 +28613,7 @@
     "name": "Galaxy M34 5G",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "M346B2ZHSCEZD8/M346B2OZSCEZD8/M346B2ZHSCEZD8",
+        "latest_official": "M346B2ZHSDFZG7/M346B2OZSDFZG7/M346B2ZHSDFZG7",
         "test_firmwares": [
           {
             "firmware": "M346B2ZHS8DYH1/M346B2OZS8DYH1/M346B2ZHS8DYH1",
@@ -28714,6 +28714,11 @@
             "firmware": "M346B2ZHUCFZE6/M346B2OZSCFZE6/M346B2ZHUCFZE6",
             "md5": "f14d57d6078d235be0d50f065938f258",
             "found_at": "2026-05-14T14:12:25.632727578+00:00"
+          },
+          {
+            "firmware": "M346B2ZHSDFZG7/M346B2OZSDFZG7/M346B2ZHSDFZG7",
+            "md5": "eee1201faf2c341aa18704eb3b33a8e5",
+            "found_at": "2026-08-26T06:50:50.695110308+00:00"
           }
         ]
       }
@@ -58174,6 +58179,11 @@
             "firmware": "S9480ZCU4AZHJ/S9480CHC4AZHJ/S9480ZCU4AZHC",
             "md5": "cacc6f44f9b5dbd517dc93872f7bfd8a",
             "found_at": "2026-08-23T23:53:22.513581775+00:00"
+          },
+          {
+            "firmware": "S9480ZCS4AZHL/S9480CHC4AZHL/S9480ZCS4AZHL",
+            "md5": "0acd1329c63fb4aa4ca16ec1179bebc1",
+            "found_at": "2026-08-26T08:54:38.875793718+00:00"
           }
         ]
       }
@@ -58379,6 +58389,11 @@
             "firmware": "S948BXXU4AZHJ/S948BOXM4AZHJ/S948BXXU4AZHJ",
             "md5": "07d237c97b903f5eb1b80ff3cc3e77e5",
             "found_at": "2026-08-22T15:31:44.215695957+00:00"
+          },
+          {
+            "firmware": "S948BXXS4AZHL/S948BOXM4AZHL/S948BXXS4AZHL",
+            "md5": "421fabe3c6bf683364f7b86457d74fc2",
+            "found_at": "2026-08-26T06:13:40.176790574+00:00"
           }
         ]
       }
@@ -58889,6 +58904,11 @@
             "firmware": "S948USQU4AZHJ/S948UOYN4AZHJ/S948USQU4AZHJ",
             "md5": "420ac727a9b8585cbe719f9082e97600",
             "found_at": "2026-08-22T13:28:51.779422999+00:00"
+          },
+          {
+            "firmware": "S948USQS4AZHL/S948UOYN4AZHL/S948USQS4AZHL",
+            "md5": "af3525d56421ec391216fff67dcb4377",
+            "found_at": "2026-08-26T06:14:21.818950555+00:00"
           }
         ]
       }
@@ -59079,6 +59099,11 @@
             "firmware": "S948U1UEU4AZHJ/S948U1OYM4AZHJ/S948U1UEU4AZHJ",
             "md5": "f8caef6954a5a9d146ac6eff14dbe1a6",
             "found_at": "2026-08-23T10:20:19.011611124+00:00"
+          },
+          {
+            "firmware": "S948U1UES4AZHL/S948U1OYM4AZHL/S948U1UES4AZHL",
+            "md5": "f79144c7efde5426e579f0eb0aba2e15",
+            "found_at": "2026-08-26T08:59:44.879084656+00:00"
           }
         ]
       }

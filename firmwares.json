@@ -5509,6 +5509,11 @@
             "firmware": "A2760ZHU2AZH7/A2760OZS2AZH7/A2760ZHU2AZH7",
             "md5": "8f07bb28abe0993d36e1b7d6bcbaec83",
             "found_at": "2026-08-20T13:34:46.614859038+00:00"
+          },
+          {
+            "firmware": "A2760ZHU2AZH8/A2760OZS2AZH8/A2760ZHU2AZH8",
+            "md5": "91a9d2f9dbffe07dcc54080b8fbbe216",
+            "found_at": "2026-08-26T03:53:39.435429862+00:00"
           }
         ]
       }

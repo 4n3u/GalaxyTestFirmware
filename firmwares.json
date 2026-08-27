@@ -5554,6 +5554,11 @@
             "firmware": "A276BXXU2AZH7/A276BOXM2AZH7/A276BXXU2AZH7",
             "md5": "fe1072e1755251abb2e9e236f8160c09",
             "found_at": "2026-08-20T10:35:50.909743860+00:00"
+          },
+          {
+            "firmware": "A276BXXS3AZHA/A276BOXM3AZHA/A276BXXS3AZHA",
+            "md5": "a165cd8c9bc9970de8e97bd4f5fdaa80",
+            "found_at": "2026-08-27T09:01:24.760789035+00:00"
           }
         ]
       }
@@ -10619,6 +10624,11 @@
             "firmware": "A566BXXSDCZHB/A566BOXMDCZHB/A566BXXSDCZHB",
             "md5": "21e7ed2bc32cd810a246156f298efa15",
             "found_at": "2026-08-20T05:48:08.598767444+00:00"
+          },
+          {
+            "firmware": "A566BXXSDCZHD/A566BOXMDCZHD/A566BXXSDCZHD",
+            "md5": "71d515eb3d133f693a4c3ce414e214fc",
+            "found_at": "2026-08-27T10:00:48.615521863+00:00"
           }
         ]
       }

@@ -18384,6 +18384,11 @@
             "firmware": "F766USQSCBZH5/F766UOYNCBZH5/F766USQSCBZH5",
             "md5": "ebff6a575075bd108763d4f717af4b70",
             "found_at": "2026-08-20T14:26:52.007591615+00:00"
+          },
+          {
+            "firmware": "F766USQSCBZH7/F766UOYNCBZH7/F766USQSCBZH7",
+            "md5": "9f1f72d791f19f71d3b7fa4d31e559ba",
+            "found_at": "2026-08-28T19:43:49.844627677+00:00"
           }
         ]
       }

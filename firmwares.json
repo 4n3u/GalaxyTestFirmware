@@ -808,7 +808,7 @@
     "name": "Galaxy A14 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "A146USQSIEZE5/A146UOYNIEZE5/A146USQSIEZE5",
+        "latest_official": "A146USQSJEZH3/A146UOYNJEZH3/A146USQSJEZH3",
         "test_firmwares": [
           {
             "firmware": "A146USQSIEZE1/A146UOYNIEZE1/A146USQSIEZE1",
@@ -824,6 +824,26 @@
             "firmware": "A146USQSIEZE5/A146UOYNIEZE5/A146USQSIEZE5",
             "md5": "8060022be7b6e5950073acbbd830b84a",
             "found_at": "2026-06-08T09:01:50.690149890+00:00"
+          },
+          {
+            "firmware": "A146USQSJEZH2/A146UOYNJEZH2/A146USQSJEZH2",
+            "md5": "341e730c8fdf9b514d5d8333f6132020",
+            "found_at": "2026-08-31T11:07:00.563915347+00:00"
+          },
+          {
+            "firmware": "A146USQSJEZH3/A146UOYNJEZH3/A146USQSJEZH3",
+            "md5": "eb3ed63cceace58c9e565cb6c4187fb0",
+            "found_at": "2026-08-31T11:07:00.571061174+00:00"
+          },
+          {
+            "firmware": "A146USQUKEZH4/A146UOYNKEZH4/A146USQUKEZH4",
+            "md5": "f04a29a2f9cc54d5bdacac5f156395d2",
+            "found_at": "2026-08-31T11:07:10.690574010+00:00"
+          },
+          {
+            "firmware": "A146USQUKEZH5/A146UOYNKEZH5/A146USQUKEZH5",
+            "md5": "49c8494db7430ad9b0bcd00eef48d9bc",
+            "found_at": "2026-08-31T11:07:10.695716885+00:00"
           }
         ]
       }
@@ -11249,6 +11269,36 @@
             "firmware": "A576BXXS5AZH3/A576BOXM5AZH3/A576BXXS5AZH3",
             "md5": "76a6eb0a888c55b7df8e3c05d35b0738",
             "found_at": "2026-08-17T00:58:46.788759996+00:00"
+          }
+        ]
+      }
+    }
+  },
+  "SM-A576U": {
+    "name": "Galaxy A57 5G",
+    "regional_firmwares": {
+      "ATT": {
+        "latest_official": "A576USQS3AZHA/A576UOYN3AZHA/A576USQS3AZHA",
+        "test_firmwares": [
+          {
+            "firmware": "A576USQS3AZH1/A576UOYN3AZH1/A576USQS3AZH1",
+            "md5": "51dbe1ef99a6968f886c951e4bda125e",
+            "found_at": "2026-08-31T12:11:37.438548557+00:00"
+          },
+          {
+            "firmware": "A576USQS3AZH2/A576UOYN3AZH2/A576USQS3AZH2",
+            "md5": "f8458f4a814fb2faec0e7df34770afc0",
+            "found_at": "2026-08-31T12:11:37.449242081+00:00"
+          },
+          {
+            "firmware": "A576USQS3AZH9/A576UOYN3AZH9/A576USQS3AZH9",
+            "md5": "6766619340a32a5a08ad4625b9d0a5ef",
+            "found_at": "2026-08-31T12:11:37.525986044+00:00"
+          },
+          {
+            "firmware": "A576USQS3AZHA/A576UOYN3AZHA/A576USQS3AZHA",
+            "md5": "81d8e392947ae9d528a54768d2788b27",
+            "found_at": "2026-08-31T12:11:37.540907745+00:00"
           }
         ]
       }

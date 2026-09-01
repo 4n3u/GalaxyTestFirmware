@@ -2704,6 +2704,11 @@
             "firmware": "A1660ZHS9DZG1/A1660OZS9DZG1/A1660ZHS9DZG1",
             "md5": "2cdc625267cd85690aac9f24933f9621",
             "found_at": "2026-08-05T06:30:58.162070983+00:00"
+          },
+          {
+            "firmware": "A1660ZHSADZH1/A1660OZSADZH1/A1660ZHSADZH1",
+            "md5": "b59df3b9be2469ea11ec4c630c46775e",
+            "found_at": "2026-09-01T09:58:54.508575059+00:00"
           }
         ]
       }
@@ -3789,6 +3794,11 @@
             "firmware": "A1760ZHS6CZG7/A1760OZS6CZG7/A1760ZHS6CZG7",
             "md5": "5be3a0e289b564fbf3b23b67b4924d02",
             "found_at": "2026-08-10T03:56:47.025267752+00:00"
+          },
+          {
+            "firmware": "A1760ZHS7CZH2/A1760OZS7CZH2/A1760ZHS7CZH2",
+            "md5": "d0b5bf782340a1de3249413b1f4201a5",
+            "found_at": "2026-09-01T10:04:31.091891611+00:00"
           }
         ]
       }
@@ -6514,6 +6524,11 @@
             "firmware": "A3560ZHSADZG2/A3560OZSADZG2/A3560ZHSADZG2",
             "md5": "cec579bed54f107196b89a125edd8936",
             "found_at": "2026-07-23T10:29:27.687880182+00:00"
+          },
+          {
+            "firmware": "A3560ZHSBDZH1/A3560OZSBDZH1/A3560ZHSBDZH1",
+            "md5": "0247af9522413363555806ae92a7d91c",
+            "found_at": "2026-09-01T10:35:16.355287467+00:00"
           }
         ]
       }
@@ -10408,7 +10423,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "A566BXXSCCZG7/A566BOXMCCZG7/A566BXXSCCZG7",
+        "latest_official": "A566BXXSDCZHB/A566BOXMDCZHB/A566BXXSDCZHB",
         "test_firmwares": [
           {
             "firmware": "A566BXXU6BYGI/A566BOXM6BYGI/A566BXXU6BYGI",
@@ -10684,6 +10699,11 @@
             "firmware": "A566BXXSDCZHD/A566BOXMDCZHD/A566BXXSDCZHD",
             "md5": "71d515eb3d133f693a4c3ce414e214fc",
             "found_at": "2026-08-27T10:00:48.615521863+00:00"
+          },
+          {
+            "firmware": "A566BXXSECZI1/A566BOXMECZI1/A566BXXSECZI1",
+            "md5": "b4ebab48cc50f23cf3208257558eb7e0",
+            "found_at": "2026-09-01T11:20:49.758018029+00:00"
           }
         ]
       }
@@ -20134,6 +20154,11 @@
             "firmware": "F936USQSAIZH5/F936UOYNAIZH5/F936USQSAIZH5",
             "md5": "8d8cda8150e0cd089a7c8c301f6d0150",
             "found_at": "2026-08-31T05:13:09.650862319+00:00"
+          },
+          {
+            "firmware": "F936USQSAIZH6/F936UOYNAIZH6/F936USQSAIZH6",
+            "md5": "d1d20c16d4fbade974c759444187ce66",
+            "found_at": "2026-09-01T10:20:51.371354738+00:00"
           }
         ]
       }

@@ -10704,6 +10704,11 @@
             "firmware": "A566BXXSECZI1/A566BOXMECZI1/A566BXXSECZI1",
             "md5": "b4ebab48cc50f23cf3208257558eb7e0",
             "found_at": "2026-09-01T11:20:49.758018029+00:00"
+          },
+          {
+            "firmware": "A566BXXSECZI2/A566BOXMECZI2/A566BXXSECZI2",
+            "md5": "f4838a43b0c0ae6cdbb9cfc9dc576355",
+            "found_at": "2026-09-02T14:53:01.955261747+00:00"
           }
         ]
       }

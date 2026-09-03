@@ -21288,7 +21288,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F946USQS8GZG3/F946UOYN8GZG3/F946USQS8GZG3",
+        "latest_official": "F946USQS8GZH5/F946UOYN8GZH5/F946USQS8GZH5",
         "test_firmwares": [
           {
             "firmware": "F946USQS8GZE8/F946UOYN8GZE8/F946USQS8GZE8",
@@ -21314,6 +21314,11 @@
             "firmware": "F946USQS8GZH5/F946UOYN8GZH5/F946USQS8GZH5",
             "md5": "44347efcc72d6d6225ba077225661330",
             "found_at": "2026-08-13T08:33:15.089850558+00:00"
+          },
+          {
+            "firmware": "F946USQS8GZI1/F946UOYN8GZI1/F946USQS8GZI1",
+            "md5": "a6031de16e7a6f3febebac8a9aecd686",
+            "found_at": "2026-09-03T19:42:18.882439498+00:00"
           }
         ]
       }
@@ -34588,7 +34593,7 @@
     "name": "Galaxy S22",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S901U1UESAGZE3/S901U1OYMAGZE3/S901U1UESAGZE3",
+        "latest_official": "S901U1UESAGZH3/S901U1OYMAGZH3/S901U1UESAGZH3",
         "test_firmwares": [
           {
             "firmware": "S901U1UES8FYE1/S901U1OYM8FYE1/S901U1UES8FYE1",
@@ -34884,6 +34889,16 @@
             "firmware": "S901U1UESAGZF3/S901U1OYMAGZF3/S901U1UESAGZF3",
             "md5": "40efa3bf218bb688ed383614ac42c3b6",
             "found_at": "2026-06-17T11:01:22.403961745+00:00"
+          },
+          {
+            "firmware": "S901U1UESAGZH1/S901U1OYMAGZH1/S901U1UESAGZH1",
+            "md5": "b628981435623e1a30ac0e77e0a97766",
+            "found_at": "2026-09-03T19:32:51.520091120+00:00"
+          },
+          {
+            "firmware": "S901U1UESAGZH3/S901U1OYMAGZH3/S901U1UESAGZH3",
+            "md5": "5c5924f8a998ce7f918dd045c932f710",
+            "found_at": "2026-09-03T19:32:51.546456183+00:00"
           }
         ]
       }
@@ -35843,7 +35858,7 @@
     "name": "Galaxy S22+",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S906U1UESAGZE3/S906U1OYMAGZE3/S906U1UESAGZE3",
+        "latest_official": "S906U1UESAGZH3/S906U1OYMAGZH3/S906U1UESAGZH3",
         "test_firmwares": [
           {
             "firmware": "S906U1UES8FYE1/S906U1OYM8FYE1/S906U1UES8FYE1",
@@ -36139,6 +36154,16 @@
             "firmware": "S906U1UESAGZF3/S906U1OYMAGZF3/S906U1UESAGZF3",
             "md5": "d4bb9f2cac32c477f74da99a577c24e1",
             "found_at": "2026-06-17T11:02:00.883863578+00:00"
+          },
+          {
+            "firmware": "S906U1UESAGZH1/S906U1OYMAGZH1/S906U1UESAGZH1",
+            "md5": "7ee5a41329bf07be735942c9bea20eb2",
+            "found_at": "2026-09-03T19:40:31.463888757+00:00"
+          },
+          {
+            "firmware": "S906U1UESAGZH3/S906U1OYMAGZH3/S906U1UESAGZH3",
+            "md5": "1610ee5388bfbb45ed943bf74fe78a73",
+            "found_at": "2026-09-03T19:40:31.479504181+00:00"
           }
         ]
       }
@@ -37063,7 +37088,7 @@
     "name": "Galaxy S22 Ultra",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S908U1UESAGZE3/S908U1OYMAGZE3/S908U1UESAGZE3",
+        "latest_official": "S908U1UESAGZH3/S908U1OYMAGZH3/S908U1UESAGZH3",
         "test_firmwares": [
           {
             "firmware": "S908U1UES8FYE1/S908U1OYM8FYE1/S908U1UES8FYE1",
@@ -37359,6 +37384,16 @@
             "firmware": "S908U1UESAGZF3/S908U1OYMAGZF3/S908U1UESAGZF3",
             "md5": "1b1d9ec9ac5dd0ab66aa0cbd40a290b4",
             "found_at": "2026-06-17T11:01:41.447148702+00:00"
+          },
+          {
+            "firmware": "S908U1UESAGZH1/S908U1OYMAGZH1/S908U1UESAGZH1",
+            "md5": "4c55da41febe34c4c83fbefec2299f28",
+            "found_at": "2026-09-03T19:36:41.897291345+00:00"
+          },
+          {
+            "firmware": "S908U1UESAGZH3/S908U1OYMAGZH3/S908U1UESAGZH3",
+            "md5": "14f796576693ae8ee6d4df14960368e3",
+            "found_at": "2026-09-03T19:36:41.935807221+00:00"
           }
         ]
       }

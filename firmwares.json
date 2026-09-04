@@ -4514,6 +4514,11 @@
             "firmware": "A236BXXSHEZH3/A236BOXMHEZH3/A236BXXSHEZH3",
             "md5": "644a1912e9d437c531e743c3e8445565",
             "found_at": "2026-09-03T09:13:56.381784055+00:00"
+          },
+          {
+            "firmware": "A236BXXSHEZI1/A236BOXMHEZI1/A236BXXSHEZI1",
+            "md5": "a1ec7323d3212a2ba323f50f43bda3ee",
+            "found_at": "2026-09-04T09:05:15.610744113+00:00"
           }
         ]
       }
@@ -13808,7 +13813,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F731NKSS6GZG4/F731NOKR6GZG4/F731NKSU6GZDQ",
+        "latest_official": "F731NKSS6GZH5/F731NOKR6GZH5/F731NKSU6GZDQ",
         "test_firmwares": [
           {
             "firmware": "F731NKSS5FYIA/F731NOKR5FYIA/F731NKSU5FYI2",
@@ -14109,6 +14114,11 @@
             "firmware": "F731NKSS6GZH5/F731NOKR6GZH5/F731NKSU6GZDQ",
             "md5": "8b2f4d50a3bbce1719b8567dd5de2a85",
             "found_at": "2026-08-13T13:05:38.454650277+00:00"
+          },
+          {
+            "firmware": "F731NKSS6GZI1/F731NOKR6GZI1/F731NKSS6GZI1",
+            "md5": "0a1df38fb6b13c278acc9f77932df0fb",
+            "found_at": "2026-09-04T09:26:08.923654577+00:00"
           }
         ]
       }
@@ -19988,7 +19998,7 @@
     "name": "Galaxy Z Fold4",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "F936USQSAIZG1/F936UOYNAIZG1/F936USQSAIZG1",
+        "latest_official": "F936USQSAIZH2/F936UOYNAIZH2/F936USQSAIZH2",
         "test_firmwares": [
           {
             "firmware": "F936USQS8IYK1/F936UOYN8IYK1/F936USQS8IYK1",
@@ -20279,6 +20289,11 @@
             "firmware": "F936USQSAIZH6/F936UOYNAIZH6/F936USQSAIZH6",
             "md5": "d1d20c16d4fbade974c759444187ce66",
             "found_at": "2026-09-01T10:20:51.371354738+00:00"
+          },
+          {
+            "firmware": "F936USQSAIZI1/F936UOYNAIZI1/F936USQSAIZI1",
+            "md5": "35270d45d10b7cdf1d9fd34b0d5571a3",
+            "found_at": "2026-09-04T09:43:58.595758641+00:00"
           }
         ]
       }

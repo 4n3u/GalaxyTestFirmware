@@ -10278,7 +10278,7 @@
     "name": "Galaxy A56 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5660ZCSCCZG7/A5660CHCCCZG7/A5660ZCSCCZG7",
+        "latest_official": "A5660ZCSDCZHB/A5660CHCDCZHB/A5660ZCSDCZHB",
         "test_firmwares": [
           {
             "firmware": "A5660ZCS6BYJ4/A5660CHC6BYJ4/A5660ZCS6BYJ4",
@@ -10454,6 +10454,11 @@
             "firmware": "A5660ZCSDCZHB/A5660CHCDCZHB/A5660ZCSDCZHB",
             "md5": "ac91da9b5fd9095c55a0de92a05ee599",
             "found_at": "2026-08-21T10:33:15.242866198+00:00"
+          },
+          {
+            "firmware": "A5660ZCSECZI2/A5660CHCECZI2/A5660ZCSECZI2",
+            "md5": "207c57f6f8be6516766d36ec68e2d44a",
+            "found_at": "2026-09-04T15:23:55.291054576+00:00"
           }
         ]
       }
@@ -14163,7 +14168,7 @@
     "name": "Galaxy Z Flip5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F731U1UES8GZG3/F731U1OYM8GZG3/F731U1UES8GZG3",
+        "latest_official": "F731U1UES8GZH5/F731U1OYM8GZH5/F731U1UES8GZH5",
         "test_firmwares": [
           {
             "firmware": "F731U1UES6FYJ1/F731U1OYM6FYJ1/F731U1UES6FYJ1",
@@ -14459,6 +14464,11 @@
             "firmware": "F731U1UES8GZH5/F731U1OYM8GZH5/F731U1UES8GZH5",
             "md5": "a4392f1faa429d09c8cf58db82548bde",
             "found_at": "2026-08-13T18:00:58.694415641+00:00"
+          },
+          {
+            "firmware": "F731U1UES8GZI1/F731U1OYM8GZI1/F731U1UES8GZI1",
+            "md5": "6441b784479b2ace320aff824a259b5d",
+            "found_at": "2026-09-04T15:29:01.553660071+00:00"
           }
         ]
       }
@@ -21343,7 +21353,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "F946U1UES8GZG3/F946U1OYM8GZG3/F946U1UES8GZG3",
+        "latest_official": "F946U1UES8GZH5/F946U1OYM8GZH5/F946U1UES8GZH5",
         "test_firmwares": [
           {
             "firmware": "F946U1UES6FYJ1/F946U1OYM6FYJ1/F946U1UES6FYJ1",
@@ -21634,6 +21644,11 @@
             "firmware": "F946U1UES8GZH5/F946U1OYM8GZH5/F946U1UES8GZH5",
             "md5": "5c224352a2bdf7b4be567dc985f49da3",
             "found_at": "2026-08-13T18:10:09.723697128+00:00"
+          },
+          {
+            "firmware": "F946U1UES8GZI1/F946U1OYM8GZI1/F946U1UES8GZI1",
+            "md5": "a7c9005400a5c9e9ce1beb5a3a4f7b7f",
+            "found_at": "2026-09-04T15:33:57.314129638+00:00"
           }
         ]
       }

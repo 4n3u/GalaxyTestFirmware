@@ -4629,6 +4629,11 @@
             "firmware": "A236U1UESGEZH3/A236U1OYMGEZH3/A236U1UESGEZH3",
             "md5": "af4ada30b211f80e25eb6f9973fad943",
             "found_at": "2026-09-08T15:15:47.657794505+00:00"
+          },
+          {
+            "firmware": "A236U1UESHEZI3/A236U1OYMHEZI3/A236U1UESHEZI3",
+            "md5": "7482dbd801fb675b2b3652e688ced892",
+            "found_at": "2026-09-11T09:26:32.732276167+00:00"
           }
         ]
       }

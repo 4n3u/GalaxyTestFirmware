@@ -6094,6 +6094,11 @@
             "firmware": "A336BXXUKGZI2/A336BOXMKGZI2/A336BXXUKGZI2",
             "md5": "0bba772dd5b2a491f691878340f99513",
             "found_at": "2026-09-14T09:38:37.016482168+00:00"
+          },
+          {
+            "firmware": "A336BXXUKGZI3/A336BOXMKGZI3/A336BXXUKGZI3",
+            "md5": "8d45059d4cb35d191decdaac172f842d",
+            "found_at": "2026-09-14T16:48:44.022487384+00:00"
           }
         ]
       }
@@ -8934,6 +8939,11 @@
             "firmware": "A536BXXUOGZI1/A536BOXMOGZI1/A536BXXUOGZI1",
             "md5": "705332ccaa0003b10e572bc90233ce59",
             "found_at": "2026-09-08T16:15:44.205820090+00:00"
+          },
+          {
+            "firmware": "A536BXXUOGZI3/A536BOXMOGZI3/A536BXXUOGZI3",
+            "md5": "d4e290d2079439ed04456bcab91ada09",
+            "found_at": "2026-09-14T17:00:41.994154038+00:00"
           }
         ]
       }

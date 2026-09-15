@@ -9148,7 +9148,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "A536U1UESNGZG3/A536U1OYMNGZG3/A536U1UESNGZG3",
+        "latest_official": "A536U1UESOGZH2/A536U1OYMOGZH2/A536U1UESOGZH2",
         "test_firmwares": [
           {
             "firmware": "A536U1UESHFYI1/A536U1OYMHFYI1/A536U1UESHFYI1",
@@ -9304,6 +9304,11 @@
             "firmware": "A536U1UESOGZH2/A536U1OYMOGZH2/A536U1UESOGZH2",
             "md5": "c14162084e26832bf4130c8c8cb3c990",
             "found_at": "2026-08-20T17:01:21.680053232+00:00"
+          },
+          {
+            "firmware": "A536U1UEUOGZI3/A536U1OYMOGZI3/A536U1UEUOGZI3",
+            "md5": "c5cfc72a496b8b9ed173039635c4ee30",
+            "found_at": "2026-09-15T18:32:26.967094884+00:00"
           }
         ]
       }
@@ -62948,7 +62953,7 @@
     "name": "Galaxy Tab Active5 5G",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "X308UUESDDZG3/X308UOYMDDZG3/X308UUESDDZG3",
+        "latest_official": "X308UUESEDZH2/X308UOYMEDZH2/X308UUESEDZH2",
         "test_firmwares": [
           {
             "firmware": "X308UUES7BYI1/X308UOYM7BYI1/X308UUES7BYI1",
@@ -63159,6 +63164,11 @@
             "firmware": "X308UUESEDZH2/X308UOYMEDZH2/X308UUESEDZH2",
             "md5": "2abe34f340b6de932317316f77600cc8",
             "found_at": "2026-08-20T17:45:56.000385329+00:00"
+          },
+          {
+            "firmware": "X308UUESFDZI1/X308UOYMFDZI1/X308UUESFDZI1",
+            "md5": "31d0e192761c16572d166f0b1e3a9e10",
+            "found_at": "2026-09-15T18:57:07.477624737+00:00"
           }
         ]
       }

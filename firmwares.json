@@ -8608,7 +8608,7 @@
     "name": "Galaxy A53 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "A5360ZCSLGZD1/A5360CHCLGZD1/A5360ZCSLGZD1",
+        "latest_official": "A5360ZCSOGZH2/A5360CHCOGZH2/A5360ZCSOGZH2",
         "test_firmwares": [
           {
             "firmware": "A5360ZCSHFYH1/A5360CHCHFYH1/A5360ZCSHFYH1",
@@ -8714,6 +8714,21 @@
             "firmware": "A5360ZCSMGZE1/A5360CHCMGZE1/A5360ZCSMGZE1",
             "md5": "e6f172623876aeae3209e8f722457b23",
             "found_at": "2026-05-18T08:09:31.498891341+00:00"
+          },
+          {
+            "firmware": "A5360ZCSOGZH2/A5360CHCOGZH2/A5360ZCSOGZH2",
+            "md5": "6cac57f3fb6e185bebac2fb8ee086e96",
+            "found_at": "2026-09-15T08:17:39.812994941+00:00"
+          },
+          {
+            "firmware": "A5360ZCUOGZI1/A5360CHCOGZI1/A5360ZCUOGZI1",
+            "md5": "e4be2c4c802d49ab90f2e2acda109da1",
+            "found_at": "2026-09-15T08:17:51.701554251+00:00"
+          },
+          {
+            "firmware": "A5360ZCUOGZI3/A5360CHCOGZI3/A5360ZCUOGZI3",
+            "md5": "e4a8889da2ae97c8aab20af367a8c471",
+            "found_at": "2026-09-15T08:17:51.719926696+00:00"
           }
         ]
       }
@@ -31089,6 +31104,11 @@
             "firmware": "S711USQS8FZI1/S711UOYN8FZI1/S711USQS8FZI1",
             "md5": "3dc3c3e9b2920fda3a0fb16181e0924b",
             "found_at": "2026-09-11T14:47:30.590010513+00:00"
+          },
+          {
+            "firmware": "S711USQS8FZI3/S711UOYN8FZI3/S711USQS8FZI3",
+            "md5": "3e1756d05cd474c5b284f41cde3c6a5f",
+            "found_at": "2026-09-15T07:53:10.189306478+00:00"
           }
         ]
       }
@@ -66208,7 +66228,7 @@
     "name": "Galaxy Tab S10 FE+ 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X626CZCS8CZF2/X626CCHC8CZF2/X626CZCS8CZF2",
+        "latest_official": "X626CZCSACZH6/X626CCHCACZH6/X626CZCSACZH6",
         "test_firmwares": [
           {
             "firmware": "X626CZCU4BYG3/X626CCHC4BYG3/X626CZCU4BYG3",
@@ -66374,6 +66394,11 @@
             "firmware": "X626CZCS9CZG3/X626CCHC9CZG3/X626CZCS9CZG3",
             "md5": "6b801fe3bf8a8f822fbc58b7f52e9278",
             "found_at": "2026-07-21T06:37:32.334013221+00:00"
+          },
+          {
+            "firmware": "X626CZCSACZH6/X626CCHCACZH6/X626CZCSACZH6",
+            "md5": "97d7e96ae0db282702b25ea4f47c5396",
+            "found_at": "2026-09-15T07:32:07.459431698+00:00"
           }
         ]
       }
@@ -69593,7 +69618,7 @@
     "name": "Galaxy Tab S8 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X906CZCSBEZE1/X906CCHCBEZE1/X906CZCSBEZE1",
+        "latest_official": "X906CZCSBEZH3/X906CCHCBEZH3/X906CZCSBEZH3",
         "test_firmwares": [
           {
             "firmware": "X906CZCS9DYF4/X906CCHC9DYF4/X906CZCS9DYF4",
@@ -69809,6 +69834,11 @@
             "firmware": "X906CZCSBEZE1/X906CCHCBEZE1/X906CZCSBEZE1",
             "md5": "0c1b904893961b2480945987a0ccab45",
             "found_at": "2026-06-08T04:02:53.177611064+00:00"
+          },
+          {
+            "firmware": "X906CZCSBEZH3/X906CCHCBEZH3/X906CZCSBEZH3",
+            "md5": "8f1485a12d6fa9a79e00ccfa3b8532cb",
+            "found_at": "2026-09-15T07:43:06.129567561+00:00"
           }
         ]
       }
@@ -70908,7 +70938,7 @@
     "name": "Galaxy Tab S11 Ultra 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "X936CZCS6BZF4/X936CCHC6BZF4/X936CZCS6BZF4",
+        "latest_official": "X936CZCS8BZH4/X936CCHC8BZH4/X936CZCS8BZH4",
         "test_firmwares": [
           {
             "firmware": "X936CZCU2AYI2/X936CCHC2AYI2/X936CZCU2AYI2",
@@ -71029,6 +71059,11 @@
             "firmware": "X936CZCS7BZG3/X936CCHC7BZG3/X936CZCS7BZG3",
             "md5": "0777c033307b4cf9534edf8f4efd7a2f",
             "found_at": "2026-07-20T10:55:34.216150276+00:00"
+          },
+          {
+            "firmware": "X936CZCS8BZH4/X936CCHC8BZH4/X936CZCS8BZH4",
+            "md5": "38d733752b4bd84e740b4ee873c2a42d",
+            "found_at": "2026-09-15T07:39:55.755554730+00:00"
           }
         ]
       }

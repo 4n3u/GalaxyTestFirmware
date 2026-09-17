@@ -3169,6 +3169,11 @@
             "firmware": "A166USQSADZI1/A166UOYNADZI1/A166USQSADZI1",
             "md5": "6e617bb17514068b97e5ee905ecef340",
             "found_at": "2026-09-17T08:02:21.503619146+00:00"
+          },
+          {
+            "firmware": "A166USQSADZI2/A166UOYNADZI2/A166USQSADZI2",
+            "md5": "f1df47d5e9733f9b570261d8e0c0ae89",
+            "found_at": "2026-09-17T18:26:01.021116517+00:00"
           }
         ]
       }
@@ -3379,6 +3384,11 @@
             "firmware": "A166U1UESADZI1/A166U1OYMADZI1/A166U1UESADZI1",
             "md5": "7f92f3cb56fa0b1be2623c05451d3d38",
             "found_at": "2026-09-17T08:03:09.264912247+00:00"
+          },
+          {
+            "firmware": "A166U1UESADZI2/A166U1OYMADZI2/A166U1UESADZI2",
+            "md5": "d546779c125c77c1d55112541ab2856e",
+            "found_at": "2026-09-17T18:26:50.665532355+00:00"
           }
         ]
       }

@@ -8344,6 +8344,21 @@
       }
     }
   },
+  "SM-A376N": {
+    "name": "Galaxy A37 5G",
+    "regional_firmwares": {
+      "KOO": {
+        "latest_official": "A376NKSS3AZH1/A376NOKR3AZH1/A376NKSS3AZH1",
+        "test_firmwares": [
+          {
+            "firmware": "A376NKSS3AZH1/A376NOKR3AZH1/A376NKSS3AZH1",
+            "md5": "0d8bc7f8bed85c87a60ad28cb085c52a",
+            "found_at": "2026-09-18T16:06:58.557743748+00:00"
+          }
+        ]
+      }
+    }
+  },
   "SM-A376U": {
     "name": "Galaxy A37 5G",
     "regional_firmwares": {
@@ -35859,6 +35874,11 @@
             "firmware": "S906BXXSOGZI1/S906BOXMOGZI1/S906BXXSOGZI1",
             "md5": "9ddb3abb9583d169a6b6ea462fa8a1b1",
             "found_at": "2026-09-03T09:14:47.471936720+00:00"
+          },
+          {
+            "firmware": "S906BXXSOGZI3/S906BOXMOGZI3/S906BXXSOGZI3",
+            "md5": "692ad812f68d484ccc07ccb6a0ab3006",
+            "found_at": "2026-09-18T15:25:51.630950277+00:00"
           }
         ]
       }

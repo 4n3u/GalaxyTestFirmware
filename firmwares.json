@@ -21393,7 +21393,7 @@
     "name": "Galaxy Z Fold5",
     "regional_firmwares": {
       "KOO": {
-        "latest_official": "F946NKSS6GZG3/F946NOKR6GZG3/F946NKSU6GZDN",
+        "latest_official": "F946NKSS6GZI2/F946NOKR6GZI2/F946NKSS6GZI1",
         "test_firmwares": [
           {
             "firmware": "F946NKSS5FYIA/F946NOKR5FYIA/F946NKSU5FYI2",
@@ -21679,6 +21679,16 @@
             "firmware": "F946NKSS6GZH5/F946NOKR6GZH5/F946NKSU6GZDN",
             "md5": "fa0da09986bed8bb4309728f8ce3faaf",
             "found_at": "2026-08-13T13:17:02.095427139+00:00"
+          },
+          {
+            "firmware": "F946NKSS6GZI1/F946NOKR6GZI1/F946NKSS6GZI1",
+            "md5": "02aeed6da2fdbdf725ab74bd482c5a33",
+            "found_at": "2026-09-21T05:21:30.560512206+00:00"
+          },
+          {
+            "firmware": "F946NKSS6GZI2/F946NOKR6GZI2/F946NKSS6GZI1",
+            "md5": "2ede8e67628990804d5d33e444121600",
+            "found_at": "2026-09-21T05:21:30.584704995+00:00"
           }
         ]
       }

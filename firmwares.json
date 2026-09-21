@@ -31704,6 +31704,11 @@
             "firmware": "S711U1UES8FZI3/S711U1OYM8FZI3/S711U1UES8FZI3",
             "md5": "c16c6067e22d3c03e36ba02ee76894e4",
             "found_at": "2026-09-15T13:16:05.938862359+00:00"
+          },
+          {
+            "firmware": "S711U1UES8FZI5/S711U1OYM8FZI5/S711U1UES8FZI5",
+            "md5": "758aa684b007b87db7270fe386b85b39",
+            "found_at": "2026-09-21T22:19:08.781293587+00:00"
           }
         ]
       }

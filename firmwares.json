@@ -26568,7 +26568,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G736USQSEGZG2/G736UOYNEGZG2/G736USQSEGZG2",
+        "latest_official": "G736USQSEGZH1/G736UOYNEGZH1/G736USQSEGZH1",
         "test_firmwares": [
           {
             "firmware": "G736USQSEGZE1/G736UOYNEGZE1/G736USQSEGZE1",
@@ -26604,6 +26604,11 @@
             "firmware": "G736USQSEGZH1/G736UOYNEGZH1/G736USQSEGZH1",
             "md5": "029b0c8fc0cc6aa3b545d8ae6195e530",
             "found_at": "2026-08-19T12:22:54.178580954+00:00"
+          },
+          {
+            "firmware": "G736USQSEGZI1/G736UOYNEGZI1/G736USQSEGZI1",
+            "md5": "9004f45c3572ca1da811d6349bcdc791",
+            "found_at": "2026-09-22T15:21:12.190555640+00:00"
           }
         ]
       }
@@ -28333,7 +28338,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G990USQSNIZE3/G990UOYNNIZE3/G990USQSNIZE3",
+        "latest_official": "G990USQSOIZH2/G990UOYNOIZH2/G990USQSOIZH2",
         "test_firmwares": [
           {
             "firmware": "G990USQSNIZE1/G990UOYNNIZE1/G990USQSNIZE1",
@@ -28354,6 +28359,16 @@
             "firmware": "G990USQSNIZF2/G990UOYNNIZF2/G990USQSNIZF2",
             "md5": "0c519cd8fad350d127f984d69f9a60f2",
             "found_at": "2026-06-19T15:21:14.279284980+00:00"
+          },
+          {
+            "firmware": "G990USQSOIZH1/G990UOYNOIZH1/G990USQSOIZH1",
+            "md5": "5f04cf354ecb205583c15870c8a9c8d0",
+            "found_at": "2026-09-22T14:06:51.394925242+00:00"
+          },
+          {
+            "firmware": "G990USQSOIZH2/G990UOYNOIZH2/G990USQSOIZH2",
+            "md5": "a166da4dbc471f6e24c61adcda080c3a",
+            "found_at": "2026-09-22T14:06:51.428325307+00:00"
           }
         ]
       }
@@ -28448,7 +28463,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "G990U2SQSLIZE3/G990U2OYNLIZE3/G990U2SQSLIZE3",
+        "latest_official": "G990U2SQSMIZH2/G990U2OYNMIZH2/G990U2SQSMIZH2",
         "test_firmwares": [
           {
             "firmware": "G990U2SQSLIZE1/G990U2OYNLIZE1/G990U2SQSLIZE1",
@@ -28469,6 +28484,16 @@
             "firmware": "G990U2SQSLIZF2/G990U2OYNLIZF2/G990U2SQSLIZF2",
             "md5": "61ac731ad1adcfb0886d76dbae775e7a",
             "found_at": "2026-06-19T15:21:20.367336758+00:00"
+          },
+          {
+            "firmware": "G990U2SQSMIZH1/G990U2OYNMIZH1/G990U2SQSMIZH1",
+            "md5": "76331e0098899303586dcecabae4f981",
+            "found_at": "2026-09-22T14:09:42.811129670+00:00"
+          },
+          {
+            "firmware": "G990U2SQSMIZH2/G990U2OYNMIZH2/G990U2SQSMIZH2",
+            "md5": "e86d2923a109bb0c3a46a416cb82feb3",
+            "found_at": "2026-09-22T14:09:42.818742915+00:00"
           }
         ]
       }
@@ -32428,7 +32453,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "S721USQSDDZG1/S721UOYNDDZG1/S721USQSDDZG1",
+        "latest_official": "S721USQSEDZH9/S721UOYNEDZH9/S721USQSEDZH9",
         "test_firmwares": [
           {
             "firmware": "S721USQS7CYJ2/S721UOYN7CYJ2/S721USQS7CYJ2",
@@ -32754,6 +32779,11 @@
             "firmware": "S721USQSEDZH9/S721UOYNEDZH9/S721USQSEDZH9",
             "md5": "a23bc405759b19a8641874f1de022991",
             "found_at": "2026-08-17T11:44:29.635353828+00:00"
+          },
+          {
+            "firmware": "S721USQSEDZI1/S721UOYNEDZI1/S721USQSEDZI1",
+            "md5": "9c5588e956ffb044527736e512ae294e",
+            "found_at": "2026-09-22T15:37:09.882280468+00:00"
           }
         ]
       }
@@ -32763,7 +32793,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "XAA": {
-        "latest_official": "S721U1UESDDZG1/S721U1OYMDDZG1/S721U1UESDDZG1",
+        "latest_official": "S721U1UESEDZH9/S721U1OYMEDZH9/S721U1UESEDZH9",
         "test_firmwares": [
           {
             "firmware": "S721U1UES7CYJ2/S721U1OYM7CYJ2/S721U1UES7CYJ2",
@@ -32979,6 +33009,11 @@
             "firmware": "S721U1UESEDZH9/S721U1OYMEDZH9/S721U1UESEDZH9",
             "md5": "7b100b3a5dbb1146af688c9883e73437",
             "found_at": "2026-08-17T17:57:51.181807356+00:00"
+          },
+          {
+            "firmware": "S721U1UESEDZI1/S721U1OYMEDZI1/S721U1UESEDZI1",
+            "md5": "1b7677e02664811b75e4c4357f966055",
+            "found_at": "2026-09-22T15:39:38.788282908+00:00"
           }
         ]
       }

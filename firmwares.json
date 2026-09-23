@@ -61444,6 +61444,11 @@
             "firmware": "X115XXUBDZH5/X115OXMBDZH5/X115XXUBDZH5",
             "md5": "1d9b9883a27edc4759dec7926daf780f",
             "found_at": "2026-09-07T15:57:38.200425850+00:00"
+          },
+          {
+            "firmware": "X115XXUBDZI1/X115OXMBDZI1/X115XXUBDZI1",
+            "md5": "47852da5bee6ee4b72041005576f7975",
+            "found_at": "2026-09-23T15:00:10.939072892+00:00"
           }
         ]
       }
@@ -71244,6 +71249,11 @@
             "firmware": "X926CZCSADZH1/X926CCHCADZH1/X926CZCSADZH1",
             "md5": "882fe9fa8d767e720961ed589bddd198",
             "found_at": "2026-09-14T10:29:14.807753318+00:00"
+          },
+          {
+            "firmware": "X926CZCSBDZI2/X926CCHCBDZI2/X926CZCSBDZI2",
+            "md5": "a36b4e8dbd70d1df2a5b25a79b6d8fa5",
+            "found_at": "2026-09-23T15:24:06.562560976+00:00"
           }
         ]
       }

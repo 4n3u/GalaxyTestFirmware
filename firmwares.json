@@ -26358,7 +26358,7 @@
     "name": "Galaxy XCover6 Pro",
     "regional_firmwares": {
       "EUX": {
-        "latest_official": "G736BXXSCGZG2/G736BOXMCGZG2/G736BXXSCGZG2",
+        "latest_official": "G736BXXSCGZH1/G736BOXMCGZH1/G736BXXSCGZH1",
         "test_firmwares": [
           {
             "firmware": "G736BXXSAFYF1/G736BOXMAFYF1/G736BXXSAFYF1",
@@ -26559,6 +26559,11 @@
             "firmware": "G736BXXSCGZH1/G736BOXMCGZH1/G736BXXSCGZH1",
             "md5": "5f4624b46f58da01121847ca0802d0f4",
             "found_at": "2026-08-19T05:41:50.627636416+00:00"
+          },
+          {
+            "firmware": "G736BXXSCGZI1/G736BOXMCGZI1/G736BXXSCGZI1",
+            "md5": "15c054a1fe807945652090909077d6b1",
+            "found_at": "2026-09-23T09:57:47.661010969+00:00"
           }
         ]
       }
@@ -31768,7 +31773,7 @@
     "name": "Galaxy S24 FE",
     "regional_firmwares": {
       "TGY": {
-        "latest_official": "S7210ZHSDDZG1/S7210OZSDDZG1/S7210ZHSDDZG1",
+        "latest_official": "S7210ZHSEDZH9/S7210OZSEDZH9/S7210ZHSEDZH9",
         "test_firmwares": [
           {
             "firmware": "S7210ZHS8CYJ2/S7210OZS8CYJ2/S7210ZHS8CYJ2",
@@ -31909,6 +31914,11 @@
             "firmware": "S7210ZHSEDZH9/S7210OZSEDZH9/S7210ZHSEDZH9",
             "md5": "ed45b9b38cce4180d80b67008f7f1540",
             "found_at": "2026-08-18T05:33:42.234258474+00:00"
+          },
+          {
+            "firmware": "S7210ZHSEDZI1/S7210OZSEDZI1/S7210ZHSEDZI1",
+            "md5": "cc1fd90bdd72ed74b78722b2b57b1a34",
+            "found_at": "2026-09-23T09:23:52.114576574+00:00"
           }
         ]
       }
@@ -62748,7 +62758,7 @@
     "name": "Galaxy Tab A11+ 5G",
     "regional_firmwares": {
       "ATT": {
-        "latest_official": "X238USQS7BZG2/X238UOYN7BZG2/X238USQS7BZG2",
+        "latest_official": "X238USQS8BZI3/X238UOYN8BZI3/X238USQS8BZI3",
         "test_firmwares": [
           {
             "firmware": "X238USQU3AZA5/X238UOYN3AZA5/X238USQU3AZA5",
@@ -62909,6 +62919,11 @@
             "firmware": "X238USQS8BZH2/X238UOYN8BZH2/X238USQS8BZH2",
             "md5": "8bfcec6c3636d900a39c24ee95670dbe",
             "found_at": "2026-08-20T13:52:02.779598737+00:00"
+          },
+          {
+            "firmware": "X238USQS8BZI3/X238UOYN8BZI3/X238USQS8BZI3",
+            "md5": "ec340be818ca058c967b393111cf619f",
+            "found_at": "2026-09-23T07:37:43.167704158+00:00"
           }
         ]
       }

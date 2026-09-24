@@ -884,6 +884,11 @@
             "firmware": "A146PZHUHEZH5/A146POZSHEZH5/A146PZHUHEZH5",
             "md5": "ad8ec4f6eb83d1cb6b4653c9e2cfed7e",
             "found_at": "2026-09-22T08:06:04.366151301+00:00"
+          },
+          {
+            "firmware": "A146PZHUHEZI1/A146POZSHEZI1/A146PZHUHEZI1",
+            "md5": "6c2d679574fea44305b48f13e9bc07d5",
+            "found_at": "2026-09-24T03:43:06.785431062+00:00"
           }
         ]
       }

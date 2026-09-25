@@ -28549,6 +28549,11 @@
             "firmware": "G990U2SQSNIZI1/G990U2OYNNIZI1/G990U2SQSNIZI1",
             "md5": "56f228ccfcb865c27c2b4f4215f0e0fe",
             "found_at": "2026-09-22T21:35:35.658832187+00:00"
+          },
+          {
+            "firmware": "G990U2SQSNIZI2/G990U2OYNNIZI2/G990U2SQSNIZI2",
+            "md5": "1797006b01b88af1bc4f6ebda1213d59",
+            "found_at": "2026-09-25T10:23:04.703333750+00:00"
           }
         ]
       }

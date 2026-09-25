@@ -939,6 +939,11 @@
             "firmware": "A146USQUKEZH5/A146UOYNKEZH5/A146USQUKEZH5",
             "md5": "49c8494db7430ad9b0bcd00eef48d9bc",
             "found_at": "2026-08-31T11:07:10.695716885+00:00"
+          },
+          {
+            "firmware": "A146USQUKEZI1/A146UOYNKEZI1/A146USQUKEZI1",
+            "md5": "4b65efc096224f1e5ab98371406852d8",
+            "found_at": "2026-09-25T15:32:41.202072690+00:00"
           }
         ]
       }
@@ -26649,6 +26654,11 @@
             "firmware": "G736USQSEGZI1/G736UOYNEGZI1/G736USQSEGZI1",
             "md5": "9004f45c3572ca1da811d6349bcdc791",
             "found_at": "2026-09-22T15:21:12.190555640+00:00"
+          },
+          {
+            "firmware": "G736USQSEGZI3/G736UOYNEGZI3/G736USQSEGZI3",
+            "md5": "b50152d38ce5d92a1ce96eaa49f20550",
+            "found_at": "2026-09-25T16:30:40.586471685+00:00"
           }
         ]
       }
@@ -26864,6 +26874,11 @@
             "firmware": "G736U1UESCGZI1/G736U1OYMCGZI1/G736U1UESCGZI1",
             "md5": "f31eef04bf6519dfc3be33786b6c39f1",
             "found_at": "2026-09-24T11:05:48.689183259+00:00"
+          },
+          {
+            "firmware": "G736U1UESCGZI3/G736U1OYMCGZI3/G736U1UESCGZI3",
+            "md5": "79901a0f83fda066295383f4c70a0d0f",
+            "found_at": "2026-09-25T16:32:09.322665527+00:00"
           }
         ]
       }

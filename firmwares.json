@@ -744,6 +744,11 @@
             "firmware": "A145RXXSFDZI1/A145ROXMFDZI1/A145RXXSFDZH1",
             "md5": "1fa85f5fd825cd30903067425fdb7a93",
             "found_at": "2026-09-15T13:35:51.575323963+00:00"
+          },
+          {
+            "firmware": "A145RXXSFDZI2/A145ROXMFDZI2/A145RXXSFDZI2",
+            "md5": "8fdaa7c2c466e68dfb124339aca27ee5",
+            "found_at": "2026-09-28T11:18:53.302882509+00:00"
           }
         ]
       }

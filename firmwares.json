@@ -27978,7 +27978,7 @@
     "name": "Galaxy S21 FE 5G",
     "regional_firmwares": {
       "CHC": {
-        "latest_official": "G9900ZCSKIZF2/G9900CHCKIZF2/G9900ZCSKIZF2",
+        "latest_official": "G9900ZCSLIZH2/G9900CHCLIZH2/G9900ZCSLIZH2",
         "test_firmwares": [
           {
             "firmware": "G9900ZCSGHYI3/G9900CHCGHYI3/G9900ZCSGHYI3",
@@ -28119,11 +28119,16 @@
             "firmware": "G9900ZCSKIZF2/G9900CHCKIZF2/G9900ZCSKIZF2",
             "md5": "aa76ef52b6179bfdb56e962831ef592a",
             "found_at": "2026-07-02T03:37:14.678350238+00:00"
+          },
+          {
+            "firmware": "G9900ZCSLIZH2/G9900CHCLIZH2/G9900ZCSLIZH2",
+            "md5": "45e0c0788ef92a05c75c475de57e950a",
+            "found_at": "2026-09-29T08:28:20.871122812+00:00"
           }
         ]
       },
       "TGY": {
-        "latest_official": "G9900ZHSKIZE1/G9900OZSKIZE1/G9900ZHSKIZE1",
+        "latest_official": "G9900ZHSLIZH2/G9900OZSLIZH2/G9900ZHSLIZH2",
         "test_firmwares": [
           {
             "firmware": "G9900ZHSGHYI3/G9900OZSGHYI3/G9900ZHSGHYI3",
@@ -28194,6 +28199,11 @@
             "firmware": "G9900ZHSKIZF2/G9900OZSKIZF2/G9900ZHSKIZF2",
             "md5": "5ae5f1bb95838e1c8268c0dc438289ca",
             "found_at": "2026-06-23T11:23:22.515114246+00:00"
+          },
+          {
+            "firmware": "G9900ZHSLIZH2/G9900OZSLIZH2/G9900ZHSLIZH2",
+            "md5": "9e9220e0284786d2c2220063f79a6a3c",
+            "found_at": "2026-09-29T08:28:47.946572807+00:00"
           }
         ]
       }
@@ -60809,6 +60819,11 @@
             "firmware": "W7023ZCUAIZI5/W7023CHCAIZI5/W7023ZCUAIZI5",
             "md5": "97c9e99ea475be44a2361f3f9f0a1b2b",
             "found_at": "2026-09-16T06:00:10.620343859+00:00"
+          },
+          {
+            "firmware": "W7023ZCSAIZI1/W7023CHCAIZI1/W7023ZCSAIZI1",
+            "md5": "e3664a83c14c1239bc17fe564e2d5fda",
+            "found_at": "2026-09-29T10:18:23.167918110+00:00"
           }
         ]
       }
@@ -61094,6 +61109,11 @@
             "firmware": "W9023ZCUAIZI5/W9023CHCAIZI5/W9023ZCUAIZI5",
             "md5": "4285bc3dfcba413e1f39d56a950f6221",
             "found_at": "2026-09-16T05:59:16.658856545+00:00"
+          },
+          {
+            "firmware": "W9023ZCSAIZI1/W9023CHCAIZI1/W9023ZCSAIZI1",
+            "md5": "aafda5f43be3414c0012092c04a437e0",
+            "found_at": "2026-09-29T10:17:31.315151994+00:00"
           }
         ]
       }
